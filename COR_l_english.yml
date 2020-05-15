@@ -1,0 +1,23 @@
+﻿l_english:
+  COR_generic_fascist_demagogue:0 "시몬 페트루 크리스토피니"
+  COR_generic_democratic_reformer:0 "폴 자코비" 
+  
+  #Marco Angeli di Sartèna
+
+  COR_communism:0 "코르시카 인민 공화국" 
+  COR_fascism:0 "코르시카국"
+  COR_democratic:0 "코르시카"
+  COR_neutrality:0 "코르시카" 
+
+ COR_fascism_ADJ:0 "코르시카"
+ COR_democratic_ADJ:0 "코르시카"
+ COR_neutrality_ADJ:0 "코르시카"
+ COR_communism_ADJ:0 "코르시카"
+
+ COR_fascism_party:0 "GAC"
+ COR_fascism_party_long:0 "코르시카 행동단"
+
+ COR_generic_industrial_concern:0 "코르시카 연합 산업 회사" 
+ COR_generic_tank_manufacturer:0 "바스티아 공장"
+ #Probably from Marseilles actually
+ COR_generic_naval_manufacturer:0 "프레시네 항해 회사"

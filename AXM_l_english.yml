@@ -1,0 +1,317 @@
+﻿l_english:
+##Add in focus tree fight between german influenced and more radical Hlinka guard, more and more imitating the SS and the Slovak Popular Party (still fascist)
+
+ idea_state_security_ministry:0 "국가안전부"
+ idea_communist_central_management:0 "경제 계획국"
+ maintenance_company_tech:0 "유지보수 기업" 
+ 
+ OVERLORD_TRIGGER:0 "대군주"
+
+ axis_minors.1.t:0 "독립 축하"
+ axis_minors.1.desc:0 "이 나라에 드디어 자주적인 정부가 세워졌으며, 정부에서 첫 번째 지시를 내릴 때가 되었습니다. 다른 나라들은 정치 체제 구축과 군사 조직을 몇 년에 걸쳐서 해 왔지만, 우리는 며칠 내로 끝내야 하니깐요."
+axis_minors.1.a:0 "아직 다가오는 폭풍을 준비할 시간은 있습니다."
+ axis_minors.1.b:0 "이제 정부를 설립합시다."
+ axis_minors.1.c:0 "이제 정부를 설립합시다."
+ axis_minors.1.d:0 "이제 정부를 설립합시다."
+ axis_minors.1.e:0 "이제 정부를 설립합시다."
+ axis_minors.1.f:0 "이제 정부를 설립합시다."
+ axis_minors.1.g:0 "이제 정부를 설립합시다."
+
+axis_minors_balance_event_tooltip:0 "국가가 존재하지 않았을 때 정치력이 부여되지 않았던 점을 고려하여, 이 이벤트에서는 이벤트가 발생한 년도를 기준으로 추가 정치력을 제공합니다."\n"
+
+ ##Add in focus tree fight between german influenced and more radical Hlinka guard, more and more imitating the SS and the Slovak Popular Party (still fascist)
+ aftermath_of_the_munich_agreement:0 "Aftermaths of the Munich Agreement"
+ aftermath_of_the_munich_agreement_desc:0 "The disintegration of Czechoslovakia lead to multiple events and political opportunities that were almost unthinkable just a few years before." 
+ RUT_puppet_yourself_to_survive:0 "Seek Compromise with Germany"
+ SLO_seek_support_from_german_slovaks:0 "Seek the Support of the Slovak Volkdeutschs"
+ volkdeutsch_support:0 "Has the §YVolkdeutschs§! Support"
+ 
+#Bulgaria 2 and 3 were not working and removed.
+
+axis_minors_bulgaria.1.t:0 "The Bulgarian Government Announce their Support to Communism with Balkanic Characteristics"
+ axis_minors_bulgaria.1.desc:0 "With the success of the proletarian revolutions in both countries, we have established very good relation with the Bulgarian communist government. It turns that they support our choice to seek our own path away from the influence of Moscow and want conclude an alliance uniting our two countries."
+ axis_minors_bulgaria.1.a:0 "이것은 우리의 장기 프로젝트의 진행을 가속시킬 것입니다."
+ axis_minors_bulgaria.1.b:0 "우리는 그들의 도움이 필요하지 않습니다."
+
+ axis_minors_bulgaria.4.t:0 "기술자들이 트럭 제조공정을 개선"
+ axis_minors_bulgaria.4.desc:0 "트럭 제조업체와의 협력을 통해 우리는 생산 효율을 개선 할 수 있었습니다."
+ axis_minors_bulgaria.4.a:0 "이것은 우리의 장기 프로젝트의 진행을 가속시킬 것입니다." 
+
+ axis_minors_bulgaria.5.t:0 "전문적인 기술 상실"
+ axis_minors_bulgaria.5.desc:0 "우리 동맹국들 중에서 트럭 제조로 인정받은 국가가 아무도 없기 때문에, 우리는 전문지식을 얻어올 수 없습니다."
+ axis_minors_bulgaria.5.a:0 "우리는 더욱 협력해야 합니다." 
+
+ axis_minors_bulgaria.6.t:0 "기술자들이 화기 제조공정을 개선"
+ axis_minors_bulgaria.6.desc:0 "화기 제조업체와의 협력을 통해 우리는 생산 효율을 개선 할 수 있었습니다."
+ axis_minors_bulgaria.6.a:0 "이것은 우리의 장기 프로젝트의 진행을 가속시킬 것입니다." 
+ 
+ axis_minors_bulgaria.7.t:0 "전문적인 기술 상실"
+ axis_minors_bulgaria.7.desc:0 "우리 동맹국들 중에서 화기 제조로 인정받은 국가가 아무도 없기 때문에, 우리는 전문지식을 얻어올 수 없습니다."
+ axis_minors_bulgaria.7.a:0 "우리는 더욱 협력해야 합니다."
+
+ axis_minors_bulgaria.8.t:0 "기술자들이 포 제조공정을 개선"
+ axis_minors_bulgaria.8.desc:0 "포 제조업체와의 협력을 통해 우리는 생산 효율을 개선 할 수 있었습니다."
+ axis_minors_bulgaria.8.a:0 "이것은 우리의 장기 프로젝트의 진행을 가속시킬 것입니다." 
+ 
+ axis_minors_bulgaria.9.t:0 "전문적인 기술 상실"
+ axis_minors_bulgaria.9.desc:0 "우리 동맹국들 중에서 포 제조로 인정받은 국가가 아무도 없기 때문에, 우리는 전문지식을 얻어올 수 없습니다."
+ axis_minors_bulgaria.9.a:0 "우리는 더욱 협력해야 합니다."  
+
+ axis_minors_bulgaria.10.t:0 "기술자들이 전차 제조공정을 개선"
+ axis_minors_bulgaria.10.desc:0 "전차 제조업체와의 협력을 통해 우리는 생산 효율을 개선 할 수 있었습니다."
+ axis_minors_bulgaria.10.a:0 "이것은 우리의 장기 프로젝트의 진행을 가속시킬 것입니다."
+ 
+ axis_minors_bulgaria.11.t:0 "전문적인 기술 상실"
+ axis_minors_bulgaria.11.desc:0 "우리 동맹국들 중에서 전차 제조로 인정받은 국가가 아무도 없기 때문에, 우리는 전문지식을 얻어올 수 없습니다."
+ axis_minors_bulgaria.11.a:0 "우리는 더욱 협력해야 합니다." 
+
+ axis_minors_bulgaria.12.t:0 "기술자들이 경전차 제조공정을 개선"
+ axis_minors_bulgaria.12.desc:0 "경전차 제조업체와의 협력을 통해 우리는 생산 효율을 개선 할 수 있었습니다."
+ axis_minors_bulgaria.12.a:0 "이것은 우리의 장기 프로젝트의 진행을 가속시킬 것입니다."
+ 
+ axis_minors_bulgaria.13.t:0 "전문적인 기술 상실"
+ axis_minors_bulgaria.13.desc:0 "우리 동맹국들 중에서 경전차 제조로 인정받은 국가가 아무도 없기 때문에, 우리는 전문지식을 얻어올 수 없습니다."
+ axis_minors_bulgaria.13.a:0 "우리는 더욱 협력해야 합니다." 
+
+ axis_minors_bulgaria.14.t:0 "기술자들이 중전차 제조공정을 개선"
+ axis_minors_bulgaria.14.desc:0 "중전차 제조업체와의 협력을 통해 우리는 생산 효율을 개선 할 수 있었습니다."
+ axis_minors_bulgaria.14.a:0 "이것은 우리의 장기 프로젝트의 진행을 가속시킬 것입니다." 
+ 
+ axis_minors_bulgaria.15.t:0 "전문적인 기술 상실"
+ axis_minors_bulgaria.15.desc:0 "우리 동맹국들 중에서 중전차 제조로 인정받은 국가가 아무도 없기 때문에, 우리는 전문지식을 얻어올 수 없습니다."
+ axis_minors_bulgaria.15.a:0 "우리는 더욱 협력해야 합니다." 
+
+ axis_minors_bulgaria.16.t:0 "기술자들이 전투기 제조공정을 개선"
+ axis_minors_bulgaria.16.desc:0 "전투기 제조업체와의 협력을 통해 우리는 생산 효율을 개선 할 수 있었습니다."
+ axis_minors_bulgaria.16.a:0 "이것은 우리의 장기 프로젝트의 진행을 가속시킬 것입니다."  
+ 
+ axis_minors_bulgaria.17.t:0 "전문적인 기술 상실"
+ axis_minors_bulgaria.17.desc:0 "우리 동맹국들 중에서 전투기 제조로 인정받은 국가가 아무도 없기 때문에, 우리는 전문지식을 얻어올 수 없습니다."
+ axis_minors_bulgaria.17.a:0 "우리는 더욱 협력해야 합니다."
+
+ axis_minors_bulgaria.18.t:0 "기술자들이 중전투기 제조공정을 개선"
+ axis_minors_bulgaria.18.desc:0 "중전투기 제조업체와의 협력을 통해 우리는 생산 효율을 개선 할 수 있었습니다."
+ axis_minors_bulgaria.18.a:0 "이것은 우리의 장기 프로젝트의 진행을 가속시킬 것입니다."
+ 
+ axis_minors_bulgaria.19.t:0 "전문적인 기술 상실"
+ axis_minors_bulgaria.19.desc:0 "우리 동맹국들 중에서 중전투기 제조로 인정받은 국가가 아무도 없기 때문에, 우리는 전문지식을 얻어올 수 없습니다."
+ axis_minors_bulgaria.19.a:0 "우리는 더욱 협력해야 합니다." 
+
+ axis_minors_bulgaria.20.t:0 "기술자들이 전략폭격기 제조공정을 개선"
+ axis_minors_bulgaria.20.desc:0 "전략폭격기 제조업체와의 협력을 통해 우리는 생산 효율을 개선 할 수 있었습니다."
+ axis_minors_bulgaria.20.a:0 "이것은 우리의 장기 프로젝트의 진행을 가속시킬 것입니다."
+ 
+ axis_minors_bulgaria.21.t:0 "전문적인 기술 상실"
+ axis_minors_bulgaria.21.desc:0 "우리 동맹국들 중에서 전략폭격기 제조로 인정받은 국가가 아무도 없기 때문에, 우리는 전문지식을 얻어올 수 없습니다."
+ axis_minors_bulgaria.21.a:0 "우리는 더욱 협력해야 합니다." 
+
+ axis_minors_bulgaria.22.t:0 "기술자들이 해군폭격기 제조공정을 개선"
+ axis_minors_bulgaria.22.desc:0 "해군폭격기 제조업체와의 협력을 통해 우리는 생산 효율을 개선 할 수 있었습니다."
+ axis_minors_bulgaria.22.a:0 "이것은 우리의 장기 프로젝트의 진행을 가속시킬 것입니다." 
+ 
+ axis_minors_bulgaria.23.t:0 "전문적인 기술 상실"
+ axis_minors_bulgaria.23.desc:0 "우리 동맹국들 중에서 전술폭격기 제조로 인정받은 국가가 아무도 없기 때문에, 우리는 전문지식을 얻어올 수 없습니다."
+ axis_minors_bulgaria.23.a:0 "우리는 더욱 협력해야 합니다." 
+
+ axis_minors_bulgaria.24.t:0 "기술자들이 급강하폭격기 제조공정을 개선"
+ axis_minors_bulgaria.24.desc:0 "급강하폭격기 제조업체와의 협력을 통해 우리는 생산 효율을 개선 할 수 있었습니다."
+ axis_minors_bulgaria.24.a:0 "이것은 우리의 장기 프로젝트의 진행을 가속시킬 것입니다." 
+ 
+ axis_minors_bulgaria.25.t:0 "전문적인 기술 상실"
+ axis_minors_bulgaria.25.desc:0 "우리 동맹국들 중에서 급강하폭격기 제조로 인정받은 국가가 아무도 없기 때문에, 우리는 전문지식을 얻어올 수 없습니다."
+ axis_minors_bulgaria.25.a:0 "우리는 더욱 협력해야 합니다."  
+ 
+ axis_minors_bulgaria.26.t:0 "외국의 기술 상실"
+ axis_minors_bulgaria.26.desc:0 "옛 동맹국들과 관계를 끊은 이상 그들로부터 협력받을 수 없습니다."
+ axis_minors_bulgaria.26.a:0 "그것은 이미 예상된 일입니다." 
+#Ruthenia 루테니아
+
+ axis_minors_ruthenia.1.t:0 "카르파티아 루테니아의 자치 지역 선포"
+ axis_minors_ruthenia.1.desc:0 "체코슬로바키아 중앙정부의 통치권이 약해짐에 따라, 주민 대부분이 루테니아인인 카르파티아 루테니아 지방이 스스로가 자치 지역이라고 선포했습니다. 이제 이 지역은 독립 당시에 보장받았었지만 프라하 중앙정부가 제한하고 있었던 모든 권리를 누리게 됩니다."
+ axis_minors_ruthenia.1.a:0 "그건 저쪽 권리가 맞죠."
+ axis_minors_ruthenia.1.b:0 "드디어 자치권을 얻을 수 있겠군요! (카르파티아 루테니아로 플레이합니다)"
+ axis_minors_ruthenia.1.c:0 "그냥 보내 주죠."
+ axis_minors_ruthenia.1.d:0 "자기들 운명은 자기가 결정해야죠 (독립국 카르파티아 우크라이나로 플레이합니다)"
+ 
+ axis_minors_ruthenia.2.t:0 "헝가리의 위협"
+ axis_minors_ruthenia.2.desc:0 "체코슬로바키아가 찢겨진 이후, 침공 가능성은 날마다 커져 갑니다. 아무래도 이 지방을 살리기 위해선 자치권을 전부 누리면서 헝가리 왕국에 들어가기로 약속해야 할지도 모릅니다." 
+ axis_minors_ruthenia.2.a:0 "부다페스트로 사절단을 보냅시다."
+ axis_minors_ruthenia.2.b:0 "오라고 해봐요. 겁 안 납니다." 
+ axis_minors_ruthenia.2.c:0 "저쪽 동네는 아직 공격할 준비가 안 됬을 겁니다 (공격을 지연시킵니다)."
+ 
+ axis_minors_ruthenia.3.t:0 "카르파티아 우크라이나의 보호 요청"
+ axis_minors_ruthenia.3.desc:0 "'카르파티아 우크라이나 공화국'이라는 곳에서 대표단이 왔는데, 생각치도 못한 말을 꺼냈습니다. 우리가 자신들을 침공할 것이라는 불안감과 우리가 주장하는 영유권 때문에, 자신들은 독립국 지위를 버리고 헝가리의 자치 구역으로 남을 의사가 있다고 했습니다. 이 제안을 받아들이면 그 조그마한 곳에서만 영향력이 제한되게 되고, 옛 헝가리의 국경을 일부만 되찾는 셈이 됩니다. 하지만 침공한다면 다른 세력들이 개입할 수도 있겠죠." 
+ axis_minors_ruthenia.3.a:0 "자치 지역으로 받아들입시다."
+ axis_minors_ruthenia.3.b:0 "카르피타아는 옛 헝가리의 일부니까, 침공합시다." 
+ 
+ axis_minors_ruthenia.4.t:0 "카르파티아 우크라이나 개입?"
+ axis_minors_ruthenia.4.desc:0 "스스로 독립을 선언한 카르파티아 우크라이나 공화국은 신생 국가인 데 더해 왕따입니다. 옛 헝가리의 일부로서, 이 지방은 헝가리 정부 하에 있어야죠. 체코슬로바키아의 해체 이후, 이 작은 지역은 이제 다시금 주인을 찾을 준비가 됬습니다." 
+ axis_minors_ruthenia.4.a:0 "아무것도 하지 맙시다."
+ axis_minors_ruthenia.4.b:0 "침공을 시작합시다." 
+ 
+ axis_minors_ruthenia.5.t:0 "자유로운 사회"
+ axis_minors_ruthenia.5.desc:0 "정치 수뇌부가 바뀌자, 이 나라에서 기본적인 자유가 다시금 보장되었습니다. 협회가 설립되고, 민주주의 사상이 나라 곳곳에 퍼지고 있습니다." 
+ axis_minors_ruthenia.5.a:0 "반드시 자유를 소중히 여겨야 합니다!" 
+ 
+ axis_minors_ruthenia.6.t:0 "루테이아인들이 타협을 요구"
+ axis_minors_ruthenia.6.desc:0 "체코슬로바키아가 사라지면서, 가장 험준한 산악 지방에 거주하는 루신인들이 어느 정도의 자치권을 부여해주길 요구해 왔습니다." 
+ axis_minors_ruthenia.6.a:0 "그들에게 자치권을 줍시다"  
+ axis_minors_ruthenia.6.b:0 "그들을 슬로바키아의 영향권 아래 두어라."
+ axis_minors_ruthenia.6.c:0 "그들을 공격하라."
+
+ axis_minors_ruthenia.7.t:0 "루테니아인들이 통일을 요구하다"
+ axis_minors_ruthenia.7.desc:0 "체코슬로바키아의 가장 험준한 지역의 지도자였던 [RUT.GetLeader] 이/가 루신인의 땅을 우크라이나에 합병시킬 것을 요구합니다." 
+ axis_minors_ruthenia.7.a:0 "완벽하군."  
+ axis_minors_ruthenia.7.b:0 "그럴 수는 없다."
+#Croatia 크로아티아
+ 
+ axis_minors_croatia.1.t:0 "유고슬라비아와의 재연합"
+ axis_minors_croatia.1.desc:0 "이제 티토가 양쪽 정부를 동시에 통치하고 있으니, 유고슬라비아와 합칠 시간입니다."
+ axis_minors_croatia.1.a:0 "유고슬라비아 사회주의 연방공화국이어, 영원하라!"
+ 
+ axis_minors_croatia.2.t:0 "크로아티아 사회주의 공화국의 합류 요청"
+ axis_minors_croatia.2.desc:0 "크로아티아 사회주의 공화국이 우리의 자랑스러운 남슬라브민족 연방에 가입하고 싶어 합니다."
+ axis_minors_croatia.2.a:0 "다시 돌아와서 반가워요!"
+ 
+ axis_minors_croatia.3.t:0 "대크로아티아의 영유권 확대"
+ axis_minors_croatia.3.desc:0 "보스니아는 역사적으로 크로아티아의 일부였습니다. 우리의 위대한 왕 미로슬라브의 발자취를 따라가기 위해서라도 과거의 국경선을 다시 되찾아야 합니다."
+ axis_minors_croatia.3.a:0 "거기는 정당한 우리 땅이 맞습니다!"
+
+ axis_minors_croatia.4.t:0 "엘렉트라 공장의 미래가 자리를 잡았습니다"
+ axis_minors_croatia.4.desc:0 "전자 기계공이자 공산 투사였던 인민의 영웅 라데 콘차르를 기념하기 위해 엘렉트라 전자기기 공장의 이름을 콘차르 전자 공장으로 바꾸기로 하였습니다."
+ axis_minors_croatia.4.a:0 "콘차르는 우리의 진정한 순교자입니다!"
+ 
+ axis_minors_croatia.5.t:0 "공산주의 독재의 끝"
+ axis_minors_croatia.5.desc:0 "붉은 공포가 끝났습니다! 빨갱이들은 권좌에서 쫓겨놨고 재앙과도 같았던 경제 구조는 허물어지고 있습니다."
+ axis_minors_croatia.5.a:0 "볼셰비키 정권은 이제 끝장났습니다." 
+ 
+ axis_minors_croatia.6.t:0 "파시스트 독재의 끝"
+ axis_minors_croatia.6.desc:0 "The black terror is over! The fascists have been removed from power and their dystopian regime is now being dismantled."
+ axis_minors_croatia.6.a:0 "The era of ultranationalism and racism is over."  
+ 
+ axis_minors_croatia.7.t:0 "The End of the Parlementary Regime!"
+ axis_minors_croatia.7.desc:0 "Due to the takeover of radical elements over society, multipartism is a past particularity of Croat society as revolutionaries are forming a government and establishing their dictatorship."
+ axis_minors_croatia.7.a:0 "어두운 시대가 도래하는군요." 
+ 
+ axis_minors_croatia.8.t:0 "공산주의자들이 다시 권력을 잡다!"
+ axis_minors_croatia.8.desc:0 "혁명적 공산주의 정권이 다시 들어섰고 이전의 정치 구조 개혁은 빠르게 초기화되고 있습니다."
+ axis_minors_croatia.8.a:0 "공산주의야말로 밝은 미래입니다!"
+
+ axis_minors_croatia.9.t:0 "Fascism are once again in control of the country!"
+ axis_minors_croatia.9.desc:0 "Ultranationationalists have once again took control of the country. Collaborators are already tracked while militaristic propaganda try once again to enroll the masses into their movement."
+ axis_minors_croatia.9.a:0 "우리가 진정한 크로아티아인입니다!" 
+ 
+ axis_minors_croatia.10.t:0 "Democratic Forces Prevailed!"
+ axis_minors_croatia.10.desc:0 "After struggles of epic proportion and violent repression, the partisans of liberty and democracy have established a new government."
+ axis_minors_croatia.10.a:0 "우리는 자유를 위해 싸울 것입니다!"
+
+ axis_minors_croatia.11.t:0 "과거의 유산"
+ axis_minors_croatia.11.desc:0 "While our nation is beginning a new era, our current knowledge are based on what was learned in the past."
+ axis_minors_croatia.11.a:0 "더 밝은 미래로 전진합시다!"
+axis_minors_slovakia.1.a:0 "Conduct a small scale offensive to take the contested region."
+ axis_minors_slovakia.1.b:0 "Only diplomacy will bring us back our rightful lands."
+
+axis_minors_slovakia.2.t:0 "국경분쟁 패배"
+ axis_minors_slovakia.2.desc:0 "우리 군사의 사기가 드높았음에도 불구하고, 헝가리 군대의 진격을 막지 못했습니다. 독일은 휴전을 강요했고, 헝가리에게 유리하도록 결론을 내렸습니다. 우리는 주민 69,930명이 살고 있는 78개 행정구역, 1,697 km²만큼을 내주어야 했습니다."
+ axis_minors_slovakia.2.a:0 "독일이 우리를 돕는다고 약속했었는데!"
+
+axis_minors_slovakia.3.t:0 "카르파티아 승전!"
+ axis_minors_slovakia.3.desc:0 "슬로바키아 동부에서 성공적으로 작전을 전개한 후, 독일은 휴전을 제안했고 우리의 요구에 따라 국경을 다시 그렸습니다! 이제 카르파티아 지방 전체가 우리 손아귀에 있습니다! 병사들은 이 대헝가리아 제국 수복운동의 위대한 한 획을 그은 것을 노래를 부르며 축하하고 있습니다."
+ axis_minors_slovakia.3.a:0 ""우리는 모두 호르티 미클로시의 병사입니다""
+ 
+ axis_minors_slovakia.4.t:0 "슬로바키아에게 지다"
+ axis_minors_slovakia.4.desc:0 "우리가 슬로바키아 군대를 과소평가했던 것 같습니다. 슬로바키아는 한 주 가량 지속됬던 우리의 공격 작전을 굉장히 심각하게 받아들였고, 우리가 이기는 와중에 독일이 개입하여 슬로바키아 편을 들었습니다."
+ axis_minors_slovakia.4.a:0 "그냥 사소한 실수일 뿐이죠."
+ 
+ axis_minors_slovakia.5.t:0 "헝가리놈들을 격퇴하다"
+ axis_minors_slovakia.5.desc:0 "한 주간 진행됬던 우리의 용감한 방어 덕택에, 불법적으로 우리를 공격했던 헝가리 군대를 격퇴시키는 데 성공했습니다. 우리의 보호자, 독일 수상이 이후 개입하여 이 분쟁을 끝냈으며, 우리의 승리를 인정해 주었습니다."
+ axis_minors_slovakia.5.a:0 "우리는 그냥 정당히 우리 것인 것만을 원할 뿐입니다."
+ 
+ axis_minors_slovakia.6.t:0 "헝가리가 공격하고 있습니다!"
+ axis_minors_slovakia.6.desc:0 "헝가리가 카르파티아를 점령한 이후, 우리와의 국경을 문제삼고 있었으며, 심지어는 이를 해결하겠다고 군대를 동원해 공격해 왔습니다. 독일에게 도움을 요청했지만 자신들과 헝가리의 관계가 나빠질 것을 우려하여 개입하지 않겠다고 합니다."
+ axis_minors_slovakia.6.a:0 "조국을 반드시 지켜야 합니다!."
+
+ axis_minors_slovakia.7.t:0 "분쟁 해결을 위한 독일의 개입"
+ axis_minors_slovakia.7.desc:0 "이 전쟁은 한 주 동안 지속됬고 독일은 둘 사이의 분쟁을 지켜보는 데 신물이 났습니다. 독일은 처음에는 헝가리와의 관계 악화를 우려해 끼어들지 않으려고 했지만, 이제 누가 이겼는지가 확실히 드러났으니 분쟁을 끝내고, 국경선을 다시 조정할 필요가 있는지 검토하기로 했습니다."
+ axis_minors_slovakia.7.a:0 "독일은 반드시 우리를 인정할 것입니다."
+ 
+ axis_minors_slovakia.8.t:0 "카르파티아 정복은 아직 끝나지 않았습니다"
+ axis_minors_slovakia.8.desc:0 "우리카 카르파티아에서 굉장한 업적을 이뤄냈지만, 아직 끝난 게 아닙니다. 아직도 슬로바키아 동부 대부분 지역에는 루테니아인들이 살고 있고, 우리 나라에 들어오기를 원하고 있죠. 그 사람들은 슬로바키아인이 아니거든요."
+ axis_minors_slovakia.8.a:0 "독일이 우리를 도와주게끔 설득해 놔야 합니다." 
+
+ axis_minors_slovakia.9.t:0 "Slovak Intervention in Košice."
+ axis_minors_slovakia.9.desc:0 "After the announcement that a Czechoslovak rump state will be established in southern Czechoslovakia. The Slovak population took arms and with the intervention of the Slovak army, the territory is now securely in Slovak hands."
+ axis_minors_slovakia.9.a:0 "We only claim what is rightfully ours."  
+ 
+ axis_minors_slovakia.10.t:0 "과거의 유산"
+ axis_minors_slovakia.10.desc:0 "While our nation is beginning a new era, our current knowledge are based on what was learned in the past."
+ axis_minors_slovakia.10.a:0 "더 밝은 미래로 전진합시다!" 
+ 
+ #EFR vichy france 비시 프랑스
+ axis_minors_vichy_france.2.t:0 "펠릭스 에보우에가 자유 프랑스군에 들어오다"
+ axis_minors_vichy_france.2.desc:0 "프랑스령 적도 아프리카의 총독인 펠릭스 에보우에가 자신과 프랑스령 적도 아프리카 전체는 독일과의 전쟁을 계속할 것이라고 발표했습니다. 이 지역은 앞으로 프랑스의 광복을 준비하는 기반이 될 것입니다."
+ axis_minors_vichy_france.2.a:0 "자유 프랑스는 육해공 모든 곳에서 전쟁을 이어갈 것입니다."
+ 
+ axis_minors_vichy_france.3.t:0 "단 하나의 합법 프랑스"
+ axis_minors_vichy_france.3.desc:0 "페탱파가 패배함에 따라, 프랑스 전역에 대한 통치권을 다시 얻었습니다. 일부 동조자들이 망명 중이기는 하지만, 프랑스 국내군(FFI)을 통해 페텡파를 진압하는 과정에서 대량 학살이 벌어졌으며, 추가적으로 적과 함께 일했던 여성들은 악행의 상징으로서 제모당하기도 했습니다."
+ axis_minors_vichy_france.3.a:0 "프랑스 만세!"
+ 
+ axis_minors_vichy_france.4.t:0 "알퐁스 주앵이 자유 프랑스군에 들어오다"
+ axis_minors_vichy_france.4.desc:0 "비시 프랑스 군대를 지휘했던 알퐁스 주앵 장군이 이제는 파시즘의 압제에 저항하기로 결정했습니다."
+ axis_minors_vichy_france.4.a:0 "프랑스는 반드시 해방되리라!"
+ 
+ axis_minors_vichy_france.5.t:0 "알퐁스 주앵이 자유 프랑스군에 합류하다"
+ axis_minors_vichy_france.5.desc:0 "알퐁스 주앵 장군이 우리를 배신하고 자유 프랑스군에 들어갔습니다. 이제 주앵 장군은 그저 프랑스를 [Root.GetFactionName]이(가) 만드는 새로운 유럽 질서에 들어가게 하는 걸 거부하는 비겁한 반역자일 뿐이죠."
+ axis_minors_vichy_france.5.a:0 "반역자는 처단되리라!"
+ 
+ axis_minors_vichy_france.6.t:0 "장 드 라트르가 협조 정책을 비판하다"
+ axis_minors_vichy_france.6.desc:0 "유명한 장교 장 드 라트르 드 타시니가 독일과 협조하는 우리의 정책을 비판했습니다. 이는 타시니가 자유 프랑스군에 합류할 수도 있고, 아니면 우리 군 내부에 분란을 가져올 수 있다는 점에서 그냥 넘길 문제가 아닙니다."
+ axis_minors_vichy_france.6.a:0 "체포해!"
+ axis_minors_vichy_france.6.b:0 "그냥 놔 줍시다." 
+
+ axis_minors_vichy_france.7.t:0 "장 드 라트르가 탈출을 시도하다."
+ axis_minors_vichy_france.7.desc:0 "독일과의 협조 정책을 비판하여 체포되었던 장 드 라트르 드 타시니 장군이 어젯밤 탈출을 시도했습니다."
+ axis_minors_vichy_france.7.a:0 "꼭 잡아야죠."
+ axis_minors_vichy_france.8.t:0 "라트르가 탈출했다!"
+ axis_minors_vichy_france.8.desc:0 "장 드 라트르 드 타시니 장군이 어젯밤 차를 타고 도주했으며, 자유 프랑스군에 합류했다는 정보까지 입수했습니다."
+ axis_minors_vichy_france.8.a:0 "아, 저 배신자!" 
+ 
+ axis_minors_vichy_france.9.t:0 "장 드 라트르가 우리 편으로 들어왔습니다!"
+ axis_minors_vichy_france.9.desc:0 "장 드 라트르 드 타시니 장군이 탈옥 후 자유 프랑스군에 들어왔습니다. 장군은 이제 프랑스의 광복을 위해 싸울 준비가 되어 있습니다."
+ axis_minors_vichy_france.9.a:0 "프랑스 광복을 위한 한 발짝입니다." 
+ 
+ axis_minors_vichy_france.10.t:0 "장 드 라트르가 탈옥 중 사망하다"
+ axis_minors_vichy_france.10.desc:0 "영국이 지원하는 테러리스트들이 시도했던 복잡한 탈옥 과정에서 프랑스 경찰이 이 음모를 막아냈습니다. 슬프게도 진압 도중에 장 드 라트르 장군이 사망했습니다."
+ axis_minors_vichy_france.10.a:0 "그냥 배신자일 뿐인데요 뭐.."
+ axis_minors_vichy_france.11.t:0 "장 드 라트르가 탈옥 중 사망하다"
+ axis_minors_vichy_france.11.desc:0 "영국이 지원하는 테러리스트들이 시도했던 복잡한 탈옥 과정에서 프랑스 경찰이 이 음모를 막아냈습니다. 슬프게도 진압 도중에 장 드 라트르 장군이 사망했습니다."
+ axis_minors_vichy_france.11.a:0 "프랑스 광복을 지원했던 순국자입니다." 
+ 
+ axis_minors_vichy_france.12.t:0 "뛰어난 장교 확충"
+ axis_minors_vichy_france.12.desc:0 "프랑스 수도권이 함락당한 이후에 장교들을 전부 재선임해야 했습니다. 이 와중에 뛰어난 장군들이 원수로 승급하기도 했습니다."
+ axis_minors_vichy_france.12.a:0 ""계급장 만세""   
+ axis_minors_vichy_france.13.t:0 "유능한 장교 승진"
+ axis_minors_vichy_france.14.t:0 "유능한 장교 승진" 
+ axis_minors_vichy_france.17.t:0 "프랑스 점령지 확정""
+ axis_minors_vichy_france.17.desc:0 "프랑스국과 독일 제국의 평화 협정 중 문서 II의 내용에 따르면: "독일 제국의 안녕을 도모하기 위해, 첨부된 지도에 선이 그어진 대로 프랑스 북부와 서부에는 독일군이 주둔하게 된다. 점령 지역 대부분이 아직도 독일군의 통제 하에 놓여있지 못하기 때문에, 점령 절차는 조약 체결 직후 시작된다."\n\n따라서, 불법적으로 프랑스 정부 통제 하에 놓여있는 지역은 반드시 군 사령관의 통제 하에 통제되어야 합니다."
+ axis_minors_vichy_france.17.a:0 "휴전 협정은 존중되어야 합니다."   
+ 
+ axis_minors_vichy_france.18.t:0 "군수물자 숨기기"
+ axis_minors_vichy_france.18.desc:0 "휴전 협정 이후, 일부 사단에서는 무기 여분을 남겨두기 위해 무기고의 무기 일부를 빼돌려 은닉시킬 계획을 가지고 있습니다." 
+ axis_minors_vichy_france.18.a:0 "은닉처를 준비합시다."
+ axis_minors_vichy_france.18.b:0 "휴전 협정은 존중되어야 합니다."
+ 
+ axis_minors_vichy_france.20.t:0 "독일이 자유 구역 침공 계획 중!"
+ axis_minors_vichy_france.20.desc:0 "With the loss of our colonial empire, the enemy presence in mediterranean caused fear in the german high command that the allies would land in southern France. They have are now preparing to invade our territory while our defenseless and the majority of the government wants to continue the collaboration."
+ axis_minors_vichy_france.20.a:0 "Forbade the officers to respond militarily, they are here to protect us."
+ axis_minors_vichy_france.20.b:0 "This is a treason, we must resist! Aux armes!"
+ axis_minors_vichy_france.20.c:0 "Take a plane to Africa and join De Gaulle."
+ axis_minors_vichy_france.20.d:0 "Persuade the chancellor of the Reich to continue the collaboration."
+ 
+ axis_minors_vichy_france.21.t:0 "Zazous Dancing Contests are Disturbing Public Order!"
+ axis_minors_vichy_france.21.desc:0 "Recently groups of Zazous are creating more and more problems. While on the surface they are simply weirdly dressed young people, they are actually a disturbing force. By wearing long clothes while access to fabric is restricted, following the american love for the zoot suit or sewing a yellow star on their jacket with "Swing" or "Goi" written on it, they are openly defying autority. Those jazz lovers have recently organized dancing competitions that have attracted even more young people on that path of debauchery."
+ axis_minors_vichy_france.21.a:0 "Those people are corrupt physically and morally."
+
+ axis_minors_vichy_france.22.t:0 "아프리카의 새로운 희망"
+ axis_minors_vichy_france.22.desc:0 "With the signature of the armistice, most of France is now occupied or "neutral". But a handful of officers gathered behind the General de Gaulle in order to continue the fight. They struck their first success when they obtained the rallying of Félix Eboué, colonial governor of French Equatorial Africal. A free french government has been established as the "comitee for the defense of the Empire", resolved to fight nazism and free France from foreign occupation."
+ axis_minors_vichy_france.22.a:0 "싸움을 계속해야 합니다. 프랑스는 해방되어야 합니다!"

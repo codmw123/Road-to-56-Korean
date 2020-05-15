@@ -1,0 +1,16 @@
+﻿l_english:
+ The_destiny_of_azerbaijan_category:0 "아제르바이잔의 운명"
+ The_destiny_of_azerbaijan_category_desc:0 "몇 세기 전부터 세계의 교차로에 있던 아제르바이잔이지만, 바쿠에서 석유가 발견됨에 따라 이곳은 더욱 중요한 전략적 지역이 되었습니다. 첫번째 공화국의 실패와 볼셰비키에게의 굴복 이후에도, 몇 사람의 가슴 속에는 독립의 꿈이 여전히 살아 있습니다. 적극적인 지원과 붉은 제국에 대한 결정적인 반격을 통해, 새 희망에 불을 붙이고 아제르바이잔 주권의 복구를 보장받을 수 있을 것입니다." 
+ AZR_liberators:0 "아제르바이잔의 해방자"
+ 
+ AZR_form_azerbaijani_national_council:0 "아제르바이잔 국민의회 구성"
+ AZR_establish_azerbaijani_legion:0 "아제르바이잔 군단 징병"
+ AZR_establish_azerbaijani_legion_cost:0 "£army_experience §H10§! £pol_power §H25§! £command_power §H25§!"
+ AZR_establish_azerbaijani_legion_cost_blocked:0 "£army_experience §R10§! £pol_power §R25§! £command_power §R25§!"
+ AZR_establish_azerbaijani_legion_cost_tooltip:0 "선택하려면 £army_experience 10, £pol_power 25, £command_power 25가 필요합니다."
+ AZR_establish_national_azerbaijani_government:0 "아제르바이잔 국민정부 설립"
+ 
+ AZR_event.1.t:0 "의용군의 귀향 요구"
+ AZR_event.1.desc:0 "[SOV.GetName]에 맞서 아제르바이잔을 해방시키기 위해 의용군이 설립되었습니다. [SOV.GetAdjective]의 패배와 함께, 이 의용군은 자신들의 임무가 완수되었다고 보고 고향으로 돌아가고 싶어합니다."  
+ AZR_event.1.a:0 "조금 더 있어달라고 설득하라." 
+ AZR_event.1.b:0 "그들은 전역시켜라."

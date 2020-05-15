@@ -1,0 +1,57 @@
+﻿l_english:
+#Country Stuff
+ENG_establish_the_colony_of_aden:0 "아덴 식민지 설립"
+ENG_establish_the_colony_of_aden_desc:0 "아덴 항은 인도, 유럽과 극동 사이의 무역에서 가장 중요한 곳 중 하나입니다. 1935의 신인도통치법은 지금까지 수석행정관에 의해 통치되던 이 항구를 영국 정부 직할로 이전하는 조항을 포함하고 있습니다. 아덴을 독자적인 식민지로 설립하기 위한 최종 준비가 끝났습니다."
+#Focus
+ENG_war_with_ussr:0 "언싱커블 작전"
+uk_naval_gunnery:0 "함포"
+uk_naval_gunnery_desc:0 "적에게 더 큰 피해를 주고 바다를 지배하기 위해 우리 해군 장비의 성능을 개선해야 합니다."
+#Custom Tooltips
+
+#Flags
+
+#Ideas
+ENG_crypto_bomb_idea_lar:0 "암호학 폭탄"
+
+
+#Events
+englandmod.99.t:0 "아치볼드 웨이벌의 인도행"
+englandmod.99.d:0 "아치볼드 웨이벌 장군이 영국령 인도군의 지휘관으로 임명되어, 며칠 내에 도착할 것입니다."
+englandmod.99.a:0 "알겠습니다."
+
+
+#Decisions
+ENG_speech_against_war:0 "반전 연설"
+ENG_speech_against_war_desc:0 "우리 훌륭한 젊은이들의 피가 외국의 일 때문에 무의미하게 흘려지지는 않을 것입니다. 영국이 나아가기 위해서는 평화 속에 남아야 합니다. 우리의 목소리는 모든 거리에서 들려야 합니다. 우리는 평화를 요구합니다! 하지만 우리는 우리 땅을 지키고 외국 침략자들에 맞설 준비가 되었습니다. 우리가 문제를, 그리고 전쟁을 일으키기를 원한다고 주장하는 자들에게 우리는 하나의 통일된 목소리로 대답합니다. 영국 평화 속에서 존속할 것이라고!"
+#Advisors
+ENG_john_dill:0 "존 딜"
+ENG_alan_turing:0"앨런 튜링"
+#Companies
+#ENG_industrial_concern:0 "잉글리시 스틸 코퍼레이션"
+ENG_guest_keen_baldwins:0 "게스트 킨 볼드윈스"
+ENG_barrow_hematite_steel_company:0 "배로 적철석 철강 회사"
+ENG_chatham_dockyard:0 "채텀 조선소"
+ENG_hawthorn_leslie_and_company:0 "호손레슬리"
+ENG_london_aircraft_production_group:0 "런던 항공기 생산 그룹"
+ENG_vauxhall_tanks:0 "복스홀"
+ENG_blackburn_aircraft:0 "블랙번 항공"
+ENG_general_aircraft_limited:0 "제너럴 항공"
+ENG_bristol:0 "브리스톨 항공기 회사"
+ENG_gloster_aircraft:0 "글로스터 항공기 회사"
+ENG_ROF_nottingham:0 "ROF 노팅엄"
+#Traits
+
+#Misc
+british_alternate_focus:0 "대영제국 중점 트리"
+british_alternate_focus_tt:0 "§R이 중점이 완료되면 모든 The Road to 56 파시즘 중점을 포함하는 또다른 중점 트리가 로딩될 것입니다. 이 선택은 되돌릴 수 없습니다! 잘 선택하세요.§!"
+
+
+
+
+r56_eng.1.t:0 "파시즘만이 평화를 지킬 수 있다!"
+r56_eng.1.desc:0 "파시즘이 평화를 의미하는 이유는 파시즘만이 전쟁의 진정한 원흉에 맞서 싸우기 때문입니다. 강력한 경제 자립 정책은 수많은 전쟁을 불러일으킨 승자 없는 시장 경쟁에서 탈출할 수 있게 해줍니다. 이것이 전쟁과 제국이 양립할 수 있는 이유입니다. 이 둘은 경제적 자립을 확실히 하기 위한 방법으로 같이 있을 것입니다!"
+r56_eng.1.a:0 "우리는 전쟁을 방지할 것이다!"
+
+r56_eng.2.t:0 "해외 전쟁으로"
+r56_eng.2.desc:0 "영국인은 영국만을 위해서 싸워야 합니다! 영국의 아들들이 해외 분쟁에서 죽기 위해 우리 해안을 떠나는 모습은 역사책에 남아야 합니다. 영국인은 영국과 제국의 방위를 위해서만 싸워야 합니다."
+r56_eng.2.a:0 "우리는 해외에서 죽지 않을 것이다!"
