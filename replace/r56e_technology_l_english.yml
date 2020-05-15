@@ -1,0 +1,633 @@
+﻿#####---------------------------------------------------------------------> Mod by Sig "GreatExperiment" Altre
+
+#--> All the new techs
+
+l_english: 
+## trying to fix base game decimetric radar tech
+  decimetric_radar:0 "데시미터파 레이다"
+ 
+ 
+### Extra tech categories
+  torpedo_equipment:0 "어뢰 기술"  
+  refining_tech:0 "연료 정제 기술"
+  refining_tech_research:0 "연료 정제 연구 속도"
+  naval_armor_tech:0 "해군 장갑 기술"
+  naval_gunnery_tech:0 "함포 기술"
+  naval_shell_tech:0 "Naval Shell Technologies"
+  damage_control_tech:0 "Damage Control Technologies"
+  
+  
+### Extra Special Forced Tech Categories
+ r56_desert_infantry_tech:0 "사막 보병"
+ r56_jaeger_infantry_tech:0 "엽병"
+ r56_jungle_infantry_tech:0 "정글 보병"
+ r56_marines_infantry_tech:0 "해병대"
+ r56_mountain_infantry_tech:0 "산악 보병"
+ r56_paratroops_infantry_tech:0 "공수부대"
+ r56_shock_infantry_tech:0 "충격 보병"
+
+### tech categories for focus tree interface
+ summer_clothing_tech:0 "하계 군복 기술"
+ winter_clothing_tech:0 "동계 군복 기술"
+
+###------> Artillery   <><> <><> <><> <><> <><>
+ artillery_a:0 "발전된 포 업그레이드 II"
+ artillery_a_desc:0 "초탄은 악마를 위한 것이며, 두 번째 탄은 신을, 세 번째 탄이 되서야 왕을 위한 것입니다."
+# artillery_b:0 "발전된 포 업그레이드 III"
+# artillery_b_desc:0 "힘을 가진 자를 가장 경외받게 만드는 여러분의 전장의 개, 큰 포들을 잊지 마십시오."
+ artillery_c:0 "준현대식 포 업그레이드 I"
+ artillery_c_desc:0 "포대의 거의 모든 부분에 적용된 질높은 공작과 기타 여러가지 개선 사항은 전반적인 신뢰도와 화력을 증가시키는 데 도움을 주었습니다."
+ artillery_d:0 "준현대식 포 업그레이드 II"
+ artillery_d_desc:0 "중량 감소로 인해 포의 효율성이 크게 향상되었습니다."
+ artillery_e:0 "준현대식 포 업그레이드 III"
+ artillery_e_desc:0 "매우 빠른 속도를 자랑하는 최신식 포탄을 사용하는 포입니다."
+#-<><><>
+ rocket_artillery_a:0 "발전된 로켓포 업그레이드 I"
+ rocket_artillery_a_desc:0 "우리는 더 가볍고 더 강력한 재료를 가지게 될 것이라 확신을 가지고 말할 수 있으며, 이는 로켓의 생산비용을 절감시킬 것입니다."
+ rocket_artillery_b:0 "발전된 로켓포 업그레이드 II"
+ rocket_artillery_b_desc:0 "로켓은... 사람을 발사해버릴 수 있을 정도까지 발전했습니다. 그러나 달에 불시착하지 않게 조심하십시오. 아시겠습니까?"
+# rocket_artillery_c:0 "X"
+# rocket_artillery_c_desc:0 "X"
+ rocket_artillery_d:0 "준현대식 로켓포 업그레이드 I"
+ rocket_artillery_d_desc:0 "속도와 추진력이 향상된 로켓포입니다."
+ rocket_artillery_e:0 "준현대식 로켓포 업그레이드 II"
+ rocket_artillery_e_desc:0 "발사관의 개선으로 인해 로켓포의 신뢰도와 효율성이 상승하였습니다."
+#-<><><>
+ antiair_a:0 "발전된 대공포 업그레이드 I"
+ antiair_a_desc:0 "군에 왜 값비싼 새 대공포가 필요합니까? 수 년간 쏴죽여 왔던 조종사들이 불평하기 시작한겁니까?"
+ antiair_b:0 "발전된 대공포 업그레이드 II"
+ antiair_b_desc:0 "내 왼쪽에선 보병포의 날카로운 포격음이 들려왔으며, 오른쪽에선 산발적인 뇌우와도 같은 포병의 포격소리가 들려왔으나, 하늘 위는 맑고 밝은 햇살이 비추고 있었다."
+# antiair_c:0 "X"
+# antiair_c_desc:0 "X"
+ antiair_d:0 "준현대식 대공포 업그레이드 I"
+ antiair_d_desc:0 "우리의 대공포와 레이더를 연계하는 것에서 엄청난 발전을 이루었습니다."
+ antiair_e:0 "준현대식 대공포 업그레이드 II"
+ antiair_e_desc:0 "레이더 기술과의 연계가 더욱 발전하여 최대한의 효율을 낼 수 있게 되었습니다."
+#-<><><>
+ antitank_a:0 "발전된 대전차포 업그레이드 I"
+ antitank_a_desc:0 "전차들이 성공한다면, 승리는 우리에게 굴러들어올 것이다. 그들이 실패한다면, 우리 또한 역사 속으로 사라질 것이다."
+ antitank_b:0 "발전된 대전차포 업그레이드 II"
+ antitank_b_desc:0 "너의 가장 무거운 포들이 너의 살고자하는 의지가 될 것이다. 무슨 일이 있어도 포가 계속 작동하도록 하라. 그리고, 적들의 것이 더 큰 것이지 않길 빌어라."
+# antitank_c:0 "X"
+# antitank_c_desc:0 "X"
+ antitank_d:0 "준현대식 대전차포 업그레이드 I"
+ antitank_d_desc:0 "우리 탄두의 관통력과 파괴력이 크게 향상되었습니다."
+ antitank_e:0 "준현대식 대전차포 업그레이드 II"
+ antitank_e_desc:0 "대전차포의 매 사격시 포탄의 정확도와 기동성이 크게 향상되었습니다."
+ 
+ 
+###------> Infantry   <><> <><> <><> <><> <><>
+ anti_tank_infantry_weapons:0 "휴대용 대전차 무기"
+ infantry_at_a:0 "보병 대전차 무기 III"
+ infantry_at_a_desc:0 "숨을 참고 신중하게 조준하라. 발사, 그리고 미친듯이 튀어라."
+ infantry_at_b:0 "보병 대전차 무기 IV"
+ infantry_at_b_desc:0 "숨을 참고 신중하게 조준하라. 발사, 그리고 미친듯이 튀어라."
+ infantry_at_c:0 "보병 대전차 무기 V"
+ infantry_at_c_desc:0 "숨을 참고 신중하게 조준하라. 발사, 그리고 미친듯이 튀어라."
+#-<><><>
+ advanced_infantry_weapons_a:0 "발전된 보병 장비"
+ advanced_infantry_weapons_a_desc:0 "총들, 정말 다행이야, 총들이야..."
+ advanced_infantry_weapons_c:0 "준현대식 보병 장비"
+ advanced_infantry_weapons_c_desc:0 "총들, 정말 다행이야, 총들이야..."
+ advanced_infantry_weapons_d:0 "현대식 보병 장비"
+ advanced_infantry_weapons_d_desc:0 "총들, 정말 다행이야, 총들이야..."
+#-<><><>
+ paratroopers_a:0 "공수부대 IV"
+ paratroopers_a_desc:0 "올라간 것은, 반드시 내려오게 되어 있다."
+ paratroopers_b:0 "공수부대 V"
+ paratroopers_b_desc:0 "올라간 것은, 반드시 내려오게 되어 있다."
+ paratroopers_c:0 "공수부대 VI"
+ paratroopers_c_desc:0 "올라간 것은, 반드시 내려오게 되어 있다."
+#-<><><>
+ marines_a:0 "해병대 IV"
+ marines_a_desc:0 "우리를 이해하는 사람들은 해병대와 적, 두 부류뿐이다. 다른 이들은 모두 전해 들은 이야기만 가지고 있다."
+ marines_b:0 "해병대 V"
+ marines_b_desc:0 "우리를 이해하는 사람들은 해병대와 적, 두 부류뿐이다. 다른 이들은 모두 전해 들은 이야기만 가지고 있다."
+ marines_c:0 "해병대 VI"
+ marines_c_desc:0 "우리를 이해하는 사람들은 해병대와 적, 두 부류뿐이다. 다른 이들은 모두 전해 들은 이야기만 가지고 있다."
+#-<><><>
+ mountaineers_a:0 "산악 보병 IV"
+ mountaineers_a_desc:0 "'또 다른 언덕'? 그래, 그게 바로 우리가 올라가야 할 산의 이름이지."
+ mountaineers_b:0 "산악 보병 V"
+ mountaineers_b_desc:0 "'또 다른 언덕'? 그래, 그게 바로 우리가 올라가야 할 산의 이름이지."
+ mountaineers_c:0 "산악 보병 VI"
+ mountaineers_c_desc:0 "'또 다른 언덕'? 그래, 그게 바로 우리가 올라가야 할 산의 이름이지."
+#-<><><>
+ support_weapons_a:0 "지원 화기 V"
+ support_weapons_a_desc:0 "전선의 우리 병력들에게는 다행이게도, 우리는 훨씬 더 좋은 장비를 만드는 데에 성공했습니다."
+ support_weapons_b:0 "지원 화기 VI"
+ support_weapons_b_desc:0 "전선의 우리 병력들에게는 다행이게도, 우리는 훨씬 더 좋은 장비를 만드는 데에 성공했습니다."
+ support_weapons_c:0 "지원 화기 VII"
+ support_weapons_c_desc:0 "전선의 우리 병력들에게는 다행이게도, 우리는 훨씬 더 좋은 장비를 만드는 데에 성공했습니다."
+ 
+#-<><><>
+ night_vision_a:0 "야간 투시경 III"
+ night_vision_a_desc:0 "적들이 우리를 볼 수 없을 때 적을 볼 수 있도록 하는 기술은 필수적입니다. 이 새로운 기술은 그 목표를 향해 나아가는 데 도움이 될 것입니다."
+ 
+###------> Electronics   <><> <><> <><> <><> <><>
+ future_radar:0 "AN/APS-2"
+ future_radar_desc:0 "우리의 비행체 감지 레이더는 꽤 정교해졌으며, 교전에서도 눈에 띄는 차이를 만들기 시작했습니다."
+ future_radar_2:0 "AN/APS-4"
+ future_radar_2_desc:0 "우리 시스템의 감도와 탐지 거리의 개선은 항공기 탑재를 위한 더 나은 기기를 개발할 수 있게 만들었습니다."
+ future_radar_3:0 "AN/APS-6"
+ future_radar_3_desc:0 "우리는 계속해서 시스템을 발전시키고 항공기 탑재를 위한 더 나은 기기를 개발하고 있습니다."
+#-<><><>
+ future_computing_machine:0 "콜로서스 시리즈"
+ future_computing_machine_desc:0 "크기가 클수록, 더욱더 복잡한 계산을 처리할 수 있습니다."
+#-<><><>
+ future_computing_machine_2:0 "에니악"
+ future_computing_machine_2_desc:0 "우리는 더욱 빠른 판독/기록 기능을 통합해, 시스템에 프로그램을 안정적으로 기록할 수 있게 만들었습니다."
+#-<><><>
+ future_computing_machine_3:0 "LEO I"
+ future_computing_machine_3_desc:0 "우리의 시스템은 특정 사무 업무를 자동화할 수 있을 정도로 발전했으며, 생산성의 새로운 장을 열고 있습니다."
+#-<><><>
+ future_computing_machine_4:0 "초기형 트랜지스터"
+ future_computing_machine_4_desc:0 "접합형 트랜지스터는 모든 면에서 진공관보다 우월합니다. 우리는 트랜지스터로의 전환이 빠르게 진행될 것이라고 예상하며, 연산량의 커다란 혁신이 뒤따를 것입니다."
+#-<><><>
+ future_decryption:0 "Mk-1 복호화"
+ future_decryption_desc:0 "'5년동안 제 기능을 해왔는데 굳이 바꿔야 할 이유라도 있습니까?' (J. 윌리엄스, 18:45, RS8)"
+ future_encryption:0 "Mk-1 암호화"
+ future_encryption_desc:0 "이 시점에서 제 생각에는 그들이 우릴 방해하기 위해 장바구니 목록을 암호화하고 있는 것 같습니다."
+ future_decryption_2:0 "Mk-2 복호화"
+ future_decryption_2_desc:0 "124.89 12.88 45.45.907"
+ future_encryption_2:0 "Mk-2 암호화"
+ future_encryption_2_desc:0 "이것들이 위험하다고 가정하라. 그것이 첫번째 규칙이다. '어떻게'와 '왜'를 알아낸 후에 다른 규칙에 대해 걱정하라."
+ future_decryption_3:0 "Mk-3 복호화"
+ future_decryption_3_desc:0 "애완동물의 이름, 그리고 생일을 아는 것은 우리에게 있어서는 언제나 성배와 같았습니다."
+ future_encryption_3:0 "Mk-3 암호화"
+ future_encryption_3_desc:0 "우리의 암호화 방식은 너무나 복잡해진 나머지 우리의 부하들조차 사용 할 수 없을 정도입니다."
+ #-<><><>
+ rdf1:0 "무선 방향 탐지" #new
+ rdf1_desc:0 "파르티잔들의 불법 송신을 감지함으로써 우리의 반란군 진압 능력을 강화시킬 수 있습니다." #new
+ rdf2:0 "향상된 무선 방향 탐지" #new
+ rdf2_desc:0 "보다 정확하게 파르티잔들의 불법 송신을 감지함으로서 우리의 반란군 진압 능력을 강화시킬 수 있습니다." #new
+ rdf3:0 "발전된 무선 방향 탐지" #new
+ rdf3_desc:0 "기초적인 삼각 측량을 통해 파르티잔들의 불법 송신을 감지함으로서 우리의 반란군 진압 능력을 강화시킬 수 있습니다." #new
+ rdf4:0 "현대식 무선 방향 탐지" #new
+ rdf4_desc:0 "보다 정밀한 삼각 측량을 통해 파르티잔들의 불법 송신을 감지함으로서 우리의 반란군 진압 능력을 강화시킬 수 있습니다." #new
+ rdf5:0 "1949년식 무선 방향 탐지" #new
+ rdf5_desc:0 "거의 정확한 삼각 측량을 통해 파르티잔들의 불법 송신을 감지함으로서 우리의 반란군 진압 능력을 강화시킬 수 있습니다." #new
+ rdf6:0 "1953년식 무선 방향 탐지" #new
+ rdf6_desc:0 "그들이 어디 있든지 간에 우리는 찾아낼 것입니다. 그들은 숨을 수도, 도망칠 수도 없으며, 성공할 가망은 더더욱 없습니다." #new
+ 
+ 
+###------> Industrial    <><> <><> <><> <><> <><>
+ streamlined_line_a:0 "간결한 라인 II"
+ streamlined_line_a_desc:0 "노동자들은 항상 왼손을 기계에서 15cm 떨어진 곳에 두어야 하며, 그들의 발은 중앙 레버와 빨간...."
+ flexible_line_a:0 "유연한 라인 II"
+ flexible_line_a_desc:0 "하늘에서 나는 저 소리가 들리나? 새로운 생산 라인을 처음부터 만들어야 한다는 뜻이야. 또다시 말이지."
+ streamlined_line_b:0 "능률적인 제조"
+ streamlined_line_b_desc:0 "우리는 더 나은 생산 과정을 만들기 위해 간결한 제조 방식과 유연한 제조 방식을 결합했습니다."
+ streamlined_line_c:0 "준현대식 제조"
+ streamlined_line_c_desc:0 "공작 기계 전반의 발전은 제조 분야의 더 나은 기술과 생산량으로 이어졌습니다."
+ streamlined_line_d:0 "현대식 제조"
+ streamlined_line_d_desc:0 "우리의 제조 기술은 최첨단이며, 그 어느 것도 대량 생산이 가능할 정도입니다."
+#-<><><>
+ concentrated_industry_a:0 "산업 집중 VI"
+ concentrated_industry_a_desc:0 "그들이 총알 하나를 만들 때, 우리는 천 개를 만들 것입니다. 우리는 우리 병사들이 적을 한 발도 맞추지 못하더라도, 적이 총알 속에 익사하도록 만들 것입니다."
+ dispersed_industry_a:0 "산업 분산 VI"
+ dispersed_industry_a_desc:0 "익숙해지면 그렇게 나쁘지만은 않아. 여기 있는 것은 박쥐 떼, 악취, 그리고 태양이 어떻게 생겼는지 까먹은 많은 남자들뿐이야."
+ concentrated_industry_b:0 "산업 집중 VII"
+ concentrated_industry_b_desc:0 "오늘날의 거대 공장들은 고작 몇 년 전의 최첨단 시설들조차도 초라해 보이게 만듭니다."
+ dispersed_industry_b:0 "산업 분산 VII"
+ dispersed_industry_b_desc:0 "우리는 우리의 진부한 능력에서 큰 진전을 만들어냈으며, 지하에 광대한 시설을 건설할 수 있게 되었습니다."
+ concentrated_industry_c:0 "산업 집중 VIII"
+ concentrated_industry_c_desc:0 "우리 생산 과정의 수직적 통합은 생산량의 커다란 향상을 가져왔습니다."
+ dispersed_industry_c:0 "산업 분산 VIII"
+ dispersed_industry_c_desc:0 "지상이 폭격으로 박살나더라도, 우리는 지하에서 참으며 생산을 계속할 수 있습니다."
+ concentrated_industry_d:0 "산업 집중 IX"
+ concentrated_industry_d_desc:0 "우리는 아무 산업이나 다른 산업과 쌓을 수 있으며, 완벽한 집중에서 나오는 이득을 취할 수 있습니다."
+ dispersed_industry_d:0 "산업 분산 IX"
+ dispersed_industry_d_desc:0 "우리의 산업은 분산되었지만 효율적이며, 우리 공장은 가장 강력한 공격조차도 막아낼 수 있을 정도로 강화되었습니다."
+#-<><><>
+ construction_a:0 "건설 VI"
+ construction_a_desc:0 ""
+ excavation_a:0 "채굴 VI"
+ excavation_a_desc:0 "지구가 피를 흘리고 있습니다. 그리고 그 피가 계속 흐르도록 만드는 것이 당신의 임무입니다."
+ construction_b:0 "건설 VII"
+ construction_b_desc:0 "빠르고 값싸게 건설하고 싶다면, 우리가 그 일을 할 수 있습니다. 다만 질문은 자제해주세요."
+ excavation_b:0 "채굴 VII"
+ excavation_b_desc:0 "저 언덕에는 더 많은 광물들이 매장되어 있으며, 우리는 무슨 수를 써서라도 그것을 가질 것입니다."
+ construction_c:0 "건설 VIII"
+ construction_c_desc:0 "우리는 어떤 프로젝트든 즉시 확장할 수 있습니다. 완전히 단단하지는 않겠지만, 일은 어쨌든 끝낼 수 있겠죠."
+ excavation_c:0 "채굴 VIII"
+ excavation_c_desc:0 "이런 기계들은 십 년 전만 해도 사람들을 겁에 질리게 만들었을 것입니다. 하지만 우리에게는 단 한 가지만을 의미할 뿐이죠. '더 많이' 말이죠."
+ construction_d:0 "건설 IX"
+ construction_d_desc:0 "현대 기술은 우리가 무엇이든, 어느 곳에서나, 아무 때에 건설할 수 있음을 의미합니다. 물론 그것이 우리가 그들에게 추가 수당을 줄 것이라는 뜻은 아니지만요."
+ excavation_d:0 "채굴 IX"
+ excavation_d_desc:0 "지구의 골수가 우리를 유지시키는 것이며, 지구의 광물 혈관에 우리는 바늘을 꽂을 것입니다."
+#-<><><>
+ rubber_plant_a:0 "기초적인 합성 고무 공장"
+ rubber_plant_a_desc:0 "합성 석유 생산에 대한 우리의 지식을 활용해, 우리는 이제 합성 고무를 만들 수 있습니다."
+ rubber_plant_b:0 "향상된 합성 고무 공장"
+ rubber_plant_b_desc:0 "합성 고무 생산 과정의 개선으로 산출량이 크게 증가했습니다."
+ rubber_plant_c:0 "발전된 합성 고무 공장"
+ rubber_plant_c_desc:0 "우리는 발전된 생산 시설에서 막대한 양의 고무를 생산할 수 있으며, 생산 비용 역시 매우 저렴합니다."
+ rubber_plant_d:0 "현대식 합성 고무 공장"
+ rubber_plant_d_desc:0 "우리는 발전된 생산 시설에서 막대한 양의 고무를 생산할 수 있으며, 생산 비용 역시 매우 저렴합니다."
+ 
+ 
+###------> Landing Craft   <><> <><> <><> <><> <><>
+ semi_modern_landing_craft:0 "준현대식 상륙용 주정"
+ semi_modern_landing_craft_desc:0 "그냥 무릎을 구부리고 최선을 기도하라."
+ modern_landing_craft:0 "현대식 상륙용 주정"
+ modern_landing_craft_desc:0 "애초에 여기에 도대체 몇 명이나 태울 수 있는 거야?"
+ 
+ 
+###------> Resource Production  <><> <><> <><> <><> <><>
+ aluminum_production_1:0 "알루미늄 생산 I"
+ aluminum_production_1_desc:0 "최근 제련 기술의 발전으로 우리의 알루미늄 생산량을 늘릴 수 있게 되었습니다."
+ aluminum_production_2:0 "알루미늄 생산 II"
+ aluminum_production_2_desc:0 "제련 기술의 발전으로 알루미늄 생산량이 제법 증가하게 되었습니다."
+ aluminum_production_3:0 "알루미늄 생산 III"
+ aluminum_production_3_desc:0 "새로운 제련 기술로 우리는 알루미늄 생산량을 상당히 증가시킬 수 있게 되었습니다."
+ #-<><><>
+ steel_production_1:0 "강철 생산 I"
+ steel_production_1_desc:0 "최근 제철 기술의 발전으로 우리의 강철 생산량을 늘릴 수 있게 되었습니다."
+ steel_production_2:0 "강철 생산 II"
+ steel_production_2_desc:0 "제철 기술의 발전으로 강철 생산량이 제법 증가하게 되었습니다."
+ steel_production_3:0 "강철 생산 III"
+ steel_production_3_desc:0 "우리의 제철 기술은 상당한 수준에 도달했으며, 필요하다면 지속적으로 많은 양의 강철을 만들 수 있게 되었습니다."
+ steel_production_4:0 "강철 생산 IV"
+ steel_production_4_desc:0 "우리의 강철 생산은 시장에 강철이 넘쳐흐르게 할 수 있을 정도로 발전되었습니다. 어느 나라에는 희소식이고 어느 나라에게는 짜증나는 일이겠죠."
+ 
+ 
+###------> Nuclear  <><> <><> <><> <><> <><>
+ nuke_naval:0 "해군용 핵 추진 엔진"
+ nuke_naval_desc:0 "We've theorized that our largest and most powerful ships can be given nuclear reactors. Hopefully with time we can find a way to make this a reality."
+ nukes_2:0 "핵 융합 반응 실험"
+ nukes_2_desc:0 "Designs have been laid out for a bomb that uses fission to produce an even more powerful fusion reaction. With this, we should be able to significantly increase our yields." 
+
+
+###------> Rockets  <><> <><> <><> <><> <><>
+ semi_modern_rocket_engines:0 "만국의 로켓공학"
+ semi_modern_rocket_engines_desc:0 "이 새로운 로켓은 다른 국가들로부터 획득한 아이디어와 이론이 포함되어있습니다."
+ modern_rocket_engines:0 "초기형 대륙간탄도미사일"
+ modern_rocket_engines_desc:0 "We have begun to test and lay the groundwork for rockets capable of entering space, and thus deliver a payload to any point on the planet."
+ 
+ 
+###------> Support  <><> <><> <><> <><> <><>
+ tech_engineers_a:0 "공병 중대 5"
+ tech_engineers_a_desc:0 "미래의 전투공병들은 앞으로 우리 부대가 어디서든 공격 당하더라도 문제가 없도록 미리 대비할 것입니다."
+ tech_engineers_b:0 "공병 중대 6"
+ tech_engineers_b_desc:0 "미래의 전투공병들은 앞으로 우리 부대가 어디서든 공격 당하더라도 문제가 없도록 미리 대비할 것입니다."
+ tech_engineers_c:0 "공병 중대 7"
+ tech_engineers_c_desc:0 "미래의 전투공병들은 앞으로 우리 부대가 어디서든 공격 당하더라도 문제가 없도록 미리 대비할 것입니다."
+#-<><><>
+ tech_recon_a:0 "정찰 지원중대 5"
+ tech_recon_a_desc:0 "종심 정찰 작전, 첩보 활동, 게릴라 작전 및 특공대 훈련은 우리의 전술적 선택지들을 만들 것이고 우리가 의사 결정을 신속하게 내릴 수 있도록 해줄 것입니다."
+ tech_recon_b:0 "정찰 지원중대 6"
+ tech_recon_b_desc:0 "종심 정찰 작전, 첩보 활동, 게릴라 작전 및 특공대 훈련은 우리의 전술적 선택지들을 만들 것이고 우리가 의사 결정을 신속하게 내릴 수 있도록 해줄 것입니다."
+ tech_recon_c:0 "정찰 지원중대 7"
+ tech_recon_c_desc:0 "종심 정찰 작전, 첩보 활동, 게릴라 작전 및 특공대 훈련은 우리의 전술적 선택지들을 만들 것이고 우리가 의사 결정을 신속하게 내릴 수 있도록 해줄 것입니다."
+#-<><><>
+ tech_military_police_a:0 "헌병 중대 5"
+ tech_military_police_a_desc:0 "점령지의 치안을 안전하게 유지하는 것은 정상 상태로 돌아가는 것과 같고, 이는 저항 세력을 무자비하게 제거하는 것과 일맥상통합니다. 헌병대는 군인과 민간인 모두의 안전을 보장하기 위해 이 절차가 일찍 시작되도록 해야 합니다."
+ tech_military_police_b:0 "헌병 중대 6"
+ tech_military_police_b_desc:0 "점령지의 치안을 안전하게 유지하는 것은 정상 상태로 돌아가는 것과 같고, 이는 저항 세력을 무자비하게 제거하는 것과 일맥상통합니다. 헌병대는 군인과 민간인 모두의 안전을 보장하기 위해 이 절차가 일찍 시작되도록 해야 합니다."
+ tech_military_police_c:0 "헌병 중대 7"
+ tech_military_police_c_desc:0 "점령지의 치안을 안전하게 유지하는 것은 정상 상태로 돌아가는 것과 같고, 이는 저항 세력을 무자비하게 제거하는 것과 일맥상통합니다. 헌병대는 군인과 민간인 모두의 안전을 보장하기 위해 이 절차가 일찍 시작되도록 해야 합니다."
+#-<><><>
+ tech_maintenance_company_a:0 "정비 지원중대 5"
+ tech_maintenance_company_a_desc:0 "대전쟁에서 활성중복을 설계한 경험은 최신 장비로 작업할 때 유지 보수를 보다 더 쉽게 만들 수 있습니다."
+ tech_maintenance_company_b:0 "정비 지원중대 6"
+ tech_maintenance_company_b_desc:0 "대전쟁에서 활성중복을 설계한 경험은 최신 장비로 작업할 때 유지 보수를 보다 더 쉽게 만들 수 있습니다."
+ tech_maintenance_company_c:0 "정비 지원중대 7"
+ tech_maintenance_company_c_desc:0 "대전쟁에서 활성중복을 설계한 경험은 최신 장비로 작업할 때 유지 보수를 보다 더 쉽게 만들 수 있습니다."
+#-<><><>
+ tech_field_hospital_a:0 "야전병원 지원중대 5"
+ tech_field_hospital_a_desc:0 "현장 의학에서 많은 발전이 이루어졌지만, 그것들은 즉석에서 이루어져서 우리에겐 확립된 교리가 부족합니다. 더 많은 경험을 통해 부대들의 역할을 보다 명확하게 설명하고, 즉석에서 만든 혁신을 우리의 영구적인 세간으로 만들 수 있습니다."
+ tech_field_hospital_b:0 "야전병원 지원중대 6"
+ tech_field_hospital_b_desc:0 "현장 의학에서 많은 발전이 이루어졌지만, 그것들은 즉석에서 이루어져서 우리에겐 확립된 교리가 부족합니다. 더 많은 경험을 통해 부대들의 역할을 보다 명확하게 설명하고, 즉석에서 만든 혁신을 우리의 영구적인 세간으로 만들 수 있습니다."
+ tech_field_hospital_c:0 "야전병원 지원중대 7"
+ tech_field_hospital_c_desc:0 "현장 의학에서 많은 발전이 이루어졌지만, 그것들은 즉석에서 이루어져서 우리에겐 확립된 교리가 부족합니다. 더 많은 경험을 통해 부대들의 역할을 보다 명확하게 설명하고, 즉석에서 만든 혁신을 우리의 영구적인 세간으로 만들 수 있습니다."
+#-<><><>
+ tech_logistics_company_a:0 "병참 지원중대 5"
+ tech_logistics_company_a_desc:0 "보급품에 대한 표준적인 분류를 개발하면 혼란을 최소화하고보다 계획을 효율적으로 세울 수 있습니다"
+ tech_logistics_company_b:0 "병참 지원중대 6"
+ tech_logistics_company_b_desc:0 "보급품에 대한 표준적인 분류를 개발하면 혼란을 최소화하고보다 계획을 효율적으로 세울 수 있습니다"
+ tech_logistics_company_c:0 "병참 지원중대 7"
+ tech_logistics_company_c_desc:0 "보급품에 대한 표준적인 분류를 개발하면 혼란을 최소화하고보다 계획을 효율적으로 세울 수 있습니다"
+#-<><><>
+ tech_signal_company_a:0 "통신 중대 5"
+ tech_signal_company_a_desc:0 "우리의 통신 전문가들 중에는 이 장비의 현장 사용에 대해 직접 경험하여서 견줄 수 없는 지식을 가진 사람들이 있습니다. 새로운 통신 기술 연구에 그들을 참여시킴으로써, 그들의 전문성을 활용할 수 있습니다."
+ tech_signal_company_b:0 "통신 중대 6"
+ tech_signal_company_b_desc:0 "우리의 통신 전문가들 중에는 이 장비의 현장 사용에 대해 직접 경험하여서 견줄 수 없는 지식을 가진 사람들이 있습니다. 새로운 통신 기술 연구에 그들을 참여시킴으로써, 그들의 전문성을 활용할 수 있습니다."
+ tech_signal_company_c:0 "통신 중대 7"
+ tech_signal_company_c_desc:0 "우리의 통신 전문가들 중에는 이 장비의 현장 사용에 대해 직접 경험하여서 견줄 수 없는 지식을 가진 사람들이 있습니다. 새로운 통신 기술 연구에 그들을 참여시킴으로써, 그들의 전문성을 활용할 수 있습니다."
+#-<><><>
+ 
+###------> Etat / Etax Folder Name  <><> <><> <><> <><> <><>
+ etat_folder:0 "E.T."
+ etat_folder_desc:0 "확장된 산업과 장비 연구"
+ etax_folder:0 "S.R.D."
+ etax_folder_desc:0 "특수 연구 부서"
+ 
+ 
+ ETAX_TITLE_DOCTRINE_X:0 "특수 연구 부서"
+ 
+###------> New Doc   <><> <><> <><> <><> <><>
+
+ etax_doctrine:0 "특수 연구 부서"
+ etax_doctrine_desc:0 "We must establish a division that will focus our research efforts, and allow us to concentrate our military and industry in ways that will benefit the nation."
+
+ etax_army_focus:0 "육군"
+ etax_army_focus_desc:0 "The capabilities of our land forces are of the utmost importance, and will take priority over the other operational branches."
+ etax_navy_focus:0 "해군"
+ etax_navy_focus_desc:0 "Without a capable navy, a nation will die. That is why we must make every effort to expand and strengthen this branch of our military."
+ etax_air_focus:0 "공군"
+ etax_air_focus_desc:0 "The skies are the future, and so it is appropriate that we dedicate ourselves to making our force the strongest in the world."
+
+ etax_army_firepower:0 "소화기의 화력"
+ etax_army_firepower_desc:0 "An emphasis on firepower will see us through to victory. This focus has yielded powerful small arms and general improvements in their effectiveness."
+ etax_army_firepower_2:0 "중화기의 화력"
+ etax_army_firepower_2_desc:0 "The special research we have conducted has enable us to add significant stopping power to our big guns."
+ etax_army_defense:0 "장갑화 군대"
+ etax_army_defense_desc:0 "Our army can take hits that would leave anyone else dead in their tracks. With this, we can easily endure any conflict."
+ etax_army_defense_2:0 "광범위한 요새화"
+ etax_army_defense_2_desc:0 "The enemy might throw everything they have at us, but the sheer depth of our defenses will wear them down to the bone."
+
+ etax_navy_firepower:0 "집중 타겟팅"
+ etax_navy_firepower_desc:0 "Our ships can, with some effort, be made to hit nearly any target at range. The effects on enemy effectiveness and morale will be devastating."
+ etax_navy_firepower_2:0 "공습 능력"
+ etax_navy_firepower_2_desc:0 "Our navy knows how to strike and focus its firepower, and can tear apart even the most confident opposition."
+ etax_navy_defense:0 "두꺼운 선체"
+ etax_navy_defense_desc:0 "With the increase of enemy weapon effectiveness and air strikes, it's only appropriate that we modify our navy to counter this threat."
+ etax_navy_defense_2:0 "지역방어"
+ etax_navy_defense_2_desc:0 "Knowing where the enemy is at all times is itself the most valuable kind of weapon that can be imagined."
+
+ etax_air_firepower:0 "제공권"
+ etax_air_firepower_desc:0 "Few can contest the skies where our craft operate, and the speed at which they can intercept the enemy is unmatched."
+ etax_air_firepower_2:0 "폭격기 공세"
+ etax_air_firepower_2_desc:0 "Our bombers can lay waste to anything within their sights, and leave nothing but ruin in their wake."
+ etax_air_defense:0 "층을 이룬 방어지대"
+ etax_air_defense_desc:0 "Every effort has been made in coordinating our defenses so that no patch of land nor bird in the air goes without some form of cover."
+ etax_air_defense_2:0 "민첩한 항공기"
+ etax_air_defense_2_desc:0 "Sometimes speed is more valuable than any armor might be, and in a dogfight proves to be the deadliest part of the equation."
+
+ etax_the_means:0 "수단"
+ etax_the_means_desc:0 "As we push forward we must not forget that we should stay true to our principals. If our soldiers can take pride in our cause, they will be able to weather any adversity."
+ etax_the_ends:0 "최후"
+ etax_the_ends_desc:0 "Our advantage lays in our ability to do what others do not dare. If we push ourselves beyond the boundary, then the tools at our disposal become limitless."
+
+ etax_business_interests:0 "상업계"
+ etax_business_interests_desc:0 "By developing our private sector we can add increase the number of factories able to produce goods."
+ etax_cost_plus:0 "원가"
+ etax_cost_plus_desc:0 "As long as the money keeps flowing through thick and thin, our businesses will continue to deliver."
+ etax_production_in_depth:0 "공급망"
+ etax_production_in_depth_desc:0 "We can pull from a vast array of sources to build our goods and equipment, and the sheer depth of it is such that the enemy can't hope to cut us off."
+
+ etax_unity:0 "공통원인"
+ etax_unity_desc:0 "Everyone fights for the same just purpose, and that keeps our forces going for longer and harder than any would expect."
+ etax_broad_support:0 "통합된 대중들"
+ etax_broad_support_desc:0 "We can draw from all quarters of our society and absolutely no one is left out. If you have a pulse, you can fight."
+ etax_inclusive_science:0 "과학 공동체"
+ etax_inclusive_science_desc:0 "Our scientists come from a diversity of backgrounds, and we do not let ideology or undue bias prevent us from moving forward."
+
+ etax_desperation:0 "희생"
+ etax_desperation_desc:0 "With some effort we can convince our population to make do with a little less, all while fighting just as hard."
+ etax_no_qa:0 "급속 생산"
+ etax_no_qa_desc:0 "The immediate needs of the frontline require that we cut some corners here and there. While the quality may be lower, in the end the sheer bulk of our efforts will overwhelm."
+ etax_expendable_labor:0 "소모형 노동력"
+ etax_expendable_labor_desc:0 "The bricks that line our walls were paid for in blood, and the cement is lined with bones. Let no one say we did not pay the price needed for victory."
+
+ etax_glory:0 "영광"
+ etax_glory_desc:0 "There is nothing more noble and true than the art of combat. A person is not truly tested until they throw themselves into battle and let the forge of war shape their hearts."
+ etax_purity:0 "Selective Ranks"
+ etax_purity_desc:0 "We have weeded from our forces those that are unfit to serve, and only the very strongest and most dedicated remain."
+ etax_great_leap:0 "대단한 과학"
+ etax_great_leap_desc:0 "While others are content to plod along with their small efforts, we are not afraid to take a risk and bet on the technologies that will shape our world far in the future."
+
+ etax_grand_projects:0 "전문화된 공학기술"
+ etax_grand_projects_desc:0 "You can't defeat the enemy with slightly better cement. It takes firepower, and death from above."
+ etax_practical_projects:0 "실용공학"
+ etax_practical_projects_desc:0 "Our forces are focused on the basics, and have come up with ways to promote the fundamentals of production up and down the supply chain."
+
+ etax_moonshot:0 "미래의 공군"
+ etax_moonshot_desc:0 "Our focus on dominating the air has yielded some truly marvelous advances. With this, our mastery of the sky is absolutely beyond dispute."
+ etax_super_soldiers:0 "슈퍼 솔져"
+ etax_super_soldiers_desc:0 "We've developed a small drug that allows our soldiers to move farther, faster, and for longer than what the human condition normally allows."
+ etax_the_bomb:0 "프로젝트"
+ etax_the_bomb_desc:0 "Our scientists have poured all of their effort into an absolutely frightening yet brilliant idea. In the end it didn't produce what we aimed for, but through it we managed to advance every area of inquiry immeasurably."
+
+ etax_seashot:0 "미래의 해군"
+ etax_seashot_desc:0 "Our ships are terrifying to behold, and can tear through all but the most resolute of enemy forces with ease."
+ etax_quality:0 "고품질의 제조업"
+ etax_quality_desc:0 "We've done everything to ensure the proper tooling and rigorous testing necessary to field equipment that lasts."
+ etax_great_works:0 "위대한 작품"
+ etax_great_works_desc:0 "Money has been poured into pushing our nation's capacity to its limit, and beyond. Everything about our economic and productive institution is designed to inspire awe."
+
+###------> Jaeger   <><> <><> <><> <><> <><>
+ jaeger:0"엽병"
+ jaeger_desc:0"Jaegers are forces that specialize in surviving the cold and the wilderness of the boreal forest. Usually these troops are native to their territory and take longer to train.\n \n§GThis unit type does not count toward the Special Forces cap but instead requires 10 Support Equipment per Battalion§!"
+ 
+ jungletroop:0"Jungle Infantry"
+ jungletroop_desc:0"Jungle Specialists are trained to sustain the harsh conditions of Jungle Warfare and challenge the Enemy on their own terms.\n \n§GThis unit type does not count toward the Special Forces cap but instead requires 10 Support Equipment per Battalion§!"
+
+ desertinfantry:0"Desert Infantry"
+ desertinfantry_desc:0"사막에서의 전투는 군이 수많은 위협에 노출시키며, 때로는 피할 수 없습니다. 우리의 병사들에게 이러한 환경에 대한 전문적인 훈련을 제공한다면, 우리는 이러한 위험을 최소화 할 수 있습니다.\n \n§GThis unit type does not count toward the Special Forces cap but instead requires 10 Support Equipment per Battalion§!"
+
+ shocktroop:0"충격군"
+ shocktroop_desc:0"충격군은 적의 전선을 붕괴시켜 돌파구를 형성 할 수 있습니다. 이들은 종심돌파 전투에 거의 필수적인 존재이며, 적의 방어부대를 혼란에 빠뜨리는 데 크게 기여할 수 있습니다."
+
+ flamethrower:0"화염방사병 지원"
+ flamethrower_desc:0"화염방사병들은 근접전에 매우 효과적인 병종입니다. 일반적인 보병으로 건물이나 요새를 처리하는데는 매우 큰 대가가 따르지만, 화염방사병은 그러한 임무에 매우 효과적인 수행이 가능하며, 보병에 대한 근거리 전투에 매우 큰 도움이 되는 병종입니다."
+
+ jaegers:0"엽병 I"
+ jaegers_desc:0"Jaegers are forces that specialize in surviving the cold and the wilderness of the boreal forest. Usually these troops are native to their territory and take longer to train. \n \n§GThis unit type does not count toward the Special Forces cap but instead requires 10 Support Equipment per Battalion§!"
+ jaegers2:0"Jaeger II"
+ jaegers2_desc:0"Is it cold out, or is it just me? \n \n§GThis unit type does not count toward the Special Forces cap but instead requires 10 Support Equipment per Battalion§!"
+ jaegers3:0"Jaeger III"
+ jaegers3_desc:0"엽병은 Is it cold out, or is it just me? \n \n§GThis unit type does not count toward the Special Forces cap but instead requires 10 Support Equipment per Battalion§!"
+ jaegers4:0"Jaeger IV"
+ jaegers4_desc:0"엽병은 Is it cold out, or is it just me? \n \n§GThis unit type does not count toward the Special Forces cap but instead requires 10 Support Equipment per Battalion§!"
+ jaegers5:0"Jaeger V"
+ jaegers5_desc:0"Is it cold out, or is it just me? \n \n§GThis unit type does not count toward the Special Forces cap but instead requires 10 Support Equipment per Battalion§!"
+ jaegers6:0"Jaeger VI"
+ jaegers6_desc"Is it cold out, or is it just me? \n \n§GThis unit type does not count toward the Special Forces cap but instead requires 10 Support Equipment per Battalion§!"
+
+ jungletroops:0"Jungle Infantry 1"
+ jungletroops_desc:0"Jungle Specialists are trained to sustain the harsh conditions of Jungle Warfare and challenge the Enemy on their own terms.\n \n§GThis unit type does not count toward the Special Forces cap but instead requires 10 Support Equipment per Battalion§!"
+ jungletroops2:0"Jungle Infantry 2"
+ jungletroops2_desc:0"정글전 특기병은 정글같은 가혹한 환경에서의 전투에서 살아남는 방법과 잦은 보급품 부족에 대처하는 훈련을 받은 특수부대원 입니다. \n \n§GThis unit type does not count toward the Special Forces cap but instead requires 10 Support Equipment per Battalion§!"
+ jungletroops3:0"Jungle Infantry 3"
+ jungletroops3_desc:0"정글전 특기병은 정글같은 가혹한 환경에서의 전투에서 살아남는 방법과 잦은 보급품 부족에 대처하는 훈련을 받은 특수부대원 입니다. \n \n§GThis unit type does not count toward the Special Forces cap but instead requires 10 Support Equipment per Battalion§!"
+ jungletroops4:0"Jungle Infantry 4"
+ jungletroops4_desc:0"정글전 특기병은 정글같은 가혹한 환경에서의 전투에서 살아남는 방법과 잦은 보급품 부족에 대처하는 훈련을 받은 특수부대원 입니다. \n \n§GThis unit type does not count toward the Special Forces cap but instead requires 10 Support Equipment per Battalion§!"
+ jungletroops5:0"Jungle Infantry 5"
+ jungletroops5_desc:0"정글전 특기병은 정글같은 가혹한 환경에서의 전투에서 살아남는 방법과 잦은 보급품 부족에 대처하는 훈련을 받은 특수부대원 입니다. \n \n§GThis unit type does not count toward the Special Forces cap but instead requires 10 Support Equipment per Battalion§!"
+ jungletroops6:0"Jungle Infantry 6"
+ jungletroops6_desc:0"정글전 특기병은 정글같은 가혹한 환경에서의 전투에서 살아남는 방법과 잦은 보급품 부족에 대처하는 훈련을 받은 특수부대원 입니다. \n \n§GThis unit type does not count toward the Special Forces cap but instead requires 10 Support Equipment per Battalion§!"
+
+ shocktroops:0"충격군 1"
+ shocktroops_desc:0"충격군은 적의 약화된 방어선을 집중공격하여 돌파구를 형성하는 종심돌파작전에 효율적입니다. 이 부대는 일반적인 보병에 비해 돌파력과 공격력이 높습니다. 그러나 충격군과 돌격대는 보급 소비량과 회복 시간이 길다는 단점이 있습니다."
+ shocktroops2:0"충격군 2"
+ shocktroops2_desc:0"충격군은 적의 약화된 방어선을 집중공격하여 돌파구를 형성하는 종심돌파작전에 효율적입니다. 이 부대는 일반적인 보병에 비해 돌파력과 공격력이 높습니다. 그러나 충격군과 돌격대는 보급 소비량과 회복 시간이 길다는 단점이 있습니다."
+ shocktroops3:0"충격군 3"
+ shocktroops3_desc:0"충격군은 적의 약화된 방어선을 집중공격하여 돌파구를 형성하는 종심돌파작전에 효율적입니다. 이 부대는 일반적인 보병에 비해 돌파력과 공격력이 높습니다. 그러나 충격군과 돌격대는 보급 소비량과 회복 시간이 길다는 단점이 있습니다."
+ shocktroops4:0"충격군 4"
+ shocktroops4_desc:0"충격군은 적의 약화된 방어선을 집중공격하여 돌파구를 형성하는 종심돌파작전에 효율적입니다. 이 부대는 일반적인 보병에 비해 돌파력과 공격력이 높습니다. 그러나 충격군과 돌격대는 보급 소비량과 회복 시간이 길다는 단점이 있습니다."
+ shocktroops5:0"충격군 5"
+ shocktroops5_desc:0"충격군은 적의 약화된 방어선을 집중공격하여 돌파구를 형성하는 종심돌파작전에 효율적입니다. 이 부대는 일반적인 보병에 비해 돌파력과 공격력이 높습니다. 그러나 충격군과 돌격대는 보급 소비량과 회복 시간이 길다는 단점이 있습니다."
+ shocktroops6:0"충격군 6"
+ shocktroops6_desc:0"충격군은 적의 약화된 방어선을 집중공격하여 돌파구를 형성하는 종심돌파작전에 효율적입니다. 이 부대는 일반적인 보병에 비해 돌파력과 공격력이 높습니다. 그러나 충격군과 돌격대는 보급 소비량과 회복 시간이 길다는 단점이 있습니다."
+
+ desertinfantry_at:0"사막 특수부대 1"
+ desertinfantry_at_desc:0"Combat in the Desert ranges exposes troops to many perils, but sometimes cannot be avoided. Providing our soldiers with specialized training for this environment, we can minimize these risks.\n \n§GThis unit type does not count toward the Special Forces cap but instead requires 10 Support Equipment per Battalion§!"
+ desertinfantry_at2:0"사막 특수부대 2"
+ desertinfantry_at2_desc:0"사막의 모래언덕은 일반적인 보병에겐 매우나 위험한 환경입니다. 이 환경에서 대처가 가능한 사막 특수부대를 훈련시켜 사막전에서 우위를 점하도록 할 수 있습니다. \n \n§GThis unit type does not count toward the Special Forces cap but instead requires 10 Support Equipment per Battalion§!"
+ desertinfantry_at3:0"사막 특수부대 3"
+ desertinfantry_at3_desc:0"사막의 모래언덕은 일반적인 보병에겐 매우나 위험한 환경입니다. 이 환경에서 대처가 가능한 사막 특수부대를 훈련시켜 사막전에서 우위를 점하도록 할 수 있습니다. \n \n§GThis unit type does not count toward the Special Forces cap but instead requires 10 Support Equipment per Battalion§!"
+ desertinfantry_at4:0"사막 특수부대 4"
+ desertinfantry_at4_desc:0"사막의 모래언덕은 일반적인 보병에겐 매우나 위험한 환경입니다. 이 환경에서 대처가 가능한 사막 특수부대를 훈련시켜 사막전에서 우위를 점하도록 할 수 있습니다. \n \n§GThis unit type does not count toward the Special Forces cap but instead requires 10 Support Equipment per Battalion§!"
+ desertinfantry_at5:0"사막 특수부대 5"
+ desertinfantry_at5_desc:0"사막의 모래언덕은 일반적인 보병에겐 매우나 위험한 환경입니다. 이 환경에서 대처가 가능한 사막 특수부대를 훈련시켜 사막전에서 우위를 점하도록 할 수 있습니다. \n \n§GThis unit type does not count toward the Special Forces cap but instead requires 10 Support Equipment per Battalion§!"
+ desertinfantry_at6:0"사막 특수부대 6"
+ desertinfantry_at6_desc:0"사막의 모래언덕은 일반적인 보병에겐 매우나 위험한 환경입니다. 이 환경에서 대처가 가능한 사막 특수부대를 훈련시켜 사막전에서 우위를 점하도록 할 수 있습니다. \n \n§GThis unit type does not count toward the Special Forces cap but instead requires 10 Support Equipment per Battalion§!"
+
+
+ tech_flamethrower:0"화염방사기 1"
+ tech_flamethrower_desc:0"화염방사기는 근접전과 시가전, 요새에 대해 매우 효과적인 화기입니다. 또한 이러한 화기는 사단의 대인 공격력을 크게 향상시켜 줍니다."
+ tech_flamethrower2:0"화염방사기 2"
+ tech_flamethrower2_desc:0"화염방사기는 근접전과 시가전, 요새에 대해 매우 효과적인 화기입니다. 또한 이러한 화기는 사단의 대인 공격력을 크게 향상시켜 줍니다."
+ tech_flamethrower3:0"화염방사기 3"
+ tech_flamethrower3_desc:0"화염방사기는 근접전과 시가전, 요새에 대해 매우 효과적인 화기입니다. 또한 이러한 화기는 사단의 대인 공격력을 크게 향상시켜 줍니다."
+ tech_flamethrower4:0"화염방사기 4"
+ tech_flamethrower4_desc:0"화염방사기는 근접전과 시가전, 요새에 대해 매우 효과적인 화기입니다. 또한 이러한 화기는 사단의 대인 공격력을 크게 향상시켜 줍니다."
+ 
+###------> Improved Equipment   <><> <><> <><> <><> <><>
+ ETAT_TITLE_STEEL_PRODUCTION:0 "자원 생산"
+ ETAT_TITLE_CLOTHING:0 "군복"
+ ETAT_TITLE_SPECIALIST_EQUIPMENT:0 "특수전 화기"
+ ETAT_TITLE_MODIFIWAFIONS:0 "개조"
+ 
+ fabric:0 "직물 기술"
+ fabric_desc:0 "직물은 의류를 제작할때 사용됩니다."
+ PRODUCTION_MATERIALS_FABRIC:0 "직물"
+ PRODUCTION_MATERIALS_FABRIC_desc:0 "직물은 의류를 제작할때 사용됩니다."
+ 
+ plate_skirt:0 "추가 외부장갑"
+ plate_skirt_desc:0 "우리의 전차와 반궤도 장갑차에 외부장갑을 추가로 설치한다면 보병들의 신형 대전차화기에 대한 어느정도의 방호효과를 기대 할 수 있지만, 중량증가로 인해 기동성이 저하될 것입니다."
+ bed_spring_skirt:0 "슬랫아머"
+ bed_spring_skirt_desc:0 "철판에서 철망 형태의 외부장갑으로 교체함으로서 이전의 철판 형식보다 중량감소로 인한 기동성 향상과 기갑병기의 방호력을 개선할 수 있습니다."
+ plate_skirt_desc:0 "우리의 전차와 반궤도 장갑차에 외부장갑을 추가로 설치한다면 보병들의 신형 대전차화기에 대한 어느정도의 방호효과를 기대 할 수 있지만, 중량증가로 인해 기동성이 저하될 것입니다."
+ bed_spring_skirt_2:0 "개선된 추가 외부장갑"
+ bed_spring_skirt_2_short:0 "개선된 추가 외부장갑"
+ bed_spring_skirt_2_desc:0 "기존에 사용되던 금속철판을 더 가벼운 소재로 교체함으로써 중량이 감소하여 기동성이 향상됨과 동시에 기갑병기의 방호력을 개선할 수 있습니다."
+ bed_spring_skirt_3:0 "준현대식 추가 외부장갑"
+ bed_spring_skirt_3_short:0 "준현대식 추가 외부장갑"
+ bed_spring_skirt_3_desc:0 "기존에 사용되던 금속철판을 더 가벼운 소재로 교체함으로써 중량이 감소하여 기동성이 향상됨과 동시에 기갑병기의 방호력을 개선할 수 있습니다."
+ bed_spring_skirt_4:0 "현대식 추가 외부장갑"
+ bed_spring_skirt_4_short:0 "현대식 추가 외부장갑"
+ bed_spring_skirt_4_desc:0 "기존에 사용되던 금속철판을 더 가벼운 소재로 교체함으로써 중량이 감소하여 기동성이 향상됨과 동시에 기갑병기의 방호력을 개선할 수 있습니다."
+ 
+ sniper_rifle:0 "저격수 분대"
+ sniper_rifle_desc:0 "각 소대에 저격수 분대를 배치한다면 부대의 공격과 정찰 능력을 효과적으로 늘려줄 것 입니다."
+ sniper_rifle_2:0 "진보된 저격수 분대"
+ sniper_rifle_2_desc:0 "저격수 분대가 사용하는 저격소총과 그에 맞는 훈련을 개선하여 그들의 효과가 눈에 띌만큼 향상되었습니다."
+ sniper_rifle_3:0 "준현대식 저격수 분대"
+ sniper_rifle_3_desc:0 "우리의 저격수 분대의 뛰어난 전투경험에서 나오는 피드백 제공으로 인해 우리는 이전보다 더 나은 장비를 생산 할 수 있게되었습니다."
+ sniper_rifle_4:0 "현대식 저격수 분대"
+ sniper_rifle_4_desc:0 "우리의 저격수 분대는 가장 최신의 현대식 장비를 갖추고 있으며, 그 어떤 현대장비와도 비교할 수 없을정도로 우수합니다."
+ 
+ flamethrower:0 "화염방사기"
+ flamethrower_desc:0 "화염방사기의 개발은 우리의 군대가 시가전과 요새에 대해 더욱 효과적으로 대항 할 수 있도록 해줄 것입니다. 하지만 언제 폭발할지 모르는 연료가 가득찬 연료탱크를 등에 짊어지고 달리는 것은 엄청난 재앙을 초래할 수 있습니다."
+ flamethrower_squad:0 "화염방사병 분대"
+ flamethrower_2:0 "발전된 화염방사기"
+ flamethrower_2_desc:0 "장갑을 두름과 동시에 경량화 등의 개선사항이 이루어진 화염방사기는 우리의 화염방사병의 안정성과 효율성을 높여줍니다."
+ flamethrower_3:0 "준현대식 화염방사기"
+ flamethrower_3_desc:0 "우리의 화염방사병들은 상당한 경험을 쌓았으며, 그들이 사용하는 장비에 대한 다양한 피드백을 제공해 왔습니다. 우리는 이러한 피드백을 수용하여 생산중인 장비에 적용하여 전투 효율성을 증가시켰습니다."
+ 
+ ARMOUR_TITLE_CAMO:0 "도색"
+ painting:0 "단색도색" #new
+ painting_desc:0 "공장제 단색도색 입니다." #new
+ painting2:0 "공장제 위장도색" #new
+ painting2_desc:0 "우리의 전차를 위한 새로운 위장도색 입니다. 공장에서 직접 페인트칠을 하여 도색하는 이 새로운 위장도색은 매복 공격에 대한 더 나은 방어효과와 침투 작전을 가능하게 해줄 것입니다." #new
+ painting3:0 "야전 위장도색" #new
+ painting3_desc:0 "우리의 전차를 위한 새로운 위장도색 입니다. 우리의 부대가 공장제 위장도색에 전장의 상황과 환경에 알맞게 재도색 할 수 있도록 허용한다면 매복 공격에 대한 더 나은 방어효과와 침투 작전을 가능하게 해줄 것입니다." #new
+ painting4:0 "준현대식 위장도색" #new
+ painting4_desc:0 "우리의 전차를 위한 새로운 위장도색 입니다. 프리패브 도색은 현장에서 더욱 더 쉽게 도색을 할 수 있으며, 이를 통해 최초로 도색된 공장제 도색의 내구성이 향상됩니다."
+ painting5:0 "현대식 위장도색" #new
+ painting5_desc:0 "우리의 전차를 위한 새로운 위장도색 입니다. 도색에 사용된 도료는 다목적에 내구성이 높기 때문에 적의 투척화기에도 도색이 지워지지 않습니다."
+ 
+ INFANTRY_TITLE_CLOTHING:0 "군복"
+ camo:0 "기본적인 군복"
+ camo_desc:0 "1차 세계대전 당시부터 사용되어 왔던 기본적인 단색 군복입니다."
+ camo1942:0 "진보된 위장 패턴"
+ camo1942_desc:0 "매복 혹은 침투작전 도중 적에게 발각될 확률을 줄어들도록 설계된 새로운 위장 패턴입니다."
+ camo1948:0 "준현대식 위장 패턴"
+ camo1948_desc:0 "더욱더 가벼워지고 더욱더 발각되기 어려워져 쉬운 매복과 침투작전을 수행 할 수 있도록 설계된 새로운 위장 패턴입니다."
+ camo1955:0 "현대식 위장 패턴
+ camo1955_desc:0 "자네가 틀렸는지도 몰라, 잘 모르겠군."
+ winter_clothes_gw:0 "동계용 군복"
+ winter_clothes_gw_desc:0 "모직으로 만든 동계용 군복입니다. 그렇게 효과적이진 않지만, 없는 것보단 낫죠."
+ winter_clothes_1939:0 "개선된 동계용 군복"
+ winter_clothes_1939_desc:0 "좀 더 개선된 동계용 군복입니다. 따뜻한 면 모직으로 제작된 페디드 자켓이 추가되었습니다."
+ winter_clothes_1941:0 "진보된 동계용 군복"
+ winter_clothes_1941_desc:0 "따뜻한 천연 털과 인조 털로 제작된 진보된 동계용 군복입니다. 초기형 수소성 물질로 코팅 처리를 거친 흰색 군복입니다."
+ winter_clothes_1944:0 "현대식 동계용 군복"
+ winter_clothes_1944_desc:0 "단열재 코팅 처리된 제킷에 특수 경량 소재의 원단으로 제작된 현대식 사막 & 정글전용 군복입니다. 군복은 사막과 정글에서의 전투에 더 효과적일 수 있도록 황갈색, 검정, 갈색으로 제작됬으며, 경량 소재로 제작되어 우리의 군인들이 받는 하중이 줄여주며 상쾌하고 건조한 상태를 유지 할 수 있게 해줄 것입니다."
+ jngdst_clothes_gw:0 "사막 & 정글전용 군복" #new
+ jngdst_clothes_gw_desc:0 "면으로 제작된 사막 & 정글전용 군복입니다. 그렇게 효과적이진 않지만, 없는 것보단 낫죠." #new
+ jngdst_clothes_1939:0 "개선된 사막 & 정글전용 군복" #new
+ jngdst_clothes_1939_desc:0 "얇은 면으로 제작된 사막 & 정글전용 군복입니다. 모래로 뒤덮인 환경에서 전투를 수행하는 군인들을 돕기위해 고글이 추가되었습니다." #new
+ jngdst_clothes_1941:0 "진보된 사막 & 정글전용 군복" #new
+ jngdst_clothes_1941_desc:0 "얇은 천연 면으로 제작된 진보된 사막 & 정글전용 군복으로 특수한 코팅 처리가 되어 있어 고온 및 다습한 환경에서 전투를 수행하는 병사들을 돕기위해 더 빨리 건조되는 군복입니다." #new
+ jngdst_clothes_1944:0 "현대식 사막 & 정글전용 군복" #new
+ jngdst_clothes_1944_desc:0 "단열재 코팅 처리된 제킷에 특수 경량 소재의 원단으로 제작된 현대식 사막 & 정글전용 군복입니다. 군복은 사막과 정글에서의 전투에 더 효과적일 수 있도록 황갈색, 검정, 갈색으로 제작됬으며, 경량 소재로 제작되어 우리의 군인들이 받는 하중이 줄여주며 상쾌하고 건조한 상태를 유지 할 수 있게 해줄 것입니다." #new
+
+ AIR_TITLE_DROPTANK:0 "낙하연료탱크"
+ droptank40:0 "낙하연료탱크 1"
+ droptank40_desc:0 "우리의 항공기에 외부장착 낙하연료탱크를 장착한다면 항공기의 항속거리를 늘릴 수 있습니다."
+ droptank44:0 "낙하연료탱크 2"
+ droptank44_desc:0 "더욱 가벼워짐과 동시에 용적량은 커진 외부장착 낙하연료탱크 입니다."
+ droptank45:0 "낙하연료탱크 3"
+ droptank45_desc:0 "가장 최근에 제작된 낙하연료탱크 입니다. 항공기의 항속거리를 늘려줄 것이지만 항공기의 무게에 영향을 주지 않기 위해선 제트 반응기가 필요합니다."
+ droptank55:0 "낙하연료탱크 4"
+ droptank55_desc:0 "우리의 낙하연료탱크는 더욱더 가벼워짐과 동시에 더 많은 연료를 탑제 할 수 있습니다."
+ 
+ ###------> Misc.   <><> <><> <><> <><> <><>
+ 
+ r56_tooltip_SRD_unlock:0 "특수 연구 사단 해금
+ 
+ elite_forces_02:0 "최정예 부대 2"
+ elite_forces_02_desc:0 "최고로 우수한 병사만이 특수부대원이 될 수 있습니다. 혹독한 훈련을 이겨낸 병사들은 그 누구보다도 강하고, 빠르고, 열심히 싸울 것입니다."
+ elite_forces_03:0 "Elite Forces 3"
+ elite_forces_03_desc:0 "최고로 우수한 병사만이 특수부대원이 될 수 있습니다. 혹독한 훈련을 이겨낸 병사들은 그 누구보다도 강하고, 빠르고, 열심히 싸울 것입니다."
+
+TITLE_EXP_ROCKETS_SUBTITLE:0 "로켓 공학"
+
+icbm_missile_equipment_1:0 "핵 탑재 대륙간 탄도 미사일"
+icbm_missile_equipment_1_desc:0 ""
+
+nukes_3:0 "소형화 핵 미사일"
+nukes_3_desc:0 ""
+nuke_rocket_engines:0 "핵 탑재 대륙간 탄도 미사일"
+nuke_rocket_engines_desc: ""
+
+modern_AA_01:0 "현대식 방공 시스템"
+modern_AA_01_desc:0 ""
+modern_AA_02:0 "현대식 방공 시스템 2"
+modern_AA_02_desc:0 ""
+modern_AA_03:0 "현대식 방공 시스템 3"
+modern_AA_03_desc:0 ""
+
+modern_fc_radar_01:0 "현대식 사격통제 레이더"
+modern_fc_radar_01_desc:0 ""
+modern_fc_radar_02:0 "현대식 사격통제 레이더 2"
+modern_fc_radar_02_desc:0 ""
+
+modern_sonar_01:0 "현대식 음향표정장치"
+modern_sonar_01_desc:0 ""
+modern_sonar_02:0 "현대식 음향표정장치 2"
+modern_sonar_02_desc:0 ""
+modern_sonar_03:0 "현대식 음향표정장치 3"
+modern_sonar_03_desc:0 ""
+
+modern_torpedoes_01:0 "현대식 어뢰"
+modern_torpedoes_01_desc:0 ""
+modern_torpedoes_02:0 "현대식 어뢰 2"
+modern_torpedoes_02_desc:0 ""
+modern_torpedoes_03:0 "현대식 어뢰 3"
+modern_torpedoes_03_desc:0 ""
+#####---------------------------------------------------------------------> End
