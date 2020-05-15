@@ -1,0 +1,55 @@
+﻿l_english:
+
+ MCD_fascism_party:0 "VMRO"
+ MCD_fascism_party_long:0 "VMRO"
+ MCD_neutrality_party:0 "코미타지"
+ MCD_neutrality_party_long:0 "코미타지"
+ 
+ MCD_metodi_shatorov:0 "메토디 샤토로프"
+ MCD_hristo_tatarchev:0 "흐리스토 타타르체프"
+ MCD_simeon_radev:0 "시메온 라데프"
+ MCD_panayot_hitrov:0 "파나요트 히트로브"
+ MCD_dimitur_talev:0 "디미터르 탈레프"
+ MCD_spiro_kitinchev:0 "스피로 키틴쳬브"
+ MCD_ivan_mihailov:0 "이반 미하일로프"
+ MCD_metodij_gogov:0 "메토디즈 고고브"
+ MCD_lazar_kolisevski:0 "라자르 콜리셰프스키"
+ MCD_kuzman_josifovski_pitu:0 "쿠즈만 요시포프스키 피투"
+ MCD_lazar_mojsoc:0 "라자르 모즈소크"
+ MCD_dimitar_vlahov:0 "디미터르 블라호프"
+ 
+ MCD_mihailo_apostolski:0 "미하일로 아포스톨스키"
+ MCD_stojan_krstic:0 "스토얀 크르스티치"
+ 
+ 
+ MCD_YUG_neutrality_autonomy_dominion:0 "마케도니아 바노비나"
+ MCD_YUG_neutrality_autonomy_colony:0 "마케도니아 바노비나"
+ MCD_YUG_neutrality_autonomy_puppet:1 "마케도니아 바노비나"
+ MCD_YUG_neutrality_autonomy_integrated_puppet:0 "마케도니아 바노비나"
+ MCD_YUG_neutrality_autonomy_dominion_DEF:0 "마케도니아 바노비나"
+ MCD_YUG_neutrality_autonomy_colony_DEF:0 "마케도니아 바노비나"
+ MCD_YUG_neutrality_autonomy_puppet_DEF:1 "마케도니아 바노비나
+ MCD_YUG_neutrality_autonomy_integrated_puppet_DEF:0 "마케도니아 바노비나" 
+ 
+ MCD_BUL_neutrality_autonomy_dominion:0 "마케도니아 자치 공국"
+ MCD_BUL_neutrality_autonomy_colony:0 "마케도니아 자치 공국"
+ MCD_BUL_neutrality_autonomy_puppet:1 "마케도니아 자치 공국"
+ MCD_BUL_neutrality_autonomy_integrated_puppet:0 "마케도니아 자치 공국"
+ MCD_BUL_neutrality_autonomy_dominion_DEF:0 "마케도니아 자치 공국"
+ MCD_BUL_neutrality_autonomy_colony_DEF:0 "마케도니아 자치 공국"
+ MCD_BUL_neutrality_autonomy_puppet_DEF:1 "마케도니아 자치 공국"
+ MCD_BUL_neutrality_autonomy_integrated_puppet_DEF:0 "마케도니아 자치 공국"
+ 
+ 
+ MCD_fascism:0 "마케도니아 독립국"
+ MCD_neutrality:0 "마케도니아 공국"
+ MCD_democratic:0 "마케도니아 공화국"
+ MCD_communism:0 "마케도니아 사회주의 공화국" 
+ MCD_fascism_DEF:0 "마케도니아 독립국"
+ MCD_neutrality_DEF:0 "마케도니아 공국"
+ MCD_democratic_DEF:0 "마케도니아 공화국"
+ MCD_communism_DEF:0 "마케도니아 사회주의 공화국"  
+ MCD_fascism_ADJ:0 "마케도니아"
+ MCD_neutrality_ADJ:0 "마케도니아"
+ MCD_democratic_ADJ:0 "마케도니아"
+ MCD_communism_ADJ:0 "마케도니아" 

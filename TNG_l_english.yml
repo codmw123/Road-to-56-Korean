@@ -1,0 +1,17 @@
+﻿l_english:
+ TNG_neutrality:0 "퉁가니스탄"
+ TNG_neutrality_DEF:0 "퉁가니스탄"
+ TNG_fascism:0 "퉁가니스탄"
+ TNG_fascism_DEF:0 "퉁가니스탄"
+ TNG_communism:0 "퉁가니스탄"
+ TNG_communism_DEF:0 "퉁가니스탄"
+ TNG_democratic:0 "퉁가니스탄"
+ TNG_democratic_DEF:0 "퉁가니스탄"  
+
+
+ TNG_neutrality_ADJ:0 "퉁간"
+ TNG_fascism_ADJ:0 "퉁간"
+ TNG_communism_ADJ:0 "퉁간"
+ TNG_democratic_ADJ:0 "퉁간" 
+
+ TNG_generic_industrial_concern:0 "허톈 조폐국"

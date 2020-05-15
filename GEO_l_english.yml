@@ -1,0 +1,19 @@
+﻿l_english:
+ fate_of_georgia_category:0 "조지아의 운명"
+ fate_of_georgia_category_desc:0 "중세까지 거슬러가는 유구한 역사를 지닌 고대 왕국 조지아는 1차 세계대전 이후 잠시 러시아로부터 해방되었지만, 볼셰비키가 와 다른 형태로서 러시아의 지배를 이어나갔습니다. 국가의 자원병과 이전의 상류층은 망명 중이지만, 다말의 땅의 자유는 다시 회복될 수 있습니다."
+ GEO_liberators:0 "조지아의 해방자"
+ 
+ GEO_form_georgian_national_council:0 "조지아 국회 구성"
+ GEO_establish_georgian_legion:0 "조지아 군대 징병"
+ GEO_establish_georgian_legion_cost:0 "£army_experience §H10§! £pol_power §H25§! £command_power §H25§!"
+ GEO_establish_georgian_legion_cost_blocked:0 "£army_experience §R10§! £pol_power §R25§! £command_power §R25§!"
+ GEO_establish_georgian_legion_cost_tooltip:0 "선택하려면 £army_experience 10, £pol_power 25 ,£command_power 25 이(가) 필요합니다."
+ GEO_establish_national_georgian_government:0 "조지아 정부 설립"
+ 
+ GEO_event.1.t:0 "의용군의 귀향 요구"
+ GEO_event.1.desc:0 "[SOV.GetName]와(과) 싸우고 조지아를 해방시키기 위해 의용군이 설립되었습니다. [SOV.GetAdjective]이(가) 패배함에 따라, 이 의용군은 자신들의 임무를 완수해 집으로 돌아가고 싶어합니다."
+ GEO_event.1.a:0 "조금 더 있어달라고 설득합시다." 
+ GEO_event.1.b:0 "전역시키세요."
+
+
+GEO_generic_light_aircraft_manufacturer:0 "Tbilisi Aircraft State Association"

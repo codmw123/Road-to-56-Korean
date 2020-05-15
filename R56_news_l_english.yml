@@ -1,0 +1,29 @@
+﻿l_english:
+ 
+#News
+r56.news_event.1.t:0 "무솔리니의 실각"
+r56.news_event.1.desc:0 "에티오피아에서의 패전 및 양국 정부의 평화 협정 이후, 무솔리니를 수상에서 하야시키고 선거를 요구하는 대규모 시위가 거의 모든 도시에서 일어나 대규모 사회 불안정을 초래했고 반란의 가능성까지 보였습니다. 비토리오 에마누엘레 3세는 무솔리니의 수상 지위를 박탈했고 피에트로 바돌리오를 임시 수상으로 앉혔습니다. 로마 마피아는 파시스트당 본부를 습격했고, 무솔리니는 자신이 쏜 총에 맞아 죽어 있었습니다."
+r56.news_event.1.a:0 "이탈리아 군대의 무능함이 다시금 증명되었습니다!"
+
+#1938 world cup
+
+r56.news_event.2.t:0 "1938년 월드컵"
+r56.news_event.2.d:0 "최근 프랑스에서 월드컵이 개최되었으며, 이 대회는 역대 세 번째 월드컵이었습니다. 15팀이 참가했으며 토너먼트 방식으로 진행되었습니다. \n \n[SWI.GetName] upset [GER.GetName] in the first round. Though the [SWI.GetName] were knocked out in the next round by the [HUN.GetName]. The [HUN.GetAdjective] team made it all the way to the finals but were ultimately defeated by [ITA.GetName]. This is [ITA.GetName]'s second time winning the Tournament.\n \n The World Cup was a pleasant distraction for many. Getting minds away from the storm clouds that are forming over the globe."
+r56.news_event.2.a:0 "4년 후에 봅시다!"
+r56.news_event.2.b:0 "Glory to all [ITA.GetAdjective]s"
+ 
+r56.news_event.3.t:0 "알바니아의 코민테른 가입"
+r56.news_event.3.d:0 "알바니아 공산당의 총서기인 엔베르 호자는 코민테른 가입 요청을 보냈습니다. 소비에트 연방은 알바니아를 회원국으로 인정했고 구 알바니아 왕국은 이제 제3인터내셔널의 일부가 되었습니다. 두 나라가 같은 이념과 야망을 가지고 있기 때문에, 두 나라의 우정은 단단할 것이며, 알바니아의 유럽에서의 미래는 밝아 보입니다."
+r56.news_event.3.a:0 "공산주의 이상의 또 다른 승리입니다!"
+#was news 336
+r56.news_event.4.t:0 "알바니아의 추축국 가입!"
+r56.news_event.4.d:0 "독일이 알마니아의 추축국 가입 요청을 받아들였습니다. 독일과 알바니아는 이제 공산주의와 민주주의에 함께 맞설 것입니다. 조그 왕은 세계에 자신의 나라의 힘을 보여줄 것이라고 표현했습니다. 영국과 프랑스는 유럽에서의 파시즘 성장에 우려를 표했고 독일 정치인들에게 독일이 베르사유 조약을 존중해야 함을 말했습니다. 서쪽의 민주 국가들은 독일과 알바니아에 대응하려고 하지는 않고 있습니다."
+r56.news_event.4.a:0 "알바니아는 살았습니다!"
+#Mythical Event, Prob would had been held in South America due to FIFA internal politics. 
+
+#1942 world cup
+
+r56.news_event.6.t:0 "1942 World cup"
+r56.news_event.6.desc:0 "The World Cup was held recently in [URG.GetName]. This was the Fourth edition of the tournament. Sixteen teams participated in a knock style tournament. \n \nThe returning champions [ITA.GetName] were defeated in the second round by the hosts. Though hosts' run would end in the semi-finals as they were defeated by [GER.GetName]. The [GER.GetAdjective] team would go on the win in the finals by defeating [BRA.GetName] in a tense game. This was the [GER.GetName]'s first time winning the Tournament.\n \n The World Cup was a pleasant distraction for many. Getting minds away from the tense political situation developing around the world."
+r56.news_event.6.a:0 "Let's do it again in four years!"
+r56.news_event.6.b:0 "Glory to all [GER.GetAdjective]s"

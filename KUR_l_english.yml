@@ -1,0 +1,19 @@
+﻿l_english:
+
+ KUR_democratic_party:0 "KDP"
+ KUR_democratic_party_long:0 "쿠르디스탄 민주당"
+ KUR_communism_party:0 "PDK"
+ KUR_communism_party_long:0 "쿠르디스탄 민주당" 
+ 
+ KUR_fascism:0 "쿠르드국"
+ KUR_fascism_DEF:0 "쿠르드국"
+ KUR_democratic:0 "쿠르디스탄 공화국"
+ KUR_democratic_DEF:0 "쿠르디스탄 공화국"
+ KUR_neutrality:0 "쿠르디스탄 왕국"
+ KUR_neutrality_DEF:0 "쿠르디스탄 왕국"
+ KUR_communism:0 "쿠르드 인민 공화국"
+ KUR_communism_DEF:0 "쿠르드 인민 공화국"
+ KUR_fascism_ADJ:0 "쿠르드"
+ KUR_democratic_ADJ:0 "쿠르드"
+ KUR_neutrality_ADJ:0 "쿠르드"
+ KUR_communism_ADJ:0 "쿠르드"

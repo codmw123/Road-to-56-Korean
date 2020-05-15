@@ -1,0 +1,29 @@
+﻿l_english:
+ USA_bethlehem_steel:0 "베들레헴스틸"
+ USA_bethlehem_shipbuilding_corporation:0 "베들레헴 조선"
+ USA_william_c_lee:0 "윌리엄 C. 리"
+ USA_elwood_richard_quesada:0 "엘우드 R. 퀘사다"
+
+ USA_curtiss_wright:0 "커티스 라이트"
+ USA_claude_shannon:0 "클로드 섀넌"
+ USA_waco:0 "워코"
+ USA_standard_oil_new_jersey:0 "스탠더드 오일 오브 뉴저지"
+ USA_lima_locomotive_works:0 "리마 기관차 공장"
+ 
+ r56_USA_decision_the_jumping_general:0 "낙하하는 장군"
+
+ r56_USA_decision_rural_electrification_act:0 "농사전화법"
+ r56_USA_decision_flood_control_act:0 "홍수방지법"
+ r56_USA_decision_anti_price_discrimination_act:0 "가격차별금지법"
+ r56_USA_decision_foreign_agents_registration_act:0 "외국대리인등록법"
+ r56_USA_decision_second_vinson_act:0 "제2차 빈슨법"
+ 
+ USA_expand_unoffical_operations:0 "비공식 작전 확대"
+ USA_expand_unoffical_operations_desc:0 "우리는 경험을 통해 정보가 승리와 패배를 가를 수 있다고 알게 되었습니다. 정보는 승리를 가져다줄 수도 있지만 전쟁을 방지할 수도 있습니다. 잘 설치된 폭탄 하나는 폭격기 편대 하나를 대체할 수 있고 잘 침투한 요원 한 명은 사단 하나를 대체할 수 있습니다."
+
+
+
+ r56_usa.1.t:0 "1948년 대선"
+ r56_usa.1.desc:0 "다시 한 번 토머스 E. 듀이가 현 재임자에 맞선 후보가 되었습니다. 이번에는 해리 S. 트루먼이 프랭클린 루스벨트의 기조를 이어 받아 대선에 나왔습니다."
+ r56_usa.1.a:0 "트루먼이 승리한다."
+ r56_usa.1.a:0 "듀이가 승리한다."

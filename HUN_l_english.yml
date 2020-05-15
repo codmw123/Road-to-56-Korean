@@ -1,0 +1,43 @@
+﻿l_english: 
+
+ HUN_form_the_mdp:0 "헝가리 노동인민당 창당"
+ HUN_form_the_mdp_desc:0 "공산당이 이끄는 여러 좌익 정당들의 연합 전선을 만들어 정당들을 개편해야 합니다."
+ HUN_turn_the_adriatic_red:0 "아드리아해를 붉게"
+
+ HUN_liberate_the_austrians:0 "오스트리아인 해방"
+
+ HUN_expand_the_levente:0 "레벤테 확충"
+ HUN_expand_the_levente_desc:0 "레벤테 협회는 1921년에 설립된 준군사조직으로, 원래는 육체와 건강 수련이라는 목적을 가지고 있었지만 후에 트리아농 조약의 제한을 회피하기 위해 군사화되었습니다."
+HUN_acquire_skoda_naval_artillery_experience:0 "스코다 함포 기술 습득"
+ HUN_acquire_skoda_naval_artillery_experience_desc:0 "스코다는 오스트리아-헝가리 제국 해군의 함포를 설계했으며, 그 경험을 다시 활용할 때가 왔습니다." 
+
+
+ HUN_john_von_neumann:0 "너이먼 야노시 러요시"
+ HUN_paul_erdos:0 "에르되시 팔"
+ HUN_carrier:0 "항공모함 연구"
+ HUN_carrier_desc:0 "함재기는 해전의 다음 단계입니다."
+ mavag_tank:0 "MÁVAG"
+ mw_tank:0 "먼프레드 베이시"
+ digep:0 "디게프"
+ raba:0 "라버"
+ maort:0 "헝가리-미국 석유회사"
+ haesz:0 "HAESZ"
+ HUN_generic_medium_aircraft_manufacturer:0 "항공 기술 연구소"
+ HUN_generic_heavy_aircraft_manufacturer:0 "항공 기술 연구소"
+ HUN_diosgyor_iron_and_steelworks:0 "디오슈죄르 제철소"
+ HUN_generic_naval_aircraft_manufacturer:0 "AVIS"
+ HUN_ikarus:0 "우흐리 형제 차체 및 차량 공장"
+
+ HUN_amphibious_tank_equipment_1:0 "슈트러우슐레르 V–4"
+ #
+ 
+ #kinda easter egg
+ HUN_impose_admiralty_government_GER:0 "해군이 정부를 이끌도록 독일에게 강요"
+ HUN_impose_admiralty_government_FRA:0 "해군이 정부를 이끌도록 프랑스에게 강요"
+
+ HUN_organize_workers_collectives:0 "노동자 협동조합 조직"
+ HUN_organize_workers_collectives_desc:0 "노동자 협동조합을 조직함으로써 우리는 경제를 완전히 장악하고 자본주의의 관에 못을 박을 수 있습니다."
+ HUN_new_invasion_of_slovakia:0 "새로운 슬로바키아 침공"
+ HUN_new_invasion_of_slovakia_desc:0 "슬로바키아인들을 영원히 복속시키고 1919년의 실패에 대한 복수를 하도록 합시다."
+ HUN_oil_refining_infrastructure:0 "석유 정제 기반시설"
+ HUN_oil_refining_infrastructure_desc:0 "우리의 유전을 최대한으로 활용하기 위해 우리는 국가적으로 필요한 정제소 및 연료 저장고를 건설해야 합니다."
