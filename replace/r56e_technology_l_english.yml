@@ -1,10 +1,10 @@
-﻿#####---------------------------------------------------------------------> Mod by Sig "GreatExperiment" Altre
+#####---------------------------------------------------------------------> Mod by Sig "GreatExperiment" Altre
 
 #--> All the new techs
 
 l_english: 
 ## trying to fix base game decimetric radar tech
-  decimetric_radar:0 "데시미터파 레이다"
+  decimetric_radar:0 "데시미터파 레이더"
  
  
 ### Extra tech categories
@@ -13,8 +13,8 @@ l_english:
   refining_tech_research:0 "연료 정제 연구 속도"
   naval_armor_tech:0 "해군 장갑 기술"
   naval_gunnery_tech:0 "함포 기술"
-  naval_shell_tech:0 "Naval Shell Technologies"
-  damage_control_tech:0 "Damage Control Technologies"
+  naval_shell_tech:0 "해군 포탄 기술"
+  damage_control_tech:0 "피해 통제 기술"
   
   
 ### Extra Special Forced Tech Categories
@@ -253,17 +253,17 @@ l_english:
  
  
 ###------> Nuclear  <><> <><> <><> <><> <><>
- nuke_naval:0 "해군용 핵 추진 엔진"
- nuke_naval_desc:0 "We've theorized that our largest and most powerful ships can be given nuclear reactors. Hopefully with time we can find a way to make this a reality."
- nukes_2:0 "핵 융합 반응 실험"
- nukes_2_desc:0 "Designs have been laid out for a bomb that uses fission to produce an even more powerful fusion reaction. With this, we should be able to significantly increase our yields." 
+ nuke_naval:0 "해군용 원자력 추진 엔진"
+ nuke_naval_desc:0 "우리는 우리의 가장 크고 강력한 함선들에 원자로를 달 수 있다고 이론화했습니다. 시간만 있으면 우리는 이를 현실로 만들 수 있을지도 모릅니다."
+ nukes_2:0 "원자핵 융합 반응 실험"
+ nukes_2_desc:0 "핵분열로 더 강력한 융합 반응을 만들어낼 수 있는 폭탄의 설계가 제시되었습니다. 이를 통해 우리는 산출량을 크게 증가시킬 수 있을 것입니다." 
 
 
 ###------> Rockets  <><> <><> <><> <><> <><>
- semi_modern_rocket_engines:0 "만국의 로켓공학"
- semi_modern_rocket_engines_desc:0 "이 새로운 로켓은 다른 국가들로부터 획득한 아이디어와 이론이 포함되어있습니다."
+ semi_modern_rocket_engines:0 "국제적 로켓 공학 연구"
+ semi_modern_rocket_engines_desc:0 "이 새로운 로켓은 다른 국가들로부터 획득한 아이디어와 이론이 포함되어 있습니다."
  modern_rocket_engines:0 "초기형 대륙간탄도미사일"
- modern_rocket_engines_desc:0 "We have begun to test and lay the groundwork for rockets capable of entering space, and thus deliver a payload to any point on the planet."
+ modern_rocket_engines_desc:0 "우리는 우주에 진입이 가능해 지구상 어느 곳에나 타격을 줄 수 있는 로켓의 시험과 기초 연구를 시작했습니다."
  
  
 ###------> Support  <><> <><> <><> <><> <><>
