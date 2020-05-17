@@ -1,4 +1,4 @@
-﻿#####---------------------------------------------------------------------> Mod by Sig "GreatExperiment" Altre
+#####---------------------------------------------------------------------> Mod by Sig "GreatExperiment" Altre
 
 #--> Buildings
 
@@ -7,17 +7,17 @@ l_english:
 
  aluminum_mill:0 "알루미늄 공장"
  aluminum_mill_plural:0 "알루미늄 공장"
- aluminum_mill_desc:0 "알루미늄 공장은 알루미늄 자원을 생산합니다."
+ aluminum_mill_desc:0 "알루미늄 공장은 주에 새로운 알루미늄 자원을 제공합니다."
  aluminum_mill_amount:0 "$VALUE|Y0=$"
  aluminum_mill_resource:0 "£resources_strip|$FRAME$" 
- steel_mill:0 "철강 공장"
- steel_mill_plural:0 "철강 공장"
- steel_mill_desc:0 "철강 공장은 철강 자원을 생산합니다."
+ steel_mill:0 "제철소"
+ steel_mill_plural:0 "제철소"
+ steel_mill_desc:0 "제철소는 주에 새로운 강철 자원을 제공합니다."
  steel_mill_amount:0 "$VALUE|Y0=$"
  steel_mill_resource:0 "£resources_strip|$FRAME$" 
  rubber_refinery:0 "고무 정제소"
  rubber_refinery_plural:0 "고무 정제소"
- rubber_refinery_desc:0 "고무 정제소는 고무 자원을 생산합니다."
+ rubber_refinery_desc:0 "고무 정제소는 주에 새로운 고무 자원을 제공합니다."
  rubber_refinery_amount:0 "$VALUE|Y0=$"
  rubber_refinery_resource:0 "£resources_strip|$FRAME$" 
  
