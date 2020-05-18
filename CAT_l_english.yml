@@ -1,4 +1,7 @@
 ﻿l_english:
+ 
+ CAT_deploy_the_aragonese_fleet:0 "아라곤 함대 배치"   
+ 
  CAT_fascism:0 "카탈루냐국"
  CAT_fascism_DEF:0 "카탈루냐국"
  CAT_democratic:0 "카탈루냐 공화국"
@@ -18,7 +21,7 @@
  CAT_joan_garcia:0 "조안 가르시아"
  CAT_carles_pi_i_sunyer:0 "카를레스 피 이 수녜르"
  CAT_daniel_cardona:0 "다니엘 카르도나"
- CAT_ventura_cassol:0 "벤투라 카솔"
+ CAT_ventura_cassol:0 "벤투라 가솔"
  CAT_josep_puig_i_cadafalch:0 "조제프 푸치 이 카다팔크"
  CAT_federica_montseny_mane:0 "페데리카 몬세니 마네"
  
@@ -26,12 +29,12 @@
  
  CAT_pirelli:0 "피렐리"
  CAT_taller_bernat:0 "탈례르 베르나트"
- CAT_can_castanyer_y_can_simon:0 "칸 카스타녜르 이 칸 시몬"
+ CAT_can_castanyer_y_can_simon:0 "칸 카스타녜르 & 칸 시몬"
  CAT_enric_sanchis:0 "엔리크 상이스"
  CAT_hispano_suiza:0 "이스파노 수이자"
  CAT_maquinista:0 "마키니스타"
  CAT_drassanes:0 "드라사네스"
- CAT_construccions_aereonautiques_sa:0 "콘스트룩시온스 아에레오나우티케스 SA"
+ CAT_construccions_aereonautiques_sa:0 "CASA"
  CAT_aviacio_de_la_generalitat:0 "아비아시오 데 라 제네랄리타트"
  CAT_aeronaval_de_barcelona:0 "아에로나발 데 바르셀로나"
  CAT_fabrica_hidroavions_tarragona:0 "파브리카 이드로아비온스 타라고나"
