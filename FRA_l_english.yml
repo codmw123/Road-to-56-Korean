@@ -138,7 +138,7 @@ l_english:
 	
  infantry_equipment_producer_mass:0 "보병장비 양산 회사"
  medium_tank_manufacturer:0 "중형전차 설계사"
- motorised_equipment_producer_quality:0 "고품질 차량화 설계사"
+ motorised_equipment_producer_quality:0 "고품질 차량 설계사"
  artillery_producer_defense:0 "방어적 야포 설계사"
  support_equipment_producer_mass:0 "지원장비 양산 회사"
  construction_concern:0 "건설 업체"
