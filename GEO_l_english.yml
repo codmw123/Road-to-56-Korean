@@ -7,7 +7,7 @@
  GEO_establish_georgian_legion:0 "조지아 군단 징병"
  GEO_establish_georgian_legion_cost:0 "£army_experience §H10§! £pol_power §H25§! £command_power §H25§!"
  GEO_establish_georgian_legion_cost_blocked:0 "£army_experience §R10§! £pol_power §R25§! £command_power §R25§!"
- GEO_establish_georgian_legion_cost_tooltip:0 "선택하려면 £army_experience 10, £pol_power 25 ,£command_power 25가 필요합니다."
+ GEO_establish_georgian_legion_cost_tooltip:0 "선택하려면 £army_experience 10, £pol_power 25, £command_power 25가 필요합니다."
  GEO_establish_national_georgian_government:0 "조지아 국민정부 설립"
  
  GEO_event.1.t:0 "의용군의 귀향 요구"
