@@ -141,7 +141,7 @@ l_english:
  motorised_equipment_producer_quality:0 "고품질 차량화 설계사"
  artillery_producer_defense:0 "방어적 야포 설계사"
  support_equipment_producer_mass:0 "지원장비 양산 회사"
- construction_concern:0 "건설 회사"
+ construction_concern:0 "건설 업체"
  ship_producer_mass:0 "함선 양산 회사"
  tank_producer_mass:0 "전차 양산 회사"
  tank_producer_quality:0 "고품질 전차 설계사"
@@ -151,7 +151,7 @@ l_english:
  medium_aircraft_manufacturer_2:0 "중형비행기 설계사"
  heavy_aircraft_manufacturer_2:0 "중비행기 설계사"
  jet_concern:0 "제트 엔진 설계사"
- refinery_concern:0 "정유 회사"
+ refinery_concern:0 "정유 업체"
 
  ############################
 			#### COSMETIC TAGS ####
