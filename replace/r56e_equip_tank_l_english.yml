@@ -3154,7 +3154,7 @@ RAJ_light_tank_destroyer_equipment_1:0 "Universal Carrier 2-pounder"
 
 
 ###--->  MAN  <><> <><> <><>
- MAN_amphibious_tank_equipment_1:0 ""특 2식 내화정 '카미'"
+ MAN_amphibious_tank_equipment_1:0 "특 2식 내화정 '카미'"
  MAN_amphibious_tank_equipment_1_short:0 "카미"
  MAN_amphibious_tank_equipment_2:0 "특 3식 내화정 '카치'"
  MAN_amphibious_tank_equipment_2_short:0 "카치"
