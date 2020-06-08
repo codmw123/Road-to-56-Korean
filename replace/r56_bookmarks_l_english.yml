@@ -3,15 +3,18 @@
  #####-----> Bookmarks Localization <><> <><> <><> <><> <><>
  #Keep in mind countries that don't appear here might use their localization from the base game or country-specific files.
  
- ###---> Currently Used <><> <><> <><>
- 
+ ###---> Currently Used <><> <><> <><> 
  GRE_GATHERING_STORM_DESC:0 "그리스에게 대전쟁은 1918년에 끝나지 않았습니다. 국론 분열의 끔찍한 결과와 재앙과도 같았던 터키와의 전쟁은 그리스에 여러 상흔을 남겼습니다. 대공황, 실업, 사회적·정치적 불안과 극단주의의 대두는 그리스라는 조그만 나라를 스스로의 미래를 결정하고 산적한 문제를 극복하여 그들의 유산을 직시할 수 있는 갈림길에 서게 만들었습니다."
   
  HOL_GATHERING_STORM_DESC:0 "네덜란드는 현재 심각한 위기에 처해 있습니다. 네덜란드는 대공황으로 인한 타격을 다른 나라보다 조금 늦게 받았으며, 그 결과 현재 더 나쁜 상황에 직면하고 있습니다. 실업률은 사상 최고치를 기록했지만, 정부는 지금까지 아무 대책을 내놓지 않았으며 균형예산 정책과 금본위제 유지를 선호하고 있습니다. 다행히도 정부의 경제 정책은 국민의 압력으로 바뀌고 있습니다. 또한, 엎친 데 덮친 격으로 독일은 재무장 중이며, 정부는 유럽이 다시 한 번 전쟁에 불타게 되면 이번에는 중립을 지키기 매우 힘들 것이라는 점을 알고 있습니다."
    
  PER_GATHERING_STORM_DESC:0 "북부의 사회주의 반란과 모하마드 타키 페시안 대령의 반란으로 대표되는 1921년의 사건들의 혼란 속에서, 레자 샤가 이끄는 새로운 이란이 만들어졌습니다. 그는 그가 쿠데타를 일으킨 그 해에 샤로 즉위했습니다.\n\n헌법이 존재함에도 정부는 강력한 국왕과 군대가 좌지우지하고 있으며, 국왕은 지속적으로 군대의 충성심을 확보하고 있습니다. 또한 정부는 강제적 현대화라는 관점 아래, 세속주의 개혁과 산업 개발을 진행하고 있습니다."
  
- IRE_GATHERING_STORM_DESC:0 "아일랜드는 수년간 힘든 상황에 놓여 있었습니다. 영국으로부터 독립을 쟁취한 뒤, 아일랜드는 영국과의 끝없는 무역 전쟁으로 시름하고 있으며 헌법의 문제도 아직 해결되지 않았습니다."
+ SIA_GATHERING_STORM_DESC:0 "1932년, 쿠데타로 절대군주정이 종식되고 최초의 헌법이 제정되었으며, 카나 랏차돈(인민당)이 정권을 잡았습니다. 하지만 군대는 총리를 축출하고 프라야 파혼폰파유하세나를 총리로 임명하는 등 정치의 많은 부분에 관여하고 있었습니다. 쁠랙 피분송크람이 상징하는 파시즘의 망령이 군대 내부에서 세를 키우자, 당내 갈등도 확대되고 있습니다. 과거의 동지들은 경쟁자가 되었으며, 단 한 명만이 국가의 운명을 결정하는 자리에 오를 수 있을 것입니다."
+
+ TUR_GATHERING_STORM_DESC:0 "After the Great War saw the fall of the Ottoman Empire, Turkey's future looked bleak. But Turkey has risen like a phoenix from out of the fires of the Turkish War of Independence. Lead by Mustafa Kemal Atatürk and his Kemalist ideology, Turkey looks strong and secure. But its people are tired and in need of peace. It will take another great change to awaken this sleeping lion."
+ 
+ LUX_GATHERING_STORM_DESC:0 "The Grand Duchy of Luxembourg is a landlocked country that has been through a lot in the most recent years. Repeated invasions from foreign countries, yet the small country still stands between giants. With the storm currently gathering... it's time for Luxembourg to prepare itself and take a firm stance."
  
  ###---> Currently Unused <><> <><> <><>
  BEL_GATHERING_STORM_DESC:0 "벨기에는 프랑스와 독일 사이의 별로 중요하지 않은 땅덩어리로 보일 수 있지만, 사실은 콩고 식민지로부터 귀중한 자원들을 채굴하는 고도로 공업화된 국가입니다. 벨기에는 대공황에서 회복하기 시작했으며, 기반시설 계획은 최고조에 달했고 산업 활동도 서서히 회복 중입니다. 정치에서는 더 많은 유권자들이 극단주의적인 담론에서 해결책을 찾고 있습니다. 레옹 드그렐의 인기는 하루하루 높아지고 있으며 민주주의 정당들의 전통적인 연정을 위협할지도 모릅니다. 한편 플란데런 민족주의자들도 활동 중이며, 군대의 하부 조직에 불만을 퍼뜨리고 있습니다..."
@@ -30,6 +33,8 @@
  
  ICE_GATHERING_STORM_DESC:0 "1918년 12월 1일 체결되어 25년의 유효 기간을 가지는 덴마크-아이슬란드 연합법으로 아이슬란드는 덴마크와 동군연합되어 있는 완전한 주권 국가로 바뀌었습니다. 아이슬란드 정부는 코펜하겐에 대사관을 설립한 후 덴마크가 알팅그와 협의 후 그들을 대신해 몇몇 국방 및 외교 업무를 대행해 달라고 요청했습니다."
  
+ IRE_GATHERING_STORM_DESC:0 "아일랜드는 수년간 힘든 상황에 놓여 있었습니다. 영국으로부터 독립을 쟁취한 뒤, 아일랜드는 영국과의 끝없는 무역 전쟁으로 시름하고 있으며 헌법의 문제도 아직 해결되지 않았습니다."
+ 
  LAT_GATHERING_STORM_DESC:0 "라트비아는 중대한 기로에 서있습니다. 동쪽에는 러시아가 소련으로 변했고, 굶주린 눈빛으로 서쪽을 노려보고 있습니다. 서쪽으로는 부활한 독일이 그 어느 때보다도 발트 국가들을 멸망시킬  준비를 마친 것처럼 보입니다. 앞으로의 몇 년 간은 라트비아에게 삶과 죽음의 기로가 될 것입니다. 우리는 두 대국 중 하나와 협력해야 할까요, 아니면 새로운 길을 걸어야 할까요? 시간만이 답을 알려줄 수 있지만, 그 시간은 계속 흘러가고 있습니다."
  
  SWI_GATHERING_STORM_DESC:0 "나폴레옹이 패배한 후 소집된 1815년 빈 회의 이후, 스위스 연방은 다른 나라들간의 분쟁에서 중립을 지킬 의무가 있습니다. 하지만 독일, 이탈리아, 그리고 오스트리아에서 파시스트들이 부상하고 있는 상황에서 스위스는 중립을 지킬 수 있을까요? 아니면 다가오는 전쟁에서 어느 한 쪽을 선택해야 할까요?"
@@ -40,12 +45,11 @@
  
  SAU_GATHERING_STORM_DESC:0 "헤자즈의 에미르인 샤리프 후세인 빈 알리를 쓰러뜨린 후, 압둘아지즈 이븐 압둘 라흐만 이븐 파이살 이븐 투르키 이븐 압둘라 이븐 무함마드 알사우드는 아라비아의 대부분을 사우드 왕가 아래 통일시키기 위한 전쟁을 15년간 계속했고, 1932년 전쟁이 끝나면서 사우디아라비아 왕국이 탄생했습니다.\n\n사우디의 경제는 여전히 매우 위태로우며 세입의 대부분을 성지 메카와 메디나로 오는 순례자들에게 의존하고 있지만, 지저에는 아라비아의 경제적·지정학적 방향을 영원히 바꿀 진짜 보물이 있을지도 모릅니다."
  
- SIA_GATHERING_STORM_DESC:0 "1932년, 쿠데타로 절대군주정이 종식되고 최초의 헌법이 제정되었으며, 카나 랏차돈(인민당)이 정권을 잡았습니다. 하지만 군대는 총리를 축출하고 프라야 파혼폰파유하세나를 총리로 임명하는 등 정치의 많은 부분에 관여하고 있었습니다. 쁠랙 피분송크람이 상징하는 파시즘의 망령이 군대 내부에서 세를 키우자, 당내 갈등도 확대되고 있습니다. 과거의 동지들은 경쟁자가 되었으며, 단 한 명만이 국가의 운명을 결정하는 자리에 오를 수 있을 것입니다."
- 
- 
- 
  ###---> Scenario Names <><> <><> <><>
- GATHERING_STORM_NAME:0 "폭풍전야(권장)"
- BLITZKRIEG_NAME:0 "아수라장"
+ GATHERING_STORM_NAME:0 "폭풍전야"
+ BLITZKRIEG_NAME:0 "지원되지 않음"
+ 
+ FE_HISTORICAL:0 "Historical AI Priorities"
+ FE_HISTORICAL_TOOLTIP:0 "The AI will pick §YNational Focuses§! in historical order alongside pick historical choices in §YEvents§! and §YDecisions§!. Select this if you want other countries to follow their historical paths more closely."
  
  #####-----> End of File <><> <><> <><> <><> <><>
