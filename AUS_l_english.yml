@@ -83,7 +83,7 @@ AUS_dubova_chromium_mine_desc:0 "두보바에서 실시된 지질 조사 결과 
 
 AUS_balkan_highways_project:0 "발칸 고속도로 계획"
 AUS_balkan_highways_project_desc:0 "유고슬라비아는 기반시설에 관해서는 정말 형편없었습니다. 이제 우리가 그들의 땅을 지배하는 이상, 그들이 한 실수를 우리가 메꿔야 합니다."
-AUS_balkan_highways_project_tt:0 "§Y슬로베니아§!, §Y크로아티아§! 그리고 §Y보스니아§!에 §Y3개의 기반시설§!을 추가합니다. §Y달마티아§!, §Y보이보디나§!, §Y세르비아§!, §Y몬테네그로§!, §Y모라바§!나 §Y마케도니아§!를 소유하면 그 주에도 기반시설이 추가됩니다."
+AUS_balkan_highways_project_tt:0 "§Y슬로베니아§!, §Y크로아티아§! 그리고 §Y보스니아§!에 §Y1개의 기반시설§!을 추가합니다. §Y달마티아§!, §Y보이보디나§!, §Y세르비아§!, §Y몬테네그로§!, §Y모라바§!나 §Y마케도니아§!를 소유하면 그 주에도 기반시설이 추가됩니다."
 
 AUS_exploit_the_romanian_oil_fields:0 "루마니아 유전 확장"
 AUS_exploit_the_romanian_oil_fields_desc:0 "루마니아는 주변 지역에 비해 방대한 석유 매장량을 가지고 있습니다. 매장량은 많을지 모르지만, 이로 인해 채굴 과정은 비효율적이었습니다. 산출량을 늘리기 위해 우리가 취할 수 있는 조치가 있습니다."
@@ -111,7 +111,7 @@ AUS_extend_the_lines_tt:0 "§Y알바니아§!에 §Y10개의 해안 요새§!와
 
 AUS_slovakian_roads_and_railways:0 "슬로바키아 도로 및 철도 계획"
 AUS_slovakian_roads_and_railways_desc:0 "슬로바키아 지역은 열악한 수송 체계를 가지고 있습니다. 우리는 그 지역을 지나는 병력이 수송 체계 때문에 발이 묶이는 것을 방관할 수 없습니다. 우리는 슬로바키아의 기반시설을 수리하고 개선해야 합니다."
-AUS_slovakian_roads_and_railways_tt:0 "슬로바키아 지방에 §Y2개의 기반시설§!을 추가합니다."
+AUS_slovakian_roads_and_railways_tt:0 "슬로바키아 지방과 카르파티아 루테니아에 §Y1개의 기반시설§!을 추가합니다."
 
 AUS_expand_czech_industry:0 "체코 산업 확장"
 AUS_expand_czech_industry_desc:0 "체코슬로바키아 정부는 그들의 국민을 외면하고, 공장을 짓고 일자리를 만들 수 있었음에도 그렇게 하지 않았습니다. 우리는 이를 고칠 능력이 있으니 바로 행동에 들어가야 합니다."
@@ -1301,3 +1301,8 @@ AUS_prepare_czechoslovak_invasion_desc:0 ""
  AUS_paratrooper_desc:0 "우리의 군에 공수부대를 통합하는 것은, 이전에는 접근할 수 없었던 지역에 강제적으로 진입하거나 주요 지점을 차지하는 것을 가능하도록 하여, 새로운 전술적 기회를 제공합니다."
  AUS_mountaineers:0 "산악엽병"
  AUS_mountaineers_desc:0 "산악전은 병력을 많은 위협에 내몰지만, 때로는 피할 수 없을 때가 있습니다. 우리 병사들에게 이 환경에 대한 특수 훈련을 제공해, 우리는 이 위험을 최소화할 수 있습니다."
+
+ AUS_try_to_recruit_hungarian_officers:0 "Try to Recruit Hungarian Officers"
+ AUS_try_to_recruit_czech_officers:0 "Try to Recruit Czech Officers"
+ AUS_try_to_recruit_croat_officers:0 "Try to Recruit Croat Officers" 
+ AUS_try_to_recruit_german_officers:0 "Try to Recruit German Officers"  
