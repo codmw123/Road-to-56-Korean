@@ -7070,7 +7070,7 @@ JAP_jet_strat_bomber_equipment_1:0 "Kawanishi K-200"
 #-> Dive bombers <><>
  USA_CAS_equipment_1:0 "노스롭 A-17"
  USA_CAS_equipment_1_short:0 "A-17"
- USA_CAS_equipment_2:1 A-20 하복"
+ USA_CAS_equipment_2:1 "A-20 하복"
  USA_CAS_equipment_2_short:1 "A-20"
  USA_CAS_equipment_3:1 "A-26 인베이더"
  USA_CAS_equipment_3_short:1 "A-26"
