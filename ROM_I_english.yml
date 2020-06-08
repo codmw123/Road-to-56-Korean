@@ -7,3 +7,6 @@ ROM_philips_sar:0 "필립스 루마니아"
 DOD_romania.1000.t:0 "새로운 참모진"
 DOD_romania.1000.d:0 "신생 공산 정권은 군대를 재편성하고 우익 장교들을 좌익 장교로 교체하려 합니다. 우리는 유망한 장교들을 몇 명 선정해 그들을 진급시킬 준비를 하고 있습니다."
 DOD_romania.1000.a:0 "그들은 그들의 직무를 다할 거라고 장담하지."
+
+ROM_oil_refining_infrastructure:0 "Oil Refining Infrastructure"
+ROM_oil_refining_infrastructure_desc:0 "In order to exploit our oil efficiently, the refining infrastructure must be expanded."
