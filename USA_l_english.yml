@@ -3,6 +3,9 @@ l_english:
  USA_bethlehem_shipbuilding_corporation:0 "베들레헴 조선"
  USA_william_c_lee:0 "윌리엄 C. 리"
  USA_elwood_richard_quesada:0 "엘우드 R. 퀘사다"
+ rt56_j_edgar_hoover:0 "J. Edgar Hoover"
+ rt56_j_edgar_hoover_mil:0 "J. Edgar Hoover"
+ rt56_john_j_pershing:0 "John J. Pershing"
 
  USA_curtiss_wright:0 "커티스 라이트"
  USA_claude_shannon:0 "클로드 섀넌"
@@ -27,3 +30,17 @@ l_english:
  r56_usa.1.desc:0 "다시 한 번 토머스 E. 듀이가 현 재임자에 맞선 후보가 되었습니다. 이번에는 해리 S. 트루먼이 프랭클린 루스벨트의 기조를 이어 받아 대선에 나왔습니다."
  r56_usa.1.a:0 "트루먼이 승리한다."
  r56_usa.1.a:0 "듀이가 승리한다."
+
+ r56_usa.2.t:0 "Air Force Asks For Greater Autonomy"
+ r56_usa.2.desc:0 "     Army Air Force officers and Army High Command have always had conflicts with each other since the very creation of the Army Air Force over the Air Force’s autonomy within the Army. It seems this issue has come to ahead with our recent creation of the Air War Plans Division. In the past we’ve silenced Air Force officers who were vocal on this issue, notably Henry Arnold. But it seems we can’t ignore the issue any longer and need to make a final decision on the Air Forces autonomy within our Arm Forces."
+ r56_usa.2.c:0 "The Air Force stays under the Army!"
+ r56_usa.2.a:0 "Promoting Henry Arnold is a good comprise."
+ r56_usa.2.b:0 "Grant the Air Force the autonomy it wants."
+
+
+
+
+ USA_carrier_1:0 "Langley Class"
+ USA_carrier_1_desc:0 "The Langley Class carrier was born from the converted hull of a Jupiter Class Collier. This allowed her to conform to the limitations imposed by the Washington Naval Treaty. The class was the first operational carrier class in the US Navy and spent over a decade improving carrier operations."
+
+ r56_j_edgar_hoover_given_army_command:0 "Is Currently A General"
