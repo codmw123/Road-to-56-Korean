@@ -367,11 +367,11 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "독일 활공기 연구소"
  
  germany.1002.t:0 "제1차 빈 중재"
  germany.1002.d:0 "헝가리인들은 대전 후 최악의 고통을 받은 사람들 중 하나였습니다. 오스트리아-헝가리 제국의 해체에서 많은 헝가리인들은 조상들이 오랫동안 거주했음에도 불구하고 외국의 영토에 고립되었습니다. 우리는 헝가리에게 체코슬로바키아의 일부 영토를 할양하여 헝가리와의 관계를 진전시킬 수 있을 것입니다."
- germany.1002.a:0 "남슬로바키아를 할양해라!"
+ germany.1002.a:0 "남부 슬로바키아를 할양해라!"
  germany.1002.b:0 "그 땅은 우리 것이다!"
  germany.1002.c:0 "슬로바키아가 그곳을 가져야 한다."
- r56_GER_first_vienna_award_tt:0 "§R당신의 선택에 따라, 헝가리가 남슬로바키아를 소유하지 않을 경우 제1차 빈 중재가 진행될 것입니다.§!"
- r56_GER_first_vienna_award_II_tt:0 "§R헝가리가 남슬로바키아를 소유하지 않을 경우, 이 선택은 바로 제1차 빈 중재를 진행시킬 것입니다.§!"
+ r56_GER_first_vienna_award_tt:0 "§R당신의 선택에 따라, 헝가리가 남부 슬로바키아를 소유하지 않을 경우 제1차 빈 중재가 진행될 것입니다.§!"
+ r56_GER_first_vienna_award_II_tt:0 "§R헝가리가 남부 슬로바키아를 소유하지 않을 경우, 이 선택은 바로 제1차 빈 중재를 진행시킬 것입니다.§!"
  
  erwache_news.1.t:0 "스페인의 독일 요구 거부!"
  erwache_news.1.d:0 "스페인은 독일의 '방어적 점령' 요구를 공식적으로 거부했습니다. 스페인은 이제 독일과 전쟁 상태로 돌입하여 국경에 군대를 집결시켰습니다."
@@ -454,4 +454,4 @@ GER_operation_bolivar_desc:0 "남아메리카의 다양한 망명자 공동체�
  GER_REUNITED_neutrality:0 "독일 제국"
  GER_REUNITED_communism:0 "독일 사회주의 공화국"
 
- GER_cede_819_to_HUN:0 "Cede Prekmurje to Hungary"
+ GER_cede_819_to_HUN:0 "프레크무레를 헝가리에 할양"
