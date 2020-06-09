@@ -31,18 +31,18 @@ l_english:
 
  AUS_extend_the_grossglockner_highway:0 "그로스글로크너 산악도로 연장"
  AUS_extend_the_grossglockner_highway_desc:0 "그로스글로크너 산악도로는 오스트리아 산악을 통과하는 경치 좋은 도로로, 북쪽의 잘츠부르크부터 남쪽의 케른텐까지 이어집니다. 이 도로는 공학의 위대한 업적이지만, 우리는 오스트리아 도처로 도로를 연장해 더욱 개선시킬 수 있습니다."
- AUS_extend_the_grossglockner_highway_tt:0 "§Y티롤§!, §Y상오스트리아§! 그리고 §Y하오스트리아§!의 §Y기반시설§!이 최대로 증가합니다."
+ AUS_extend_the_grossglockner_highway_tt:0 "§Y티롤§!, §Y오버외스터라이히§! 그리고 §Y니더외스터라이히§!의 §Y기반시설§!이 최대로 증가합니다."
 
  AUS_hungarian_railways_and_roads_project:0 "헝가리 철도 및 도로 계획"
  AUS_hungarian_railways_and_roads_project_desc:0 "헝가리의 수송 체계는 두 나라가 분리되기 전까지는 오스트리아 정부의 소관이었습니다. 이제 두 나라가 다시 통합된 이상, 헝가리의 기반시설을 우리 수준까지 끌어올리는 것은 우리에게 달렸습니다."
- AUS_hungarian_railways_and_roads_project_tt:0 "§Y트란스다뉴비아§!, §Y북헝가리§! 그리고 §Y알폴드§!의 §Y기반 시설§!이 최대로 증가합니다."
+ AUS_hungarian_railways_and_roads_project_tt:0 "§Y트란스다뉴비아§!, §Y북부 헝가리§! 그리고 §Y알폴드§!의 §Y기반 시설§!이 최대로 증가합니다."
 
  AUS_construct_papa_air_base:0 "파퍼 공군 기지 건설"
  AUS_construct_papa_air_base_desc:0 "파퍼 공군 기지는 1936년부터 건설 중이었지만, 우리가 개입하면 드디어 완공할 수 있을 것입니다. 공군 수용량의 증가는 우리의 전쟁 수행에 큰 도움이 될 것입니다."
 
 AUS_industrialise_the_great_hungarian_plains:0 "헝가리 대평원 공업화"
 AUS_industrialise_the_great_hungarian_plains_desc:0 "헝가리는 공업 용지 말고 다른 용도로 활용할 필요가 없는 넓은 땅을 가지고 있습니다. 그곳이 활용되지 않았다는 것은 커다란 낭비입니다. 우리의 역량을 지원하기 위해 우리는 이 땅을 개발할 것입니다."
-AUS_industrialise_the_great_hungarian_plains_tt:0 "§Y보이보디나§!, §Y바나트§!, §Y크리샤나§!나 §Y북트란실바니아§!를 소유하면 그 주에도 효과가 적용됩니다."
+AUS_industrialise_the_great_hungarian_plains_tt:0 "§Y보이보디나§!, §Y바나트§!, §Y크리샤나§!나 §Y북부 트란실바니아§!를 소유하면 그 주에도 효과가 적용됩니다."
 
 AUS_fortify_the_hungarian_danube:0 "헝가리 도나우강 요새화"
 AUS_fortify_the_hungarian_danube_desc:0 "오스트리아에서처럼, 도나우는 헝가리 방어의 핵입니다. 우리는 요새화 계획을 이곳에서도 진행할 것입니다."
@@ -508,7 +508,7 @@ AUS_allow_czech_volunteers_desc:0 "체코슬로바키아군은 사라졌으며, 
 AUS_operation_skoda:0 "스코다 작전"
 AUS_operation_skoda_desc:0 "스코다에는 현 시대 최고의 인재들이 있지만, 그들은 나치가 장악한 체코슬로바키아에 갇혀 있습니다. 그 인재들이 우리를 위해 일한다면 더욱 좋을 것입니다."
 
-AUS_request_southern_slovakia:0 "남슬로바키아 요청"
+AUS_request_southern_slovakia:0 "남부 슬로바키아 요청"
 AUS_request_southern_slovakia_desc:0 "슬로바키아는 언제나 오스트리아-헝가리 제국의 영토였습니다. 한때 우리의 동맹국이었던 나라가 이곳을 점령한 이상, 당연히도 이곳은 우리에게 반환되어야 합니다."
 
 AUS_continue_secret_armament:0 "비밀 무기 공급 지속"
@@ -1206,8 +1206,8 @@ AUS_prepare_czechoslovak_invasion_desc:0 ""
  austria.5011.a:0 "그 땅이 독일의 것으로 남는다면, 사람들이 그곳을 뭐라고 부르던 간에 상관없다."
  austria.5011.b:0 "체코슬로바키아의 운명은 이미 결정되었다."
  
- austria.5012.t:0 "오스트리아가 남슬로바키아를 요구!"
- austria.5012.d:0 "오스트리아-헝가리 제국이 대전쟁 이전처럼 남슬로바키아를 그들에게 돌려달라고 요청했습니다. 그 지역의 역사를 생각할 때, 그들에게도 일리는 있습니다."
+ austria.5012.t:0 "오스트리아가 남부 슬로바키아를 요구!"
+ austria.5012.d:0 "오스트리아-헝가리 제국이 대전쟁 이전처럼 남부 슬로바키아를 그들에게 돌려달라고 요청했습니다. 그 지역의 역사를 생각할 때, 그들에게도 일리는 있습니다."
  austria.5012.a:0 "일리있는 주장이라는 것은 부정할 수 없지."
  austria.5012.b:0 "그 땅은 독일의 것으로 남을 것이다."
  
