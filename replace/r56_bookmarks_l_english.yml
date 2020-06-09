@@ -12,9 +12,9 @@
  
  SIA_GATHERING_STORM_DESC:0 "1932년, 쿠데타로 절대군주정이 종식되고 최초의 헌법이 제정되었으며, 카나 랏차돈(인민당)이 정권을 잡았습니다. 하지만 군대는 총리를 축출하고 프라야 파혼폰파유하세나를 총리로 임명하는 등 정치의 많은 부분에 관여하고 있었습니다. 쁠랙 피분송크람이 상징하는 파시즘의 망령이 군대 내부에서 세를 키우자, 당내 갈등도 확대되고 있습니다. 과거의 동지들은 경쟁자가 되었으며, 단 한 명만이 국가의 운명을 결정하는 자리에 오를 수 있을 것입니다."
 
- TUR_GATHERING_STORM_DESC:0 "After the Great War saw the fall of the Ottoman Empire, Turkey's future looked bleak. But Turkey has risen like a phoenix from out of the fires of the Turkish War of Independence. Lead by Mustafa Kemal Atatürk and his Kemalist ideology, Turkey looks strong and secure. But its people are tired and in need of peace. It will take another great change to awaken this sleeping lion."
+ TUR_GATHERING_STORM_DESC:0 "대전쟁 후 오스만 제국이 무너졌을 때, 터키의 미래는 암울해 보였습니다. 하지만 터키는 터키 독립 전쟁의 불꽃 속에서 불사조처럼 다시 일어났습니다. 무스타파 케말 아타튀르크와 그의 케말주의 이념이 이끄는 터키는 강력하고 안정되어 보입니다. 하지만 터키인들은 지쳤으며 평화를 필요로 하고 있습니다. 이 잠자는 사자를 깨우기 위해서는 또다른 커다란 변화가 필요할 것입니다."
  
- LUX_GATHERING_STORM_DESC:0 "The Grand Duchy of Luxembourg is a landlocked country that has been through a lot in the most recent years. Repeated invasions from foreign countries, yet the small country still stands between giants. With the storm currently gathering... it's time for Luxembourg to prepare itself and take a firm stance."
+ LUX_GATHERING_STORM_DESC:0 "룩셈부르크 대공국은 근세기 많은 일들을 겪은 내륙국입니다. 다른 나라들로부터 여러 번의 침공을 당했지만, 이 작은 나라는 여전히 거인들 사이에서 서있습니다. 전쟁의 암운이 드리우면서... 이제 룩셈부르크가 준비를 하고 확고한 자세를 취할 시간이 왔습니다."
  
  ###---> Currently Unused <><> <><> <><>
  BEL_GATHERING_STORM_DESC:0 "벨기에는 프랑스와 독일 사이의 별로 중요하지 않은 땅덩어리로 보일 수 있지만, 사실은 콩고 식민지로부터 귀중한 자원들을 채굴하는 고도로 공업화된 국가입니다. 벨기에는 대공황에서 회복하기 시작했으며, 기반시설 계획은 최고조에 달했고 산업 활동도 서서히 회복 중입니다. 정치에서는 더 많은 유권자들이 극단주의적인 담론에서 해결책을 찾고 있습니다. 레옹 드그렐의 인기는 하루하루 높아지고 있으며 민주주의 정당들의 전통적인 연정을 위협할지도 모릅니다. 한편 플란데런 민족주의자들도 활동 중이며, 군대의 하부 조직에 불만을 퍼뜨리고 있습니다..."
@@ -49,7 +49,7 @@
  GATHERING_STORM_NAME:0 "폭풍전야"
  BLITZKRIEG_NAME:0 "지원되지 않음"
  
- FE_HISTORICAL:0 "Historical AI Priorities"
- FE_HISTORICAL_TOOLTIP:0 "The AI will pick §YNational Focuses§! in historical order alongside pick historical choices in §YEvents§! and §YDecisions§!. Select this if you want other countries to follow their historical paths more closely."
+ FE_HISTORICAL:0 "역사적 AI 우선"
+ FE_HISTORICAL_TOOLTIP:0 "AI는 §Y국가적 중점§!을 역사적 순서대로 선택할 것이며 §Y사건§!과 §Y결정§!에서도 역사적 선택을 할 것입니다. 다른 국가들이 그들의 역사를 더 가까이 따라가기를 원한다면 이것을 선택하세요."
  
  #####-----> End of File <><> <><> <><> <><> <><>
