@@ -49,7 +49,7 @@
  GATHERING_STORM_NAME:0 "폭풍전야"
  BLITZKRIEG_NAME:0 "지원되지 않음"
  
- FE_HISTORICAL:0 "역사적 AI 우선"
+ FE_HISTORICAL:0 "AI 역사 우선"
  FE_HISTORICAL_TOOLTIP:0 "AI는 §Y국가적 중점§!을 역사적 순서대로 선택할 것이며 §Y사건§!과 §Y결정§!에서도 역사적 선택을 할 것입니다. 다른 국가들이 그들의 역사를 더 가까이 따라가기를 원한다면 이것을 선택하세요."
  
  #####-----> End of File <><> <><> <><> <><> <><>
