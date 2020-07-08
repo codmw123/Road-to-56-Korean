@@ -481,13 +481,13 @@
  PER_UNIFIED_fascism_ADJ:0 "Persian"
  
  #PLC
- PLC_UNIFIED_ADJ:0 "Polish-Lithuanian"
+ PLC_UNIFIED_ADJ:0 "폴란드-리투아니아"
  
  #RAT
- RAT_UNIFIED_ADJ:0 "Thai"
+ RAT_UNIFIED_ADJ:0 "타이"
  
  #JAP
- JAP_FRA_autonomy_puppet:0 "Royaume du Japon"
+ JAP_FRA_autonomy_puppet:0 "일본 왕국"
  
  #UNL
  UNL_UNIFIED_neutrality:0 "United Provinces of the Netherlands"
@@ -504,10 +504,10 @@
  UNL_UNIFIED_communism_ADJ:0 "Lowlander"
 
  #USC
- USC_UNIFIED_ADJ:0 "Central American"
+ USC_UNIFIED_ADJ:0 "중앙아메리카"
 
  #United Polynesia
- united_polynesia_democratic_ADJ:0 "Polynesian"
+ united_polynesia_democratic_ADJ:0 "폴리네시아"
  
  #VEN
  VEN_BRA_autonomy_integrated_puppet:0 "카리비 주"
@@ -534,10 +534,10 @@
  USA_UK_autonomy_puppet_DEF:0 "The $OVERLORDADJ$령 미국"
  USA_SAF_EDW_autonomy_puppet:0 "$OVERLORDADJ$령 미국"
  USA_SAF_EDW_autonomy_puppet_DEF:0 "The $OVERLORDADJ$령 미국"
- USA_FRA_autonomy_dominion:0 "Grand Royaume de Louisiane"
- USA_FRA_autonomy_puppet:0 "Royaume de Louisiane"
- USA_FRA_autonomy_colony:0 "Colonie de Louisiane"
- USA_FRA_autonomy_integrated_puppet:0 "District de Louisiane"
+ USA_FRA_autonomy_dominion:0 "대 루이지안 왕국"
+ USA_FRA_autonomy_puppet:0 "루이지안 왕국"
+ USA_FRA_autonomy_colony:0 "루이지안 식민지"
+ USA_FRA_autonomy_integrated_puppet:0 "루이지안 지방"
  USA_GER_fascism_autonomy_dominion:0 "노르트아메리카 주"
  USA_GER_fascism_autonomy_puppet:0 "노르트아메리카 식민지"
  USA_GER_fascism_autonomy_integrated_puppet:0 "노르트아메리카 식민지"
