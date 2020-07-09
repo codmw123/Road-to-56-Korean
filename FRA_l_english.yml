@@ -152,6 +152,7 @@ l_english:
  heavy_aircraft_manufacturer_2:0 "중비행기 설계사"
  jet_concern:0 "제트 엔진 설계사"
  refinery_concern:0 "정유 업체"
+ connetable_of_france:0 "프랑스 대무관장"
 
  ############################
 			#### COSMETIC TAGS ####
@@ -768,11 +769,59 @@ l_english:
  FRA_reorganize_air_army_desc:0 "우리는 더 빠른 속도로 항공전에 대한 새로운 이론들을 시험할 수 있을 만큼의 경험을 축적했지만, 현 지휘 구조로는 공군을 관리하기가 어렵습니다."
  FRA_parachute_battalions:0 "G.I.A 601-602"
  FRA_parachute_battalions_desc:0 "소련이 병력과 장비를 투하하기 위한 새로운 공수 부대를 창설했습니다. 우리는 비슷한 부대를 만들어야 합니다."
+ 
+ ### FREE FRANCE ###
+
+ FRA_improve_equatorial_roads:0 "적도 아프리카 도로 개선"
+ FRA_improve_equatorial_roads_desc:0 "전통적으로 방치되어 왔지만, 적도 아프리카에서 전시 경제와 군대를 조직해야 한다는 필요가 도로망 개선을 필수로 만들었습니다."
+ FRA_radio_brazzaville:0 "라디오 [Root.Capital.GetName]"
+ FRA_radio_brazzaville_desc:0 "우리 망명 정부의 수도에 강력한 라디오 방송국을 설치하면 전세계에 우리 목소리가 들릴 수 있게 만들고 우리가 프랑스 본토를 해방할 준비가 되었음을 보여줄 수 있습니다."
+ FRA_equatorial_african_gold_mining_desc:0 "전쟁 수행을 지원하기 위해 식민지의 금 채광을 극대화해야 합니다."
+ FRA_equatorial_african_gold_mining:0 "적도 아프리카 금광"
+ FRA_exploit_rubber_vines:0 "넝쿨고무나무 채취"
+ FRA_exploit_rubber_vines_desc:0 "고무 플랜테이션의 생산량을 벌충하기 위해서 우리는 넝쿨고무나무를 채취할 수 있습니다. 하지만 이 작업은 매우 힘들며 몇몇 원주민 노동자들의 불만을 살 수 있습니다."
+ FRA_an_african_army:0 "아프리카의 군대"
+ FRA_an_african_army_desc:0 "우리의 새로운 기지는 아프리카에 있습니다. 이곳의 삼색기는 절대로 내려가지 않을 것이며 우리는 이곳에서부터 적들을 최종적으로 격파할 것입니다."
+ FRA_improved_logistics:0 "보급 개선"
+ FRA_improved_logistics_desc:0 "망명 군대인 우리의 특성상 우리는 식민지 곳곳에서 싸울 것이며 동시에 본토로 돌아갈 준비도 해야 합니다. 이 노력을 통해 확실한 보급 계획이 우리의 해방에 필수적이라는 점이 명백해졌습니다."
+ FRA_continue_the_fight_in_africa:0 "아프리카에서 전쟁 재개"
+ FRA_continue_the_fight_in_africa_desc:0 "본토는 잠시 적의 손에 들어갔을지 모르지만, 아직 전쟁은 끝나지 않았습니다..."
+ FRA_mobilize_the_empire:0 "식민지 동원" 
+ FRA_mobilize_the_empire_desc:0 "프랑스를 구하기 위해서는 식민지의 국민들이 필수적입니다. 이제 세계 문명의 등대의 보살핌을 수년간 누린 것에 대한 감사함을 그들이 보여줄 차례입니다." 
+
+ FRA_improve_equatorial_roads2:0 "적도 아프리카 도로 개선"
+ FRA_improve_equatorial_roads2_desc:0 "전통적으로 방치되어 왔지만, 적도 아프리카에서 전시 경제와 군대를 조직해야 한다는 필요가 도로망 개선을 필수로 만들었습니다."
+ FRA_radio_brazzaville2:0 "라디오 [Root.Capital.GetName]"
+ FRA_radio_brazzaville2_desc:0 "우리 망명 정부의 수도에 강력한 라디오 방송국을 설치하면 전세계에 우리 목소리가 들릴 수 있게 만들고 우리가 프랑스 본토를 해방할 준비가 되었음을 보여줄 수 있습니다."
+ FRA_equatorial_african_gold_mining2_desc:0 "전쟁 수행을 지원하기 위해 식민지의 금 채광을 극대화해야 합니다."
+ FRA_equatorial_african_gold_mining2:0 "적도 아프리카 금광"
+ FRA_exploit_rubber_vines2:0 "넝쿨고무나무 채취"
+ FRA_exploit_rubber_vines2_desc:0 "고무 플랜테이션의 생산량을 벌충하기 위해서 우리는 넝쿨고무나무를 채취할 수 있습니다. 하지만 이 작업은 매우 힘들며 몇몇 원주민 노동자들의 불만을 살 수 있습니다."
+ FRA_an_african_army2:0 "아프리카의 군대"
+ FRA_an_african_army2_desc:0 "우리의 새로운 기지는 아프리카에 있습니다. 이곳의 삼색기는 절대로 내려가지 않을 것이며 우리는 이곳에서부터 적들을 최종적으로 격파할 것입니다."
+ FRA_improved_logistics2:0 "보급 개선"
+ FRA_improved_logistics2_desc:0 "망명 군대인 우리의 특성상 우리는 식민지 곳곳에서 싸울 것이며 동시에 본토로 돌아갈 준비도 해야 합니다. 이 노력을 통해 확실한 보급 계획이 우리의 해방에 필수적이라는 점이 명백해졌습니다."
+
+ FRA_continue_the_fight2:0 "전쟁 재개"
+ FRA_continue_the_fight2_desc:0 "군대를 재건할 시간입니다."
+
+ FRA_the_free_french_navy2:0 "망명 해군 조직"
+ FRA_continue_the_fight2_desc:0 "바다는 식민지와 본토 사이의 첫번째 전선입니다. 그곳은 본토 재탈환의 첫 걸음이 될 것입니다."
+ FRA_colonial_recruitment2:0 "식민지 모병"
+ FRA_colonial_recruitment2_desc:0 "피는 프랑스가 그들의 진보와 계몽을 위해 치른 값을 변제해줄 것입니다."
+ FRA_prepare_for_our_return:0 "귀환 준비"
+ FRA_prepare_for_our_return_desc:0 "상륙작전만이 우리가 모국에 다시 발을 딛을 수 있는 방법이 될 것입니다." 
+ FRA_prepare_for_our_return2:0 "귀환 준비"
+ FRA_prepare_for_our_return2_desc:0 "상륙작전만이 우리가 모국에 다시 발을 딛을 수 있는 방법이 될 것입니다." 
+ FRA_the_regiment_normandie2:0 "노르망디 연대"
+ FRA_the_regiment_normandie2_desc:0 "우리와 [SOV.GetNameDef](은)는 공통의 적을 가지고 있습니다. 지원을 위해 몇 명의 조종사를 보내면 우리 공통의 전쟁 수행을 도울 수 있을 것입니다."
+  
   
 	#### FLAGS ####
  front_explosed:0 "인민전선이 해체됨"
  matignon_agreements:0 "마티뇽 협정"
-  
+
+
 	############################
 					#### EVENTS ####
 	############################
@@ -973,6 +1022,8 @@ l_english:
 				#### DECISIONS ####
 	############################
 	
+ FRA_reestablish_the_government_in_paris:0 "파리에 정부 재수립"
+ 
 	#### ECONOMIC ####
  
  
@@ -1014,4 +1065,4 @@ l_english:
  #### MISC				####
  ############################
  absolute_monarch:0 "절대 군주"
- 
+ count_of_paris:0 "파리 백작"
