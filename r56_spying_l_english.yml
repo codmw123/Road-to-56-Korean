@@ -10,5 +10,14 @@ r56_spying_event.2.a:0 "그를 채용하라."
 r56_spying_event.2.b:0 "더 숙련된 신입 요원이 나을 것 같군."
 
 r56_spying_event.3.t:0 "세묜 세묘노프가 MIT를 졸업"
-r56_spying_event.3.desc:0 "미국에서 수년간 공부한 끝에, 세묘노프 요원은 미국에서 기술자로 근무할 준비가 되었습니다. 그는 학업을 바탕으로 과학자들의 모임에 접촉하는 데에 성공했으며 이제 미국의 최신 기술 혁신에 접근할 수 있을 것입니다."
+r56_spying_event.3.desc:0 "After years of studies in the United States, agent Semenov became a "beaver" by graduating from the MIT (such is the nickname they gave to their former students). 그는 미국에서 기술자로 근무할 준비가 되었습니다. 그는 학업을 바탕으로 과학자들의 모임에 접촉하는 데에 성공했으며 이제 미국의 최신 기술 혁신에 접근할 수 있을 것입니다."
 r56_spying_event.3.a:0 "잘했네 동무!"
+
+r56_spying_event.4.t:0 "Ilie Cătărău returns."
+r56_spying_event.4.desc:0 "After years wandering the world including according to him becoming the king of a Polynesian tribe, Ilie Cătărău returned to the country. Already active in some operations in Hungary in 1914, he refused to swear allegiane to Moldova when it decalred its indepdence. This man with a very eventful life may have more volumes to add to his complicated biography..."
+r56_spying_event.4.a:0 "Excellent!"
+
+r56_spying_event.5.t:0 "Communist Agents Recruited"
+r56_spying_event.5.desc:0 "Loyal to the cause of the revolution, new recruits are ready to serve in the shadows."
+r56_spying_event.6.t:0 "Communist Agents Recruited"
+r56_spying_event.6.desc:0 "Loyal to the cause of the revolution, new recruits are ready to serve in the shadows."
