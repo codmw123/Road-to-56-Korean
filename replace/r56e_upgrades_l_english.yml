@@ -63,3 +63,4 @@
  MRART_BR_upgrade_desc:0 "돌파 상승"
  MRART_armor_upgrade:0 "장갑"
  MRART_armor_upgrade_desc:0 "기갑비율 상승"
+ plane_transport_defense_upgrade:0 "Defense"
