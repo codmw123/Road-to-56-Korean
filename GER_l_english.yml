@@ -277,6 +277,8 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "독일 활공기 연구소"
  GER_5_factor_desc:0 "회전자 수를 5개로 늘리면 암호화를 크게 개선할 수 있습니다."
  GER_8_factor:0 "8개 회전자 에니그마"
  GER_8_factor_desc:0 "회전자 수를 8개로 늘리면 우리의 암호는 해독 불가능이 될 것입니다!"
+ GER_demmand_northern_schleswig:0 "북슐레스비히 요구"
+ GER_demmand_northern_schleswig_desc:0 "베르사유 조약은 북슐레스비히를 우리에게서 빼앗아 덴마크에게 주었습니다. 우리는 이 영토의 반환을 요구해야 합니다!"
  
  #Ideas
  GER_foreign_volunteers_idea:0 "외국인 자원병"
@@ -422,7 +424,7 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "독일 활공기 연구소"
  #germany.1001:0 "하이드리히가 암살됨"
  #r56_ENG_operation_anthropoid:0 "유인원 작전"
 
-GER_abwehr_contacts:0 "[GER.GetAgency] 연락책"
+GER_abwehr_contacts:0 "[ROOT.GetAgency] 연락책"
 GER_operation_bolivar:0 "볼리바르 작전"
 GER_operation_bolivar_desc:0 "남아메리카의 다양한 망명자 공동체들은 우리가 아메리카 대륙에서 더 쉽게 요원을 침투시키고 작전을 수행할 수 있도록 만들 것입니다."
 
@@ -455,3 +457,6 @@ GER_operation_bolivar_desc:0 "남아메리카의 다양한 망명자 공동체�
  GER_REUNITED_communism:0 "독일 사회주의 공화국"
 
  GER_cede_819_to_HUN:0 "프레크무레를 헝가리에 할양"
+ GER_cede_102_to_ITA:0 "류블랴나를 이탈리아에 할양"
+
+ PRE_call_other_german_states:0 "다른 독일 국가 호출"
