@@ -1,8 +1,12 @@
 ﻿l_english:
  
  #NEW
+ anarcho_capitalism:0 "Anarcho-capitalism"
+ anarcho_capitalism_desc:0 "§YAnarcho-capitalism§! is a rejection of the §Rcentralized state§! itself in favor of §Gself-ownership, private property and free markets§!."
+ anarcho_capitalism_n:0 "Anarcho-capitalism"
+ anarcho_capitalism_n_desc:0 "§YAnarcho-capitalism§! is a rejection of the §Rcentralized state§! itself in favor of §Gself-ownership, private property and free markets§!."
  corporatism:0 "조합주의"
- corporatism_desc:0 "조합주의의 이념에 따르면, 노동자와 고용인은 그들의 이익을 국가 단위에서 대변하는 산업 및 전문 기업으로 조직화되어야 합니다. 조합주의에는 기본적인 민주주의 요소가 있지만, 일반 사람들은 여러 계층을 통해 국가의 지도층과 엄격히 분리되어 있습니다."
+ corporatism_desc:0 "§Y조합주의§!의 이념에 따르면, 노동자와 고용인은 그들의 이익을 국가 단위에서 대변하는 산업 및 전문 기업으로 조직화되어야 합니다. 조합주의에는 기본적인 민주주의 요소가 있지만, 일반 사람들은 여러 계층을 통해 국가의 지도층과 엄격히 분리되어 있습니다."
  centrism_democratic:0 "민주적 중도주의"
  centrism_democratic_desc:0 "§Y중도주의§!는 위험 요인과 능력을 고려하여 §M대중의 신뢰§!를 얻을 수 있고 §H공익§!을 증진하는 현재 및 미래의 요구 사항에 대한 §Y상식적인 해결책을 제시§!하고자 하는 정부 형태입니다."
 absolute_monarchism:0 "절대군주제"
@@ -166,6 +170,8 @@ absolute_monarchism:0 "절대군주제"
  COL_democratic_party_long:0 "콜롬비아 자유당"
  COL_neutrality_party:0 "보수당"
  COL_neutrality_party_long:0 "콜롬비아 보수당"
+ COL_fascism_party:0 "Radical Conservador" #made up since native fascist elements fell under the Partido Conservador
+ COL_fascism_party_long:0 "Radical Partido Conservador Colombiano"
 
  #CZE
  CZE_communism_party:0 "KSČ"
@@ -180,8 +186,15 @@ absolute_monarchism:0 "절대군주제"
  #DOM
  DOM_neutrality_party:0 "도미니카당"
  DOM_neutrality_party_long:0 "도미니카당"
+ DOM_fascism_party:0 "Dominicano Military Junta" #made up since Partido Dominicano were kinda fasicts aswell 
+ DOM_fascism_party_long:0 "Partido Dominicano Military Junta"
+ DOM_democratic_party:0 "PRD"
+ DOM_democratic_party_long:0 "Partido Revolucionario Dominicano"
+ DOM_communism_party:0 "PTD" #Big reach but better than nothing
+ DOM_communism_party_long:0 "Partido de los Trabajadores Dominicanos"
 
-  #ELS
+
+ #ELS
  ELS_neutrality_party:0 "프로 파트리아"
  ELS_neutrality_party_long:0 "프로 파트리아"
  #Fictious
@@ -391,8 +404,8 @@ absolute_monarchism:0 "절대군주제"
  NIC_fascism_party:0 "민족주의자"
 
  #PAR
- PAR_communism_party:0 "PRF"
- PAR_communism_party_long:0 "2월혁명당"
+ PAR_communism_party:0 "PCP"
+ PAR_communism_party_long:0 "Partido Comunista Paraguayo"
  PAR_democratic_party:0 "자유당"
  PAR_democratic_party_long:0 "자유당"
 
