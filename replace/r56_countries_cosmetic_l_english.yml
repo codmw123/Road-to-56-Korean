@@ -2,30 +2,30 @@
 
  #ANCAP
 
- ANCAP_democratic:0 "Free Enterprise Zone"
- ANCAP_neutrality:0 "Free Enterprise Zone"
- ANCAP_democratic_DEF:0 "The Free Enterprise Zone"
- ANCAP_democratic_ADJ:0 "'FTR'"
- ANCAP_neutrality_DEF:0 "The Free Enterprise Zone"
- ANCAP_fascism:0 "Free Enterprise Zone"
- ANCAP_fascism_DEF:0 "The Free Enterprise Zone"
- ANCAP_communism:0 "People's Free Enterprise Zone" #I throw up just thinking about it
+ ANCAP_democratic:0 "자유 기업 구역"
+ ANCAP_neutrality:0 "자유 기업 구역"
+ ANCAP_democratic_DEF:0 "자유 기업 구역"
+ ANCAP_democratic_ADJ:0 "자유 기업 구역"
+ ANCAP_neutrality_DEF:0 "자유 기업 구역"
+ ANCAP_fascism:0 "자유 기업 구역"
+ ANCAP_fascism_DEF:0 "자유 기업 구역"
+ ANCAP_communism:0 "자유 인민공사 구역" #I throw up just thinking about it
 
 
 
  #ARA
- ARA_UNIFIED_neutrality:0 "Arab Federation"
- ARA_UNIFIED_fascism:0 "Arab Caliphate"
- ARA_UNIFIED_democratic:0 "Arab Federation"
- ARA_UNIFIED_communism:0 "United Arab Socialist Republics"
- ARA_UNIFIED_neutrality_DEF:0 "The Arab Federation"
- ARA_UNIFIED_fascism_DEF:0 "The Arab Caliphate"
- ARA_UNIFIED_democratic_DEF:0 "The Arab Federation"
- ARA_UNIFIED_communism_DEF:0 "The United Arab Socialist Republics"
- ARA_UNIFIED_communism_ADJ:0 "Arab"
- ARA_UNIFIED_neutrality_ADJ:0 "Arab"
- ARA_UNIFIED_democratic_ADJ:0 "Arab"
- ARA_UNIFIED_fascism_ADJ:0 "Arab"
+ ARA_UNIFIED_neutrality:0 "아랍 연방"
+ ARA_UNIFIED_fascism:0 "아랍 칼리프국"
+ ARA_UNIFIED_democratic:0 "아랍 연방"
+ ARA_UNIFIED_communism:0 "아랍 사회주의 공화국 연방"
+ ARA_UNIFIED_neutrality_DEF:0 "아랍 연방"
+ ARA_UNIFIED_fascism_DEF:0 "아랍 칼리프국"
+ ARA_UNIFIED_democratic_DEF:0 "아랍 연방"
+ ARA_UNIFIED_communism_DEF:0 "아랍 사회주의 공화국 연방"
+ ARA_UNIFIED_communism_ADJ:0 "아랍"
+ ARA_UNIFIED_neutrality_ADJ:0 "아랍"
+ ARA_UNIFIED_democratic_ADJ:0 "아랍"
+ ARA_UNIFIED_fascism_ADJ:0 "아랍"
 
  #ARG
  ARG_BRA_fascism:0 "플라치나 주"
@@ -58,7 +58,7 @@
  AHV_subject:0 "$OVERLORDADJ$령 올란드 자치 지역"
 
  #BAL
- BAL_UNIFIED_ADJ:0 "Baltic"
+ BAL_UNIFIED_ADJ:0 "발트"
 
  #BRA
  BRA_IDB_fascism:0 "브라질 제국"
@@ -128,8 +128,8 @@
  BOL_BRA_autonomy_dominion:0 "브라질령 볼리비아"
 
  #BOT
- BOT_ENG_autonomy_integrated_puppet:0 "$OVERLORDADJ$ Bechuanaland"
- BOT_ENG_autonomy_integrated_puppet_DEF:0 "$OVERLORDADJ$ Bechuanaland"
+ BOT_ENG_autonomy_integrated_puppet:0 "$OVERLORDADJ$령 베추아날란드"
+ BOT_ENG_autonomy_integrated_puppet_DEF:0 "$OVERLORDADJ$령 베추아날란드"
 
  #BUL
  BUL_republican_democratic:0 "불가리아 공화국"
@@ -137,23 +137,23 @@
  BUL_republican_democratic_ADJ:0 "불가리아"
 
  #BYZ
- BYZ_UNIFIED_neutrality:0 "Byzantium"
- BYZ_UNIFIED_fascism:0 "Byzantine Empire"
- BYZ_UNIFIED_democratic:0 "Byzantium"
- BYZ_UNIFIED_communism:0 "Union of Balkanic-Anatolian Communes"
- BYZ_UNIFIED_neutrality_DEF:0 "Byzantium"
- BYZ_UNIFIED_fascism_DEF:0 "The Byzantine Empire"
- BYZ_UNIFIED_democratic_DEF:0 "Byzantium"
- BYZ_UNIFIED_communism_DEF:0 "The Union of Balkanic-Anatolian Communes"
- BYZ_UNIFIED_communism_ADJ:0 "Balkanic-Anatolian"
- BYZ_UNIFIED_democratic_ADJ:0 "Byzantine"
- BYZ_UNIFIED_fascism_ADJ:0 "Byzantine"
- BYZ_UNIFIED_neutrality_ADJ:0 "Byzantine"
+ BYZ_UNIFIED_neutrality:0 "비잔티움"
+ BYZ_UNIFIED_fascism:0 "비잔틴 제국"
+ BYZ_UNIFIED_democratic:0 "비잔티움"
+ BYZ_UNIFIED_communism:0 "발칸-아나톨리아 코뮌 연방"
+ BYZ_UNIFIED_neutrality_DEF:0 "비잔티움"
+ BYZ_UNIFIED_fascism_DEF:0 "비잔틴 제국"
+ BYZ_UNIFIED_democratic_DEF:0 "비잔티움"
+ BYZ_UNIFIED_communism_DEF:0 "발칸-아나톨리아 코뮌 연방"
+ BYZ_UNIFIED_communism_ADJ:0 "발칸-아나톨리아"
+ BYZ_UNIFIED_democratic_ADJ:0 "비잔틴"
+ BYZ_UNIFIED_fascism_ADJ:0 "비잔틴"
+ BYZ_UNIFIED_neutrality_ADJ:0 "비잔틴"
 
  #CAN
- CAN_UK_autonomy_integrated_puppet:0 "$OVERLORDADJ$ Canada"
- CAN_UK_autonomy_integrated_puppet_DEF:0 "$OVERLORDADJ$ Canada"
- CAN_FRA_autonomy_puppet:0 "Grand Royaume du Québec"
+ CAN_UK_autonomy_integrated_puppet:0 "$OVERLORDADJ$령 캐나다"
+ CAN_UK_autonomy_integrated_puppet_DEF:0 "$OVERLORDADJ$령 캐나다"
+ CAN_FRA_autonomy_puppet:0 "대 퀘벡 왕국"
 
  #CZE_VLK
  CZE_VLK_fascism:0 "체코-슬로바키아 국가사회주의 공화국"
@@ -161,11 +161,11 @@
  CZE_VLK_fascism_DEF:0 "체코-슬로바키아 국가사회주의 공화국"
 
  #CZE_ONLY
- CZE_ONLY_ADJ:0 "Czech"
- CZE_ONLY_fascism_ADJ:0 "Bohemian"
- CZE_ONLY_neutrality:0 "Kingdom of Bohemia"
- CZE_ONLY_neutrality_DEF:0 "The Kingdom of Bohemia"
- CZE_ONLY_neutrality_ADJ:0 "Bohemian"
+ CZE_ONLY_ADJ:0 "체코"
+ CZE_ONLY_fascism_ADJ:0 "보헤미아"
+ CZE_ONLY_neutrality:0 "보헤미아 왕국"
+ CZE_ONLY_neutrality_DEF:0 "보헤미아 왕국"
+ CZE_ONLY_neutrality_ADJ:0 "보헤미아"
 
  #CHI
  CHI_JAP_fascism:0 "난징 국민정부"
@@ -178,41 +178,41 @@
  CaharCouncilCtag_neutrality_DEF:0 "몽골 자치정무위원회"
 
  #ETH
- ETH_ITA_fascism_autonomy_reichskommissariat:0 "$OVERLORDADJ$ Ethiopia"
- ETH_ITA_fascism_autonomy_integrated_puppet:0 "$OVERLORDADJ$ Ethiopia"
- ETH_ITA_fascism_autonomy_reichskommissariat_DEF:0 "$OVERLORDADJ$ Ethiopia"
- ETH_ITA_fascism_autonomy_integrated_puppet_DEF:0 "$OVERLORDADJ$ Ethiopia"
+ ETH_ITA_fascism_autonomy_reichskommissariat:0 "$OVERLORDADJ$령 에티오피아"
+ ETH_ITA_fascism_autonomy_integrated_puppet:0 "$OVERLORDADJ$령 에티오피아"
+ ETH_ITA_fascism_autonomy_reichskommissariat_DEF:0 "$OVERLORDADJ$령 에티오피아"
+ ETH_ITA_fascism_autonomy_integrated_puppet_DEF:0 "$OVERLORDADJ$령 에티오피아"
 
  #ENG
- ENG_FRA_autonomy_puppet:0 "Duché de Grande-Bretagne"
+ ENG_FRA_autonomy_puppet:0 "그랑드브르타뉴 공국"
 
  #ECS
  ECSAR_fascism:0 "동차하르 특별 자치구"
 
  #EUR
- EUR_UNIFIED_ADJ:0 "European"
+ EUR_UNIFIED_ADJ:0 "유럽"
 
  #FIJ
- FIJ_ENG:1 "Colony of Fiji"
- FIJ_ENG_DEF:1 "The Colony of Fiji"
- FIJ_ENG_ADJ:1 "Fijian"
+ FIJ_ENG:1 "피지 식민지"
+ FIJ_ENG_DEF:1 "피지 식민지"
+ FIJ_ENG_ADJ:1 "피지"
 
  #FRA
  FRA_GER_fascism_autonomy_puppet:0 "비시 프랑스"
  FRA_GER_fascism_autonomy_puppet_DEF:0 "비시 프랑스"
 
  #FRA_UK
- FRA_UK_ADJ:0 "Franco-British"
- FRA_UK_fascism_ADJ:0 "Norman"
- FRA_UK_communism_ADJ:0 "European"
+ FRA_UK_ADJ:0 "영불"
+ FRA_UK_fascism_ADJ:0 "노르만"
+ FRA_UK_communism_ADJ:0 "유럽"
 
  #FengClique
  FengClique_fascism:0 "신 봉천 군벌"
  FengClique_fascism_DEF:0 "신 봉천 군벌"
 
  #KEN
- KEN_ENG_autonomy_integrated_puppet:0 "$OVERLORDADJ$ Kenya"
- KEN_ENG_autonomy_integrated_puppet_DEF:0 "$OVERLORDADJ$ Kenya"
+ KEN_ENG_autonomy_integrated_puppet:0 "$OVERLORDADJ$령 케냐"
+ KEN_ENG_autonomy_integrated_puppet_DEF:0 "$OVERLORDADJ$령 케냐"
 
  #KSV
  KSV_SER_autonomy_puppet:0 "코소보 자치주"
@@ -224,44 +224,44 @@
  KSV_SOV_communism_autonomy_puppet:0 "코소보 소비에트 사회주의 공화국"
 
  #HUN_EMPIRE
- HUN_EMPIRE_neutrality:0 "Austro-Hungarian Empire"
- HUN_EMPIRE_neutrality_DEF:0 "The Austro-Hungarian Empire"
- HUN_EMPIRE_ADJ:0 "Austro-Hungarian"
- HUN_EMPIRE_communism_ADJ:0 "Danubian"
- HUN_EMPIRE_democratic_ADJ:0 "Danubian"
+ HUN_EMPIRE_neutrality:0 "오스트리아-헝가리 제국"
+ HUN_EMPIRE_neutrality_DEF:0 "오스트리아-헝가리 제국"
+ HUN_EMPIRE_ADJ:0 "오스트리아-헝가리"
+ HUN_EMPIRE_communism_ADJ:0 "도나우"
+ HUN_EMPIRE_democratic_ADJ:0 "도나우"
  
  #SCA_UNIFIED
- SCA_UNIFIED_ADJ:0 "Scandinavian"
+ SCA_UNIFIED_ADJ:0 "스칸디나비아"
  
  #SCA
- SCA_fascism:0 "노르딕 제국"
- SCA_fascism_DEF:0 "노르딕 제국"
- SCA_democratic:0 "노르딕 연방"
- SCA_democratic_DEF:0 "노르딕 연방"
- SCA_neutrality:0 "노르딕 연방"
- SCA_neutrality_DEF:0 "노르딕 연방"
- SCA_communism:0 "노르딕 인민연합"
- SCA_communism_DEF:0 "노르딕 인민연합"
- SCA_fascism_ADJ:0 "노르딕"
- SCA_democratic_ADJ:0 "노르딕"
- SCA_neutrality_ADJ:0 "노르딕"
- SCA_communism_ADJ:0 "노르딕"
+ SCA_fascism:0 "노르드 제국"
+ SCA_fascism_DEF:0 "노르드 제국"
+ SCA_democratic:0 "노르드 연방"
+ SCA_democratic_DEF:0 "노르드 연방"
+ SCA_neutrality:0 "노르드 연방"
+ SCA_neutrality_DEF:0 "노르드 연방"
+ SCA_communism:0 "노르드 인민연합"
+ SCA_communism_DEF:0 "노르드 인민연합"
+ SCA_fascism_ADJ:0 "노르드"
+ SCA_democratic_ADJ:0 "노르드"
+ SCA_neutrality_ADJ:0 "노르드"
+ SCA_communism_ADJ:0 "노르드"
  
  #SPQR
  SPQR_UNIFIED_communism:0 "로마 프롤레타리아 공화국"
  SPQR_UNIFIED_communism_DEF:0 "로마 프롤레타리아 공화국"
- SPQR_UNIFIED_neutrality:0 "Imperium Romanum"
- SPQR_UNIFIED_neutrality_DEF:0 "Imperium Romanum"
- SPQR_UNIFIED_communism_ADJ:0 "Roman"
- SPQR_UNIFIED_neutrality_ADJ:0 "Roman"
- SPQR_UNIFIED_democratic_ADJ:0 "Roman"
- SPQR_UNIFIED_fascism_ADJ:0 "Roman"
+ SPQR_UNIFIED_neutrality:0 "로마 제국"
+ SPQR_UNIFIED_neutrality_DEF:0 "로마 제국"
+ SPQR_UNIFIED_communism_ADJ:0 "로마"
+ SPQR_UNIFIED_neutrality_ADJ:0 "로마"
+ SPQR_UNIFIED_democratic_ADJ:0 "로마"
+ SPQR_UNIFIED_fascism_ADJ:0 "로마"
  
  #RAJ
- RAJ_UK_democratic:0 "$OVERLORDADJ$ Raj"
- RAJ_UK_democratic_DEF:0 "The $OVERLORDADJ$ Raj"
- RAJ_UK_neutrality:0 "$OVERLORDADJ$ Raj"
- RAJ_UK_neutrality_DEF:0 "The $OVERLORDADJ$ Raj"
+ RAJ_UK_democratic:0 "$OVERLORDADJ$령 인도"
+ RAJ_UK_democratic_DEF:0 "$OVERLORDADJ$령 인도"
+ RAJ_UK_neutrality:0 "$OVERLORDADJ$령 인도"
+ RAJ_UK_neutrality_DEF:0 "$OVERLORDADJ$령 인도"
  
  #RFPmck
  RFPmck_fascism:0 "러시아 파시스트당"
@@ -275,10 +275,10 @@
  
  #LBA
  LBA_subject:0 "$OVERLORDADJ$ Libya"
- LBA_ITA_fascism_autonomy_reichskommissariat:0 "$OVERLORDADJ$ Libya"
- LBA_ITA_fascism_autonomy_integrated_puppet:0 "$OVERLORDADJ$ Libya"
- LBA_ITA_fascism_autonomy_reichskommissariat_DEF:0 "$OVERLORDADJ$ Libya"
- LBA_ITA_fascism_autonomy_integrated_puppet_DEF:0 "$OVERLORDADJ$ Libya"
+ LBA_ITA_fascism_autonomy_reichskommissariat:0 "$OVERLORDADJ$령 리비아"
+ LBA_ITA_fascism_autonomy_integrated_puppet:0 "$OVERLORDADJ$령 리비아"
+ LBA_ITA_fascism_autonomy_reichskommissariat_DEF:0 "$OVERLORDADJ$령 리비아"
+ LBA_ITA_fascism_autonomy_integrated_puppet_DEF:0 "$OVERLORDADJ$령 리비아"
  
  #ICE
  ICE_DEN_autonomy_dominion:0 "아이슬란드 자치령"
@@ -294,10 +294,10 @@
  IRE_free_state_democratic_DEF:0 "아일랜드 자유국"
 
  #ITA
- ITA_FRA_autonomy_puppet:0 "Royaume d'Italie"
+ ITA_FRA_autonomy_puppet:0 "이탈리 왕국"
 
  #MAJ
- MAJ_UNIFIED_ADJ:0 "Majapahit"
+ MAJ_UNIFIED_ADJ:0 "마자파힛"
  
  #MAN
  MAN_qing_restored:0 "대청제국"
@@ -320,10 +320,10 @@
  MongalCouncilCtag_neutrality_DEF:0 "몽골 정치위원회"
  
  #MUT
- MUT_UNIFIED_ADJ:0 "Mutapan"
+ MUT_UNIFIED_ADJ:0 "무타파"
  
  #NDC
- NDC_UNIFIED_ADJ:0 "Nordic"
+ NDC_UNIFIED_ADJ:0 "노르드"
  
  #NWND
  NWND_communism:0 "북서 국민방위정부"
@@ -332,37 +332,37 @@
  NWND_fascism_DEF:0 "북서 국민방위정부"
  
  #OTT
- OTT_UNIFIED_neutrality:0 "Ottoman Empire"
- OTT_UNIFIED_fascism:0 "Ottoman Empire"
- OTT_UNIFIED_democratic:0 "Ottoman Federation"
- OTT_UNIFIED_communism:0 "Near Eastern Socialist Republic"
- OTT_UNIFIED_neutrality_DEF:0 "The Sublime Ottoman State"
- OTT_UNIFIED_fascism_DEF:0 "The Sublime Ottoman State"
- OTT_UNIFIED_democratic_DEF:0 "The Ottoman Federation"
- OTT_UNIFIED_communism_DEF:0 "The Near Eastern Socialist Republic"
- OTT_UNIFIED_neutrality_ADJ:0 "Ottoman"
- OTT_UNIFIED_fascism_ADJ:0 "Ottoman"
- OTT_UNIFIED_democratic_ADJ:0 "Ottoman"
- OTT_UNIFIED_communism_ADJ:0 "Near Eastern" 
+ OTT_UNIFIED_neutrality:0 "오스만 제국"
+ OTT_UNIFIED_fascism:0 "오스만 제국"
+ OTT_UNIFIED_democratic:0 "오스만 연방"
+ OTT_UNIFIED_communism:0 "근동 사회주의 공화국"
+ OTT_UNIFIED_neutrality_DEF:0 "오스만 숭고국"
+ OTT_UNIFIED_fascism_DEF:0 "오스만 숭고국"
+ OTT_UNIFIED_democratic_DEF:0 "오스만 연방"
+ OTT_UNIFIED_communism_DEF:0 "근동 사회주의 공화국"
+ OTT_UNIFIED_neutrality_ADJ:0 "오스만"
+ OTT_UNIFIED_fascism_ADJ:0 "오스만"
+ OTT_UNIFIED_democratic_ADJ:0 "오스만"
+ OTT_UNIFIED_communism_ADJ:0 "근동" 
  
  #HRE
- HRE_UNIFIED_neutrality:0 "Holy Roman Empire"
- HRE_UNIFIED_fascism:0 "Holy Roman Empire"
- HRE_UNIFIED_democratic:0 "Holy Roman Federation"
- HRE_UNIFIED_communism:0 "Central European Republic"
- HRE_UNIFIED_neutrality_DEF:0 "The Holy Roman Empire"
- HRE_UNIFIED_fascism_DEF:0 "The Holy Roman Empire"
- HRE_UNIFIED_democratic_DEF:0 "The Holy Roman Federation"
- HRE_UNIFIED_communism_DEF:0 "The Central European Republic"
- HRE_UNIFIED_neutrality_ADJ:0 "Holy Roman"
- HRE_UNIFIED_fascism_ADJ:0 "Holy Roman"
- HRE_UNIFIED_democratic_ADJ:0 "Holy Roman"
- HRE_UNIFIED_communism_ADJ:0 "Central European"
+ HRE_UNIFIED_neutrality:0 "신성 로마 제국"
+ HRE_UNIFIED_fascism:0 "신성 로마 제국"
+ HRE_UNIFIED_democratic:0 "신성 로마 연방"
+ HRE_UNIFIED_communism:0 "중부 유럽 공화국"
+ HRE_UNIFIED_neutrality_DEF:0 "신성 로마 제국"
+ HRE_UNIFIED_fascism_DEF:0 "신성 로마 제국"
+ HRE_UNIFIED_democratic_DEF:0 "신성 로마 연방"
+ HRE_UNIFIED_communism_DEF:0 "중부 유럽 공화국"
+ HRE_UNIFIED_neutrality_ADJ:0 "신성 로마 제국"
+ HRE_UNIFIED_fascism_ADJ:0 "신성 로마 제국"
+ HRE_UNIFIED_democratic_ADJ:0 "신성 로마 연방"
+ HRE_UNIFIED_communism_ADJ:0 "중부 유럽"
  
  #HAN
- HAN_neutrality:0 "Hanover"
- HAN_neutrality_DEF:0 "Hanover"
- HAN_neutrality_ADJ:0 "Hanovarian"
+ HAN_neutrality:0 "하노버"
+ HAN_neutrality_DEF:0 "하노버"
+ HAN_neutrality_ADJ:0 "하노버"
 
  #HREAUS
  HREAUS_neutrality:0 "신성 로마 제국"
@@ -388,10 +388,10 @@
  HCPC_neutrality_DEF:0 "기찰정무위원회"
 
  #GER
- GER_FRA_autonomy_dominion:0 "Protectorat Allemand"
- GER_FRA_autonomy_colony:0 "Protectorat Allemand"
- GER_FRA_autonomy_puppet:0 "Protectorat Allemand"
- GER_FRA_autonomy_integrated_puppet:0 "Protectorat Allemand"
+ GER_FRA_autonomy_dominion:0 "알망 보호령"
+ GER_FRA_autonomy_colony:0 "알망 보호령"
+ GER_FRA_autonomy_puppet:0 "알망 보호령"
+ GER_FRA_autonomy_integrated_puppet:0 "알망 보호령"
  
  #GRL
  GRL_DEN_autonomy_dominion:0 "그린란드"
@@ -442,18 +442,18 @@
  PAR_BRA_autonomy_dominion_DEF:0 "그랑 샤쿠국"
  
  #PAL
- ENG_PAL_neutrality:0 "Mandatory Palestine"
- ENG_PAL_neutrality_DEF:0 "Mandatory Palestine"
- ENG_PAL_neutrality_ADJ:0 "Palestinian"
- ENG_PAL_democratic:0 "Mandatory Palestine"
- ENG_PAL_democratic_DEF:0 "Mandatory Palestine"
- ENG_PAL_democratic_ADJ:0 "Palestinian"
- ENG_PAL_democratic:0 "People's Socialist Palestine"
- ENG_PAL_democratic_DEF:0 "the People's Socialist Palestine"
- ENG_PAL_democratic_ADJ:0 "Palestinian"
- ENG_PAL_fascism:0 "Jund Palestine"
- ENG_PAL_fascism_DEF:0 "Jund Palestine"
- ENG_PAL_fascism_ADJ:0 "Palestinian"
+ ENG_PAL_neutrality:0 "팔레스타인 위임통치령"
+ ENG_PAL_neutrality_DEF:0 "팔레스타인 위임통치령"
+ ENG_PAL_neutrality_ADJ:0 "팔레스타인"
+ ENG_PAL_democratic:0 "팔레스타인 위임통치령"
+ ENG_PAL_democratic_DEF:0 "팔레스타인 위임통치령"
+ ENG_PAL_democratic_ADJ:0 "팔레스타인"
+ ENG_PAL_democratic:0 "팔레스타인 인민 사회주의 공화국"
+ ENG_PAL_democratic_DEF:0 "팔레스타인 인민 사회주의 공화국"
+ ENG_PAL_democratic_ADJ:0 "팔레스타인"
+ ENG_PAL_fascism:0 "팔레스타인 군사지구"
+ ENG_PAL_fascism_DEF:0 "팔레스타인 군사지구"
+ ENG_PAL_fascism_ADJ:0 "팔레스타인"
  
  #POL
  POL_GER_autonomy_colony:0 "총독부"
@@ -467,18 +467,18 @@
  PRC_nwnd_gov_short:0 "북서 국민방위정부"
  
  #PER
- PER_UNIFIED_neutrality:0 "Persian Empire"
- PER_UNIFIED_fascism:0 "Persian Empire"
- PER_UNIFIED_democratic:0 "Persia"
- PER_UNIFIED_communism:0 "Great Iranian Socialist Republic"
- PER_UNIFIED_neutrality_DEF:0 "The Persian Empire"
- PER_UNIFIED_fascism_DEF:0 "The Persian Empire"
- PER_UNIFIED_democratic_DEF:0 "Persia"
- PER_UNIFIED_communism_DEF:0 "The Great Iranian Socialist Republic"
- PER_UNIFIED_communism_ADJ:0 "Iranian"
- PER_UNIFIED_democratic_ADJ:0 "Persian"
- PER_UNIFIED_neutrality_ADJ:0 "Persian"
- PER_UNIFIED_fascism_ADJ:0 "Persian"
+ PER_UNIFIED_neutrality:0 "페르시아 제국"
+ PER_UNIFIED_fascism:0 "페르시아 제국"
+ PER_UNIFIED_democratic:0 "페르시아"
+ PER_UNIFIED_communism:0 "대 이란 사회주의 공화국"
+ PER_UNIFIED_neutrality_DEF:0 "페르시아 제국"
+ PER_UNIFIED_fascism_DEF:0 "페르시아 제국"
+ PER_UNIFIED_democratic_DEF:0 "페르시아"
+ PER_UNIFIED_communism_DEF:0 "대 이란 사회주의 공화국"
+ PER_UNIFIED_communism_ADJ:0 "이란"
+ PER_UNIFIED_democratic_ADJ:0 "페르시아"
+ PER_UNIFIED_neutrality_ADJ:0 "페르시아"
+ PER_UNIFIED_fascism_ADJ:0 "페르시아"
  
  #PLC
  PLC_UNIFIED_ADJ:0 "폴란드-리투아니아"
@@ -490,18 +490,18 @@
  JAP_FRA_autonomy_puppet:0 "일본 왕국"
  
  #UNL
- UNL_UNIFIED_neutrality:0 "United Provinces of the Netherlands"
- UNL_UNIFIED_fascism:0 "Leonis Batavica"
- UNL_UNIFIED_democratic:0 "United Kingdom of the Netherlands"
- UNL_UNIFIED_communism:0 "Lowlands' Socialist State"
- UNL_UNIFIED_neutrality_DEF:0 "The United Provinces of the Netherlands"
- UNL_UNIFIED_fascism_DEF:0 "Leonis Batavica"
- UNL_UNIFIED_democratic_DEF:0 "The United Kingdom of the Netherlands"
- UNL_UNIFIED_communism_DEF:0 "The Lowlands' Socialist State"
- UNL_UNIFIED_neutrality_ADJ:0 "Netherlander"
- UNL_UNIFIED_fascism_ADJ:0 "Batavica"
- UNL_UNIFIED_democratic_ADJ:0 "Netherlander"
- UNL_UNIFIED_communism_ADJ:0 "Lowlander"
+ UNL_UNIFIED_neutrality:0 "네덜란드 연합주"
+ UNL_UNIFIED_fascism:0 "레오니스 바타비카"
+ UNL_UNIFIED_democratic:0 "네덜란드 연합왕국"
+ UNL_UNIFIED_communism:0 "저지대 사회주의국"
+ UNL_UNIFIED_neutrality_DEF:0 "네덜란드 연합주"
+ UNL_UNIFIED_fascism_DEF:0 "레오니스 바타비카"
+ UNL_UNIFIED_democratic_DEF:0 "네덜란드 연합왕국"
+ UNL_UNIFIED_communism_DEF:0 "저지대 사회주의국"
+ UNL_UNIFIED_neutrality_ADJ:0 "네덜란드"
+ UNL_UNIFIED_fascism_ADJ:0 "바타비카"
+ UNL_UNIFIED_democratic_ADJ:0 "네덜란드"
+ UNL_UNIFIED_communism_ADJ:0 "저지대"
 
  #USC
  USC_UNIFIED_ADJ:0 "중앙아메리카"
