@@ -34,3 +34,12 @@ l_english:
 
  QBC_generic_electronics_concern:0 "캐내디언 마르코니"
  
+ CAN_american_intervention:0 "미국 개입"
+ CAN_observers_on_the_american_front:0 "미국 전선의 관찰자"
+ CAN_observers_on_the_american_front_desc:0 "미국 내전은 새로운 전술을 연구할 수 있는 완벽한 기회입니다."
+ CAN_intervene_in_the_american_civil_war:0 "미국 내전에 개입"
+ CAN_intervene_in_the_american_civil_war_desc:0 "우리는 국경 남쪽의 우리 이념적 동지들과 [ROOT.GetRulingIdeology]의 대의를 도와야 합니다."
+
+ CAN_sorel_steel_and_foundry:0 "소렐 제철소"
+ CAN_sorel_steel_and_foundry_desc:0 "소렐은 우리 철강 생산의 심장이 될 것이며 인근 조선소와 건설 예정된 포 공장과도 공조할 것입니다."
+ CAN_sorel_industries_desc:0 "세인트로렌스 강 어귀의 좋은 위치와 제철소와의 거리적 가까움은 야포와 같은 중화기 생산에 완벽한 여건입니다."
