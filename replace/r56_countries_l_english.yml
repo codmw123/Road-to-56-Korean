@@ -1509,7 +1509,7 @@ l_english:
  SPR_neutrality:0 "스페인 왕국"
  SPR_neutrality_DEF:0 "스페인 왕국"
 
- #WUR
+ #WUR 
  WUR_neutrality:0 "뷔르템베르크"
  WUR_neutrality_DEF:0 "뷔르템베르크"
  WUR_neutrality_ADJ:0 "뷔르템베르크"
