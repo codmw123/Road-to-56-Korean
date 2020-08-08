@@ -1,4 +1,4 @@
-l_english: 
+﻿l_english: 
 
  HUN_form_the_mdp:0 "헝가리 노동인민당 창당"
  HUN_form_the_mdp_desc:0 "공산당이 이끄는 여러 좌익 정당들의 연합 전선을 만들어 정당들을 개편해야 합니다."
@@ -51,7 +51,7 @@ HUN_acquire_skoda_naval_artillery_experience:0 "스코다 함포 기술 습득"
  HUN_oil_refining_infrastructure_desc:0 "우리의 유전을 최대한으로 활용하기 위해 우리는 국가적으로 필요한 정제소 및 연료 저장고를 건설해야 합니다."
 
  HUN_revolt_of_the_arrow_crosses:0 "화살십자당의 반란"
- HUN_revolt_of_the_arrow_crosses_desc:0 "섭정이라고 하는 인간은 권력을 독점하면서도 타국의 압제자들에게 의존해 조국과 군대를 배반했습니다."
+ HUN_revolt_of_the_arrow_crosses_desc:0 "섭정이라고 하는 인간은 권력을 독점하면서도 타국의 압제자들에게 의존해 모국과 군대를 배반했습니다." # it's motherland (anyaföld) in hungarian, not fatherland
  HUN_favor_the_army:0 "군대 우선시"
  HUN_favor_the_army_desc:0 "헝가리에게 역사적 국경을 돌려주기 위해서 군대를 우선시하는 것이 우리의 의무입니다. 따라서 우리는 장교들의 이익을 우선시하고 반역자 호르티의 축출로 만들어진 분열을 해소하기 위해 할 수 있는 모든 것을 다해야 합니다."
  HUN_foreign_aeronautical_assistance:0 "국외 항공 지원"
