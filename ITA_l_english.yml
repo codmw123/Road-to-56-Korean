@@ -618,15 +618,18 @@ ferrovie_meridionali_sarde:0 "남부 사르데냐 철도회사"
 scotti:0 "스코티"
 astaldi:0 "아스탈디"
 pirelli:0 "피렐리"
+ITA_finsider:0 "Finsider"
 
 #Traits
 ansaldo_tank_manufacturer:0 "전차 설계사"
 ansaldo_navy_manufacturer:0 "함선 설계사"
+fondatore_dell_impero:0 "Fondatore dell'impero"
 
-ITA_RSI_fascism:0 "Italian Social Republic"
+
+ITA_RSI_fascism:0 "이탈리아 사회 공화국"
 
 #Faction
-stresa_front_faction:0 "Stresa Front"
+stresa_front_faction:0 "스트레사 전선"
 
 #Avanti!
 ABILITY_avanti:0 "Avanti!"
