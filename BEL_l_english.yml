@@ -431,7 +431,7 @@
  tblra_trick_german_scum:0 "중립을 보여줘라"
  tblra_trick_german_scum_desc:0 "해안 요새를 건설함으로써, 우리는 독일 뿐만이 아니라 외부 위협으로부터 방어하려는 벨기에인을 볼 수 있을것입니다."
  tblra_pillarized_society:0 "기둥 사회"
- tblra_pillarized_society_desc:0 "기둥은 벨기에 정치에서 가장 중요한 요소 중 하나입니다. 각 정당들이 부츄얼 펀드, 신디케이드 및 다른 조직을 가지고 있기 때문에 사회를 정치적인 거품으로 보고 있습니다. 결과적으로 이 제도는 선거를 중요시하는 경향을 가지게 된다."
+ tblra_pillarized_society_desc:0 "Pillarization is one of the most important factors in [ROOT.GetAdjective] politics. It is characterized as a separation of society into "political bubbles" as each important political party has it's own mutual fund, syndicate and other organizations. As a consequence, this system tends to solidify votes from elections to elections and encourages the return of identical political coalitions."
  tblra_union_agreements:0 "연합 회담"
  tblra_union_agreements_desc:0 "최근의 연합 회담은 매우 만족스러운 결과를 가지고 왔습니다."
  tblra_reserve_mobilization:0 "예비 동원"
@@ -852,7 +852,7 @@
  tblra.53.d:0 "75mm의 무기고에 비축된 포들이 배치 되기를 기다리고 있습니다."
  tblra.53.a:0 "우리는 그것들을 우리의 사단에 배치 해야합니다."
  tblra.54.t:0 "그 많은 포들과 스웨덴의 총으로 교환한다"
- tblra.54.d:0 "작년에 사들인 보르퍼스 산악총은 현재 우리의 창고에서 배치를 기다리고 있씁니다.
+ tblra.54.d:0 "작년에 사들인 보르퍼스 산악총은 현재 우리의 창고에서 배치를 기다리고 있씁니다."
  tblra.54.a:0 "우리는 그것들을 우리의 사단에 배치를 해야한다." 
  tblra.55.t:0 "허버트 피에로가 사직 했습니다."
  tblra.55.d:0 "수년간의 지친 허버트 피에로는 사직서를 제출하기로 결정했습니다. 아킬레 반 액커가 대신 정부를 이끌어 나갈 것입니다."
@@ -1825,7 +1825,7 @@
  bel_cityfall.2.c:0 "1914년때 도와준 것을 잊은 거냐?"
  bel_cityfall.3.t:0 "모스크바 함락"
  bel_cityfall.3.d:0 "대담한 벨기에 군인들이 하루 종일 싸운 끝에 모스크바를 점령하고, 모스크바 거리를 행진합니다. 벨기에 군인들은 붉은 광장 주변과 파괴된 크렘린 궁전에 자리를 잡았습니다. 성 바실 바실리카의 탑은 1695년, 브뤼셀 시청의 탑처럼 포격에서 기적적으로 살아 남았습니다."
- bel_cityfall.3.a:0 벨기에의 사자가 다시 운다!"
+ bel_cityfall.3.a:0 "벨기에의 사자가 다시 운다!"
  bel_cityfall.3.b:0 "벨기에의 사자가 다시 운다!"
  bel_cityfall.3.c:0 "벨기에인? 여기에?"
  bel_cityfall.4.t:0 "암스테르담 함락"
@@ -1914,7 +1914,7 @@
  BEL5_neutrality_DEF:0 "벨기에"
  BEL5_fascism_ADJ:0 "디츠"
  BEL5_communism_ADJ:0 "벨기에인"
- BEL5_democratic_ADJ:0 벨기에인"
+ BEL5_democratic_ADJ:0 "벨기에인"
  BEL5_neutrality_ADJ:0 "벨기에인"
  
  COG_fascism:0 "콩고 자유 주"
@@ -1974,8 +1974,8 @@
  italian_research_name:0 "이탈리아 연구 그룹"
  italian_research_desc:0 "이탈리아가 연구한 기술의 연구 시간을 낮춘다 이 기술들은 석궁, 나무 탱크, 근육질의 헬리콥터, 무시무시한 이동식 파스타 중포를 포함한다." 
  
- excavation_tech_research:0 "굴착 연구 비용"
- construction_tech_research:0 "건설 연구 "
+ excavation_tech_research:0 "Excavation Research Speed"
+ construction_tech_research:0 "Construction Research Speed"
  
  #flanders semi generic
  VLA_army_effort:0 "새로운 군대 조직"
@@ -2138,7 +2138,7 @@
  WLL_aviation_effort:0 "공군 사관학교"
  WLL_aviation_effort_tt:0 "§Y공군기지§!를 위한 건설 슬롯 충분하지 않습니다!"
  WLL_aviation_effort_desc:0 "공중전보다 더 빠른 교리는 없습니다. 항공은 모든 국가가 알아야 하는 분야 입니다."
- WLL_fighter_focus:0 "Primacy to "페어리 전투기"
+ WLL_fighter_focus:0 "Primacy to "페어리 전투기""
  WLL_fighter_focus_desc:0 "우리는 대전쟁에서 공중전을 보지 못했습니다. 전투기 개발에 앞장서는 우리는 전장을 지배할 것입니다."
  WLL_bomber_focus:0 "SABCA 우선 지원"
  WLL_bomber_focus_desc:0 "적국의 사람들이 미래의 전쟁에 대해 회상할때, 하늘에서 불의 비가 내렸다고 말할 겁니다. 우리는 그것을 위해 노력해야 합니다."
