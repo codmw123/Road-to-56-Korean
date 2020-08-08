@@ -579,8 +579,8 @@ l_english:
  GRL_communism_ADJ:0 "그린란드"
  
  #GUA
- GUA_fascism:0 "렉시스트 과테말라"
- GUA_fascism_DEF:0 "렉시스트 과테말라"
+ GUA_fascism:0 "과테말라국"
+ GUA_fascism_DEF:0 "과테말라국"
 
 
  #GUN
