@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
 
  # Politics
  GRE_despotism_desc:0 "§Y메탁사스주의§!는 그리스 정치인 §W이오안니스 메탁사스§!와 관련된 전체주의적 국민주의 이념입니다. 이 이념은 그리스의 §Y부흥§!과 §H현대적이고 문화적으로 동질한 그리스§!를 세울 것을 주장합니다. 메탁사스주의는 자유주의를 폄하하고 개인의 이익을 국익의 부차적인 것으로 보며 그리스인들을 §M새로운 그리스§!를 만들기 위해 봉사하는 규율 잡힌 집단으로 동원하고자 합니다."
@@ -409,6 +409,8 @@ l_english:
  GRE_prohibit_sale_of_ships:0 "민간 선박 판매 금지"
  GRE_integrate_north_epirus:0 "북이피로스 통합"
  GRE_integrate_north_epirus_desc:0 "1914년 이래 알바니아는 이피로스 북쪽에 위치한 우리의 정당한 영토를 불법적으로 점유하고 있었지만, 우리는 우리 민족을 다시 모국으로 합치는 데 성공했습니다! 하지만 우리는 여전히 북이피로스가 알바니아의 일부라고 주장하는 소위 "지로카스터르인들"의 문제를 해결해야 합니다."
+ GRE_enosis_of_cyprus:0 "키프로스의 통합"
+ 
  #Events
  greece.5.t:0 "데메르지스의 사망"
  greece.5.d:0 "콘스탄디노스 데메르지스 총리가 심장마비로 사망했습니다. 총리로 재임한 기간 동안 그는 우리나라 경제의 부흥을 이끌어냈으며 대중들에게 큰 인기를 얻었습니다. 그의 자리를 대신할 사람은 노장 이오안니스 메탁사스이며, 그는 데메르지스의 유산을 유지하고 이 혼란한 시기에 그리스를 보전하는 임무를 맡게 되었습니다.\n\n(To go §RCommunist§!, pick any Prime Minister, but don't progress through their focuses. Instead, wait for Strikes to occur.)"
