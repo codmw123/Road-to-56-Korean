@@ -764,9 +764,9 @@
  
  SWI_mobilize_category:0 "동원령"
  SWI_mobilize_category_desc:0 "스위스는 다른 나라와 같은 군대를 가지고 있지 않습니다. 그 대신 스위스는 필요한 때에 동원되어 국가를 위해 복무하는 병사들로 구성된 민병대에 의존합니다."
-    SWI_mobilize_decision:0 "민병대 동원"
+    SWI_mobilize_decision:0 "스위스 민병대 동원"
     SWI_upgrade_units:0 "민병대 업그레이드"
-    SWI_demobilize_units:0 "민병대 동원 해제"
+    SWI_demobilize_units:0 "스위스 민병대 동원 해제"
     SWI_angry_civilians:0 "동원령에 대한 반대"
     SWI_deal_with_populace:0 "대중의 불만에 대처"
     
