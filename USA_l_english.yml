@@ -23,7 +23,8 @@ l_english:
  
  USA_expand_unoffical_operations:0 "비공식 작전 확대"
  USA_expand_unoffical_operations_desc:0 "우리는 경험을 통해 정보가 승리와 패배를 가를 수 있다고 알게 되었습니다. 정보는 승리를 가져다줄 수도 있지만 전쟁을 방지할 수도 있습니다. 잘 설치된 폭탄 하나는 폭격기 편대 하나를 대체할 수 있고 잘 침투한 요원 한 명은 사단 하나를 대체할 수 있습니다."
-
+ USA_office_of_economic_warfare:0 "경제전쟁국"
+ USA_office_of_economic_warfare_desc:0 "전쟁으로 인해 우리는 천연자원을 국외로 수출하는 것이 아닌 전쟁 경제를 견인하기 위해 사용해야 합니다. 경제전쟁국은 이 변화를 감독하는 임무를 맡게 될 것입니다."
 
 
  r56_usa.1.t:0 "1948년 대선"
