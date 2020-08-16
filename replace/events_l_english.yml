@@ -1395,7 +1395,7 @@
  news.186.b:0 "터무니없는 요구이다!"
  news.187.t:0 "[GRE.GetName]의 지원을 모색하는 이탈리아"
  news.187.d:0 "최초의 고대 유럽 국가의 후계자인 [GRE.GetName](을)를 인용하여, [ITA.GetName](은)는 두 국가 사이의 자연적인 친선이 존재한다고 주장합니다.\n\n그들의 노골적인 정치적 선전은, [ITA.GetName](이)가 또한 [ITA.GetFactionName]의 자연적인 구성원으로 [GRE.GetName](을)를 보고있습니다.\n\n천년간 반으로 분리 된 후, 동쪽과 서쪽이 다시 결합할 수 있을지는 두고봐야 합니다."
- news.187.a:0 "명백히 [Greece.GetName](은)는 우리의 관심사를 공유하고 있다."
+ news.187.a:0 "명백히 [GRE.GetName](은)는 우리의 관심사를 공유하고 있다."
  news.187.b:0 "이것은 놀랄만할 일이 아니다."
  news.187.c:0 "우리는 많은 역사를 공유하고 있다."
  news.188.t:0 "[TUR.GetName](와)과의 화해를 모색하는 [ITA.GetName]"
