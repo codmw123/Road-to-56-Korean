@@ -11,7 +11,9 @@
  ANCAP_fascism_DEF:0 "자유 기업 구역"
  ANCAP_communism:0 "자유 인민공사 구역" #I throw up just thinking about it
 
-
+ #ALB
+ ALB_ITA_autonomy_puppet:0 "이탈리아령 알바니아 보호국"
+ ALB_ITA_autonomy_puppet_DEF:0 "이탈리아령 알바니아 보호국"
 
  #ARA
  ARA_UNIFIED_neutrality:0 "아랍 연방"
