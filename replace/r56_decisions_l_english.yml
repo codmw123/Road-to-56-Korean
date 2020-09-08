@@ -133,7 +133,7 @@
  get_generic_CA_template:0 "Get Heavy Cruiser Template"
  get_generic_SS_template:0 "Get Early Submarine Template"
 
- decision_cost_CP_25_pp_50:0 "£command_power  §Y25§! £pol_power  §Y50§!"
+ decision_cost_CP_25_pp_50:0 "£command_power  §Y25§! £pol_power  §Y50§!" 
  decision_cost_CP_25_pp_50_blocked:0 "£command_power  §R25§! £pol_power  §R50§!"
  decision_cost_CP_25_pp_50_tooltip:0 "It costs [This.GetDecisionCostCP25PP50] to take the decision"
 
