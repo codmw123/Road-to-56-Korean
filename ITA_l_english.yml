@@ -1,10 +1,10 @@
 ﻿l_english:
   # Ministers
- balbo_dead:0 "이탈로 발보는 사망했습니다"
+ balbo_dead:0 "이탈로 발보가 사망함"
  
  #flags
 
- ITA_coming_march_2020:0 "§GComing March Patch 2020§!"
+ ITA_coming_march_2020:0 "§G2020년 3월 패치 업데이트 예정§!"
  
  ITA_carlo_favagrossa:0 "카를로 파바그로사"
  ITA_dino_alfieri:0 "디노 알피에리"
@@ -18,7 +18,7 @@
 
  #Tooltips
 
- ITA_royal_intervention_tt:0 "Monarchist Loyalist And Persons Within The Military Loyal To The King Will Start A §YCivil War§! Against The Fascist."
+ ITA_royal_intervention_tt:0 "국왕 충성파와 국왕에게 충성하는 군 내 인사들이 파시스트들에 맞선 §Y내전§!을 시작할 것입니다."
  
  
  # Decisions
@@ -39,39 +39,39 @@
  ITA_temporarly_occupy_the_baleares_desc:0 "발레아레스 제도는 공산주의 정권에게 쥐어주기에는 전략적으로 너무 중요합니다. 우리는 스페인 내전이 끝나면 제도를 돌려주겠다고 국민전선에 약속하며 섬을 점령할 것입니다. 물론, 그들이 패배한다면 다시 돌려줄 이유는 없을 것입니다..."
  ITA_temporarly_occupy_the_baleares_tt:0 "당신은 §G국민전선§!에 §I내전이 끝나면§! 섬을 돌려주겠다고 약속했습니다. 만약 §Y공화파§!가 승리한다면 당신은 섬을 계속 점령할 수 있겠지만, §g국민전선§!이 승리했음에도 섬을 돌려주지 않는다면, 당신은 §R큰 불이익§!을 얻게 될 것입니다."
 
- ITA_cede_819_to_HUN:0 "Cede Prekmurje to Hungary"
+ ITA_cede_819_to_HUN:0 "프레크무레를 헝가리에 할양"
 
 
  # Events
 
  r56_italy.1.t:0 "국왕이 무솔리니를 해임"
  r56_italy.1.d:0 "비토리오 에마누엘레 3세가 긴급회의를 열고, 무솔리니와 만나 사임을 요구했습니다. 국왕은 막대한 부채와 15년 간의 집권에도 불구하고 해결하지 못한 경제 문제, 그리고 에티오피아 전쟁으로 인한 금수조치 등의 문제를 지적했습니다.\n\n자신들의 지분을 확대하려 하는 왕당파 세력의 영향으로 무솔리니에 등을 돌린 파시즘 대평의회의 압력으로, 무솔리니는 투옥대신 사임을 선택할 수밖에 없었습니다. 파시스트 정권과의 깊은 관계에도 불구하고 훨씬 온건한 인물로 비춰진 피에트로 바돌리오가 총리로 임명되었습니다.\n\n국왕이 무너지는 이탈리아의 체면을 살리려고 끊임없이 노력하는 것은 분명합니다."
- r56_italy.1.a:0 "이 상황이 나아지길 바라자"
+ r56_italy.1.a:0 "이 상황이 나아지길 바라자."
 
  r56_italy.2.t:0 "에티오피아와의 휴전 협정"
  r56_italy.2.d:0 "바돌리오의 첫번째 목표중 하나는 에티오피아에서의 희생을 종식시키는 것이었습니다. 알프레도 코벨리 신임 외무장관은 양국간의 적대 행위 중단을 위해 파견되었고, 평화 협상을 체결할 수 있었지만, 전쟁 동안의 파괴에 대한 배상금을 내야했습니다."
- r56_italy.2.a:0 "영구적인 경제 파탄보다는 지금의 문제 해결이 낫다"
+ r56_italy.2.a:0 "영구적인 경제 파탄보다는 지금의 문제 해결이 낫다."
 
  r56_italy.3.t:0 "새로운 내각"
  r56_italy.3.d:0 "총리 임명 며칠 후, 피에트로 바돌리오는 새로운 내각을 구성했습니다. 바돌리오는 여전히 국가 파시스트당을 중심으로 국정을 운영하려 하지만, 파시스트의 경제와 사회 정책으로 인한 문제에 대해 관심을 가지기 시작한 국왕의 의지로 상당한 왕당파 인사가 새로운 내각에 참여함에 따라 파시스트의 영향력이 약화되었습니다."
- r56_italy.3.a:0 "새 술은 새 부대에"
+ r56_italy.3.a:0 "새 술은 새 부대에."
 
  r56_italy.4.t:0 "조반니 메세의 제안"
  r56_italy.4.d:0 "제3기병사단의 전 지휘관이자 피에트로 바돌리오 내각의 내무장관인 조반니 메세 소장이 다소 구체적인 제안을 하며 접근해 왔습니다. 바돌리오의 궁극적인 목표는 파시스트들을 권좌에서 몰아내는 것이었음이 메세에게는 분명했습니다.\n\n메세는 검은 셔츠단이나 국가 파시스트당의 지도자들과 밀접한 관련이 있는 조직들 내부에 있는 왕당파들을 이용하여 국가 파시스트당의 지도자들을 암살하는 방안을 제시했습니다. 수뇌부가 없어진다면, 남은 잔당은 비교적 간단히 제거할 수 있을 것입니다."
- r56_italy.4.a:0 "핵심 인물을 제거한다면, 운동은 알아서 자멸할 것이다"
- r56_italy.4.b:0 "실패하면 어쩌지? 그런 위험한 방법에 기댈 필요는 없다"
+ r56_italy.4.a:0 "핵심 인물을 제거한다면, 운동은 알아서 자멸할 것이다."
+ r56_italy.4.b:0 "실패하면 어쩌지? 그런 위험한 방법에 기댈 필요는 없다."
 
  r56_italy.5.t:0 "아르투로 보키니의 죽음"
  r56_italy.5.d:0 "일반 경찰과 국가 파시스트당의 비밀 경찰인 반 파시스트 검속 비밀 경찰(OVRA)의 수장인 아르투로 보키니가, 자택에서 머리에 총탄 두 발을 맞아 사망한 채 발견되었습니다.\n\n그는 OVRA가 정부의 계획을 알아낼 수 있다는 이유로 첫 번째 목표물로 결정되었습니다. 자리는 공석이 되었으며, 이로 인해 계획이 들통날 가능성도 줄어들게 되었습니다."
- r56_italy.5.a:0 "훌륭해"
+ r56_italy.5.a:0 "훌륭해."
 
  r56_italy.6.t:0 "파시스트들이 암살 배후로 공산주의자들을 지목"
  r56_italy.6.d:0 "아르투로 보키니의 암살은 국가 파시스트당의 수뇌부에 충격을 주었습니다. 당의 기관지인 "이탈리아 인민"에는 \"공산주의 위협의 재림\"이라는 기사가 대문짝만하게 실렸으며, 이탈리아 공산당을 암살의 배후로 비난했습니다.\n\n검은셔츠단의 지도자인 루이지 루소는, \"반 파시스트적\"으로 의심되는 모든 요소에 대한 철저한 감시를 명령했습니다."
- r56_italy.6.a:0 "최소한 우리를 의심하진 않는군"
+ r56_italy.6.a:0 "최소한 우리를 의심하진 않는군."
 
  r56_italy.7.t:0 "로셀리 형제의 암살"
  r56_italy.7.d:0 "공화파 측으로 스페인 내전에 참전한 두 반 파시스트 운동가인 카를로 로셀리와 사바티노 로셀리가, 스페인 내전에서 얻은 정맥염을 치료받기 위해 노르망디의 바뇰드로른에 머물던 중, 프랑스 조직 "라 카굴"에 의해 암살되었습니다.\n\n그들은 "정의와 자유" 운동을 다른 반 파시스트 망명객, 주로 자유주의에서 사회주의적 성향을 지닌 공화주의자들과 함께 창설했습니다."
- r56_italy.7.a:0 "골칫덩이 두 개가 없어졌군"
+ r56_italy.7.a:0 "골칫덩이 두 개가 없어졌군."
 
  r56_italy.8.t:0 "국제 연맹에서의 외교적 사건"
  r56_italy.8.d:0 "이탈리아의 침략 전쟁을 비난하고 전쟁을 종식시키기 위한 외교적 지원을 요청한 에티오피아 황제 하일레 셀라시에 1세의 국제연맹 연설에서, 참석한 이탈리아 기자들은 황제를 조롱하기 시작했습니다.\n\n그 행동이 \"어리석다\"고 여긴 루마니아 대표 니콜라에 티툴레스쿠는, \"누가 저 미개인들에게 출구 좀 보여줘라!\"고 소리치며 그 기자들을 쫓아낼 것을 요구했습니다."
@@ -80,11 +80,11 @@
 
  r56_italy.9.t:0 "로마 의정서, 군사 조약으로 확대"
  r56_italy.9.d:0 "1934년 오스트리아, 헝가리, 이탈리아 정부 간에 체결된 로마 의정서는, 삼국 간의 경제 협력과 유고슬라비아의 영토 보전 반대에 집중한 협정이었습니다. 이탈리아의 주도 하에, 삼국 간의 군사 동맹을 포함한 두번째 의정서가 체결되었습니다.\n\n많은 사람들은 이를 국제연맹을 탈퇴한 이탈리아가 유럽에 발을 붙이고, 독일의 오스트리아 병합을 저지하기 위한 시도로 보고 있습니다."
- r56_italy.9.a:0 "이것이 중부 유럽의 안정을 보장했으면 좋겠군"
+ r56_italy.9.a:0 "이것이 중부 유럽의 안정을 보장했으면 좋겠군."
 
  r56_italy.10.t:0 "제2차 스트레사 전선"
  r56_italy.10.d:0 ""급증하는 독일의 위협"에 대항하기 위해, 이탈리아, 프랑스, 영국 정부는 스트레사에서 만나 이탈리아의 에티오피아 침공 이후 파기된 스트레사 전선의 재결성을 선언했습니다. 그 대신, 프랑스와 영국 정부는 이탈리아에 대한 금수 조치를 해제하기로 했습니다.\n\n그들의 목표는 독일에 맞서 오스트리아의 주권을 보호하고, 독일이 베르사유 조약을 준수하게 만드는 것에 있습니다."
- r56_italy.10.a:0 "과거의 승리를 지키기 위한 매우 다른 정부들의 연합"
+ r56_italy.10.a:0 "과거의 승리를 지키기 위한 매우 다른 정부들의 연합."
 
  r56_italy.11.t:0 "강철 조약"
  r56_italy.11.d:0 "에티오피아 침공 후 이탈리아에 가해진 여러 금수 조치는, 이탈리아가 기존 동맹국들과 다른 나라와 관계 개선을 하도록 만들었습니다. 그중에서도 이탈리아는, 베르사유 조약의 위반임에도 독일이 합병하고자 했던 오스트리아에 대한 독립보장을 철회한 후 독일과 가까워지기 시작했습니다.\n\n독일과 이탈리아 간의 친선 및 동맹 조약의 체결을 통해, 양국은 추후 서로에 대한 군사적 지원을 약속했습니다."
@@ -92,12 +92,12 @@
 
  r56_italy.12.t:0 "이탈리아의 스트레사 전선 재결성 요청"
  r56_italy.12.d:0 "나치 정권의 보복주의적 언사에서 베르사유 조약의 위반을 우려한 이탈리아가, 에티오피아에서처럼의 정당한 이유없는 전쟁을 하지 않을 것을 약속하며 스트레사 전선의 재결성을 요청했습니다.\n\n우리는 오스트리아의 주권과 베르사유 조약 조항에 대한 보장을 할 것이며, 필요하다면 군사적 개입을 할 것입니다."
- r56_italy.12.a:0 "베르사유 조약을 어떻게든 지켜야 한다"
- r56_italy.12.b:0 "이탈리아를 더 이상 믿을 수 없다"
+ r56_italy.12.a:0 "베르사유 조약을 어떻게든 지켜야 한다."
+ r56_italy.12.b:0 "이탈리아를 더 이상 믿을 수 없다."
 
  r56_italy.13.t:0 "이탈리아의 스트레사 전선 재결성 요청"
  r56_italy.13.d:0 "나치 정권의 보복주의적 언사에서 베르사유 조약의 위반을 우려한 이탈리아가, 에티오피아에서처럼의 정당한 이유없는 전쟁을 하지 않을 것을 약속하며 스트레사 전선의 재결성을 요청했습니다.\n\n우리는 오스트리아의 주권과 베르사유 조약 조항에 대한 보장을 할 것이며, 필요하다면 군사적 개입을 할 것입니다."
- r56_italy.13.a:0 "신중히 생각해볼 때, 받아들여야 한다"
+ r56_italy.13.a:0 "신중히 생각해볼 때, 받아들여야 한다."
  r56_italy.13.b:0 "이탈리아는 이미 한번 약속을 어겼다, 다시 하지 않는다는 보장은 어딨나?"
 
  r56_italy.14.t:0 "스트레사 전선 재결성"
@@ -106,18 +106,18 @@
 
  r56_italy.15.t:0 "이탈리아의 로마 의정서 군사 조약 확대 요청"
  r56_italy.15.d:0 "우리 삼국 오스트리아, 헝가리, 이탈리아의 이익을 위협할 수 있는, 커지고 있는 독일의 보복주의를 들면서 이탈리아는 로마 의정서에 군사적 협력 조항을 추가하자고 요청했습니다.\n\n그들에 따르면, 중남부 유럽의 새로운 세력의 창설은 외부의 침략을 막아내는데 도움이 될 것입니다."
- r56_italy.15.a:0 "신중히 생각해볼 때, 받아들여야 한다"
- r56_italy.15.b:0 "더 큰 전쟁을 불러일으킬 수 있으니, 우리는 거부한다"
+ r56_italy.15.a:0 "신중히 생각해볼 때, 받아들여야 한다."
+ r56_italy.15.b:0 "더 큰 전쟁을 불러일으킬 수 있으니, 우리는 거부한다."
 
  r56_italy.16.t:0 "이탈리아의 최후 통첩"
  r56_italy.16.d:0 "로마 조약, 특히 이탈리아와 헝가리에게 루마니아가 전략적으로 중요하다고 선언한 이탈리아 대사가, 루마니아 정부에 최후 통첩을 보냈습니다.\n\그들은 트란실바니아 전역을 헝가리에 반환, 유전에 대한 이탈리아 지분의 보장, 그리고 대사에게 거부권을 주는 것을 포함한 이탈리아 정부가 정부 결정에 개입할 수 있는 권한을 요구했습니다.\n\n이탈리아는 우리의 거부가 군사적 개입으로 이어질 수 있다고 경고했습니다."
- r56_italy.16.a:0 "받아들일 수밖에 없다"
+ r56_italy.16.a:0 "받아들일 수 밖에 없다."
  r56_italy.16.b:0 "우리는 그렇게 쉽게 우리의 주권을 포기하지 않을 것이다!"
 
  r56_italy.17.t:0 "루마니아의 최후 통첩 거부!"
  r56_italy.17.d:0 "우리의 요구 조건이 "터무니없다"고 밝힌 후, 루마니아 정부는 며칠 전 보낸 최후 통첩뿐만 아니라, 모든 협상을 거부했습니다. 그들이 거부한다면 군사적 개입이 뒤따를 것이라고 우리는 분명히 경고했습니다.\n\n문제는 우리가 이 경고를 실행에 옮길지 연기할지 입니다."
  r56_italy.17.a:0 "우리는 분명히 경고했다!"
- r56_italy.17.b:0 "지금 전쟁을 감수할 수는 없다"
+ r56_italy.17.b:0 "지금 전쟁을 감수할 수는 없다."
 
  r56_italy.18.t:0 "이탈리아가 더 밀접한 군사적 협력을 제안"
  r56_italy.18.d:0 "최근 몇 달간, 이탈리아가 협상국의 옛 동맹들에게 외교적, 정치적으로 버림받으면서, 독일과 이탈리아 간의 관계는 개선되었습니다.\n이탈리아 대사는 영국, 프랑스, 또는 소련과의 전쟁에 대비한 양국 간의 군사 동맹에 대한 제안을 가지고 왔습니다.\n\n이탈리아와의 동맹은 분명히 우리에게 매우 험난한 지형인 남부 알프스를 지키고, 우리가 더 이상 영향력을 행사할 수 없었던 지중해와 아프리카에 발을 딛을 수 있게 만들 것입니다.\n\n그러나, 우리는 대전쟁 초반에 겪었던 첫번째 배신과 여러모로 겹치는 영향권에서의 분쟁을 잊으면 안될 것입니다."
@@ -130,32 +130,32 @@
 
  r56_italy.20.t:0 "독일의 조약 거절!"
  r56_italy.20.d:0 "양국 간의 협력으로 독일이 얻는 것이 없다고 선언하면서, 독일은 우리의 동맹 제안을 거절했습니다."
- r56_italy.20.a:0 "또 다시 우리는 버림받았군"
+ r56_italy.20.a:0 "또 다시 우리는 버림받았군."
 
  r56_italy.21.t:0 "이탈리아의 내정 간섭권 요구"
  r56_italy.21.d:0 "이탈리아 대사는 로마로부터 직접 온 요구를 전달했습니다. 이탈리아는 정부는 "알바니아 내의 이탈리아 이권"을 지키고 싶다고 밝히면서, 우리나라의 국내외 정책에 대한 간섭권과 거부권을 요구했습니다.\n\n또한 거부 시에는 심각한 경제적 제재뿐만 아니라, "알바니아 내의 이탈리아 이권에 대한 심각한 도전"에 대한 군사적 개입이 있을 수 있다고 명시했습니다.\n\n이 요구 수용이 알바니아 주권의 상실이라는 것은 명백합니다."
- r56_italy.21.a:0 "어느 군대도 우리의 자유를 앗아갈 수는 없으리라"
- r56_italy.21.b:0 "받아들일 수밖에 없겠군"
+ r56_italy.21.a:0 "어느 군대도 우리의 자유를 앗아갈 수는 없으리라."
+ r56_italy.21.b:0 "받아들일 수밖에 없겠군."
 
  r56_italy.22.t:0 "알바니아의 최후 통첩 거부!"
  r56_italy.22.d:0 "우리의 요구를 "알바니아 국가와 국민에 대한 심각한 모욕"이라 표현하면서, 알바니아 정부는 우리의 최후 통첩을 거부했습니다. 이제 어떻게 하면 좋을까요?"
- r56_italy.22.a:0 "전부 그들이 자초한 일이다, 공격해라"
- r56_italy.22.b:0 "알바니아와 전쟁할 여유는 없다"
+ r56_italy.22.a:0 "전부 그들이 자초한 일이다, 공격해라."
+ r56_italy.22.b:0 "알바니아와 전쟁할 여유는 없다."
 
  r56_italy.23.t:0 "이탈리아의 달마티아 요구"
  r56_italy.23.d:0 "달마티아 지역의 역사적 이탈리아 거주민을 들면서, 이탈리아 정부는 달마티아 지역 전부를 이탈리아에 반환하고 [Root.GetAdjective] 군대는 반환 후 72시간 내에 후퇴할 것을 요구했습니다. 이탈리아는 우리의 거부가 군사적 개입으로 이어질 수 있다고 경고했습니다."
  r56_italy.23.a:0 "전쟁을 피할 수 있다면..."
- r56_italy.23.b:0 "Dalmatia is rightfully ours!"
+ r56_italy.23.b:0 "달마티아는 적법한 우리 영토다!"
 
  r56_italy.24.t:0 "[103.Owner.GetName]의 달마티아 포기 거부!"
  r56_italy.24.d:0 "[103.Owner.GetName] 정부는 우리에게 "달마티아에 살고 있는 주민들을 생각하지 않는 정부에게 무릎끓을 일은 없다"고 밝혔으며, 달마티아 지역과 우리 국경에 군사를 추가로 배치했습니다. 어떻게 하면 좋을까요?"
  r56_italy.24.a:0 "평화롭게 넘겼으면 됐을텐데. 이젠 무력을 쓰는 수밖에!"
- r56_italy.24.b:0 "지금은 때가 아니다"
+ r56_italy.24.b:0 "지금은 때가 아니다."
 
  r56_italy.25.t:0 "스트레사 전선의 오스트리아 독립 보장"
  r56_italy.25.d:0 ""스트레사 전선의 최우선 문제"라고 밝히며, 이탈리아 정부는 독일과 분쟁이 일어나도 우리가 지원할 수 있도록 오스트리아에 대한 공식적인 독립 보장을 제안했습니다."
- r56_italy.25.a:0 "오스트리아는 보호받을 것이다"
- r56_italy.25.b:0 "오스트리아는 우리의 관심사가 아니다"
+ r56_italy.25.a:0 "오스트리아는 우리의 보호를 받을 것이다."
+ r56_italy.25.b:0 "오스트리아는 우리의 관심사가 아니다."
 
  r56_italy.26.t:0 "이탈리아의 발레아레스 제도 점령"
  r56_italy.26.d:0 ""지중해에서 이탈리아의 이권을 지키고 섬을 지키기 위해서"라고 밝히며, 이탈리아 정부는 발레아레스 제도를 장악하기로 결정했으며, 병력을 보내 그곳에 주둔하도록 했습니다."
@@ -163,50 +163,50 @@
 
  r56_italy.27.t:0 "이탈리아가 우리를 위해 발레아레스 제도를 점령"
  r56_italy.27.d:0 "이탈리아 정부는 제도 전역에 주둔군을 보내 공화파 정부가 접근하는 것을 막기로 결정했습니다. 그들은 우리에게 공화파의 지중해 제해권을 방지함으로써 우리를 돕는 것이라고 밝혔습니다."
- r56_italy.27.a:0 "그곳을 나중에 반환하길 바라는 수밖에"
+ r56_italy.27.a:0 "그곳을 나중에 반환하길 바라는 수밖에."
 
 
  r56_italy.28.t:0 "스트레사 전선 제의 거부"
  r56_italy.28.d:0 "[From.GetNameDef] 정부는 스트레사 전선 재결성에 대한 우리의 제의를 거부하였습니다. 결국 우리는 그들의 지원없이 나아가야만 합니다."
- r56_italy.28.a:0 "그들 없이도 우리는 계속 나아갈 것이다"
+ r56_italy.28.a:0 "그들 없이도 우리는 계속 나아갈 것이다."
 
  r56_italy.29.t:0 "이탈리아 왕국 해군의 예산 문제"
  r56_italy.29.d:0 "대전쟁 이후 이탈리아 정부는 지중해 장악을 목표로 삼았으며, 이를 달성하기 위해 해군 현대화 프로젝트를 개시했습니다. 그러나 이 프로젝트에는 상당한 비용이 소모되고 있으며, 육군에 할당된 예산 일부가 해군에 투자됨에 따라 장비 생산의 불균형이 발생했습니다.\n\n우리는 예산을 조정해 육해공군에 동등히 투입되도록 만들 수도 있지만, 전쟁의 승리는 제해권에 달려있지 않을까요?"
- r56_italy.29.a:0 "균형잡힌 예산으로 돌아가야 한다"
- r56_italy.29.b:0 "현 상태로도 괜찮을 것이다"
- r56_italy.29.c:0 "해군에 더 집중한다"
+ r56_italy.29.a:0 "균형잡힌 예산으로 돌아가야 한다."
+ r56_italy.29.b:0 "현 상태로도 괜찮을 것이다."
+ r56_italy.29.c:0 "해군에 더 집중한다."
 
  r56_italy.30.t:0 "이탈로 발보가 죽을지 결정하는 이벤트"
- r56_italy.30.d:0 "당신은 보지 않을 것입니다."
- r56_italy.30.a:0 "알겠다"
+ r56_italy.30.d:0 "원래는 이걸 봐서는 안됩니다."
+ r56_italy.30.a:0 "알겠다."
 
  r56_italy.31.t:0 "이탈로 발보가 사고로 사망"
  r56_italy.31.d:0 "리비아의 토브룩에 착륙 예정이었던 사보이아-마르케티 SM.79에 타고 있던 이탈로 발보는, 비행기를 적 전투기로 오인한 비행장의 대공포에 의해 격추되었습니다.\n\n이탈리아 항공 역사의 영웅이자 국가 파시스트당의 로마 진군에서 중요한 역할을 맡았던 그는, 이탈리아 공군의 아버지였습니다."
- r56_italy.31.a:0 "오늘 우리는 한 명의 비행가보다 더 많은, 한 명의 전설을 잃었다"
+ r56_italy.31.a:0 "오늘 우리는 한 명의 비행가가 아닌, 한 명의 전설을 잃었다."
  
- r56_italy.32.t:0 "Greece Protects Albania"
- r56_italy.32.d:0 "Greece has occupied Albania, our future landing point in the balkans, how should we respond"
- r56_italy.32.a:0 "Early War!"
- r56_italy.32.b:0 "Don't Strike Yet."
+ r56_italy.32.t:0 "그리스의 알바니아 보호"
+ r56_italy.32.d:0 "그리스가 발칸 반도에서 우리의 미래 거점이 될 알바니아를 점령했습니다. 이에 어떻게 대응해야 할까요?"
+ r56_italy.32.a:0 "이른 전쟁이 되겠군!"
+ r56_italy.32.b:0 "아직 공격하지 말자."
 
- r56_italy.100.t:0 "The Formalisation of the Stresa Front"
- r56_italy.100.d:0 "Diplomats from Italy, France and the United Kingdom have reconvened in Stresa, Switzerland for the final round of talks on the Stresa Front against Germany. The proposal on the table is to formalise the front as a military alliance against German aggression and influence in Europe. While relations between the democratic powers and Italy's Fascist government have been rocky in the last few years, the recent talks have been positive. While France looks set to join, there are worries that this power block will weaken Britain's diplomatic independence."
- r56_italy.100.a:0 "Together we will stand against Germany."
- r56_italy.100.b:0 "We are okay with the current agreement."
+ r56_italy.100.t:0 "스트레사 전선의 공식화"
+ r56_italy.100.d:0 "이탈리아, 프랑스, 영국의 외교관들이 독일에 맞선 스트레사 전선에 관한 최종적인 회담을 위해 스위스의 스트레사에서 다시 만났습니다. 회담장에는 유럽에서 독일의 위협과 영향력에 맞서 전선을 군사 동맹으로 공식화하자는 제안이 올라왔습니다. 민주주의 열강과 이탈리아의 파시스트 정부 사이의 관계는 최근 몇년간 험난했지만, 최근의 회담 결과는 긍정적입니다. 프랑스는 가입을 할 것으로 보이지만 이 동맹이 영국의 외교적 독립성을 약화시킬 수 있다는 우려도 존재합니다."
+ r56_italy.100.a:0 "함께 우리는 독일에 맞설 것이다."
+ r56_italy.100.b:0 "현재 합의만으로도 우리는 괜찮다."
 
- r56_italy.101.t:0 "The Allies Join the Stresa Front"
- r56_italy.101.d:0 "The representatives of the United Kingdom and the British Commonwealth have agreed to formalise the Stresa Front."
- r56_italy.101.a:0 "Excellent."
+ r56_italy.101.t:0 "연합국이 스트레사 전선에 가입"
+ r56_italy.101.d:0 "영국과 영연방 대표단이 스트레사 전선을 공식화하는 데 동의했습니다."
+ r56_italy.101.a:0 "훌륭해."
 
- r56_italy.102.t:0 "The Allies Refuse to Join the Stresa Front"
- r56_italy.102.d:0 "The representatives of the United Kingdom and the British Commonwealth have declined our offer to formalise the Stresa Front."
- r56_italy.102.a:0 "Unfortunate."
+ r56_italy.102.t:0 "연합국이 스트레사 전선 가입을 거절"
+ r56_italy.102.d:0 "영국과 영연방 대표단이 스트레사 전선을 공식화하자는 우리 제안을 거절했습니다."
+ r56_italy.102.a:0 "유감스럽군."
 
- r56_italy.103.t:0 "The Formalisation of the Stresa Front"
- r56_italy.103.d:0 "Diplomats from Italy, France and the United Kingdom have reconvened in Stresa, Switzerland for the final round of talks on the Stresa Front, aimed at countering growing German aggression and influence in Europe. While relations between the democratic powers and Italy's Fascist government have been rocky in the last few years, the recent proved positive with a joint declaration formalising a military alliance between all signatories of the Stresa Front."
- r56_italy.103.a:0 "Together for victory!"
- r56_italy.103.b:0 "They bound together like sheep scared of a wolf."
- r56_italy.103.c:0 "Let's hope they can work together for good."
+ r56_italy.103.t:0 "스트레사 전선의 공식화"
+ r56_italy.103.d:0 "이탈리아, 프랑스, 영국의 외교관들이 유럽에서 갈수록 커지고 있는 독일의 위협과 영향력에 대응하는 것을 목적으로 한 스트레사 전선에 관한 최종적인 회담을 위해 스위스의 스트레사에서 다시 만났습니다. 민주주의 열강과 이탈리아의 파시스트 정부 사이의 관계는 최근 몇년간 험난했지만, 최근의 회담을 통해 스트레사 전선의 모든 서명국이 참여하는 군사 동맹을 공식화하는 합동 선언이라는 긍정적인 결과를 도출해냈습니다."
+ r56_italy.103.a:0 "함께 승리를 향해!"
+ r56_italy.103.b:0 "늑대한테 겁에 질린 양떼처럼 모여드는군."
+ r56_italy.103.c:0 "그들이 함께 좋은 일들을 했으면 좋겠군."
 
  # Ideas
  ITA_lack_of_powered_planes:0 "고출력 엔진의 부재"
@@ -229,14 +229,14 @@
  ITA_our_own_sphere_desc:0 "WIP"
  ITA_territorial_deal_with_yugoslavia:0 "유고슬라비아와의 영토 합의"
  ITA_territorial_deal_with_yugoslavia_desc:0 "WIP"
- ITA_approach_hungary:0 "헝가리 접근"
+ ITA_approach_hungary:0 "헝가리에 접근"
  ITA_approach_hungary_desc:0 "유고슬라비아의 분할에 관해, 헝가리와 우리의 이해관계는 일치합니다. 헝가리를 우리 세력으로 끌어들이면, 루마니아와의 분쟁을 통해 그들을 영향권으로 놓을 수도 있을 것입니다."
  ITA_our_latin_brothers:0 "우리의 라틴 형제들"
  ITA_our_latin_brothers_desc:0 "우리는 루마니아와 많은 문화를 공유하며, 산유국이라는 그들의 중대한 장점을 잊어서는 안됩니다. 그들과 동맹을 맺는 것은 우리에게 득이 될 것입니다."
  ITA_garantee_austria:0 "ITA_garantee_austria"
  ITA_guarantee_austria:0 "오스트리아 독립 보장"
  ITA_guarantee_austria_desc:0 "WIP"
- ITA_align_bulgaria:0 "Align Bulgaria"
+ ITA_align_bulgaria:0 "불가리아에 영향력 행사"
  ITA_align_bulgaria_desc:0 "WIP"
  ITA_claims_on_france2:0 "프랑스 영유권 주장"
  ITA_claims_on_france2_desc:0 "동부의 지배권이 확보된 지금, 프랑스인들이 항상 거부해 왔던 코르시카, 사보이, 튀니지 같은 우리의 잃어버린 이탈리아의 땅을 되찾을 때 입니다."
@@ -246,20 +246,20 @@
  ITA_expand_aviation_research_desc:0 "WIP"
  ITA_reclaim_antalya:0 "안탈리아 반환"
  ITA_reclaim_antalya_desc:0 "WIP"
- ITA_ally_spain:0 "Ally Spain"
+ ITA_ally_spain:0 "스페인과의 동맹"
  ITA_ally_spain_desc:0 "WIP"
- ITA_intervene_in_spain:0 "스페인 개입"
+ ITA_intervene_in_spain:0 "스페인에 개입"
  ITA_intervene_in_spain_desc:0 "스페인에서 민족주의자의 실패와 공산주의 정권의 부상은 유럽 전체의 안보에 위험을 나타냅니다. 안쪽에서 무너지지 않는다면, 바깥쪽에서 무너지게 만들 것입니다."
- ITA_approach_portugal:0 "포르투갈 접근"
+ ITA_approach_portugal:0 "포르투갈에 접근"
  ITA_approach_portugal_desc:0 "WIP"
  ITA_victory_in_ethiopia:0 "에티오피아에서의 승리"
  ITA_victory_in_ethiopia_desc:0 "수십년간의 굴욕 끝에 우리는 마침내 에티오피아 패배에 대한 오점을 없앨 수 있었습니다. 이러한 승리는 무솔리니 정부에 대한 국민의 신뢰를 높일 수 있습니다."
- ITA_the_desillusion_of_fascism:0 "파시즘 환멸"
+ ITA_the_desillusion_of_fascism:0 "파시즘에 대한 환멸"
  ITA_the_desillusion_of_fascism_desc:0 "§RCOMING SOON§!"
- ITA_revive_the_stresa_front:0 "스트레사 전선 회복"
- ITA_revive_the_stresa_front_desc:0 "스트레사 전선은 베르사유 조약의 재확인 뿐만 아니라 오스트리아의 독립을 유지하기 위한 이탈리아, 프랑스, 영국 간의 협정 이였습니다. 독일의 야망이 우리 편에 설 것이 분명하므로, 우리는 그들과 단결해야 합니다"
- ITA_revive_the_stresa_front_tt:0 "We will ask §YGreat Britain§! and §YFrance§! to reform the §YStresa Front§! against §YGermany§!. They both need to accept the offer, otherwise this focus will be §Rabandonned§!.\n"
- ITA_stresa_front_refused_flag:0 "The Reformation of the Stresa Front was declined."
+ ITA_revive_the_stresa_front:0 "스트레사 전선 재결성"
+ ITA_revive_the_stresa_front_desc:0 "스트레사 전선은 오스트리아의 독립을 보장하고 베르사유 조약을 재확인하기 위한 이탈리아, 프랑스, 영국 간의 협정이었습니다. 독일의 야망이 언젠가는 우리 것을 위협하리라는 사실은 명백하니, 이에 맞서 우리는 단결해야 합니다."
+ ITA_revive_the_stresa_front_tt:0 "우리는 §Y영국§!과 §Y프랑스§!에 §Y독일§!에 맞서 §Y스트레사 전선§!을 재결성하자는 제안을 할 것입니다. 양쪽 모두 제안을 수락해야 하며, 그렇지 않으면 이 중점은 §R취소§!될것입니다.\n"
+ ITA_stresa_front_refused_flag:0 "스트레사 전선의 재결성이 거부되었습니다."
  ITA_leave_the_league_of_nations:0 "Leave The League Of Nations"
  ITA_leave_the_league_of_nations_desc:0 "The League of Nations, whose inability is no longer to be proven, has nevertheless seen fit to condemn our invasion of Ethiopia. We do not need the support or confirmation of the latter to know what is good for Italy, and we should therefore leave it."
  ITA_move_toward_autarky:0 "Move Toward Autarky"
