@@ -3,27 +3,27 @@
 #ELS
 
 ELS_banana_republic:0 "바나나 공화국"
-ELS_banana_republic_desc:0 "우리는 우리 경제의 실질적인 부분을 장악한 외국계 과일 기업에 영향을 받고 있습니다. 경제는 바나나 수출에 매우 집중되어 있으며, 다른 산업에 자원을 분배하는 것은 힘들 것입니다."
+ELS_banana_republic_desc:0 "우리는 우리 경제의 상당 부분을 장악한 외국계 과일 기업의 영향을 받고 있습니다. 우리 경제는 바나나 수출에 크게 의존하고 있으며, 다른 산업에 자원을 투입하기가 어려울 것입니다."
 
 #GUA
 
 GUA_banana_republic:0 "바나나 공화국"
-GUA_banana_republic_desc:0 "우리는 우리 경제의 실질적인 부분을 장악한 외국계 과일 기업에 영향을 받고 있습니다. 경제는 바나나 수출에 매우 집중되어 있으며, 다른 산업에 자원을 분배하는 것은 힘들 것입니다."
+GUA_banana_republic_desc:0 "우리는 우리 경제의 상당 부분을 장악한 외국계 과일 기업의 영향을 받고 있습니다. 우리 경제는 바나나 수출에 크게 의존하고 있으며, 다른 산업에 자원을 투입하기가 어려울 것입니다."
 
 #NIC
 
 NIC_banana_republic:0 "바나나 공화국"
-NIC_banana_republic_desc:0 "우리는 우리 경제의 실질적인 부분을 장악한 외국계 과일 기업에 영향을 받고 있습니다. 경제는 바나나 수출에 매우 집중되어 있으며, 다른 산업에 자원을 분배하는 것은 힘들 것입니다."
+NIC_banana_republic_desc:0 "우리는 우리 경제의 상당 부분을 장악한 외국계 과일 기업의 영향을 받고 있습니다. 우리 경제는 바나나 수출에 크게 의존하고 있으며, 다른 산업에 자원을 투입하기가 어려울 것입니다."
 
 #AFG 
 
-AFG_graveyard_of_empires:0 "제국의 묘지" 
-AFG_graveyard_of_empires_desc:0 "아프가니스탄 침공은 역사적으로 아무리 강한 제국이라고 해도 문제가 곳곳에서 터져나왔죠. 아프간 사람들을 복종시키는 것은 결코 쉬운 일이 아닙니다."
+AFG_graveyard_of_empires:0 "제국의 무덤" 
+AFG_graveyard_of_empires_desc:0 "아프가니스탄 침공은 역사적으로 아무리 강한 제국이라고 해도 힘들었습니다. 아프간 사람들을 완전히 복종시키는 것은 결코 쉬운 일이 아닙니다."
 
 #ECU
 
 ECU_chocolate_exports:0 "코코아 수출"
-ECU_chocolate_exports_desc:0 "다른 나라들은 경제난으로 허덕이고 있지만, 우리의 코코아 수출량은 늘었습니다. 이로 인해 우리 경제는 안정되게 유지되었습니다."
+ECU_chocolate_exports_desc:0 "다른 나라들은 경제난으로 허덕이고 있지만, 우리의 수출, 특히 코코아 수출량은 늘었습니다. 이로 인해 우리 경제는 안정되게 유지되었습니다."
 
-r56_peru_ecuadorian_war_m:0 "Rio Protocols Signed"
+r56_peru_ecuadorian_war_m:0 "리우 협약이 서명됨"
 
