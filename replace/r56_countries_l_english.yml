@@ -1,5 +1,25 @@
 ﻿l_english:
  
+ #ARM
+ ARM_fascism:0 "아르메니아 연합 공화국"
+ ARM_fascism_DEF:0 "아르메니아 연합 공화국"
+ ARM_neutrality:0 "아르메니아 왕국"
+ ARM_neutrality_DEF:0 "아르메니아 왕국"
+ ARM_communism:1 "아르메니아 소비에트 사회주의 공화국"
+ ARM_communism_DEF:1 "아르메니아 소비에트 사회주의 공화국"
+
+ #ALB
+ ALB_fascism:0 "대 알바니아 왕국"
+ ALB_fascism_DEF:0 "대 알바니아 왕국"
+ ALB_neutrality:0 "알바니아 왕국"
+ ALB_neutrality_DEF:0 "알바니아 왕국"
+
+ #AFG
+ AFG_fascism:0 "아프간 칸국"
+ AFG_fascism_DEF:0 "아프간 칸국"
+ AFG_neutrality:0 "아프가니스탄 왕국"
+ AFG_neutrality_DEF:0 "아프가니스탄 왕국"
+ 
  #AHV
  AHV_democratic:0 "올란드 제도"
  AHV_democratic_DEF:0 "올란드 제도"
@@ -57,8 +77,8 @@
  ARG_communism_ADJ:0 "아르헨티나"
  
  #AST
- AST_fascism:0 "오스트레일리아국"
- AST_fascism_DEF:0 "오스트레일리아국"
+ AST_fascism:0 "자유 오스트레일리아국"
+ AST_fascism_DEF:0 "자유 오스트레일리아국"
  AST_democratic:0 "오스트레일리아 연방"
  AST_democratic_DEF:0 "오스트레일리아 연방"
  AST_neutrality:0 "오스트레일리아 연방"
@@ -84,17 +104,32 @@
  AUS_democratic_ADJ:0 "오스트리아"
  AUS_communism_ADJ:0 "오스트리아"
  
- #BAV
- BAV_communism:0 "바이에른 평의회 공화국"
- BAV_democratic:0 "바이에른 자유국"
- BAV_neutrality:0 "바이에른 왕국"
- BAV_fascism:0 "바이에른 왕국"
- BAV_communism_DEF:0 "바이에른 평의회 공화국"
- BAV_democratic_DEF:0 "바이에른 자유국"
- BAV_neutrality_DEF:0 "바이에른 왕국"
- BAV_fascism:0 "바이에른" 
- BAV_fascism_DEF:0 "바이에른 왕국"
- BAV_neutrality_ADJ:0 "바이에른"
+ #AZR
+ AZR_fascism:0 "영원한 불꽃의 나라"
+ AZR_fascism_DEF:0 "영원한 불꽃의 나라"
+ AZR_neutrality:0 "아제르바이잔 민주 공화국"
+ AZR_neutrality_DEF:0 "아제르바이잔 민주 공화국"
+ AZR_communism:1 "아제르바이잔 소비에트 사회주의 공화국"
+ AZR_communism_DEF:1 "아제르바이잔 소비에트 사회주의 공화국"
+ 
+ #ADU
+ ADU_neutrality:0 "알안달루스 이슬람 공화국"
+ ADU_neutrality_DEF:0 "알안달루스 이슬람 공화국"
+ ADU_communism_DEF:0 "안달루시아 인민공화국"
+ 
+ #BAY
+ BAY_communism:0 "바이에른 평의회 공화국"
+ BAY_communism_DEF:0 "바이에른 평의회 공화국"
+ BAY_fascism:0 "바이에른 왕국"
+ BAY_fascism_DEF:0 "바이에른 왕국"
+ BAY_democratic:0 "바이에른 자유국"
+ BAY_democratic_DEF:0 "바이에른 자유국"
+ BAY_neutrality:0 "바이에른 왕국"
+ BAY_neutrality_DEF:0 "바이에른 왕국"
+ BAY_communism_ADJ:0 "바이에른"
+ BAY_fascism_ADJ:0 "바이에른"
+ BAY_democratic_ADJ:0 "바이에른"
+ BAY_neutrality_ADJ:0 "바이에른"
  
  #BAH
  BAH_fascism:0 "바하마 연방"
@@ -110,9 +145,39 @@
  BAH_neutrality_ADJ:0 "바하마"
  BAH_communism_ADJ:0 "바하마"
  
+ #BAN
+ BAN_fascism:1 "방글라데시국"
+ BAN_fascism_DEF:1 "방글라데시국"
+ BAN_democratic:0 "방글라데시 공화국"
+ BAN_democratic_DEF:0 "방글라데시 공화국"
+ BAN_communism:1 "방글라데시 인민공화국"
+ BAN_communism_DEF:1 "방글라데시 인민공화국"
+ BAN_fascism_ADJ:1 "방글라데시"
+ BAN_communism_ADJ:1 "방글라데시"
+
+ #BAS
+ BAS_fascism:1 "앤틸리스 자유국"
+ BAS_fascism_DEF:1 "앤틸리스 자유국"
+ BAS_democratic:1 "앤틸리스 공화국"
+ BAS_democratic_DEF:1 "앤틸리스 공화국"
+ BAS_neutrality:1 "앤틸리스 연방"
+ BAS_neutrality_DEF:1 "앤틸리스 연방"
+ BAS_communism:1 "앤틸리스 코뮌"
+ BAS_communism_DEF:1 "앤틸리스 코뮌"
+ BAS_fascism_ADJ:1 "앤틸리스"
+ BAS_democratic_ADJ:0 "앤틸리스"
+ BAS_neutrality_ADJ:0 "앤틸리스"
+ BAS_communism_ADJ:0 "앤틸리스"
+ 
  #BEL
  BEL_communism:0 "벨기에 인민공화국"
  BEL_communism_DEF:0 "벨기에 인민공화국"
+ BEL_fascism:0 "벨기에 왕국"
+ BEL_fascism_DEF:0 "벨기에 왕국"
+ BEL_democratic:0 "벨기에 왕국"
+ BEL_democratic_DEF:0 "벨기에 왕국"
+ BEL_neutrality:0 "벨기에 왕국"
+ BEL_neutrality_DEF:0 "벨기에 왕국" 
  
  #BLZ
  BLZ_fascism:0 "벨리즈국"
@@ -128,9 +193,46 @@
  BLZ_neutrality_ADJ:0 "벨리즈"
  BLZ_communism_ADJ:0 "벨리즈"
  
+ #BLR
+ BLR_fascism:0 "벨라루스 국민공화국"
+ BLR_fascism_DEF:0 "벨라루스 국민공화국"
+ BLR_democratic:0 "벨라루스 국민공화국"
+ BLR_democratic_DEF:0 "벨라루스 국민공화국"
+ BLR_neutrality:0 "벨라루스 국민공화국"
+ BLR_neutrality_DEF:0 "벨라루스 국민공화국"
+ BLR_communism:1 "벨라루스 소비에트 사회주의 공화국"
+ BLR_communism_DEF:0 "벨라루스 소비에트 사회주의 공화국"
+ BLR_communism_ADJ:0 "벨라루스"
+
+ #BRD
+ BRD_fascism:1 "부룬디 공화국"
+ BRD_fascism_DEF:1 "부룬디 공화국"
+ BRD_democratic:0 "부룬디 공화국"
+ BRD_democratic_DEF:0 "부룬디 공화국"
+ BRD_neutrality:1 "부룬디 공화국"
+ BRD_neutrality_DEF:1 "부룬디 공화국"
+ BRD_fascism_ADJ:0 "부룬디"
+ BRD_democratic_ADJ:0 "부룬디"
+ BRD_neutrality_ADJ:0 "부룬디"
+ BRD_communism_ADJ:0 "부룬디"
+ BRD_ADJ:0 "부룬디"
+
+ #BRM
+ BRM_democratic:0 "버마 연방"
+ BRM_democratic_DEF:0 "버마 연방" 
+ BRM_neutrality:1 "버마 왕국"
+ BRM_neutrality_DEF:1 "버마 왕국"
+ BRM_neutrality_ADJ:1 "버마"
+
+ #BRI
+ BRI_neutrality:0 "브르타뉴 자유 공화국"
+ BRI_neutrality_DEF:0 "브르타뉴 자유 공화국"
+ BRI_fascism:0 "브르타뉴 켈트국"
+ BRI_fascism_DEF:0 "브르타뉴 켈트국"
+ 
  #BOL
- BOL_fascism:0 "볼리비아 팔랑헤주의 사회국"
- BOL_fascism_DEF:0 "볼리비아 팔랑헤주의 사회국"
+ BOL_fascism:0 "볼리비아 팔랑헤국"
+ BOL_fascism_DEF:0 "볼리비아 팔랑헤국"
  BOL_democratic:0 "볼리비아 공화국"
  BOL_democratic_DEF:0 "볼리비아 공화국"
  BOL_neutrality:0 "볼리비아 공화국"
@@ -156,13 +258,25 @@
  BOT_neutrality_ADJ:0 "보츠와나"
  BOT_communism_ADJ:0 "보츠와나"
  
+ #BOS
+ BOS_fascism:1 "보스니아 이슬람국"
+ BOS_fascism_DEF:1 "보스니아 이슬람국"
+ BOS_democratic:1 "보스니아-헤르체고비나"
+ BOS_democratic_DEF:1 "보스니아-헤르체고비나"
+ BOS_neutrality:0 "보스니아 왕국"
+ BOS_neutrality_DEF:0 "보스니아 왕국"
+ BOS_communism:1 "보스니아-헤르체고비나 사회주의 공화국"
+ BOS_communism_DEF:1 "보스니아-헤르체고비나 사회주의 공화국"
+ BOS_democratic_ADJ:0 "보스니아-헤르체고비나"
+ BOS_communism_ADJ:0 "보스니아-헤르체고비나"
+ 
  #BRA
- BRA_fascism:0 "브라질 통합주의 공화국"
- BRA_fascism_DEF:0 "브라질 통합주의 공화국"
- BRA_democratic:0 "브라질 연방 공화국"
- BRA_democratic_DEF:0 "브라질 연방 공화국"
- BRA_neutrality:0 "브라질 연방 공화국"
- BRA_neutrality_DEF:0 "브라질 연방 공화국"
+ BRA_fascism:0 "브라질 통합국"
+ BRA_fascism_DEF:0 "브라질 통합국"
+ BRA_democratic:0 "브라질 합중국"
+ BRA_democratic_DEF:0 "브라질 합중국"
+ BRA_neutrality:0 "브라질 합중국"
+ BRA_neutrality_DEF:0 "브라질 합중국"
  BRA_communism:0 "브라질 사회주의 공화국"
  BRA_communism_DEF:0 "브라질 사회주의 공화국"
  
@@ -174,6 +288,31 @@
  BUL_fascism:0 "불가리아 차르국"
  BUL_fascism_DEF:0 "불가리아 차르국"
  
+ #BUR
+ BUR_communism:0 "부랴트-몽골 소비에트 사회주의 공화국"
+ BUR_communism_DEF:0 "부랴트-몽골 소비에트 사회주의 공화국"
+ BUR_fascism:0 "부랴트-몽골국"
+ BUR_fascism_DEF:0 "부랴트-몽골국"
+ BUR_democratic:0 "부랴트-몽골 공화국"
+ BUR_democratic_DEF:0 "부랴트-몽골 공화국"
+ BUR_neutrality:0 "부랴트-몽골국"
+ BUR_neutrality_DEF:0 "부랴트-몽골국"
+ BUR_communism_ADJ:0 "부랴트-몽골"
+ BUR_fascism_ADJ:0 "부랴트-몽골"
+ BUR_democratic_ADJ:0 "부랴트-몽골"
+ BUR_neutrality_ADJ:0 "부랴트-몽골" 
+
+ #BHU
+ BHU_fascism:0 "천둥의 나라"
+ BHU_fascism_DEF:0 "천둥의 나라"
+ BHU_neutrality:0 "부탄 왕국"
+ BHU_neutrality_DEF:0 "부탄 왕국"
+ BHU_democratic:0 "부탄 왕국"
+ BHU_democratic_DEF:0 "부탄 왕국" 
+ BHU_communism:0 "적룡 연방"
+ BHU_communism_DEF:0 "적룡 연방"
+ BHU_fascism_ADJ:0 "천둥의 나라"
+ 
  #CAR
  CAR_fascism:0 "중앙아프리카 제국"
  CAR_fascism_DEF:0 "중앙아프리카 제국"
@@ -181,18 +320,42 @@
  CAR_democratic_DEF:0 "중앙아프리카 공화국"
  CAR_neutrality:0 "중앙아프리카 공화국"
  CAR_neutrality_DEF:0 "중앙아프리카 공화국"
- CAR_communism:0 "아프리카 사회주의 공화국"
- CAR_communism_DEF:0 "아프리카 사회주의 공화국"
- CAR_fascism_ADJ:0 "아프리카"
- CAR_democratic_ADJ:0 "아프리카"
- CAR_neutrality_ADJ:0 "아프리카"
- CAR_communism_ADJ:0 "아프리카"
+ CAR_communism:0 "중앙아프리카 사회주의 공화국"
+ CAR_communism_DEF:0 "중앙아프리카 사회주의 공화국"
+ CAR_fascism_ADJ:0 "중앙아프리카"
+ CAR_democratic_ADJ:0 "중앙아프리카"
+ CAR_neutrality_ADJ:0 "중앙아프리카"
+ CAR_communism_ADJ:0 "중앙아프리카"
+ 
+ #CAT
+ CAT_democratic_DEF:0 "카탈루냐 자유 공화국"
+ CAT_neutrality:0 "카탈루냐 공화국"
+ CAT_neutrality_DEF:0 "카탈루냐 공화국"
+ CAT_communism:0 "카탈루냐 인민공화국"
+ CAT_communism_DEF:0 "카탈루냐 인민공화국"
+ CAT_democratic:0 "카탈루냐 공화국"
+ CAT_democratic_DEF:0 "카탈루냐 공화국"
+
+ #CAM
+ CAM_fascism:0 "크메르 제국"
+ CAM_fascism_DEF:0 "크메르 제국"
+
+ #CAN
+ CAN_fascism:0 "통합 캐나다 연방"
+ CAN_fascism_DEF:0 "통합 캐나다 연방"
+
+ #CAY
+ CAY_neutrality:0 "카옌 공화국"
+ CAY_neutrality_DEF:0 "카옌 공화국"
+ CAY_communism:1 "카옌 사회주의 공화국"
+ CAY_communism_DEF:1 "카옌 사회주의 공화국"
+ CAY_communism_ADJ:1 "카옌"
  
  #CDI
- CDI_neutrality:0 "코트디부아르"
- CDI_neutrality_DEF:0 "코트디부아르"
- CDI_democratic:0 "상아 해안"
- CDI_democratic_DEF:0 "상아 해안"
+ CDI_neutrality:0 "코트디부아르 공화국"
+ CDI_neutrality_DEF:0 "코트디부아르 공화국"
+ CDI_democratic:0 "코트디부아르 공화국"
+ CDI_democratic_DEF:0 "코트디부아르 공화국"
  CDI_fascism:0 "상아 제국"
  CDI_fascism_DEF:0 "상아 제국"
  CDI_communism:0 "디부아르 사회주의 공화국"
@@ -203,46 +366,24 @@
  CDI_neutrality_ADJ:0 "코트디부아르"
  
  #CHD
- CHD_neutrality:0 "차드"
- CHD_neutrality_DEF:0 "차드"
+ CHD_neutrality:0 "차드 공화국"
+ CHD_neutrality_DEF:0 "차드 공화국"
  CHD_democratic:0 "차드 공화국"
  CHD_democratic_DEF:0 "차드 공화국"
- CHD_fascism:0 "방갈라"
- CHD_fascism_DEF:0 "방갈라"
- CHD_communism:0 "사회주의 차드"
- CHD_communism_DEF:0 "사회주의 차드"
+ CHD_fascism:0 "카넴 제국"
+ CHD_fascism_DEF:0 "카넴 제국"
+ CHD_communism:0 "차드 사회주의 공화국"
+ CHD_communism_DEF:0 "차드 사회주의 공화국"
  CHD_communism_ADJ:0 "차드"
- CHD_fascism_ADJ:0 "방갈라"
+ CHD_fascism_ADJ:0 "카넴"
  CHD_democratic_ADJ:0 "차드"
  CHD_neutrality_ADJ:0 "차드"
  
- #CHL
- CHL_fascism:0 "전위 칠레"
- CHL_fascism_DEF:0 "전위 칠레"
- CHL_democratic:0 "칠레"
- CHL_democratic_DEF:0 "칠레"
- CHL_neutrality:0 "칠레"
- CHL_neutrality_DEF:0 "칠레"
- CHL_communism:0 "칠레 사회주의 공화국"
- CHL_communism_DEF:0 "칠레 사회주의 공화국"
- CHL_fascism_ADJ:0 "칠레"
- CHL_democratic_ADJ:0 "칠레"
- CHL_neutrality_ADJ:0 "칠레"
- CHL_communism_ADJ:0 "칠레"
- 
- #CMR
- CMR_neutrality:0 "카메룬"
- CMR_neutrality_DEF:0 "카메룬"
- CMR_democratic:0 "카메룬"
- CMR_democratic_DEF:0 "카메룬"
- CMR_fascism:0 "보르누 제국"
- CMR_fascism_DEF:0 "보르누 제국"
- CMR_communism:0 "카메룬 인민연합"
- CMR_communism_DEF:0 "사회주의 반투"
- CMR_communism_ADJ:0 "반투"
- CMR_fascism_ADJ:0 "보르누"
- CMR_democratic_ADJ:0 "카메룬"
- CMR_neutrality_ADJ:0 "카메룬"
+ #COR
+ COR_fascism:0 "코르시카 우애 연방"
+ COR_fascism_DEF:0 "코르시카 우애 연방"
+ COR_communism:0 "코르시카 혁명 공화국"
+ COR_communism_DEF:0 "코르시카 혁명 공화국"
  
  #COG
  COG_fascism:0 "콩고 자유국"
@@ -258,13 +399,86 @@
  COG_neutrality_ADJ:0 "콩고"
  COG_communism_ADJ:0 "콩고"
  
+ #CHI
+ CHI_fascism:0 "중화민국"
+ CHI_fascism_DEF:0 "중화민국"
+ CHI_neutrality:0 "중화민국"
+ CHI_neutrality_DEF:0 "중화민국"
+ 
+ #CHL
+ CHL_fascism:0 "칠레 전위국"
+ CHL_fascism_DEF:0 "칠레 전위국"
+ CHL_democratic:0 "칠레 공화국"
+ CHL_democratic_DEF:0 "칠레 공화국"
+ CHL_neutrality:0 "칠레 공화국"
+ CHL_neutrality_DEF:0 "칠레 공화국"
+ CHL_communism:0 "칠레 사회주의 공화국"
+ CHL_communism_DEF:0 "칠레 사회주의 공화국"
+ CHL_fascism_ADJ:0 "칠레"
+ CHL_democratic_ADJ:0 "칠레"
+ CHL_neutrality_ADJ:0 "칠레"
+ CHL_communism_ADJ:0 "칠레"
+ 
+ #CRC
+ CRC_fascism:1 "리워드앤틸리스 연합"
+ CRC_fascism_DEF:1 "리워드앤틸리스 연합"
+ CRC_democratic:2 "리워드앤틸리스 연방"
+ CRC_democratic_DEF:2 "리워드앤틸리스 연방"
+ CRC_neutrality:3 "ABC 공화국"
+ CRC_neutrality_DEF:3 "ABC 공화국"
+ CRC_fascism_ADJ:1 "리워드앤틸리스"
+ CRC_democratic_ADJ:2 "리워드앤틸리스"
+ CRC_neutrality_ADJ:3 "ABC"
+
+ #CRO
+ CRO_communism:0 "크로아티아 사회주의 공화국"
+ CRO_communism_DEF:0 "크로아티아 사회주의 공화국"
+
+ #CRI
+ CRI_fascism:0 "크림국"
+ CRI_fascism_DEF:0 "크림국"
+ CRI_neutrality:0 "크림 지역 정부"
+ CRI_neutrality_DEF:0 "크림 지역 정부"
+ CRI_democratic:0 "크림 공화국"
+ CRI_democratic_DEF:0 "크림 공화국"
+ CRI_communism:0 "크림 소비에트 사회주의 공화국"
+ CRI_communism_DEF:0 "크림 소비에트 사회주의 공화국"
+ CRI_fascism_ADJ:0 "크림"
+ CRI_communism_ADJ:0 "크림"
+ CRI_democratic_ADJ:0 "크림"
+ CRI_neutrality_ADJ:0 "크림"
+
+ #CUB
+ CUB_fascism:0 "쿠바 국민국"
+ CUB_fascism_DEF:0 "쿠바 국민국"
+ CUB_democratic:0 "쿠바 공화국"
+ CUB_democratic_DEF:0 "쿠바 공화국"
+ CUB_neutrality:0 "쿠바 공화국"
+ CUB_neutrality_DEF:0 "쿠바 공화국"
+ CUB_communism:0 "쿠바 공화국"
+ CUB_communism_DEF:0 "쿠바 공화국"
+ 
+ #CMR
+ CMR_neutrality:0 "카메룬 공화국"
+ CMR_neutrality_DEF:0 "카메룬 공화국"
+ CMR_democratic:0 "카메룬 공화국"
+ CMR_democratic_DEF:0 "카메룬 공화국"
+ CMR_fascism:0 "보르누 제국"
+ CMR_fascism_DEF:0 "보르누 제국"
+ CMR_communism:0 "카메룬 인민연합"
+ CMR_communism_DEF:0 "카메룬 인민연합"
+ CMR_communism_ADJ:0 "카메룬"
+ CMR_fascism_ADJ:0 "보르누"
+ CMR_democratic_ADJ:0 "카메룬"
+ CMR_neutrality_ADJ:0 "카메룬"
+ 
  #COL
- COL_fascism:0 "신 그란콜롬비아"
- COL_fascism_DEF:0 "신 그란콜롬비아"
- COL_democratic:0 "콜롬비아"
- COL_democratic_DEF:0 "콜롬비아"
- COL_neutrality:0 "신헌법 콜롬비아"
- COL_neutrality_DEF:0 "신헌법 콜롬비아"
+ COL_fascism:0 "콜롬비아 공화국"
+ COL_fascism_DEF:0 "콜롬비아 공화국"
+ COL_democratic:0 "콜롬비아 공화국"
+ COL_democratic_DEF:0 "콜롬비아 공화국"
+ COL_neutrality:0 "콜롬비아 공화국"
+ COL_neutrality_DEF:0 "콜롬비아 공화국"
  COL_communism:0 "콜롬비아 사회주의 공화국"
  COL_communism_DEF:0 "콜롬비아 사회주의 공화국"
  COL_fascism_ADJ:0 "콜롬비아"
@@ -272,17 +486,33 @@
  COL_neutrality_ADJ:0 "콜롬비아"
  COL_communism_ADJ:0 "콜롬비아"
  
+ #COS
+ COS_democratic:0 "코스타리카 공화국"
+ COS_democratic_DEF:0 "코스타리카 공화국"
+ COS_fascism:0 "코스타포텐테 공화국"
+ COS_fascism_DEF:0 "코스타포텐테 공화국"
+ 
  #CZE
  CZE_communism:0 "체코슬로바키아 사회주의 공화국"
  CZE_communism_DEF:0 "체코슬로바키아 사회주의 공화국"
  CZE_fascism:0 "체코-슬로바키아국"
  CZE_fascism_DEF:0 "체코-슬로바키아국"
+ CZE_democratic:0 "체코슬로바키아"
+ CZE_democratic_DEF:0 "체코슬로바키아"
+
+ #CYP
+ CYP_fascism:1 "키프로스 그리스 왕국"
+ CYP_fascism_DEF:1 "키프로스 그리스 왕국"
+ CYP_democratic:1 "키프로스 공화국"
+ CYP_democratic_DEF:1 "키프로스 공화국"
+ CYP_communism:1 "키프로스 인민공화국"
+ CYP_communism_DEF:1 "키프로스 인민공화국"
  
  #DEN
  DEN_fascism:0 "덴마크 제국"
  DEN_fascism_DEF:0 "덴마크 제국"
- DEN_democratic:0 "덴마크"
- DEN_democratic_DEF:0 "덴마크"
+ DEN_democratic:0 "덴마크 왕국"
+ DEN_democratic_DEF:0 "덴마크 왕국"
  DEN_neutrality:0 "덴마크 왕국"
  DEN_neutrality_DEF:0 "덴마크 왕국"
  DEN_communism:0 "덴마크 인민연합"
@@ -306,19 +536,69 @@
  DDR_neutrality_ADJ:0 "동독"
  DDR_communism_ADJ:0 "동독"
  
+ #DON
+ DON_fascism:0 "돈 카자크"
+ DON_fascism_DEF:0 "돈 카자크"
+ DON_democratic:0 "돈 공화국"
+ DON_democratic_DEF:0 "돈 공화국"
+ DON_neutrality:0 "돈 카자크"
+ DON_neutrality_DEF:0 "돈 카자크"
+ DON_communism:0 "돈 소비에트 사회주의 공화국"
+ DON_communism_DEF:0 "돈 소비에트 사회주의 공화국"
+ DON_fascism_ADJ:0 "돈"
+ DON_democratic_ADJ:0 "돈"
+ DON_neutrality_ADJ:0 "돈"
+ DON_communism_ADJ:0 "돈"
+
+ #DOU
+ DOU_fascism:0 "우크라이나국"
+ DOU_fascism_DEF:0 "우크라이나국"
+ DOU_neutrality:0 "우크라이나 총재정부"
+ DOU_neutrality_DEF:0 "우크라이나 총재정부"
+ DOU_democratic:0 "우크라이나 공화국"
+ DOU_democratic_DEF:0 "우크라이나 공화국"
+ DOU_communism:0 "우크라이나 소비에트 사회주의 공화국"
+ DOU_communism_DEF:0 "우크라이나 소비에트 사회주의 공화국"
+ DOU_fascism_ADJ:0 "우크라이나"
+ DOU_democratic_ADJ:0 "우크라이나"
+ DOU_neutrality_ADJ:0 "우크라이나"
+ DOU_communism_ADJ:0 "우크라이나"
+
+ #DNZ
+ DNZ_fascism:0 "단치히 자유시"
+ DNZ_fascism_DEF:0 "단치히 자유시"
+ DNZ_democratic:0 "단치히 공화국"
+ DNZ_democratic_DEF:0 "단치히 공화국"
+ DNZ_neutrality:0 "그단스크 자유시"
+ DNZ_neutrality_DEF:0 "그단스크 자유시"
+ DNZ_communism:0 "단치히 자치 코뮌"
+ DNZ_communism_DEF:0 "단치히 자치 코뮌"
+ DNZ_fascism_ADJ:0 "단치히"
+ DNZ_democratic_ADJ:0 "단치히"
+ DNZ_neutrality_ADJ:0 "그단스크"
+ DNZ_communism_ADJ:0 "단치히"
+ 
  #DJB
- DJB_fascism:0 "지부티 왕국"
- DJB_fascism_DEF:0 "지부티 왕국"
- DJB_democratic:0 "지부티"
- DJB_democratic_DEF:0 "지부티"
- DJB_neutrality:0 "지부티"
- DJB_neutrality_DEF:0 "지부티"
+ DJB_fascism:0 "아달 술탄국"
+ DJB_fascism_DEF:0 "아달 술탄국"
+ DJB_democratic:0 "지부티 공화국"
+ DJB_democratic_DEF:0 "지부티 공화국"
+ DJB_neutrality:0 "지부티 공화국"
+ DJB_neutrality_DEF:0 "지부티 공화국"
  DJB_communism:0 "지부티 인민위원회"
  DJB_communism_DEF:0 "지부티 인민위원회"
  DJB_fascism_ADJ:0 "지부티"
  DJB_democratic_ADJ:0 "지부티"
  DJB_neutrality_ADJ:0 "지부티"
  DJB_communism_ADJ:0 "지부티"
+ 
+ #RAJ
+ RAJ_fascism:0 "자유 인도국"
+ RAJ_fascism_DEF:0 "자유 인도국"
+ RAJ_democratic:0 "인도 공화국"
+ RAJ_democratic_DEF:0 "인도 공화국"
+ RAJ_neutrality:0 "인도 공화국"
+ RAJ_neutrality_DEF:0 "인도 공화국"
  
  #RCG
  RCG_fascism:0 "콩고 왕국"
@@ -334,6 +614,12 @@
  RCG_neutrality_ADJ:0 "콩고"
  RCG_communism_ADJ:0 "콩고"
  
+ #RWA
+ RWA_fascism:1 "르완다 왕국"
+ RWA_fascism_DEF:1 "르완다 왕국"
+ RWA_neutrality:0 "르완다 공화국"
+ RWA_neutrality_DEF:0 "르완다 공화국"
+ 
  #ECR
  ECR_fascism:0 "동차하르 특별 자치구"
  ECR_fascism_DEF:0 "동차하르 특별 자치구"
@@ -348,6 +634,26 @@
  ECR_neutrality_DEF:0 "동차하르 자치정무위원회"
  ECR_neutrality_ADJ:0 "동차하르"
  
+ #ENG
+ ENG_neutrality:0 "영국"
+ ENG_neutrality_DEF:0 "영국"
+ ENG:0 "영국"
+ ENG_DEF:0 "영국"
+
+ #EFR
+ EFR_fascism:1 "프랑스국"
+ EFR_fascism_DEF:1 "프랑스국"
+ EFR_democratic:0 "프랑스 공화국"
+ EFR_democratic_DEF:0 "프랑스 공화국"
+ EFR_neutrality:0 "프랑스 왕국"
+ EFR_neutrality_DEF:0 "프랑스 왕국"
+ EFR_communism:0 "프랑스 공화국"
+ EFR_communism_DEF:0 "프랑스 공화국"
+ EFR_fascism_ADJ:1 "프랑스"
+ EFR_democratic_ADJ:0 "프랑스"
+ EFR_neutrality_ADJ:0 "프랑스"
+ EFR_communism_ADJ:0 "프랑스"
+ 
  #ECU
  ECU_fascism:0 "에콰도르 국민혁명국"
  ECU_fascism_DEF:0 "에콰도르 국민혁명국"
@@ -355,8 +661,8 @@
  ECU_democratic_DEF:0 "에콰도르 공화국"
  ECU_neutrality:0 "에콰도르 공화국"
  ECU_neutrality_DEF:0 "에콰도르 공화국"
- ECU_communism:0 "적도 사회주의 공화국"
- ECU_communism_DEF:0 "적도 사회주의 공화국"
+ ECU_communism:0 "에콰도르 사회주의 공화국"
+ ECU_communism_DEF:0 "에콰도르 사회주의 공화국"
  ECU_fascism_ADJ:0 "에콰도르"
  ECU_democratic_ADJ:0 "에콰도르"
  ECU_neutrality_ADJ:0 "에콰도르"
@@ -369,10 +675,10 @@
  EGY_neutrality_DEF:0 "이집트 왕국"
  EGY_fascism:0 "이집트 술탄국"
  EGY_fascism_DEF:0 "이집트 술탄국"
- EGY_communism:0 "나일 인민공화국"
- EGY_communism_DEF:0 "나일 인민공화국"
+ EGY_communism:0 "이집트 인민공화국"
+ EGY_communism_DEF:0 "이집트 인민공화국"
  EGY_fascism_ADJ:0 "이집트"
- EGY_communism_ADJ:0 "나일"
+ EGY_communism_ADJ:0 "이집트"
  EGY_neutrality_ADJ:0 "이집트"
  EGY_democratic_ADJ:0 "이집트"
  
@@ -393,10 +699,10 @@
  #ERI
  ERI_fascism:0 "에리트레아 왕국"
  ERI_fascism_DEF:0 "에리트레아 왕국"
- ERI_democratic:0 "에리트레아"
- ERI_democratic_DEF:0 "에리트레아" 
- ERI_neutrality:0 "에리트레아"
- ERI_neutrality_DEF:0 "에리트레아"
+ ERI_democratic:0 "에리트레아국"
+ ERI_democratic_DEF:0 "에리트레아국" 
+ ERI_neutrality:0 "에리트레아국"
+ ERI_neutrality_DEF:0 "에리트레아국"
  ERI_communism:0 "에리트레아 사회주의 공화국"
  ERI_communism_DEF:0 "에리트레아 사회주의 공화국"
  ERI_fascism_ADJ:0 "에리트레아"
@@ -405,8 +711,8 @@
  ERI_communism_ADJ:0 "에리트레아"
  
  #EST
- EST_fascism:0 "대 에이스틀란드국"
- EST_fascism_DEF:0 "대 에이스틀란드국"
+ EST_fascism:0 "대 에스토니아국"
+ EST_fascism_DEF:0 "대 에스토니아국"
  EST_neutrality:0 "에스토니아 공화국"
  EST_neutrality_DEF:0 "에스토니아 공화국"
  EST_democratic:0 "에스토니아 공화국"
@@ -427,16 +733,22 @@
  #EQG
  EQG_fascism:0 "적도 기니 왕국"
  EQG_fascism_DEF:0 "적도 기니 왕국"
- EQG_democratic:0 "적도 기니"
- EQG_democratic_DEF:0 "적도 기니"
- EQG_neutrality:0 "적도 기니"
- EQG_neutrality_DEF:0 "적도 기니"
+ EQG_democratic:0 "적도 기니 공화국"
+ EQG_democratic_DEF:0 "적도 기니 공화국"
+ EQG_neutrality:0 "적도 기니 공화국"
+ EQG_neutrality_DEF:0 "적도 기니 공화국"
  EQG_communism:0 "적도 기니 사회주의 공화국"
  EQG_communism_DEF:0 "적도 기니 사회주의 공화국"
  EQG_fascism_ADJ:0 "적도 기니"
  EQG_democratic_ADJ:0 "적도 기니"
  EQG_neutrality_ADJ:0 "적도 기니"
  EQG_communism_ADJ:0 "적도 기니"
+ 
+ #FAK
+ FAK_democratic:0 "머나먼 어딘가" 
+ FAK_fascism:0 "머나먼 어딘가"
+ FAK_communism:0 "머나먼 어딘가"
+ FAK_neutrality:0 "머나먼 어딘가"
  
  #FIJ
  FIJ_fascism:1 "태평양 제국"
@@ -445,8 +757,8 @@
  FIJ_democratic_DEF:1 "멜라네시아 연방"
  FIJ_neutrality:0 "피지 왕국"
  FIJ_neutrality_DEF:0 "피지 왕국"
- FIJ_communism:1 "태평양 노동자국"
- FIJ_communism_DEF:1 "태평양 노동자국"
+ FIJ_communism:1 "태평양 노동자 공화국"
+ FIJ_communism_DEF:1 "태평양 노동자 공화국"
  FIJ_fascism_ADJ:1 "태평양"
  FIJ_democratic_ADJ:1 "멜라네시아"
  FIJ_neutrality_ADJ:0 "피지"
@@ -455,12 +767,16 @@
  #FIN
  FIN_communism:0 "핀란드 민주공화국"
  FIN_communism_DEF:0 "핀란드 민주공화국"
+ FIN_fascism:0 "대 핀란드 공화국"
+ FIN_fascism_DEF:0 "대 핀란드 공화국"
+ FIN_democratic:1 "핀란드 공화국"
+ FIN_democratic_DEF:1 "핀란드 공화국"
  
  #FRA
  FRA_fascism:0 "프랑스국"
  FRA_fascism_DEF:0 "프랑스국"
- FRA_democratic:0 "프랑스"
- FRA_democratic_DEF:0 "프랑스"
+ FRA_democratic:0 "프랑스 공화국"
+ FRA_democratic_DEF:0 "프랑스 제3공화국"
  FRA_neutrality:0 "프랑스 왕국"
  FRA_neutrality_DEF:0 "프랑스 왕국"
  FRA_communism:0 "프랑스 코뮌"
@@ -478,19 +794,26 @@
  FRI_communism_ADJ:0 "인도차이나"
  FRI_communism_DEF:0 "인도차이나 민주공화국"
  FRI_fascism:0 "대 베트남 제국"
- FRI_fascism_ADJ:0 "인도차이나"
+ FRI_fascism_ADJ:0 "베트남"
  FRI_fascism_DEF:0 "대 베트남 제국"
  FRI_neutrality:0 "프랑스령 인도차이나"
  FRI_neutrality_ADJ:0 "인도차이나"
- FRI_neutrality_DEF:0 "프랑스령 인도차이나"
+ FRI_neutrality_DEF:0 "인도차이나 연방"
+ 
+ #FSM
+ FSM_fascism:0 "사우델레우르 제국"
+ FSM_fascism_DEF:0 "사우델레우르 제국"
+ FSM_neutrality:1 "미크로네시아 연방"
+ FSM_neutrality_DEF:1 "미크로네시아 연방"
+ FSM_neutrality_ADJ:0 "미크로네시아"
  
  #GAB
  GAB_fascism:0 "가봉 왕국"
  GAB_fascism_DEF:0 "가봉 왕국"
- GAB_democratic:0 "가봉"
- GAB_democratic_DEF:0 "가봉"
- GAB_neutrality:0 "가봉"
- GAB_neutrality_DEF:0 "가봉"
+ GAB_democratic:0 "가봉 공화국"
+ GAB_democratic_DEF:0 "가봉 공화국"
+ GAB_neutrality:0 "가봉 공화국"
+ GAB_neutrality_DEF:0 "가봉 공화국"
  GAB_communism:0 "가봉 사회주의 공화국"
  GAB_communism_DEF:0 "가봉 사화주의 공화국"
  GAB_fascism_ADJ:0 "가봉"
@@ -501,10 +824,10 @@
  #GAM
  GAM_fascism:0 "감비아 왕국"
  GAM_fascism_DEF:0 "감비아 왕국"
- GAM_democratic:0 "감비아"
- GAM_democratic_DEF:0 "감비아"
- GAM_neutrality:0 "감비아"
- GAM_neutrality_DEF:0 "감비아"
+ GAM_democratic:0 "감비아 공화국"
+ GAM_democratic_DEF:0 "감비아 공화국"
+ GAM_neutrality:0 "감비아 공화국"
+ GAM_neutrality_DEF:0 "감비아 공화국"
  GAM_communism:0 "감비아 사회주의 공화국"
  GAM_communism_DEF:0 "감비아 사회주의 공화국"
  GAM_fascism_ADJ:0 "감비아"
@@ -519,12 +842,16 @@
  GBR_democratic_DEF:0 "가이아나 협동 공화국"
  GBR_communism:0 "가이아나 코뮌 공화국"
  GBR_communism_DEF:0 "가이아나 코뮌 공화국"
- GBR_neutrality:0 "가이아나"
- GBR_neutrality_DEF:0 "가이아나"
+ GBR_neutrality:0 "가이아나 협동 공화국"
+ GBR_neutrality_DEF:0 "가이아나 협동 공화국"
  GBR_fascism_ADJ:0 "가이아나"
  GBR_democratic_ADJ:0 "가이아나"
  GBR_neutrality_ADJ:0 "가이아나"
  GBR_communism_ADJ:0 "가이아나"
+ 
+ #GDL
+ GDL_neutrality:0 "과들루프 공화국"
+ GDL_neutrality_DEF:0 "과들루프 공화국"
  
  #GER
  GER_neutrality:0 "독일 제국"
@@ -535,12 +862,20 @@
  GER_communism_DEF:0 "독일 소비에트 사회주의 공화국"
  GER_fascism:0 "독일국"
  GER_fascism_DEF:0 "독일국"
+ 
+ #GEO
+ GEO_fascism:0 "조지아 국민정부"
+ GEO_fascism_DEF:0 "조지아 국민정부"
+ GEO_neutrality:0 "조지아 공화국"
+ GEO_neutrality_DEF:0 "조지아 공화국"
+ GEO_communism:1 "조지아 소비에트 사회주의 공화국"
+ GEO_communism_DEF:1 "조지아 소비에트 사회주의 공화국"
 
  #GHA
  GHA_fascism:0 "아샨티 왕국"
  GHA_fascism_DEF:0 "아샨티 왕국"
- GHA_democratic:0 "가나"
- GHA_democratic_DEF:0 "가나"
+ GHA_democratic:0 "가나 공화국"
+ GHA_democratic_DEF:0 "가나 공화국"
  GHA_neutrality:0 "아샨티 왕국"
  GHA_neutrality_DEF:0 "아샨티 왕국"
  GHA_communism:0 "가나 사회주의 공화국"
@@ -571,12 +906,22 @@
  GRL_democratic_DEF:0 "그린란드"
  GRL_neutrality:0 "그린란드"
  GRL_neutrality_DEF:0 "그린란드"
- GRL_communism:0 "사회주의 이누이트 공화국"
+ GRL_communism:0 "그린란드 사회주의 공화국"
  GRL_communism_DEF:0 "그린란드 사회주의 공화국"
  GRL_fascism_ADJ:0 "그린란드"
  GRL_democratic_ADJ:0 "그린란드"
  GRL_neutrality_ADJ:0 "그린란드"
  GRL_communism_ADJ:0 "그린란드"
+ 
+ #GLC
+ GLC_fascism:1 "갈리시아국"
+ GLC_fascism_DEF:1 "갈리시아국"
+ GLC_democratic:1 "갈리시아 공화국"
+ GLC_democratic_DEF:1 "갈리시아 공화국"
+ GLC_neutrality:0 "갈리시아 공화국"
+ GLC_neutrality_DEF:0 "갈리시아 공화국"
+ GLC_communism:1 "갈리시아 사회주의국"
+ GLC_communism_DEF:1 "갈리시아 사회주의국"
  
  #GUA
  GUA_fascism:0 "과테말라국"
