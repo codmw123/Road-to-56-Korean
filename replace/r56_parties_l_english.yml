@@ -9,7 +9,7 @@
  corporatism_desc:0 "§Y조합주의§!의 이념에 따르면, 노동자와 고용인은 그들의 이익을 국가 단위에서 대변하는 산업 및 전문 기업으로 조직화되어야 합니다. 조합주의에는 기본적인 민주주의 요소가 있지만, 일반 사람들은 여러 계층을 통해 국가의 지도층과 엄격히 분리되어 있습니다."
  centrism_democratic:0 "민주적 중도주의"
  centrism_democratic_desc:0 "§Y중도주의§!는 위험 요인과 능력을 고려하여 §M대중의 신뢰§!를 얻을 수 있고 §H공익§!을 증진하는 현재 및 미래의 요구 사항에 대한 §Y상식적인 해결책을 제시§!하고자 하는 정부 형태입니다."
-absolute_monarchism:0 "절대군주제"
+ absolute_monarchism:0 "절대군주제"
  absolute_monarchism_desc:0 "§Y절대군주제§!는 군주가 성문법이나 입법부, 관습에 의해 제지받지 않는 것과 같은 §Y절대적인 전제적 권위를 보유§!하는 왕정의 한 형태입니다. 이들은 보통 세습군주제입니다."
 
 
@@ -401,7 +401,8 @@ absolute_monarchism:0 "절대군주제"
  NIC_neutrality_party_1937_long:0 "소모사 정권"
  NIC_communism_party:0 "PSN"
  NIC_communism_party_long:0 "니카라과 사회당"
- NIC_fascism_party:0 "민족주의자"
+ NIC_fascism_party:0 "Blueshirts"
+ NIC_fascism_party_long:0 "Blueshirts"
 
  #PAR
  PAR_communism_party:0 "PCP"
@@ -455,8 +456,6 @@ absolute_monarchism:0 "절대군주제"
  PGR_neutrality_party:0 "신북양군벌"
 
  #PRU
- PRU_fascism_party:0 "제헌의회"
- PRU_fascism_party_long:0 "제헌의회"
  PRU_communism_party:0 "PCP"
  PRU_communism_party_long:0 "페루 공산당"
 
