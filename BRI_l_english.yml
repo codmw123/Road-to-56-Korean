@@ -9,8 +9,6 @@
  BRI_generic_naval_aircraft_manufacturer:0 "Base d'aéronautique navale de Lann-Bihoué"
  BRI_generic_tank_manufacturer:0 "Brissonneau et Lotz"
  
-
- 
  BRI_modernized_agriculture:0 "Modernized Agriculture"
  
  #made up manufacturers
@@ -43,21 +41,8 @@
  BRI_henri_bourgeois:0 "Henri Bourgeois"
  BRI_paul_vibert:0 "Paul Vibert"
  BRI_abeozen:0 "Abeozen"
-
-BRI_fascism:0 "브레니스"
- BRI_fascism_DEF:0 "브레니스"
- BRI_democratic:0 "브르타뉴 공화국"
- BRI_democratic_DEF:0 "브르타뉴 공화국"
- BRI_neutrality:0 "브레니스"
- BRI_neutrality_DEF:0 "브레니스"
- BRI_communism:0 "브르타뉴 인민 공화국"
- BRI_communism_DEF:0 "브르타뉴 인민 공화국"
- BRI_fascism_ADJ:0 "브르타뉴"
- BRI_democratic_ADJ:0 "브르타뉴"
- BRI_neutrality_ADJ:0 "브르타뉴"
- BRI_communism_ADJ:0 "브르타뉴"
  
-  #Brittany semi generic
+ #Brittany semi generic
  BRI_army_effort:0 "르 브레이즈"
  BRI_army_effort_desc:0 "해양 및 공중 무기의 가능성이 날로 늘어가고 있지만, 미래에도 지상 전투는 핵심입니다. 준비를 철저히 함으로서, 참호전의 지옥에서 벗어날 수 있을 것입니다."
  BRI_equipment_effort:0 "장비 현대화"
@@ -125,7 +110,7 @@ BRI_fascism:0 "브레니스"
  BRI_capital_ships_effort_desc:0 "The nation with the most battleships will rule the oceans. Battleships and carriers represent the old and the new in naval superiority."
  BRI_industrial_effort:0 "산업 주력"
  BRI_industrial_effort_desc:0 "Focus all our political efforts on building up the civilian industry in a great leap forward."
- BRI_industrial_effort_2:0 ""산업 주력 II"
+ BRI_industrial_effort_2:0 "산업 주력 II"
  BRI_industrial_effort_2_desc:0 "With iron will and a relentless work ethic, we can mobilize the people in another great industrial effort."
  BRI_construction_effort_tt:0 "§Y민간 공장§! 건설을 위한 건설 슬롯 부족"
  BRI_construction_effort:0 "Sulky Burel"
