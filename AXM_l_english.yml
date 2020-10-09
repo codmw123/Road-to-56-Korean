@@ -9,7 +9,7 @@
 
  axis_minors.1.t:0 "독립 축하"
  axis_minors.1.desc:0 "이 나라에 드디어 자주적인 정부가 세워졌으며, 정부에서 첫 번째 지시를 내릴 때가 되었습니다. 다른 나라들은 정치 체제 구축과 군사 조직을 몇 년에 걸쳐서 해 왔지만, 우리는 며칠 내로 끝내야 하니깐요."
-axis_minors.1.a:0 "아직 다가오는 폭풍을 준비할 시간은 있습니다."
+ axis_minors.1.a:0 "아직 다가오는 폭풍을 준비할 시간은 있습니다."
  axis_minors.1.b:0 "이제 정부를 설립합시다."
  axis_minors.1.c:0 "이제 정부를 설립합시다."
  axis_minors.1.d:0 "이제 정부를 설립합시다."
@@ -17,7 +17,7 @@ axis_minors.1.a:0 "아직 다가오는 폭풍을 준비할 시간은 있습니�
  axis_minors.1.f:0 "이제 정부를 설립합시다."
  axis_minors.1.g:0 "이제 정부를 설립합시다."
 
-axis_minors_balance_event_tooltip:0 "국가가 존재하지 않았을 때 정치력이 부여되지 않았던 점을 고려하여, 이 이벤트에서는 이벤트가 발생한 년도를 기준으로 추가 정치력을 제공합니다."\n"
+ axis_minors_balance_event_tooltip:0 "국가가 존재하지 않았을 때 정치력이 부여되지 않았던 점을 고려하여, 이 이벤트에서는 이벤트가 발생한 년도를 기준으로 추가 정치력을 제공합니다.\n"
 
  ##Add in focus tree fight between german influenced and more radical Hlinka guard, more and more imitating the SS and the Slovak Popular Party (still fascist)
  aftermath_of_the_munich_agreement:0 "Aftermaths of the Munich Agreement"
@@ -28,7 +28,7 @@ axis_minors_balance_event_tooltip:0 "국가가 존재하지 않았을 때 정치
  
 #Bulgaria 2 and 3 were not working and removed.
 
-axis_minors_bulgaria.1.t:0 "The Bulgarian Government Announce their Support to Communism with Balkanic Characteristics"
+ axis_minors_bulgaria.1.t:0 "The Bulgarian Government Announce their Support to Communism with Balkanic Characteristics"
  axis_minors_bulgaria.1.desc:0 "With the success of the proletarian revolutions in both countries, we have established very good relation with the Bulgarian communist government. It turns that they support our choice to seek our own path away from the influence of Moscow and want conclude an alliance uniting our two countries."
  axis_minors_bulgaria.1.a:0 "이것은 우리의 장기 프로젝트의 진행을 가속시킬 것입니다."
  axis_minors_bulgaria.1.b:0 "우리는 그들의 도움이 필요하지 않습니다."
@@ -124,7 +124,7 @@ axis_minors_bulgaria.1.t:0 "The Bulgarian Government Announce their Support to C
  axis_minors_bulgaria.26.t:0 "외국의 기술 상실"
  axis_minors_bulgaria.26.desc:0 "옛 동맹국들과 관계를 끊은 이상 그들로부터 협력받을 수 없습니다."
  axis_minors_bulgaria.26.a:0 "그것은 이미 예상된 일입니다." 
-#Ruthenia 루테니아
+#Ruthenia
 
  axis_minors_ruthenia.1.t:0 "카르파티아 루테니아의 자치 지역 선포"
  axis_minors_ruthenia.1.desc:0 "체코슬로바키아 중앙정부의 통치권이 약해짐에 따라, 주민 대부분이 루테니아인인 카르파티아 루테니아 지방이 스스로가 자치 지역이라고 선포했습니다. 이제 이 지역은 독립 당시에 보장받았었지만 프라하 중앙정부가 제한하고 있었던 모든 권리를 누리게 됩니다."
@@ -163,7 +163,7 @@ axis_minors_bulgaria.1.t:0 "The Bulgarian Government Announce their Support to C
  axis_minors_ruthenia.7.desc:0 "체코슬로바키아의 가장 험준한 지역의 지도자였던 [RUT.GetLeader] 이/가 루신인의 땅을 우크라이나에 합병시킬 것을 요구합니다." 
  axis_minors_ruthenia.7.a:0 "완벽하군."  
  axis_minors_ruthenia.7.b:0 "그럴 수는 없다."
-#Croatia 크로아티아
+#Croatia
  
  axis_minors_croatia.1.t:0 "유고슬라비아와의 재연합"
  axis_minors_croatia.1.desc:0 "이제 티토가 양쪽 정부를 동시에 통치하고 있으니, 유고슬라비아와 합칠 시간입니다."
@@ -208,14 +208,17 @@ axis_minors_bulgaria.1.t:0 "The Bulgarian Government Announce their Support to C
  axis_minors_croatia.11.t:0 "과거의 유산"
  axis_minors_croatia.11.desc:0 "While our nation is beginning a new era, our current knowledge are based on what was learned in the past."
  axis_minors_croatia.11.a:0 "더 밝은 미래로 전진합시다!"
-axis_minors_slovakia.1.a:0 "Conduct a small scale offensive to take the contested region."
+ #slovakia
+ axis_minors_slovakia.1.t:0 "Our Border with Slovakia is Unsatisfactory"
+ axis_minors_slovakia.1.desc:0 "We have taken control of Kosice and incorporated Carpathian Ruthenia  but even with those conquests, the conquest of Carpathian Ruthenia  is still incomplete. Many villages populated by rightfully Hungarian Ruthenians are still under Slovak control. As a border new border with Slovakia is still newly established, action should be taken now in order to redraw it to our advantage before it becomes a fixed and recognized border."
+ axis_minors_slovakia.1.a:0 "Conduct a small scale offensive to take the contested region."
  axis_minors_slovakia.1.b:0 "Only diplomacy will bring us back our rightful lands."
 
-axis_minors_slovakia.2.t:0 "국경분쟁 패배"
+ axis_minors_slovakia.2.t:0 "국경분쟁 패배"
  axis_minors_slovakia.2.desc:0 "우리 군사의 사기가 드높았음에도 불구하고, 헝가리 군대의 진격을 막지 못했습니다. 독일은 휴전을 강요했고, 헝가리에게 유리하도록 결론을 내렸습니다. 우리는 주민 69,930명이 살고 있는 78개 행정구역, 1,697 km²만큼을 내주어야 했습니다."
  axis_minors_slovakia.2.a:0 "독일이 우리를 돕는다고 약속했었는데!"
 
-axis_minors_slovakia.3.t:0 "카르파티아 승전!"
+ axis_minors_slovakia.3.t:0 "카르파티아 승전!"
  axis_minors_slovakia.3.desc:0 "슬로바키아 동부에서 성공적으로 작전을 전개한 후, 독일은 휴전을 제안했고 우리의 요구에 따라 국경을 다시 그렸습니다! 이제 카르파티아 지방 전체가 우리 손아귀에 있습니다! 병사들은 이 대헝가리아 제국 수복운동의 위대한 한 획을 그은 것을 노래를 부르며 축하하고 있습니다."
  axis_minors_slovakia.3.a:0 ""우리는 모두 호르티 미클로시의 병사입니다""
  
@@ -247,7 +250,7 @@ axis_minors_slovakia.3.t:0 "카르파티아 승전!"
  axis_minors_slovakia.10.desc:0 "While our nation is beginning a new era, our current knowledge are based on what was learned in the past."
  axis_minors_slovakia.10.a:0 "더 밝은 미래로 전진합시다!" 
  
- #EFR vichy france 비시 프랑스
+ #EFR vichy france
  axis_minors_vichy_france.2.t:0 "펠릭스 에보우에가 자유 프랑스군에 들어오다"
  axis_minors_vichy_france.2.desc:0 "프랑스령 적도 아프리카의 총독인 펠릭스 에보우에가 자신과 프랑스령 적도 아프리카 전체는 독일과의 전쟁을 계속할 것이라고 발표했습니다. 이 지역은 앞으로 프랑스의 광복을 준비하는 기반이 될 것입니다."
  axis_minors_vichy_france.2.a:0 "자유 프랑스는 육해공 모든 곳에서 전쟁을 이어갈 것입니다."
@@ -292,7 +295,7 @@ axis_minors_slovakia.3.t:0 "카르파티아 승전!"
  axis_minors_vichy_france.12.a:0 ""계급장 만세""   
  axis_minors_vichy_france.13.t:0 "유능한 장교 승진"
  axis_minors_vichy_france.14.t:0 "유능한 장교 승진" 
- axis_minors_vichy_france.17.t:0 "프랑스 점령지 확정""
+ axis_minors_vichy_france.17.t:0 "프랑스 점령지 확정"
  axis_minors_vichy_france.17.desc:0 "프랑스국과 독일 제국의 평화 협정 중 문서 II의 내용에 따르면: "독일 제국의 안녕을 도모하기 위해, 첨부된 지도에 선이 그어진 대로 프랑스 북부와 서부에는 독일군이 주둔하게 된다. 점령 지역 대부분이 아직도 독일군의 통제 하에 놓여있지 못하기 때문에, 점령 절차는 조약 체결 직후 시작된다."\n\n따라서, 불법적으로 프랑스 정부 통제 하에 놓여있는 지역은 반드시 군 사령관의 통제 하에 통제되어야 합니다."
  axis_minors_vichy_france.17.a:0 "휴전 협정은 존중되어야 합니다."   
  
