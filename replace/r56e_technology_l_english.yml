@@ -1,4 +1,4 @@
-#####---------------------------------------------------------------------> Mod by Sig "GreatExperiment" Altre
+﻿#####---------------------------------------------------------------------> Mod by Sig "GreatExperiment" Altre
 
 #--> All the new techs
 
@@ -15,7 +15,9 @@ l_english:
   naval_gunnery_tech:0 "함포 기술"
   naval_shell_tech:0 "해군 포탄 기술"
   damage_control_tech:0 "피해 통제 기술"
-  
+  steel_tech:0 "강철 생산 기술"
+  metallurgy_tech:0 "금속 공학 기술"
+  aluminium_tech:0 "알루미늄 생산 기술"
   
 ### Extra Special Forced Tech Categories
  r56_desert_infantry_tech:0 "사막 보병"
@@ -444,7 +446,7 @@ l_english:
  jaegers5:0"엽병 V"
  jaegers5_desc:0"밖에가 추운 거야, 아니면 나만 그런 거야? \n \n§G이 병종은 특수 부대 허용량에 포함되지 않지만 그 대신 대대마다 5개의 지원 장비를 필요로 합니다!§!"
  jaegers6:0"엽병 VI"
- jaegers6_desc"밖에가 추운 거야, 아니면 나만 그런 거야? \n \n§G이 병종은 특수 부대 허용량에 포함되지 않지만 그 대신 대대마다 5개의 지원 장비를 필요로 합니다!§!"
+ jaegers6_desc:0"밖에가 추운 거야, 아니면 나만 그런 거야? \n \n§G이 병종은 특수 부대 허용량에 포함되지 않지만 그 대신 대대마다 5개의 지원 장비를 필요로 합니다!§!"
 
  jungletroops:0"정글 보병 I"
  jungletroops_desc:0"정글 보병은 정글전의 가혹한 환경을 견디고 적들을 그들의 방식대로 상대하도록 훈련받았습니다.\n \n§G이 병종은 특수 부대 허용량에 포함되지 않지만 그 대신 대대마다 5개의 지원 장비를 필요로 합니다!§!"
