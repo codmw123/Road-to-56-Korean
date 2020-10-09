@@ -15,7 +15,7 @@
  GetHUNdemandthecoastlinenormal_KEY:0 "해안 지역 요구"
  GetHUNdemandthecoastlineitaly_KEY:0 "해안 지역 협상"
  
-HUN_acquire_skoda_naval_artillery_experience:0 "스코다 함포 기술 습득"
+ HUN_acquire_skoda_naval_artillery_experience:0 "스코다 함포 기술 습득"
  HUN_acquire_skoda_naval_artillery_experience_desc:0 "스코다는 오스트리아-헝가리 제국 해군의 함포를 설계했으며, 그 경험을 다시 활용할 때가 왔습니다." 
 
 
@@ -49,6 +49,15 @@ HUN_acquire_skoda_naval_artillery_experience:0 "스코다 함포 기술 습득"
  HUN_new_invasion_of_slovakia_desc:0 "슬로바키아인들을 영원히 복속시키고 1919년의 실패에 대한 복수를 하도록 합시다."
  HUN_oil_refining_infrastructure:0 "석유 정제 기반시설"
  HUN_oil_refining_infrastructure_desc:0 "우리의 유전을 최대한으로 활용하기 위해 우리는 국가적으로 필요한 정제소 및 연료 저장고를 건설해야 합니다."
+ HUN_ally_yugoslavia:0 "Ally Yugoslavia"
+ HUN_ally_yugoslavia_desc:0 "Yugoslavia must be supported and be our ally in our struggle for the liberation of the workers of the world!"
+ HUN_ally_greece:0 "Ally Greece"
+ HUN_ally_greece_desc:0 "Greece must be supported and be our ally in our struggle for the liberation of the workers of the world!"
+ HUN_ally_bulgaria:0 "Ally Bulgaria"
+ HUN_ally_bulgaria_desc:0 "Bulgaria must be supported and be our ally in our struggle for the liberation of the workers of the world!"
+ HUN_ally_austria:0 "Ally Austria"
+ HUN_ally_austria_desc:0 "Austria must be supported and be our ally in our struggle for the liberation of the workers of the world!" 
+
 
  HUN_revolt_of_the_arrow_crosses:0 "화살십자당의 반란"
  HUN_revolt_of_the_arrow_crosses_desc:0 "섭정이라고 하는 인간은 권력을 독점하면서도 타국의 압제자들에게 의존해 모국과 군대를 배반했습니다." # it's motherland (anyaföld) in hungarian, not fatherland
@@ -70,6 +79,28 @@ HUN_acquire_skoda_naval_artillery_experience:0 "스코다 함포 기술 습득"
  HUN_join_the_little_entente_desc:0 "외교적 노력을 통해 우리는 프랑스가 우리는 위협이 아니며 헝가리 국경 밖에 사는 헝가리인들의 문제를 평화적으로 해결할 수 있다고 믿게 만들었습니다. 그대신 평화를 위협하는 폭군들의 존재야말로 자유로운 국가들이 맞서서 단결해야 하는 더 큰 걱정거리입니다."
  HUN_join_the_cordon_sanitaire:0 "방역선 가입"
  HUN_join_the_cordon_sanitaire_desc:0 "폴란드-루마니아 동맹은 압제에 맞서는 동유럽의 보루입니다. 그들과 함께하는 것은 자유의 대의를 위하는 것이 될 것입니다."
-
+ HUN_hungarian_minorities_recruitment_agreement:0 "Hungarian Minorities Recruitment Agreement"
+ HUN_hungarian_minorities_recruitment_agreement_desc:0 "Lobby our allies to allow their ethnic Hungarian citizens to serve in the Hungarian army." 
 
  HUN_rearmament_refused:0 "§Y소협상국 가입국이 재무장을 불허함§!"
+ 
+ HUN_bernadotte_dynastic_ties_decision_category:0 "Beradotte Dynastic Ties"
+ HUN_bernadotte_dynastic_ties_decision_category_desc:0 "The new king of our nation has been born and raised in Sweden and maintain strong ties with the nation of his youth."
+ HUN_hungarian_minorities_recruitment_decision_category:0 "Hungarian Minorities Recruitment"
+ HUN_hungarian_minorities_recruitment_decision_category_desc:0 "Instead of weeping for the dismantlement of Greater Hungary, solace will come from international cooperation with our neighbors. Some ethnic Hungarians living abroad may be more motivated to serve under the Hungarian flag, avoiding the potential language barrier. Our neighboring allies have been dutifully lobbied and convinced that this is for the good of the common cause and that the gravity of our times opens the door for unlikely solutions."
+ HUN_form_swedish_democratic_government_in_exile:0 "Form a Swedish Democratic Government in Exile"
+ HUN_recruit_magyars_in_carpathian_ruthenia:0 "Recruit Magyars in Carpathian Ruthenia"
+ HUN_recruit_magyars_in_vojvodina:0 "Recruit Magyars in Vojvodina"
+ HUN_recruit_magyars_in_southern_transylvania:0 "Recruit Magyars in Southern Transylvania"
+ HUN_recruit_magyars_in_northern_transylvania:0 "Recruit Magyars in Northern Transylvania"
+ HUN_recruit_magyars_in_southern_slovakia:0 "Recruit Magyars in Southern Slovakia"
+ HUN_support_swedish_democratic_government:0 "Support the Swedish Democratic Government"
+ HUN_restore_swedish_democracy:0 "Restore Swedish Democracy"
+
+ r56_hungary_6.t:0 "Join Charles Bernadotte"
+
+ HUN_balkan_pact_preparation:0 "[HUN.getfactionname] Military Preparations"
+
+ r56_hungary_6.desc:0 "Join Charles Bernadotte"
+ r56_hungary_6.a:0 "To victory"
+ r56_hungary_6.b:0 "Durr durr death is better"
