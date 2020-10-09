@@ -1,7 +1,8 @@
 ﻿l_english:
-
+ SOV_ukrainian_reclaimation_desc:0 "Ukrainian nationalists are once again attempting to divide [SOV.GetNameDef] and the government is determined to eliminate the nationalist elements."
  SOV_anti_bolshevik_revolt:0 "반 볼셰비키 봉기"
  SOV_put_down_the_ukrainian_revolt:0 "우크라이나 봉기 진압"
+ SOV_crush_ukrainian_opposition:0 "Crush Ukrainian Opposition"
 
  soviet_focus:0 "소비에트 국가 중점"
  SOV_Lenin_Cult:0 "레닌 찬양"
@@ -63,7 +64,7 @@
  SOV_Dawn_Of_A_Better_World:0 "신세계의 여명"
  SOV_Dawn_Of_A_Better_World_desc:0 "우리들은 모든 인류를 위해 유일의 인간국가가 통치하는 공산주의 정부를 만들어야 합니다. 비록 이것이 먼 길일지라도, 우리는 목표를 향해 계속 일해야만 합니다. 비록 이 꿈이 멀리 보여질지라도 말입니다."
  SOV_Perpetual_Warfare:0 "영원한 전쟁"
- SOV_Perpetual_Warfare_desc:0 "우리는 마지막 음식, 총알 그리고 한 방울의 피가 다 떨어질 때까진 싸울 것입니다.
+ SOV_Perpetual_Warfare_desc:0 "우리는 마지막 음식, 총알 그리고 한 방울의 피가 다 떨어질 때까진 싸울 것입니다."
  SOV_The_Polish_Question:0 "폴란드 문제"
  SOV_The_Polish_Question_desc:0 "폴란드 사람들은 항상 우리를 비방해왔고, 이제 우리는 그 무례함을 끝내버릴 때 입니다. 폴란드는 프롤레타리아를 해방시키거나 독일이 유럽을 정복하는걸 막기 전에 그들을 쳐부숴야 할것입니다."
  SOV_3_Way_Parition_Of_Poland:0 "폴란드 분할"
@@ -260,6 +261,6 @@
 
  SOV_relocate_industry_from_kiev:0 "Relocate the industry from Kiev"
  SOV_relocate_industry_from_kharkov:0 "Relocate the industry from Kharkov"
- SOV_industry_relocation_desc:0 "The war is upon us and our enemies are threatening our industrial bassins in the West. Let's move them far away in the Urals outside of the reach of their largest bombers. That way we will be able to protect our industry, build more military equipment and launch decisive counter attacks in the name of [SOV.getleader] and his vision of [SOV.GetRulingIdeologyNoun]."
+ SOV_industry_relocation_desc:0 "The war is upon us and our enemies are threatening our industrial basins in the West. Let's move them far away in the Urals outside of the reach of their largest bombers. That way we will be able to protect our industry, build more military equipment and launch decisive counter attacks in the name of [SOV.getleader] and his vision of [SOV.GetRulingIdeologyNoun]."
  
  
