@@ -14,9 +14,6 @@
  
  VICTORY_POINTS_10906:0 "파라마리보"
  
- HOL_fascism:0 "디츨란트"
- HOL_fascism_DEF:0 "디츨란트"
- 
  HOL_abandon_the_gold_standard_not_MTG:0 "금본위제 포기"
  HOL_abandon_the_gold_standard_not_MTG_desc:0 "네덜란드는 금본위제를 유지한 마지막 국가들 중 하나였습니다. 이로 인해 인플레이션을 피할 수 있었지만, 통화량 부족은 경제를 목졸랐으며 경제 위기와 함께 기록적인 실업을 일으켰습니다."
  HOL_finish_the_noordoostpolder_not_MTG:0 "노르도스트폴더르 완공"
@@ -25,20 +22,6 @@
  HOL_the_new_ideal_MTG:0 "새로운 이상"
  #Bratyn made a typo and I (waffle) had the correct version
  HOL_meinout_rost_van_tonningen:0 "메이나우트 로스트 판토닝언"
- 
- #Dietsland
- HOL2_fascism:0 "디츨란트"
- HOL2_fascism_DEF:0 "디츨란트"
- HOL2_communism:0 "네덜란드 노동자 연맹" 
- HOL2_communism_DEF:0 "네덜란드 노동자 연맹"
- HOL2_democratic:0 "통일 네덜란드 왕국" 
- HOL2_democratic_DEF:0 "통일 네덜란드 왕국"
- HOL2_neutrality:0 "통일 네덜란드 왕국"
- HOL2_neutrality_DEF:0 "통일 네덜란드 왕국"
- HOL2_fascism_ADJ:0 "디츨란트"
- HOL2_communism_ADJ:0 "네덜란드"
- HOL2_democratic_ADJ:0 "네덜란드"
- HOL2_neutrality_ADJ:0 "네덜란드"
  
  HOL_willem_schermerhorn:0 "빌럼 스헤르메르호른"
  HOL_godfried_van_voorst_tot_voorst:0 "홋프리트 판포르스트 톳포르스트"
