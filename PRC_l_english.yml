@@ -1,11 +1,4 @@
 ﻿l_english:
- ### Cosmetic Tag ###
- PRC_nation_founded_communism:0 "People's Republic Of China"
- PRC_nation_founded_communism_DEF:0 "The People's Republic Of China"
- PRC_nation_founded_communism_adj:0 "Chinese"
-
-
-
  ### Focus ###
  PRC_lower_defeatism_penalty:0 "Lower the penalty from §YDefeatism§!"
  prc_sov_supply_tt:0 "Is the neighbour of one of the following:\n       §YSoviet Union§!\n       Faction member of §YSoviet Union§!\n       Communist §YSinkiang§! with positive opinion towards §YSoviet Union§."
@@ -117,7 +110,7 @@
  PRC_liberate_tibet:0 "Liberate Tibet"
  PRC_liberate_tibet_desc:0 "Tibet has long since been tricked to leave the Chinese family, now we must liberate them from the capitalist that contaminated their mind."
  PRC_establish_air_force:0 "Establish People's Liberation Air Force"
- PRC_establish_air_force_desc:0 "With foreign helps, we can establish a proper air force.
+ PRC_establish_air_force_desc:0 "With foreign helps, we can establish a proper air force."
  PRC_fighter_focus:0 "Fighter Focus"
  PRC_fighter_focus_desc:0 "We have not seen that last of dogfights in the Great War. Keeping ahead in the development of fighter planes will give us an edge in the future."
  PRC_bomber_focus:0 "Bomber Focus"
