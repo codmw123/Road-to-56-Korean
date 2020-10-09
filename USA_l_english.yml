@@ -1,4 +1,7 @@
 ﻿l_english:
+ 
+ 
+ 
  USA_bethlehem_steel:0 "베들레헴스틸"
  USA_bethlehem_shipbuilding_corporation:0 "베들레헴 조선"
  USA_william_c_lee:0 "윌리엄 C. 리"
@@ -6,6 +9,10 @@
  rt56_j_edgar_hoover:0 "J. 에드거 후버"
  rt56_j_edgar_hoover_mil:0 "J. 에드거 후버"
  rt56_john_j_pershing:0 "존 J. 퍼싱"
+ rt56_USA_cash_and_carry_away:0 "Cash and Carry"
+ rt56_USA_cash_and_carry_away_desc:0 "The ‘Cash and Carry’ amendment to the Neutrality Act allows us to purchase Non-War material from [USA.getnameDEF] if we pay upfront and ship it. We are taking advantage of this, because [USA.GETNAMEDEF] is letting us ‘borrow’ money from thier treasury that we can then use to pay for the goods."
+ rt56_USA_cash_and_carry_home:0 "The Cash and Carry Scheme"
+ rt56_USA_cash_and_carry_home_desc:0 "We are providing material aid to our allies until congress notices the scheme and our lawyers can no longer hold up objections to the pratice in court."
 
  USA_curtiss_wright:0 "커티스 라이트"
  USA_claude_shannon:0 "클로드 섀넌"
@@ -25,6 +32,10 @@
  USA_expand_unoffical_operations_desc:0 "우리는 경험을 통해 정보가 승리와 패배를 가를 수 있다고 알게 되었습니다. 정보는 승리를 가져다줄 수도 있지만 전쟁을 방지할 수도 있습니다. 잘 설치된 폭탄 하나는 폭격기 편대 하나를 대체할 수 있고 잘 침투한 요원 한 명은 사단 하나를 대체할 수 있습니다."
  USA_office_of_economic_warfare:0 "경제전쟁국"
  USA_office_of_economic_warfare_desc:0 "전쟁으로 인해 우리는 천연자원을 국외로 수출하는 것이 아닌 전쟁 경제를 견인하기 위해 사용해야 합니다. 경제전쟁국은 이 변화를 감독하는 임무를 맡게 될 것입니다."
+ USA_cash_and_carry:0 "Cash and Carry Scheme"
+ USA_cash_and_carry_desc:0 "The ‘Cash and Carry’ amendment to the Neutrality Act allows countries to purchase Non-War material from us if they pay upfront and ship it themselves. Congress assumes no nation will take advantage of this, due to the lack of upfront capital. We can abuse this amendment to provide material to our allies by letting countries ‘borrow’ money from our treasury that they can then use to pay for the goods."
+ USA_double_victory:0 "Double Victory"
+ USA_double_victory_desc:0 "Getting the support of the African-American community is important when at war. Using targeted propaganda campaigns will help achieve this. They may be misleading, but we cannot have the country be divide at our most critical moments."
 
 
  r56_usa.1.t:0 "1948년 대선"
@@ -57,3 +68,17 @@
  USA_carrier_1_desc:0 "랭글리급 항공모함은 주피터급 석탄 운반선을 개장해 탄생했습니다. 이를 통해 이 함선은 워싱턴 해군 군축 조약이 가한 제한을 따를 수 있게 되었습니다. 랭글리급은 미 해군 최초의 현역 항공모함이었으며 10년 넘게 항공모함 작전을 개선하는 데에 활용되었습니다."
 
  r56_j_edgar_hoover_given_army_command:0 "현재 지휘관임"
+ 
+ 
+ USA_cult_of_washington:0 "The Cult of Washington"
+ USA_cult_of_washington_desc:0 "The founder of our country must be an example for us all. As a strong military man destined to greatness, he clearly was the first fascist, building a republic for all the true Americans through his skill and his shear will."
+ USA_celebrate_americas_founder:0 "Celebrate America's Founder"
+ USA_modify_the_pledge:0 "Rectify the Pledge of Allegiance"
+ USA_constitutional_convention_washington:0 "Washington Constitutional Convention"
+ USA_proclaim_washington_to_be_the_first_fascist:0 "Proclaim Washington to be the First Fascist"
+ USA_raise_washington_to_general_of_the_armies:0 "Raise Washington to the rank of General of the Armies"
+
+ #Vanilla Overrides 
+ USA_manifest_destiny_r56:0 "The New Manifest Destiny" #revist with better name. band-aide fix
+ USA_manifest_destiny_r56_desc:0 "Our country became great on the back of the policy of aggressive expansion of our nation. It’s about time we returned to that."
+ 
