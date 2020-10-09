@@ -1,4 +1,4 @@
-l_english: 
+﻿l_english: 
  BAY_communism_party:0 "KPB"
  BAY_communism_party_long:0 "바이에른 공산당"
  BAY_democratic_party:0 "BVP"
@@ -6,16 +6,10 @@ l_english:
  BAY_neutrality_party:0 "바이에른당"
  BAY_fascism_party:0 "BNSP"
  BAY_fascism_party_long:0 "바이에른 국가사회당"
- 
- #Bayerische Räterepublik
- BAY_communism:0 "바이에른 평의회 공화국"
- BAY_democratic:0 "바이에른 자유국"
- BAY_neutrality:0 "바이에른 왕국"
- BAY_fascism:0 "바이에른" 
 
  #made panzerschrecks
  BAY_generic_infantry_equipment_manufacturer:0 "슈리커"
- BAY_rapp_motorenwerke:0 "라프 원동기공업"
+ BAV_rapp_motorenwerke:0 "라프 원동기공업"
  BAY_generic_motorized_equipment_manufacturer:0 "BMW"
  BAY_generic_industrial_concern:0 "마우러 AG"
  bmw_aircraft:0 "BMW"
