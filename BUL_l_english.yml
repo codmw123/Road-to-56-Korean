@@ -1,4 +1,4 @@
-#notes:  Varna Shipyard - established in 1937 / Varna Port Workshop or Varnenska Pristanistna Rabotilnica 
+﻿#notes:  Varna Shipyard - established in 1937 / Varna Port Workshop or Varnenska Pristanistna Rabotilnica 
 #from 1925 to 1929 it's expanded allowing it to repair ships and construct equipment to maintain the state of ports situated on the danube and black sea coast
 #in 1939 it's expanded again and this time it starts to build ships and it's renamed to 'State Shipyard / Държавна корабостроителница / Durzhavna korabostroitelnica'
 # Държавната самолетна фабрика (ДСФ) DSF;State Aircraft Factory (commie?)
@@ -521,7 +521,7 @@ BUL_socdem_party_long:0 "불가리아 노동자 사회민주당"
   axis_minors_bulgaria.6.a:0 "이는 우리의 장기 계획을 가속화할 것이다."
 
   axis_minors_bulgaria.7.t:0 "기술 전문 지식의 상실"
-  axis_minors_bulgaria.7.d:0 "우리 동맹국 가운데 총기 제조를 우선시하는 나라가 없어지면서, 더 이상 그들의 전문 지식을 얻을 수 없게 되었습니다.""
+  axis_minors_bulgaria.7.d:0 "우리 동맹국 가운데 총기 제조를 우선시하는 나라가 없어지면서, 더 이상 그들의 전문 지식을 얻을 수 없게 되었습니다."
   axis_minors_bulgaria.7.a:0 "협력을 더욱 확대해야 한다."
 
   axis_minors_bulgaria.8.t:0 "기술자들이 포 생산 과정을 개선"
@@ -529,7 +529,7 @@ BUL_socdem_party_long:0 "불가리아 노동자 사회민주당"
   axis_minors_bulgaria.8.a:0 "이는 우리의 장기 계획을 가속화할 것이다."
 
   axis_minors_bulgaria.9.t:0 "기술 전문 지식의 상실"
-  axis_minors_bulgaria.9.d:0 "우리 동맹국 가운데 포 제조를 우선시하는 나라가 없어지면서, 더 이상 그들의 전문 지식을 얻을 수 없게 되었습니다.""
+  axis_minors_bulgaria.9.d:0 "우리 동맹국 가운데 포 제조를 우선시하는 나라가 없어지면서, 더 이상 그들의 전문 지식을 얻을 수 없게 되었습니다."
   axis_minors_bulgaria.9.a:0 "협력을 더욱 확대해야 한다."
 
   axis_minors_bulgaria.10.t:0 "기술자들이 전차 생산 과정을 개선"
@@ -537,7 +537,7 @@ BUL_socdem_party_long:0 "불가리아 노동자 사회민주당"
   axis_minors_bulgaria.10.a:0 "이는 우리의 장기 계획을 가속화할 것이다."
 
   axis_minors_bulgaria.11.t:0 "기술 전문 지식의 상실"
-  axis_minors_bulgaria.11.d:0 "우리 동맹국 가운데 중형전차 제조를 우선시하는 나라가 없어지면서, 더 이상 그들의 전문 지식을 얻을 수 없게 되었습니다.""
+  axis_minors_bulgaria.11.d:0 "우리 동맹국 가운데 중형전차 제조를 우선시하는 나라가 없어지면서, 더 이상 그들의 전문 지식을 얻을 수 없게 되었습니다."
   axis_minors_bulgaria.11.a:0 "협력을 더욱 확대해야 한다."
 
   axis_minors_bulgaria.12.t:0 "기술자들이 전차 생산 과정을 개선"
@@ -545,7 +545,7 @@ BUL_socdem_party_long:0 "불가리아 노동자 사회민주당"
   axis_minors_bulgaria.12.a:0 "이는 우리의 장기 계획을 가속화할 것이다."
 
   axis_minors_bulgaria.13.t:0 "기술 전문 지식의 상실"
-  axis_minors_bulgaria.13.d:0 "우리 동맹국 가운데 경전차 제조를 우선시하는 나라가 없어지면서, 더 이상 그들의 전문 지식을 얻을 수 없게 되었습니다.""
+  axis_minors_bulgaria.13.d:0 "우리 동맹국 가운데 경전차 제조를 우선시하는 나라가 없어지면서, 더 이상 그들의 전문 지식을 얻을 수 없게 되었습니다."
   axis_minors_bulgaria.13.a:0 "협력을 더욱 확대해야 한다."
 
   axis_minors_bulgaria.14.t:0 "기술자들이 전차 생산 과정을 개선"
@@ -553,7 +553,7 @@ BUL_socdem_party_long:0 "불가리아 노동자 사회민주당"
   axis_minors_bulgaria.14.a:0 "이는 우리의 장기 계획을 가속화할 것이다."
 
   axis_minors_bulgaria.15.t:0 "기술 전문 지식의 상실"
-  axis_minors_bulgaria.15.d:0 "우리 동맹국 가운데 중전차 제조를 우선시하는 나라가 없어지면서, 더 이상 그들의 전문 지식을 얻을 수 없게 되었습니다.""
+  axis_minors_bulgaria.15.d:0 "우리 동맹국 가운데 중전차 제조를 우선시하는 나라가 없어지면서, 더 이상 그들의 전문 지식을 얻을 수 없게 되었습니다."
   axis_minors_bulgaria.15.a:0 "협력을 더욱 확대해야 한다."
 
   axis_minors_bulgaria.16.t:0 "기술자들이 전투기 생산 과정을 개선"
@@ -561,7 +561,7 @@ BUL_socdem_party_long:0 "불가리아 노동자 사회민주당"
   axis_minors_bulgaria.16.a:0 "이는 우리의 장기 계획을 가속화할 것이다."
 
   axis_minors_bulgaria.17.t:0 "기술 전문 지식의 상실"
-  axis_minors_bulgaria.17.d:0 "우리 동맹국 가운데 전투기 제조를 우선시하는 나라가 없어지면서, 더 이상 그들의 전문 지식을 얻을 수 없게 되었습니다.""
+  axis_minors_bulgaria.17.d:0 "우리 동맹국 가운데 전투기 제조를 우선시하는 나라가 없어지면서, 더 이상 그들의 전문 지식을 얻을 수 없게 되었습니다."
   axis_minors_bulgaria.17.a:0 "협력을 더욱 확대해야 한다."
 
   axis_minors_bulgaria.18.t:0 "기술자들이 중형비행기 생산 과정을 개선"
@@ -569,7 +569,7 @@ BUL_socdem_party_long:0 "불가리아 노동자 사회민주당"
   axis_minors_bulgaria.18.a:0 "이는 우리의 장기 계획을 가속화할 것이다."
 
   axis_minors_bulgaria.19.t:0 "기술 전문 지식의 상실"
-  axis_minors_bulgaria.19.d:0 "우리 동맹국 가운데 중형비행기 제조를 우선시하는 나라가 없어지면서, 더 이상 그들의 전문 지식을 얻을 수 없게 되었습니다.""
+  axis_minors_bulgaria.19.d:0 "우리 동맹국 가운데 중형비행기 제조를 우선시하는 나라가 없어지면서, 더 이상 그들의 전문 지식을 얻을 수 없게 되었습니다."
   axis_minors_bulgaria.19.a:0 "협력을 더욱 확대해야 한다."
 
   axis_minors_bulgaria.20.t:0 "기술자들이 중폭격기 생산 과정을 개선"
@@ -577,7 +577,7 @@ BUL_socdem_party_long:0 "불가리아 노동자 사회민주당"
   axis_minors_bulgaria.20.a:0 "이는 우리의 장기 계획을 가속화할 것이다."
 
   axis_minors_bulgaria.21.t:0 "기술 전문 지식의 상실"
-  axis_minors_bulgaria.21.d:0 "우리 동맹국 가운데 중폭격기 제조를 우선시하는 나라가 없어지면서, 더 이상 그들의 전문 지식을 얻을 수 없게 되었습니다.""
+  axis_minors_bulgaria.21.d:0 "우리 동맹국 가운데 중폭격기 제조를 우선시하는 나라가 없어지면서, 더 이상 그들의 전문 지식을 얻을 수 없게 되었습니다."
   axis_minors_bulgaria.21.a:0 "협력을 더욱 확대해야 한다."
 
   axis_minors_bulgaria.22.t:0 "기술자들이 뇌격기 생산 과정을 개선"
@@ -585,7 +585,7 @@ BUL_socdem_party_long:0 "불가리아 노동자 사회민주당"
   axis_minors_bulgaria.22.a:0 "이는 우리의 장기 계획을 가속화할 것이다."
 
   axis_minors_bulgaria.23.t:0 "기술 전문 지식의 상실"
-  axis_minors_bulgaria.23.d:0 "우리 동맹국 가운데 뇌격기 제조를 우선시하는 나라가 없어지면서, 더 이상 그들의 전문 지식을 얻을 수 없게 되었습니다.""
+  axis_minors_bulgaria.23.d:0 "우리 동맹국 가운데 뇌격기 제조를 우선시하는 나라가 없어지면서, 더 이상 그들의 전문 지식을 얻을 수 없게 되었습니다."
   axis_minors_bulgaria.23.a:0 "협력을 더욱 확대해야 한다."
 
   axis_minors_bulgaria.24.t:0 "기술자들이 급강하폭격기 생산 과정을 개선"
@@ -593,7 +593,7 @@ BUL_socdem_party_long:0 "불가리아 노동자 사회민주당"
   axis_minors_bulgaria.24.a:0 "이는 우리의 장기 계획을 가속화할 것이다."
 
   axis_minors_bulgaria.25.t:0 "기술 전문 지식의 상실"
-  axis_minors_bulgaria.25.d:0 "우리 동맹국 가운데 급강하폭격기 제조를 우선시하는 나라가 없어지면서, 더 이상 그들의 전문 지식을 얻을 수 없게 되었습니다.""
+  axis_minors_bulgaria.25.d:0 "우리 동맹국 가운데 급강하폭격기 제조를 우선시하는 나라가 없어지면서, 더 이상 그들의 전문 지식을 얻을 수 없게 되었습니다."
   axis_minors_bulgaria.25.a:0 "협력을 더욱 확대해야 한다."
 
   axis_minors_bulgaria.26.t:0 "국외 전문 지식의 상실"
