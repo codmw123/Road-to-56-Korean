@@ -53,7 +53,7 @@
  armored_car_equipment_2_desc:0 "장갑차는 전투부대를 따라다니며 소규모 화력지원을 제공하여 전투부대를 돕는식으로 자주 사용되어왔습니다."
  armored_car_at_equipment:0 "장갑차 45"
  armored_car_at_equipment_short:0 "장갑차 45"
- armored_car_at_equipment_desc:0 "장갑차는 전투부대를 따라다니며 소규모 화력지원을 제공하여 전투부대를 돕는식으로 자주 사용되어왔습니다."
+ armored_car_equipment_at_desc:0 "장갑차는 전투부대를 따라다니며 소규모 화력지원을 제공하여 전투부대를 돕는식으로 자주 사용되어왔습니다."
 
  #-> Towed artillery <><> 
  artillery_equipment_1:0 "야포 30"
@@ -3353,7 +3353,7 @@
  USA_rocket_artillery_equipment_1:0 "T27E2 실로폰 4.5 인치 로켓 발사기"
  USA_rocket_artillery_equipment_1_short:0 "T27E2 실로폰"
  USA_rocket_artillery_equipment_2:0 "M16 4.5 인치 로켓 발사기"
- USA_rocket_artillery_equipment_2_short:0 "M16 4.5 인치 로켓 발사기
+ USA_rocket_artillery_equipment_2_short:0 "M16 4.5 인치 로켓 발사기"
  USA_rocket_artillery_equipment_x:0 "T34 4.5-inch 로켓 발사기"
  USA_rocket_artillery_equipment_x_short:0 "T34 4.5 인치 로켓 발사기"
  
