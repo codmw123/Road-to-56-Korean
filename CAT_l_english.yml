@@ -2,17 +2,6 @@
  
  CAT_deploy_the_aragonese_fleet:0 "아라곤 함대 배치"   
  
- CAT_fascism:0 "카탈루냐국"
- CAT_fascism_DEF:0 "카탈루냐국"
- CAT_democratic:0 "카탈루냐 공화국"
- CAT_democratic_DEF:0 "카탈루냐 공화국"
- CAT_neutrality:0 "카탈루냐"
- CAT_neutrality_DEF:0 "카탈루냐"
- CAT_communism:0 "카탈루냐 인민 공화국"
- CAT_communism_DEF:0 "카탈루냐 인민 공화국"
- CAT_fascism_ADJ:0 "카탈루냐"
-
- 
  CAT_miquel_badia:0 "미켈 바디아"
  CAT_antoni_sedo:0 "안토니 세도"
  CAT_frederic_escofet:0 "프레데리크 에스코페트"
