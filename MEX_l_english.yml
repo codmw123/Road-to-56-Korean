@@ -920,14 +920,6 @@
  strategic_bomber_research:0 "Strategic Bomber Research"
  para_tech:0 "Paratroopers"
  
- ###NAMES
- USA_MEX_autonomy_dominion:0 "북아메리카 자치령"
- USA_MEX_autonomy_colony:0 "41개 식민지"
- USA_MEX_autonomy_puppet:0 "멕시코 북아메리카 구역"
- USA_MEX_autonomy_dominion_DEF:0 "북아메리카 자치령"
- USA_MEX_autonomy_colony_DEF:0 "41개 식민지"
- USA_MEX_autonomy_puppet_DEF:0 "멕시코 북아메리카 구역"
- 
  ###OPINIONS + MISC
  
  mex_latin_diplomacy_focus:0 "Latin Diplomacy"
