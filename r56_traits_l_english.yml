@@ -43,6 +43,7 @@
  tank_manufacturer2:0 "전차 제조사"
  spare_parts_tank_manufacturer:0 "전차 예비 부품 전문 업체"
  licensed_medium_aircraft_manufacturer:0 "중형비행기 면허 제조사"
+ mining_concern:0 "광업 회사"
 
 ##Leaders 
  tank_enthusiast:0 "전차 애호가"
@@ -56,21 +57,26 @@
  compromised_beliefs:0 "굽힌 신념"
  all_business:0 "사업에만 집중"
  voluntaryism:0 "지원병 제도"
- 
+ r56_promised_democracy:0 "Promised Democracy"
+ corrupt:0 "부패함"
+ r56_trait_opposed_to_communism:0 "반공주의자"
+ r56_trait_opposed_to_fascism:0 "Opposed to Fascism"
+ r56_trait_opposed_to_democracy:0 "Opposed to Democracy"
+
+ wary_of_the_high_command:0 "최고사령부에 대한 경계"
+ himmler_terrorizing_monomaniac:0 "공포의 편집광" 
 ##Australia
  aboriginal_journalist:0 "원주민 기자"
  aboriginal_rights_activist:0 "원주민 인권 운동가"
  odinist:0 "오딘주의자"
  black_suffragette:0 "어둠의 여성참정권 운동가"
 
- corrupt:0 "부패함"
- r56_trait_opposed_to_communism:0 "반공주의자"
 
- wary_of_the_high_command:0 "최고사령부에 대한 경계"
- himmler_terrorizing_monomaniac:0 "공포의 편집광"
 
 #Adviors 
 intervention_advocate:0 "개입 옹호자"
 law_enforcement_militarizer_3:0 "경찰 군대화 전문가\n(천재)"
+reactionary_media_owner:0 "Reactionary Media Owner"
+
 
 guerilla_expert:0 "게릴라전 전문가"
