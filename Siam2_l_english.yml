@@ -6,25 +6,6 @@
   SIA_generic_motorized_equipment_manufacturer:0 "Chaiseri"
   #Siam Commercial Bank (if needed)
   
-  # Custom Tags
-  SIA_R56_democratic:0 "시암"
-  SIA_R56_democratic_DEF:0 "시암"
-  SIA_R56_fascism:0 "시암"
-  SIA_R56_fascism_DEF:0 "시암"
-  SIA_R56_neutrality:0 "시암"
-  SIA_R56_neutrality_DEF:0 "시암"
-  SIA_R56_communist:0 "시암 인민 공화국"
-  SIA_R56_communist_DEF:0 "시암"
-
-  SIA_Thailand_democratic:0 "타이"
-  SIA_Thailand_democratic_DEF:0 "타이 공화국"
-  SIA_Thailand_fascism:0 "타이"
-  SIA_Thailand_fascism_DEF:0 "타이"
-  SIA_Thailand_communism:0 "타이 인민 공화국"
-  SIA_Thailand_communism_DEF:0 "타이 인민 공화국"
-  SIA_Thailand_neutrality:0 "타이"
-  SIA_Thailand_neutrality_DEF:0 "타이 왕국"
-
  # Parties Names
   SIA_fascism_party:0 "Khana Ratsadon (M-R)"
   SIA_fascism_party_long:0 "Khana Ratsadon (Military Radicals)"
