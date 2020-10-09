@@ -1,9 +1,8 @@
-l_english:
+﻿l_english:
 
  YUG_construct_rupnik_line:0 "루프니크선 건설"
  YUG_construct_rupnik_line_desc:0 "계속되는 나치의 확장과 이탈리아의 공격적인 행동으로 우리는 어려운 처지에 놓여 있습니다. 안전을 확보하기 위해 우리는 국경을 따라 방어선을 건설해야 합니다."
  YUG_dismantle_rupnik_line:0 "루프니크선 해체"
- 
  YUG_construct_rupnik_line_tt:0 "§Y슬로베니아§!에 §Y지상 요새§!를 추가합니다."
  YUG_construct_rupnik_line_warning_tt:0 "§독일 국경과 접한 모든 프로빈스에 설치되지는 않습니다.§!"
 
@@ -62,4 +61,3 @@ l_english:
  r56_yugoslavia_deaths.1.d:0 "1919년부터 1920년까지 그리고 1924년에 총리로 재직한 민주당의 당수 류보미르 다비도비치가 서거했습니다. 유고슬라비아 의원내각제 복원의 지지자였던 그는, 유고슬라비아 민주주의의 중요한 상징이었습니다."
  r56_yugoslavia_deaths.1.a:0 "우리는 그를 그리워할 것이다."
  r56_yugoslavia_deaths.1.b:0 "속이 시원하군."
- 
