@@ -12,8 +12,6 @@
  VIN_comittee_independent_vietnam_party_long:0 "베트남 독립 위원회"
  VIN_la_lutte_party_long:0 "싸움"
 
- VIN_neutrality:0 "베트남 제국"
- VIN_neutrality_DEF:0 "베트남 제국"
 
  # EVENTS #######################################################################################
 
@@ -232,7 +230,7 @@
  VIN_vietnams_tridemism:0 "삼민주의"
  VIN_vietnams_tridemism_desc:0 "VNQDD는 국민당과 창시자인 쑨원으로부터 강한 영감을 받았다. 그의 많은 사상 중에서 세가지 원칙이 가장 중요하다고 믿었고, 중국에서 할 수 있는 일은 여기서도 할 수 있으므로 우리는 그 이상을 우리의 새로운 공화국에도 적용할 것이다."
  VIN_establish_the_regional_parliaments:0 "지역 의회"
- VIN_establish_the_regional_parliaments_desc:0 그는 '지역 대표를 뽑는 것은 베트남 3개 지역에 각각 의회를 만드는 것'이라고 했다. 코친 차이나, 안남, 통킨, 이 의회는 연방 의회 아래에 있을 것이며, 예산에 대한 결정을 내릴 수 있을 것이다."
+ VIN_establish_the_regional_parliaments_desc:0 "그는 '지역 대표를 뽑는 것은 베트남 3개 지역에 각각 의회를 만드는 것'이라고 했다. 코친 차이나, 안남, 통킨, 이 의회는 연방 의회 아래에 있을 것이며, 예산에 대한 결정을 내릴 수 있을 것이다."
  VIN_build_the_quang_bich_line:0 "쾅 해안 요새화"
  VIN_build_the_quang_bich_line_desc:0 "일본 제국과의 대치는 주로 육로에서 있을 것이지만, 그들은 우리의 작은 해군을 격파하고 해상으로 쳐들어 올지 모른다. 해상 상륙을 막기 위한 해안 요새화 계획이 시작될 것이다."
  VIN_incochinese_neutrality:0 "인도차이나 중립화"
