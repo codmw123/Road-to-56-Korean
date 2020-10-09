@@ -11,8 +11,6 @@
 
  FRA_payment_for_bombers:0 "폭격기 대금"
 
- FRAEMPIRE_neutrality:0 "프랑스 제국"
- FRAEMPIRE_neutrality_DEF:0 "프랑스 제국"
  continental_system:0 "대륙 체제"
  FRA_the_american_napoleon:0 "미국의 나폴레옹"
  FRA_repatriate_the_remains_of_napoleon_ii:0 "나폴레옹 2세의 유해 봉환"
@@ -37,7 +35,7 @@
  france.153.d:0 "프랑스 총선에서 공화연맹과 민주공화동맹 등의 여러 우익 정당이 대다수의 표를 얻어 인민전선의 시도를 저지했습니다. 반사회주의와 반공주의의 기치 아래 단합한 그들의 승리는, 프랑스 내의 더 급진적 운동의 부상과도 연관지을 수 있습니다.\n\n범우익의 대표 인사로 여겨진 민주공화동맹의 당수 피에르-에티엔 플랑댕이 총리로 임명되었으며 주요 연립 정당들의 인사들을 포함한 내각을 구성했습니다."
  france.153.a:0 "우리는 프랑스를 더 강하게 만들 것이다."
  france.153.b:0 "그들이 프랑스에 안정을 가져다줄지도 모르겠군."
- france.153.c:0 "선거는 자본가들을 집권시킬 뿐이다.
+ france.153.c:0 "선거는 자본가들을 집권시킬 뿐이다."
  
  FRA_economic_reforms:0 "경제 개혁"
  FRA_economic_reforms_desc:0 "프랑스 경제는 위태로운 상황에 처해 있습니다. 우리는 인플레이션을 억제하고 프랑 가치를 안정화하며 재정 적자를 줄이기 위한 경제 개혁에 착수해야 합니다."
@@ -145,7 +143,7 @@
  ship_producer_mass:0 "함선 양산 회사"
  tank_producer_mass:0 "전차 양산 회사"
  tank_producer_quality:0 "고품질 전차 설계사"
- tank_producer_offense:0 "공격적 전차 설계사
+ tank_producer_offense:0 "공격적 전차 설계사"
  tank_producer_defense:0 "방어적 전차 설계사"
  fighter_producer_mass:0 "전투기 양산 회사"
  medium_aircraft_manufacturer_2:0 "중형비행기 설계사"
@@ -155,25 +153,6 @@
  connetable_of_france:0 "프랑스 대무관장"
 
  ############################
-			#### COSMETIC TAGS ####
-	############################
-
- FRA_GER_fascism_autonomy_puppet:0 "비시 프랑스"
- FRA_GER_fascism_autonomy_puppet_DEF:0 "비시 프랑스"
- GER_FRA_autonomy_dominion:0 "독일 보호령"
- GER_FRA_autonomy_colony:0 "라인 동맹"
- GER_FRA_autonomy_puppet:0 "베스트팔렌"
- GER_FRA_autonomy_integrated_puppet:0 "동프랑크"
- ITA_FRA_autonomy_puppet:0 "이탈리아 연방국"
- ENG_FRA_autonomy_puppet:0 "브르타뉴"
- USA_FRA_autonomy_puppet:0 "루이지애나"
- CAN_FRA_autonomy_puppet:0 "퀘벡"
- JAP_FRA_autonomy_puppet:0 "프랑스령 일본"
- VIN_FRA_neutrality:0 "안남-통킹 보호령"
- LAO_FRA_neutrality:0 "라오스 보호령"
- CAM_FRA_neutrality:0 "캄보디아 보호령"
- FRA_EMPIRE_neutrality:0 "프랑스 제국"
- FRA_KINGDOM_neutrality:0 "프랑스 왕국"
 
 	############################
 			#### NATIONAL FOCUSES ####
