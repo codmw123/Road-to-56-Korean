@@ -1,0 +1,74 @@
+﻿l_english:
+ 
+ JAP_revolutionary_fervour:0 "혁명적 열정"
+ 
+ JAP_SOV_sakhalin_oil_agreement:0 "사할린 석유 협정"
+ JAP_kawanishi:0 "가와니시"
+ JAP_japan_international_aviation_industries:0 "일본국제항공공업"
+ JAP_japan_steel_works:0 "일본제강소"
+ JAP_nippon_oil:0 "일본석유"
+
+ JAP_fascism_ideology_desc:0 "§Y대정익찬회§!는 고노에 후미마로 내각총리대신이 그의 §M신체제운동§!의 목표를 달성하기 위해 만들었습니다. 이것은 곧 일본 제국 정재계 내의 파벌주의를 없애, 일본의 §R총력전§! 수행 효율을 극대화하기 위한 §H전체주의적 일국일당§! 체제를 목표로 하는 §Y국가주의§! 집권 정당으로 바뀌었습니다."
+
+ JAP_germano_japanese_technological_exchange:0 "일독 기술교환"
+ JAP_army_expansion_idea:0 "육군 확충"
+ JAP_kempetai_repression:0 "Kempetai Repression"
+ JAP_kempetai_repression:0 "The Kempetai answers to the home ministry while at home but they are under the orders of the army while overseas. They are essential for the security of our imperial dominions." 
+
+ #Switch nav bombers to maritime patrol, CV nav bombers to nav bombers
+##Base game
+# JAP_nav_bomber_equipment_2:1 "미쓰비시 G4M"
+# JAP_nav_bomber_equipment_2_short:1 "G4M"
+# JAP_nav_bomber_equipment_3:1 "요코스카 P1Y 깅가"
+# JAP_nav_bomber_equipment_3_short:1 "P1Y 깅가"
+# JAP_cv_nav_bomber_equipment_1:0 "나카지마 B5N"
+# JAP_cv_nav_bomber_equipment_1_short:0 "B5N"
+# JAP_tac_bomber_equipment_2:1 "가와사키 Ki-48"
+# JAP_tac_bomber_equipment_2_short:1 "Ki-48"
+# JAP_cv_nav_bomber_equipment_3:0 "아이치 B7A"
+# JAP_cv_nav_bomber_equipment_3_short:0 "B7A"
+# JAP_nav_bomber_equipment_1:0 "G3M1 11형"
+# JAP_nav_bomber_equipment_1_short:0 "G3M1"
+# JAP_cv_nav_bomber_equipment_2:0 "나카지마 B6N"
+# JAP_cv_nav_bomber_equipment_2_short:0 "B6N"
+
+ JAP_kenji_miyamoto:0 "Kenji Miyamoto"
+
+ JAP_stimulate_mongol_traditions:0 "Stimulate the Mongol Traditions"
+ JAP_stimulate_mongol_traditions_desc:0 "The Mongols have suffered from decades of communist rules who have attacked their buddhist traditions. Restoring the temples and respecting them will give us the gratitude of the population."
+ JAP_pro_mongol_propaganda:0 "Pro Mongol Propaganda"
+ 
+ JAP_proclaim_philippines_liberation:0 "Proclaim the Philippines Liberation"
+ JAP_philippines_liberation_proclamation:0 "Philippines Liberation Proclamation"
+ JAP_proclaim_philippines_liberation_desc:0 "Let's show the Philippinos that the era of barbaric Western colonialism is finally over and that Asia will triumph under the benevolent Japanese leadership." 
+ 
+ JAP_proclaim_indonesian_liberation:0 "Proclaim Indonesian Liberation"
+ JAP_proclaim_indonesian_liberation_desc:0 "Let's show the Indonesians that the era of barbaric Western colonialism is finally over and that Asia will triumph under the benevolent Japanese leadership." 
+ ##Fixed
+
+ JAP_nav_bomber_equipment_1:0 " 나카지마 B5N"
+ JAP_nav_bomber_equipment_1_short:0 "B5N"
+ JAP_nav_bomber_equipment_2:0 " 나카지마 B6N"
+ JAP_nav_bomber_equipment_2_short:0 "B6N" 
+ JAP_nav_bomber_equipment_3:0 " 아이치 B7A"
+ JAP_nav_bomber_equipment_3_short:0 "B7A"
+
+ 
+#Maritme bombers
+ JAP_flying_boat_equipment_equipment_1:0 " G3M1 11형"
+ JAP_flying_boat_equipment_1_short:0 "G3M1" 
+ JAP_flying_boat_equipment_2:1 " 미쓰비시 G4M"
+ JAP_flying_boat_equipment_2_short:1 "G4M"
+ JAP_flying_boat_equipment_3:1 " 요코스카 P1Y 깅가"
+ JAP_flying_boat_equipment_3_short:1 "P1Y 깅가"
+
+ JAP_redesign_the_naval_guns:0 "함포 재설계"
+ JAP_redesign_the_naval_guns_desc:0 "우리 함선들의 우위를 확보하고 우리 영광스러운 함대의 사거리와 성능을 향상시키기 위해, 현대식 함포가 설계되어야 합니다."
+
+
+  r56_japan.1.t:0 "2·26 사건" 
+  r56_japan.1.desc:0 "군의 젊은 장교들이 쿠데타를 시도했습니다. "의군"이라고 자칭한 그들은, 자신들의 과도한 군국주의적 수사에 동의하지 않는 정치인 및 평론가들 여럿을 살해했습니다. 신속한 조치로 우리는 반란군을 진압하는 데 성공했습니다. 쿠데타 참여자 중 많은 인사들이 육군과 정부 내의 황도파에 속해 있었습니다."
+  r56_japan.1.a:0 "내란은 절대로 용납되지 않는다."
+  r56_japan.2.t:0 "일본 기술 협력"
+  r56_japan.2.desc:0 "군사 분야에서의 우위를 확보하기 위해, [JAP.GetAdjective] 정부는 동맹국들과의 기술 협력을 장려하고 있습니다. 그들은 최대한 빨리 설계도를 준비할 것입니다."
+  r56_japan.2.a:0 "훌륭해."

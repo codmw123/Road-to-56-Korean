@@ -1,0 +1,41 @@
+﻿l_english:
+ ARG_spanish_civil_war_involvement:0 "스페인 내전에 관여"
+ ARG_spanish_civil_war_involvement_desc:0 "우리의 스페인 형제들이 싸우는 동안 어떻게든 간에 관여하지 않을 수는 없습니다."
+ r56_ARG_spanish_civil_war_involvement:0 "스페인 내전에 관여"
+ 
+ 
+ ARG_instituto_aerotecnico_de_cordoba:0 "코르도바 항공 연구소"
+ 
+ ARG_american_oil_concern:0 "석유 산업 회사"
+ ARG_american_oil_concern_desc:0 "미국의 전문 지식 덕분에, 우리의 원유 매장량을 채굴할 수 있게 되었습니다."
+ ARG_american_industrial_investments:0 "미국의 산업 투자"
+ ARG_american_industrial_investments_desc:0 "미국 자본은 우리나라의 개발을 돕고 우리의 전략적 가치를 강화할 수 있습니다."
+ ARG_join_the_defense_of_the_hemisphere:0 "반구 방어에 참여"
+ ARG_join_the_defense_of_the_hemisphere_desc:0 "미국은 아메리카 대륙을 지키는 것에 앞장서고 있으며, 우리의 평화를 보장하기 위해서는 그들을 도와야 합니다."
+ 
+ #####Advisors#####
+ ARG_carlos_saavedra_lamas:0 "카를로스 사베드라 라마스"
+ ARG_juan_domingo_peron:0 "후안 도밍고 페론"
+ ARG_luis_podesta_costa:0 "루이스 포데스타 코스타"
+ ARG_manuel_maria_de_iriondo:0 "마누엘 마리아 데 이리온도"
+ ARG_manuel_savio:0 "마누엘 사비오"
+ ARG_geronimo_arnedo_alvarez:0 "헤로니모 아르네도 알바레스"
+ ARG_lisandro_de_la_torre:0 "리산드로 데 라 토레"
+ ARG_juan_bautista_molina:0 "후안 바우티스타 몰리나"
+ ARG_manuel_a_rodriguez:0 "마누엘 A. 로드리게스"
+ ARG_pedro_pablo_ramirez:0 "페드로 파블로 라미레스"
+ ARG_antonio_parodi:0 "안토니오 파로디"
+ ARG_susana_ferrari:0 "수사나 페라리"
+ ARG_pedro_s_casal:0 "페드로 세군도 카살"
+ ARG_alberto_teisaire:0 "알베르토 테이사이레"
+ ARG_basilio_pertine:0 "바실리오 페르티네"
+ ARG_nicolas_accame:0 "니콜라스 아카메"
+ ARG_kenneth_charney:0 "케네스 차니"
+ ARG_eleazar_videla:0 "엘레아사르 비델라"
+ ARG_leon_scasso:0 "레온 스카소"
+ ARG_humberto_sosa_molina:0 "움베르토 소사 몰리나"
+ ARG_agustin_pedro_justo:0 "아구스틴 페드로 후스토"
+
+
+ ARG_supremacy_over_brazil:0 "브라질에 대한 우위"
+ ARG_supremacy_over_brazil_desc:0 "브라질에 대한 우위"
