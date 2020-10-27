@@ -13,7 +13,7 @@
  ARG_join_the_defense_of_the_hemisphere:0 "반구 방어에 참여"
  ARG_join_the_defense_of_the_hemisphere_desc:0 "미국은 아메리카 대륙을 지키는 것에 앞장서고 있으며, 우리의 평화를 보장하기 위해서는 그들을 도와야 합니다."
  
- #####Advisors#####
+ #####Advisors##### 
  ARG_carlos_saavedra_lamas:0 "카를로스 사베드라 라마스"
  ARG_juan_domingo_peron:0 "후안 도밍고 페론"
  ARG_luis_podesta_costa:0 "루이스 포데스타 코스타"

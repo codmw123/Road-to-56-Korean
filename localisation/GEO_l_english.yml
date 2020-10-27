@@ -13,7 +13,7 @@
  GEO_event.1.t:0 "의용군의 귀향 요구"
  GEO_event.1.desc:0 "[SOV.GetName]에 맞서 조지아를 해방시키기 위해 의용군이 설립되었습니다. [SOV.GetAdjective]의 패배와 함께, 이 의용군은 자신들의 임무가 완수되었다고 보고 고향으로 돌아가고 싶어합니다."
  GEO_event.1.a:0 "조금 더 있어달라고 설득하라." 
- GEO_event.1.b:0 "그들을 전역시켜라."
+ GEO_event.1.b:0 "그들을 전역시켜라." 
 
 
  GEO_generic_light_aircraft_manufacturer:0 "트빌리시 국가 항공기 협회"

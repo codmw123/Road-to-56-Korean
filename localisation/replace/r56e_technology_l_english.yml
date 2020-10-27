@@ -3,7 +3,7 @@
 #--> All the new techs
 
 l_english: 
-## trying to fix base game decimetric radar tech
+## trying to fix base game decimetric radar tech 
   decimetric_radar:0 "데시미터파 레이다"
  
  

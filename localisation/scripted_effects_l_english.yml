@@ -1,7 +1,7 @@
 ﻿l_english:
 
  unlock_naval_advisors_tooltip:0 "§Y해군 조언가§!를 해금합니다.\n"
- unlock_air_force_advisors_tooltip:0 "§Y공군 조언가§!를 해금합니다.\n" 
+ unlock_air_force_advisors_tooltip:0 "§Y공군 조언가§!를 해금합니다.\n"  
  trade_policy_open_up_tooltip:0 "우리의 §Y무역법§!을 §M자유 무역§! 쪽으로 한 번 변경합니다.\n"
  trade_policy_open_up_twice_tooltip:0 "우리의 §Y무역법§!을 §M자유 무역§! 쪽으로 두 번 변경합니다.\n" 
  trade_policy_closing_tooltip:0 "우리의 §Y무역법§!을 §M폐쇄 경제§! 쪽으로 한 번 변경합니다.\n" 

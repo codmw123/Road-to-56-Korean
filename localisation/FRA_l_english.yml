@@ -52,7 +52,7 @@
  FRA_national_department_state_market:0 "국가시장부"
  FRA_national_department_state_market_desc:0 "이 새로운 부서는 공공 사업 지휘를 일원화하고 기업에 대한 융자를 더욱 쉽게 만들 것입니다."
  
-	#### NATIONALISATION ####
+	#### NATIONALISATION #### 
  FRA_nationalisation:0 "국유화 조치"
  FRA_nationalisation_desc:0 "국가방위기금의 예산으로, 우리는 생산효율을 위해 제조업체를 강제로 국유화할 수 있습니다. 하지만, 이는 기업들과의 관계를 악화시킬 것이며 §R전시에는 이를 실행할 수 없을 것입니다§!."
  FRA_nationalize_industy:0 "산업 업체 흡수"
