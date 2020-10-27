@@ -242,7 +242,7 @@ l_english:
  custom_diff_strong_allies:0 "@USA @ENG @FRA 연합국 강화"
  custom_diff_strong_axis:0 "@GER @ITA @JAP 추축국 강화"
  
- ###---> Regions (Unused) <><> <><> <><>
+ ###---> Regions (Unused) <><> <><> <><> 
  custom_diff_strong_africa:0 "아프리카 강화"
  custom_diff_strong_america_central:0 "중앙아메리카 강화"
  custom_diff_strong_america_north:0 "북아메리카 강화"
