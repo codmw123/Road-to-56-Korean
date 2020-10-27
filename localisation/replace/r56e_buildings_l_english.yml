@@ -19,6 +19,6 @@ l_english:
  rubber_refinery_plural:0 "고무 정제소"
  rubber_refinery_desc:0 "고무 정제소는 주에 새로운 고무 자원을 제공합니다."
  rubber_refinery_amount:0 "$VALUE|Y0=$"
- rubber_refinery_resource:0 "£resources_strip|$FRAME$" 
+ rubber_refinery_resource:0 "£resources_strip|$FRAME$"
  
 #####---------------------------------------------------------------------> End
