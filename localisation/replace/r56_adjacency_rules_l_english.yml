@@ -21,7 +21,7 @@
  BOSPHORUS_STRAIT:0 "보스포루스 해협"
  KERCH_STRAIT:0 "케르치 해협"
  STMARYS_RIVER:0 "세인트메리스강"
- LAKE_STCLAIR:0 "세인트클레어호" 
+ LAKE_STCLAIR:0 "세인트클레어호"
  WELLAND_CANAL:0 "웰랜드 운하"
  ST_LAWRENCE:0 "세인트로렌스강"
  disable_canal_tt:0 "§R이 운하는 부분적으로 파괴되어서, 선박들이 통과하려면 이 운하를 수리해야 합니다.§!"
