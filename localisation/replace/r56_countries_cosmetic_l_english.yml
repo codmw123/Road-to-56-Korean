@@ -9,7 +9,7 @@
  ANCAP_fascism_DEF:0 "자유 기업 구역"
  ANCAP_communism:0 "자유 인민공사 구역"
  ANCAP_communism_DEF:0 "자유 인민공사 구역"
- ANCAP_ADJ:0 "자유 구역"
+ ANCAP_ADJ:0 "자유 구역" 
 
  #ALB
  ALB_ITA_autonomy_puppet:0 "이탈리아령 알바니아 보호국"
