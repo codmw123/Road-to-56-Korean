@@ -10,7 +10,29 @@
  political_unification:0 "정치적 통합"
  army_unification:0 "군사적 통합"
  economic_unification:0 "경제적 통합"
+ 
+ 
+ #Scandinavia shared
+ SCA_scandinavian_unification:0 "Scandinavian Unification"
+ SCA_scandinavian_unification_desc:0 "The Brotherly people are finally united."
+ SCA_northern_swedish_iron:0 "Northern Swedish Iron"
+ SCA_northern_swedish_iron_desc:0 "With Norway and Sweden united under one government, every step of the extraction and shipping of Swedish iron can be streamlined."
+ SCA_trelleborg_rubber_factory:0 "Trelleborg Rubber Factory"
+ SCA_trelleborg_rubber_factory_desc:0 "Tyres are essential for our vehicles."
+ SCA_norwegian_aluminium_sector:0 "Norwegian Aluminium"
+ SCA_norwegian_aluminium_sector_desc:0 "The water running down the Norwegian mountains is essential for the production of aluminium."
+ SCA_unified_armament_industries:0 "Unified Armament Industries"
+ SCA_unified_armament_industries_desc:0 "Our unification offers the possibility to specialize various factories in order to produce what they do best."
 
+#Austria Hungary Shared
+
+ AH_austro_hungarian_unification:0 "Austro-Hungarian Unification"
+ AH_develop_vienna:0 "Develop Vienna"
+ AH_form_mechanics:0 "Trained Mechanics"
+ AH_czech_tyres:0 "Czech Tyres"
+ AH_rijeka_naval_academy:0 "Rijeka Naval Academy"
+ AH_coordinate_the_land_equipment_manufacturers:0 "Coordinate Equipment Manufacturing"
+ AH_increase_naval_production:0 "Increase Naval Production"
  #Improved Byzantium#
  byz_integrate_albania:0 "알바니아 통합"
  byz_albania_integrated:0 "알바니아가 통합됨"
