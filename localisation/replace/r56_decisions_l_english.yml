@@ -1,5 +1,7 @@
 ﻿l_english:
  
+ seize_machine_toolings_in_state:0 "Seize Machine Toolings in [FROM.GetName]"
+ 
  the_return_of_the_old_guard_category:0 "보수파의 귀환"
  hold_the_neutrality_national_referendum:0 "반동주의 정부 형성"
  
@@ -25,6 +27,7 @@
 
 
  combat_reports:0 "전투 보고"
+ r56_adopt_camelry:0 "From a Camel Corps"
  r56_ENG_decision_support_percy_hobart:0 "Support Percy Hobart"
  r56_ENG_decision_support_percy_hobart_desc:0 "Percy Hobart may have a strange view on how to use tanks and may also be quite unpopular among other generals due to those opinions, but his revolutionary approach to tank design and use may become extremely useful."
  percy_hobart_decision_cost:0 "§H100§!£army_experience  §H50§!£pol_power"
@@ -62,7 +65,11 @@
  r56_deploy_heavy_aa_capital:0 "Deploy Heavy AA in [Root.Capital.GetName]"
  r56_deploy_heavy_aa_capital_cost:0 "£command_power §H25§! £pol_power §H25§!"
  r56_deploy_heavy_aa_capital_cost_blocked:0 "£command_power §R25§! £pol_power §R25§!"
- r56_deploy_heavy_aa_capital_cost_tooltip:0 "It costs £command_power §H25§! and £pol_power §H25§! to select this"  
+ r56_deploy_heavy_aa_capital_cost_tooltip:0 "It costs £command_power §H25§! and £pol_power §H25§! to select this"
+ r56_25_command_power_cost:0 "£command_power §H25§!"
+ r56_25_command_power_cost_blocked:0 "£command_power §R25§!"
+ r56_25_command_power_cost_tooltip:0 "It costs £command_power §H25§! to select this."
+ 
  
  r56_send_combat_reports_to_the_small_arms_manufacturers:0 "Send Reports to the Small Arms Manufacturers"
  r56_send_combat_reports_to_the_artillery_manufacturers:0 "Send Reports to the Artillery Manufacturers"
@@ -119,7 +126,7 @@
  try_to_recruit_irish_officers:0 "Try to Recruit Irish Officers"
  try_to_recruit_scottish_officers:0 "Try to Recruit Scottish Officers"
  
- try_to_recruit_irish_officers:0 "Try to Recruit Brazilian Officers" 
+ try_to_recruit_brazilian_officers:0 "Try to Recruit Brazilian Officers" 
 
  r56_declare_independence:0 "Declare Independence"
 
