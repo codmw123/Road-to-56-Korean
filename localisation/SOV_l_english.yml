@@ -75,6 +75,11 @@
  SOV_sing_katyusha_sing:0 "카츄샤의 노래"
  SOV_sing_katyusha_sing_focus:0 "카츄샤의 노래"
  SOV_sing_katyusha_sing_focus_desc:0 "[ROOT.GetNameDef]의 적들이 절대 잊지 못할 노래를 연주하자!"
+ manufacturer_applies_bonus_instantly_tooltip:0 "§CThis Manufacturer is applying its effect even if you already unlocked the boosted unit(s).§!"
+ SOV_mass_firearms_production:0 "Mass Firearms Production"
+ SOV_mass_firearms_production_desc:0 "The war demands a rifle in the hand of every soldiers. Our industry must be mobilized to achieve this goal"
+ SOV_shocktroops:0 "Shocktroops"
+ SOV_shocktroops_desc:0 "Braved soldiers equipped with body armor can move upclose and bring the fight so close to the enemy that it renders artillery support useless."
 
  SOV_copy_yaroslav_rubber_factory:0 "야로슬라프 고무 공장 설계 복제"
  SOV_copy_yaroslav_rubber_factory_desc:0 "1930년대 초반에 미합중국에서 수입한 기술로 만들어진 야로슬라프 고무 공장은 지어질 당시 세계 최고 수준의 공장이었습니다. 또한 이는 우리의 유일한 고무 생산원이기도 합니다. 최전방의 수요를 충족시키기 위해 더욱 큰 고무 공장들이 소비에트 연방 곳곳에 건설되어야 할 것입니다." 
@@ -263,4 +268,4 @@
  SOV_relocate_industry_from_kharkov:0 "Relocate the industry from Kharkov"
  SOV_industry_relocation_desc:0 "The war is upon us and our enemies are threatening our industrial basins in the West. Let's move them far away in the Urals outside of the reach of their largest bombers. That way we will be able to protect our industry, build more military equipment and launch decisive counter attacks in the name of [SOV.getleader] and his vision of [SOV.GetRulingIdeologyNoun]."
  
- 
+ has_cosmetic_tag_smersh_tt:0 "Is §YScandinavia§!, the §YNordic Union§! or §YAustria-Hungary§!"
