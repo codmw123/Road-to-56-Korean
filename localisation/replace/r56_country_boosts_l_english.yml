@@ -119,7 +119,7 @@ l_english:
  custom_diff_strong_kaz:0 "@KAZ 카자흐스탄 강화"
  custom_diff_strong_ken:0 "@KEN 케냐 강화"
  custom_diff_strong_kor:0 "@KOR 한국 강화"
- custom_diff_strong_ksv:0 "@KSV 코소보 강화"
+ custom_diff_strong_kos:0 "@KOS 코소보 강화"
  custom_diff_strong_kur:0 "@KUR 쿠르디스탄 강화"
  
  ###---> Minors: L <><> <><> <><>
@@ -133,7 +133,7 @@ l_english:
  
  ###---> Minors: M <><> <><> <><>
  custom_diff_strong_mad:0 "@MAD 마다가스카르 강화"
- custom_diff_strong_mcd:0 "@MCD 마케도니아 강화"
+ custom_diff_strong_mac:0 "@MAC 마케도니아 강화"
  custom_diff_strong_man:0 "@MAN 만주국 강화"
  custom_diff_strong_mrt:0 "@MRT 모리타니 강화"
  custom_diff_strong_mek:0 "@MEK 메클렌부르크 강화"
@@ -201,6 +201,7 @@ l_english:
  custom_diff_strong_swe:0 "@SWE 스웨덴 강화"
  custom_diff_strong_swi:0 "@SWI 스위스 강화"
  custom_diff_strong_syr:0 "@SYR 시리아 강화"
+ custom_diff_strong_szk:0 "@SZK 세케일런드 강화"
  
  ###---> Minors: T <><> <><> <><>
  custom_diff_strong_tan:0 "@TAN 탄누 투바 강화"
