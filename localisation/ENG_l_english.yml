@@ -6,13 +6,16 @@ ENG_establish_the_colony_of_aden_desc:0 "아덴 항은 인도, 유럽과 극동 
 ENG_war_with_ussr:0 "언싱커블 작전"
 uk_naval_gunnery:0 "함포"
 uk_naval_gunnery_desc:0 "적에게 더 큰 피해를 주고 바다를 지배하기 위해 우리 해군 장비의 성능을 개선해야 합니다."
+ENG_tube_alloys:0 "튜브 앨로이스"
+ENG_tube_alloys_desc:0 "물리 방정식은 우라늄의 핵분열이 막대한 양의 에너지를 방출할 수 있음을 보여줍니다. 이는 상상조차 할 수 없을 정도로 강력한 폭탄의 개발로 이어질 수 있습니다."
+ENG_admiralty_naval_staff_desc:0 "해군성 참모본부는 우리 해군의 진정한 중핵이자, 전세계에 걸쳐 우리 함선들의 운용을 조정하고 관리할 수 있는 유기체입니다."
 #Custom Tooltips
 
 #Flags
 
 #Ideas
 ENG_crypto_bomb_idea_lar:0 "암호학 폭탄"
-
+ENG_admiralty_naval_staff:0 "해군성 참모본부"
 
 #Events
 englandmod.99.t:0 "아치볼드 웨이벌의 인도행"
