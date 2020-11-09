@@ -1,5 +1,7 @@
 ﻿l_english: 
-
+ 
+ is_AH_tt:0 "Is §YAustria-Hungary§!"
+ 
  HUN_form_the_mdp:0 "헝가리 노동인민당 창당"
  HUN_form_the_mdp_desc:0 "공산당이 이끄는 여러 좌익 정당들의 연합 전선을 만들어 정당들을 개편해야 합니다."
  HUN_turn_the_adriatic_red:0 "아드리아해를 붉게"
@@ -16,11 +18,18 @@
  GetHUNdemandthecoastlineitaly_KEY:0 "해안 지역 협상"
  
  HUN_acquire_skoda_naval_artillery_experience:0 "스코다 함포 기술 습득"
- HUN_acquire_skoda_naval_artillery_experience_desc:0 "스코다는 오스트리아-헝가리 제국 해군의 함포를 설계했으며, 그 경험을 다시 활용할 때가 왔습니다." 
-
+ HUN_acquire_skoda_naval_artillery_experience_desc:0 "스코다는 오스트리아-헝가리 제국 해군의 함포를 설계했으며, 그 경험을 다시 활용할 때가 왔습니다."
+ 
+ HUN_henrik_werth:0 "Henrik Werth"
+ HUN_kalman_hardy:0 "Kálmán Hardy"
+ HUN_odon_trunkwalter:0 "Ődőn Trunkwalter"
+ HUN_andras_littay:0 "András Littay"
+ HUN_elemer_gorondy_novak:0 "Elemér Gorondy-Novák"
 
  HUN_john_von_neumann:0 "너이먼 야노시 러요시"
  HUN_paul_erdos:0 "에르되시 팔"
+ HUN_miklos_horthy:0 "Miklós Horthy"
+ horthy_died:0 "Horthy has died"
  HUN_carrier:0 "항공모함 연구"
  HUN_carrier_desc:0 "함재기는 해전의 다음 단계입니다."
  mavag_tank:0 "MÁVAG"
@@ -37,6 +46,8 @@
 
  HUN_amphibious_tank_equipment_1:0 "슈트러우슐레르 V–4"
  #
+ formed_austria_hungary:0 "Has Formed Austria-Hungary"
+ 
  
  #kinda easter egg
  HUN_impose_admiralty_government_GER:0 "해군이 정부를 이끌도록 독일에게 강요"
