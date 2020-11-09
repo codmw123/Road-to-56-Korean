@@ -12,8 +12,6 @@
  asjes:0 "디르크 뤼카스 아셔스"
  porte:0 "피터르 더라 포르터"
  
- VICTORY_POINTS_10906:0 "파라마리보"
- 
  HOL_abandon_the_gold_standard_not_MTG:0 "금본위제 포기"
  HOL_abandon_the_gold_standard_not_MTG_desc:0 "네덜란드는 금본위제를 유지한 마지막 국가들 중 하나였습니다. 이로 인해 인플레이션을 피할 수 있었지만, 통화량 부족은 경제를 목졸랐으며 경제 위기와 함께 기록적인 실업을 일으켰습니다."
  HOL_finish_the_noordoostpolder_not_MTG:0 "노르도스트폴더르 완공"
@@ -593,8 +591,8 @@
  HOL_revive_the_buffer_state_proposal_tt3:0 "§Y[HOL.GetName]§!: §Y[VLA.GetName]§!보다 §Y정통성§!이 높음"
  HOL_revive_the_buffer_state_proposal_tt4:0 "§Y[HOL.GetName]§!: §Y[WLL.GetName]§!보다 §Y정통성§!이 높음"
  #benelux tooltip
- HOL_form_the_benelux_vla_tt:0 "사건 발생 '§Y네덜란드가 [VLA.GetName](을)를 베네룩스에 초대§!'.\n"
- HOL_form_the_benelux_wll_tt:0 "사건 발생 '§Y네덜란드가 [WLL.GetName](을)를 베네룩스에 초대§!'.\n" 
+ HOL_form_the_benelux_vla_tt:0 "사건 발생 '§Y네덜란드가 [VLA.GetName](을)를 네덜란드 연합에 초대§!'.\n"
+ HOL_form_the_benelux_wll_tt:0 "사건 발생 '§Y네덜란드가 [WLL.GetName](을)를 네덜란드 연합에 초대§!'.\n" 
  
  #form the benelux mtg focus (rewritten to make sense if VLA/WLL exists)
  HOL_propose_benelux_unification_tt:0 "§R혜택의 효과를 받으려면 모두가 협정에 동의해야만 합니다.§!"
