@@ -133,6 +133,7 @@
  
  autonomy_mandate_city:0 "위임 통치시"
  autonomy_free_city:0 "자유시"
+ autonomy_protectorate:0 "보호령"
 
  DNZ_commissioner_removed:0 "Danzig's Commissioner replaced"
 
