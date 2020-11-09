@@ -254,6 +254,11 @@
  
  neutral_influence:0 "비동맹주의 영향력"
  neutral_leanings:0 "비동맹주의 경향"
+ SWI_a_land_of_mountains:0 "알프스의 중심"
+ SWI_a_land_of_mountains_desc:0 "-헬베티아는 어땠어?\n\n-평평했어!"
+ SWI_mountain_artillery:0 "산포"
+ SWI_mountain_artillery_desc:0 "피융피융 꼭대기 와장창."
+ 
  
  SWI_dr_max:0 "막스 레오 켈러 박사"
  SWI_hans_oprecht:0 "한스 오프레히트"
@@ -271,6 +276,7 @@
  SWI_jakob_huber:0 "야코프 후버"
  SWI_roger_masson:0 "로제 마송"
  SWI_paul_scherrer:0 "파울 셰러"
+ SWI_generic_head_of_intelligence:0 "로제르 마송"
  
  SWI_berna:0 "베르나"
  SWI_thun:0 "연방 건설 공장"
