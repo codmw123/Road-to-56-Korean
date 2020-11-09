@@ -24,7 +24,10 @@ BUL_supported_bosnia:0 "보스니아를 지원함"
 
 
 BUL_GATHERING_STORM_DESC:0 "차르 보리스가 키몬 게오르기에프의 군사 정권을 무너뜨린 후, 불가리아는 그들의 독립 당시 채택한 헌법과는 다르게 절대적 군주권 아래 놓이게 되었습니다. 과거의 적들에게 포위되어 있고 제2차 발칸 전쟁과 대전쟁에서의 연속적인 패배로 크게 영토가 줄어들은 불가리아에서는 보복주의 이념이 꾸준히 인기를 얻고 있으며, 이는 불가리아를 다시 전쟁의 길로 이끌지도 모릅니다."
-
+ 
+ 
+ BUL_bulgarian_parachutists:0 "불가리아 공수부대"
+ BUL_bulgarian_parachutists_desc:0 "우리 적들은 우리 조상들이 스텝에서 밀고 들어오리라고 예상하지 못했습니다. 그들은 한때 우리가 숭배했던 하늘에서 우리가 밀고 들어오리라고 예상하지 못할 것입니다."
  #ideas
  BUL_tsar_boris_iii:0 "차르 보리스 3세"
  BUL_fledgeling_military_industry:0 "기초적인 군수 산업"
