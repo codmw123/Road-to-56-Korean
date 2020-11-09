@@ -420,6 +420,7 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "독일 활공기 연구소"
  GER_Wilhelm_von_Gayl:0 "빌헬름 폰 가일"
  authoritarian_centralizer:0 "권위주의적 중앙집권주의자"
  GER_Paul_Lejeune_Jung:0 "파울 레요이네-융"
+ GER_robert_knauss:0 "로베르트 크라우스"
  #operation_anthropoid:0 " 유인원 작전"
  #germany.1001:0 "하이드리히가 암살됨"
  #r56_ENG_operation_anthropoid:0 "유인원 작전"
@@ -460,3 +461,6 @@ GER_operation_bolivar_desc:0 "남아메리카의 다양한 망명자 공동체�
  GER_cede_102_to_ITA:0 "류블랴나를 이탈리아에 할양"
 
  PRE_call_other_german_states:0 "다른 독일 국가 호출"
+ 
+ GER_naval_gunnery_r56:0 "함포"
+ GER_naval_gunnery_r56_desc:0 "우리의 수상함대에는 가장 큰 함포가 필요할 것입니다."
