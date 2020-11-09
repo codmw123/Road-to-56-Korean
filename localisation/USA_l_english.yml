@@ -1,18 +1,23 @@
 ﻿l_english:
- 
- 
- 
  USA_bethlehem_steel:0 "베들레헴스틸"
  USA_bethlehem_shipbuilding_corporation:0 "베들레헴 조선"
  USA_william_c_lee:0 "윌리엄 C. 리"
  USA_elwood_richard_quesada:0 "엘우드 R. 퀘사다"
  rt56_j_edgar_hoover:0 "J. 에드거 후버"
+ rt56_j_edgar_hoover_desc:0 ""We are a fact-gathering organization only. We don’t clear anybody. We don’t condemn anybody.""
  rt56_j_edgar_hoover_mil:0 "J. 에드거 후버"
+ rt56_j_edgar_hoover_mil_desc:0 ""Justice is incidental to law and order""
  rt56_john_j_pershing:0 "존 J. 퍼싱"
  rt56_USA_cash_and_carry_away:0 "Cash and Carry"
  rt56_USA_cash_and_carry_away_desc:0 "The ‘Cash and Carry’ amendment to the Neutrality Act allows us to purchase Non-War material from [USA.getnameDEF] if we pay upfront and ship it. We are taking advantage of this, because [USA.GETNAMEDEF] is letting us ‘borrow’ money from thier treasury that we can then use to pay for the goods."
+ sons_of_liberty:0 "Sons of Liberty"
+ sons_of_liberty_desc:0 "We fought tyranny once, we’ll fight it again."
+ deo_vindice:0 "Deo vidice"
+ deo_vindice_desc:0 ""Under God, our Vindicator""
+ 
  rt56_USA_cash_and_carry_home:0 "The Cash and Carry Scheme"
  rt56_USA_cash_and_carry_home_desc:0 "We are providing material aid to our allies until congress notices the scheme and our lawyers can no longer hold up objections to the pratice in court."
+ r56_usa_three_dimensional_assault_force:0 "Three Dimensional Assault Force"
 
  USA_curtiss_wright:0 "커티스 라이트"
  USA_claude_shannon:0 "클로드 섀넌"
@@ -36,7 +41,8 @@
  USA_cash_and_carry_desc:0 "The ‘Cash and Carry’ amendment to the Neutrality Act allows countries to purchase Non-War material from us if they pay upfront and ship it themselves. Congress assumes no nation will take advantage of this, due to the lack of upfront capital. We can abuse this amendment to provide material to our allies by letting countries ‘borrow’ money from our treasury that they can then use to pay for the goods."
  USA_double_victory:0 "Double Victory"
  USA_double_victory_desc:0 "Getting the support of the African-American community is important when at war. Using targeted propaganda campaigns will help achieve this. They may be misleading, but we cannot have the country be divide at our most critical moments."
-
+ USA_three_dimensional_assault_force:0 "Three Dimensional Assault Force"
+ USA_three_dimensional_assault_force_desc:0 "By developing an amphibious assault doctrine that incorporates not only a well-equipped landing attact but also includes an air attack and naval bombardment we can ensure that our landings have a higher chance of success and gaining a beachhead."
 
  r56_usa.1.t:0 "1948년 대선"
  r56_usa.1.desc:0 "다시 한 번 토머스 E. 듀이가 현 재임자에 맞선 후보가 되었습니다. 이번에는 해리 S. 트루먼이 프랭클린 루스벨트의 기조를 이어 받아 대선에 나왔습니다."
@@ -68,7 +74,7 @@
  USA_carrier_1_desc:0 "랭글리급 항공모함은 주피터급 석탄 운반선을 개장해 탄생했습니다. 이를 통해 이 함선은 워싱턴 해군 군축 조약이 가한 제한을 따를 수 있게 되었습니다. 랭글리급은 미 해군 최초의 현역 항공모함이었으며 10년 넘게 항공모함 작전을 개선하는 데에 활용되었습니다."
 
  r56_j_edgar_hoover_given_army_command:0 "현재 지휘관임"
- 
+ USA_three_dimensional_assault_force_tt:0 "§YHolland Smith§! is currently a General."
  
  USA_cult_of_washington:0 "The Cult of Washington"
  USA_cult_of_washington_desc:0 "The founder of our country must be an example for us all. As a strong military man destined to greatness, he clearly was the first fascist, building a republic for all the true Americans through his skill and his shear will."
