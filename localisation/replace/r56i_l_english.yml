@@ -1,7 +1,9 @@
 ﻿#####---------------------------------------------------------------------> Mod by GreatExperiment
 
 l_english:
-
+#Flags
+ rt56_old_school:0 ""
+ 
 #Ideas
  etgi_ideas:0 "국가 특징"
 
