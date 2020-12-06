@@ -1,9 +1,9 @@
 ﻿l_english:
  
- AUS_gottfried_von_banfield:0 "Gottfried von Banfield" 
+ AUS_gottfried_von_banfield:0 "고트프리트 폰 반필트" 
  
  #POLITICS 
- AUS_fascism_ideology_desc:0 "§Y오스트로파시즘§!은 1934년 5월 헌법이 도입되면서 오스트리아에서 실시된 권위주의 체제입니다. 이 사상은 집권당인 §Y조국전선§!(Vaterländische Front)과 준군사조직 §Y보국단§!(Heimwehr)에 의해 뒷받침되었으며, §H국교로서의 가톨릭!과 §g조합주의§!, 그리고 §M오스트리아 국민주의§!를 지지합니다."
+ AUS_fascism_ideology_desc:0 "§Y오스트로파시즘§!은 1934년 5월 헌법이 도입되면서 오스트리아에서 실시된 권위주의 체제입니다. 이 사상은 집권당인 §Y조국전선§!과 준군사조직 §Y보국단§!에 의해 뒷받침되었으며, §H국교로서의 가톨릭!과 §g조합주의§!, 그리고 §M오스트리아 국민주의§!를 지지합니다."
 
  #FOCUS
  AUS_subsidize_STRABAG_construction:0 "슈트라바크 건설 보조금 지원"
@@ -453,12 +453,12 @@ AUS_an_incursion_into_yugoslavia:0 "유고슬라비아 급습"
 AUS_an_incursion_into_yugoslavia_desc:0 ""
 AUS_demand_a_free_slovakia:0 "슬로바키아 독립 요구"
 AUS_demand_a_free_slovakia_desc:0 "지역에 대한 영향력을 확고히 하기 위해 우리는 체코와 슬로바키아의 분리를 요구해야 합니다. 독립한 슬로바키아에는 우리가 자금을 지원하고 내정을 돕는 새로운 정부가 수립될 것입니다!"
-AUS_break_a_stick_in_the_fasces:0 "파스케스 막대기 부수기"
+AUS_break_a_stick_in_the_fasces:0 "파스케스 부수기"
 AUS_break_a_stick_in_the_fasces_desc:0 ""
 AUS_plead_our_case_to_our_allies:0 "우리의 사례 적용"
 AUS_plead_our_case_to_our_allies_desc:0 ""
 
-AUS_red_agitators:0 "북쪽의 공산주의 "
+AUS_red_agitators:0 "북쪽의 공산주의 선동가"
 
 ### ROYALIST SECTION ###
 
@@ -640,14 +640,14 @@ AUS_prepare_czechoslovak_invasion_desc:0 ""
  AUS_romanian_nationalists:0 "루마니아 민족주의자들"
  AUS_romanian_nationalists_2:0 "루마니아 민족주의자들"
  AUS_empire_reformed:0 "제국의 부활"
- AUS_raterepubliks:0 "Local Räterepubliks"
- AUS_republikanischer_shutzbund:0 "Republikanischer Schutzbund Remnants"
- AUS_rso_manpower:0 "RSO Manpower"
- AUS_internationale_diktats:0 "Internationale Diktats"
- AUS_rote_garde:0 "Rote Garde"
- AUS_raterepubliks2:0 "A Supereme Räterepublik"
- AUS_rote_garde2:0 "A Professional Army"
- AUS_rote_garde3:0 "Rote Garde"
+ AUS_raterepubliks:0 "지역 평의회"
+ AUS_republikanischer_shutzbund:0 "공화수호동맹의 잔재"
+ AUS_rso_manpower:0 "공화수호동맹 인력"
+ AUS_internationale_diktats:0 "인터내셔널의 강권"
+ AUS_rote_garde:0 "적위대"
+ AUS_raterepubliks2:0 "최고평의회 공화국"
+ AUS_rote_garde2:0 "전문직업군"
+ AUS_rote_garde3:0 "적위대"
  
  AUS_ernst_rudiger_starhemberg:0 "에른스트 뤼디거 슈타렘베르크"
  AUS_ernst_kaltenbrunner:0 "에른스트 칼텐브루너"
