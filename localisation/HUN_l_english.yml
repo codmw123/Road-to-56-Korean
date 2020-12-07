@@ -1,6 +1,6 @@
 ﻿l_english: 
  
- is_AH_tt:0 "Is §YAustria-Hungary§!"
+ is_AH_tt:0 "§Y오스트리아-헝가리§!입니다."
  
  HUN_form_the_mdp:0 "헝가리 노동인민당 창당"
  HUN_form_the_mdp_desc:0 "공산당이 이끄는 여러 좌익 정당들의 연합 전선을 만들어 정당들을 개편해야 합니다."
@@ -20,16 +20,16 @@
  HUN_acquire_skoda_naval_artillery_experience:0 "스코다 함포 기술 습득"
  HUN_acquire_skoda_naval_artillery_experience_desc:0 "스코다는 오스트리아-헝가리 제국 해군의 함포를 설계했으며, 그 경험을 다시 활용할 때가 왔습니다."
  
- HUN_henrik_werth:0 "Henrik Werth"
- HUN_kalman_hardy:0 "Kálmán Hardy"
- HUN_odon_trunkwalter:0 "Ődőn Trunkwalter"
- HUN_andras_littay:0 "András Littay"
- HUN_elemer_gorondy_novak:0 "Elemér Gorondy-Novák"
+ HUN_henrik_werth:0 "베르트 헨리크"
+ HUN_kalman_hardy:0 "허르지 칼만"
+ HUN_odon_trunkwalter:0 "트룬크벌테르 외된"
+ HUN_andras_littay:0 "리터이 언드라시"
+ HUN_elemer_gorondy_novak:0 "고론지-노바크 엘레메르"
 
  HUN_john_von_neumann:0 "너이먼 야노시 러요시"
  HUN_paul_erdos:0 "에르되시 팔"
- HUN_miklos_horthy:0 "Miklós Horthy"
- horthy_died:0 "Horthy has died"
+ HUN_miklos_horthy:0 "호르티 미클로시"
+ horthy_died:0 "호르티가 죽었습니다."
  HUN_carrier:0 "항공모함 연구"
  HUN_carrier_desc:0 "함재기는 해전의 다음 단계입니다."
  mavag_tank:0 "MÁVAG"
@@ -46,7 +46,7 @@
 
  HUN_amphibious_tank_equipment_1:0 "슈트러우슐레르 V–4"
  #
- formed_austria_hungary:0 "Has Formed Austria-Hungary"
+ formed_austria_hungary:0 "오스트리아-헝가리를 형성했습니다."
  
  
  #kinda easter egg
@@ -60,14 +60,14 @@
  HUN_new_invasion_of_slovakia_desc:0 "슬로바키아인들을 영원히 복속시키고 1919년의 실패에 대한 복수를 하도록 합시다."
  HUN_oil_refining_infrastructure:0 "석유 정제 기반시설"
  HUN_oil_refining_infrastructure_desc:0 "우리의 유전을 최대한으로 활용하기 위해 우리는 국가적으로 필요한 정제소 및 연료 저장고를 건설해야 합니다."
- HUN_ally_yugoslavia:0 "Ally Yugoslavia"
- HUN_ally_yugoslavia_desc:0 "Yugoslavia must be supported and be our ally in our struggle for the liberation of the workers of the world!"
- HUN_ally_greece:0 "Ally Greece"
- HUN_ally_greece_desc:0 "Greece must be supported and be our ally in our struggle for the liberation of the workers of the world!"
- HUN_ally_bulgaria:0 "Ally Bulgaria"
- HUN_ally_bulgaria_desc:0 "Bulgaria must be supported and be our ally in our struggle for the liberation of the workers of the world!"
- HUN_ally_austria:0 "Ally Austria"
- HUN_ally_austria_desc:0 "Austria must be supported and be our ally in our struggle for the liberation of the workers of the world!" 
+ HUN_ally_yugoslavia:0 "유고슬라비아와의 동맹"
+ HUN_ally_yugoslavia_desc:0 "유고슬라비아는 만국의 노동자를 해방시키기 위한 우리의 투쟁에서 반드시 지원을 받아 우리의 동맹이 되어야 합니다!"
+ HUN_ally_greece:0 "그리스와의 동맹"
+ HUN_ally_greece_desc:0 "그리스는 만국의 노동자를 해방시키기 위한 우리의 투쟁에서 반드시 지원을 받아 우리의 동맹이 되어야 합니다!"
+ HUN_ally_bulgaria:0 "불가리아와의 동맹"
+ HUN_ally_bulgaria_desc:0 "불가리아는 만국의 노동자를 해방시키기 위한 우리의 투쟁에서 반드시 지원을 받아 우리의 동맹이 되어야 합니다!"
+ HUN_ally_austria:0 "오스트리아와의 동맹"
+ HUN_ally_austria_desc:0 "오스트리아는 만국의 노동자를 해방시키기 위한 우리의 투쟁에서 반드시 지원을 받아 우리의 동맹이 되어야 합니다!" 
 
 
  HUN_revolt_of_the_arrow_crosses:0 "화살십자당의 반란"
@@ -90,28 +90,28 @@
  HUN_join_the_little_entente_desc:0 "외교적 노력을 통해 우리는 프랑스가 우리는 위협이 아니며 헝가리 국경 밖에 사는 헝가리인들의 문제를 평화적으로 해결할 수 있다고 믿게 만들었습니다. 그대신 평화를 위협하는 폭군들의 존재야말로 자유로운 국가들이 맞서서 단결해야 하는 더 큰 걱정거리입니다."
  HUN_join_the_cordon_sanitaire:0 "방역선 가입"
  HUN_join_the_cordon_sanitaire_desc:0 "폴란드-루마니아 동맹은 압제에 맞서는 동유럽의 보루입니다. 그들과 함께하는 것은 자유의 대의를 위하는 것이 될 것입니다."
- HUN_hungarian_minorities_recruitment_agreement:0 "Hungarian Minorities Recruitment Agreement"
- HUN_hungarian_minorities_recruitment_agreement_desc:0 "Lobby our allies to allow their ethnic Hungarian citizens to serve in the Hungarian army." 
+ HUN_hungarian_minorities_recruitment_agreement:0 "소수민족 헝가리인 징집 협정"
+ HUN_hungarian_minorities_recruitment_agreement_desc:0 "동맹국에게 로비해 그들 나라의 헝가리인들이 헝가리군에서 복무할 수 있도록 만듭시다." 
 
  HUN_rearmament_refused:0 "§Y소협상국 가입국이 재무장을 불허함§!"
  
- HUN_bernadotte_dynastic_ties_decision_category:0 "Beradotte Dynastic Ties"
- HUN_bernadotte_dynastic_ties_decision_category_desc:0 "The new king of our nation has been born and raised in Sweden and maintain strong ties with the nation of his youth."
- HUN_hungarian_minorities_recruitment_decision_category:0 "Hungarian Minorities Recruitment"
- HUN_hungarian_minorities_recruitment_decision_category_desc:0 "Instead of weeping for the dismantlement of Greater Hungary, solace will come from international cooperation with our neighbors. Some ethnic Hungarians living abroad may be more motivated to serve under the Hungarian flag, avoiding the potential language barrier. Our neighboring allies have been dutifully lobbied and convinced that this is for the good of the common cause and that the gravity of our times opens the door for unlikely solutions."
- HUN_form_swedish_democratic_government_in_exile:0 "Form a Swedish Democratic Government in Exile"
- HUN_recruit_magyars_in_carpathian_ruthenia:0 "Recruit Magyars in Carpathian Ruthenia"
- HUN_recruit_magyars_in_vojvodina:0 "Recruit Magyars in Vojvodina"
- HUN_recruit_magyars_in_southern_transylvania:0 "Recruit Magyars in Southern Transylvania"
- HUN_recruit_magyars_in_northern_transylvania:0 "Recruit Magyars in Northern Transylvania"
- HUN_recruit_magyars_in_southern_slovakia:0 "Recruit Magyars in Southern Slovakia"
- HUN_support_swedish_democratic_government:0 "Support the Swedish Democratic Government"
- HUN_restore_swedish_democracy:0 "Restore Swedish Democracy"
+ HUN_bernadotte_dynastic_ties_decision_category:0 "베르나도테 가문 관계"
+ HUN_bernadotte_dynastic_ties_decision_category_desc:0 "우리나라의 새로운 국왕은 스웨덴에서 태어나 자랐으며 그가 자란 국가와 강한 유대 관계를 유지하고 있습니다."
+ HUN_hungarian_minorities_recruitment_decision_category:0 "소수민족 헝가리인 징집"
+ HUN_hungarian_minorities_recruitment_decision_category_desc:0 "대헝가리의 해체에 슬퍼하는 대신 이웃 국가와의 국제적 공조를 통해 위안을 얻을 수 있을 것입니다. 해외에 거주 중인 몇몇 헝가리인들은 잠재적인 언어 장벽을 피하기 위해 헝가리를 위해 복무하려고 할 수도 있습니다. 이웃 동맹국들은 충분한 로비와 설득으로 이것이 대의를 위한 것임을 이해했으며 현 상황의 중대함은 비현실적인 것처럼 보이는 해결책의 사용을 가능하게 만들었습니다."
+ HUN_form_swedish_democratic_government_in_exile:0 "민주 스웨덴 망명 정부 형성"
+ HUN_recruit_magyars_in_carpathian_ruthenia:0 "카르파티아 루테니아 헝가리인 징집"
+ HUN_recruit_magyars_in_vojvodina:0 "보이보디나 헝가리인 징집"
+ HUN_recruit_magyars_in_southern_transylvania:0 "남부 트란실바니아 헝가리인 징집"
+ HUN_recruit_magyars_in_northern_transylvania:0 "북부 트란실바니아 헝가리인 징집"
+ HUN_recruit_magyars_in_southern_slovakia:0 "남부 슬로바키아 헝가리인 징집"
+ HUN_support_swedish_democratic_government:0 "스웨덴 민주 정부 지원"
+ HUN_restore_swedish_democracy:0 "스웨덴 민주주의 복원"
 
- r56_hungary_6.t:0 "Join Charles Bernadotte"
+ r56_hungary_6.t:0 "카를 베르나도테에 동참"
 
- HUN_balkan_pact_preparation:0 "[HUN.getfactionname] Military Preparations"
+ HUN_balkan_pact_preparation:0 "[HUN.getfactionname]의 군사 준비"
 
- r56_hungary_6.desc:0 "Join Charles Bernadotte"
- r56_hungary_6.a:0 "To victory"
- r56_hungary_6.b:0 "Durr durr death is better"
+ r56_hungary_6.desc:0 "카를 베르나도테에 동참"
+ r56_hungary_6.a:0 "승리를 향해."
+ r56_hungary_6.b:0 "훠훠 죽음이 낫습니다."
