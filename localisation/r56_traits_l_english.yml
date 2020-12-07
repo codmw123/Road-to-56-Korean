@@ -57,14 +57,14 @@
  compromised_beliefs:0 "굽힌 신념"
  all_business:0 "사업에만 집중"
  voluntaryism:0 "지원병 제도"
- r56_promised_democracy:0 "Promised Democracy"
+ r56_promised_democracy:0 "민주주의를 약속함"
  corrupt:0 "부패함"
- r56_trait_opposed_to_communism:0 "반공주의자"
- r56_trait_opposed_to_fascism:0 "Opposed to Fascism"
- r56_trait_opposed_to_democracy:0 "Opposed to Democracy"
- permanent_revolutionary_LaR:0 "Permanent Revolutionary"
- triumphant_revolutionary_LaR:0 "Triumphant Revolutionary"
- exiled_revolutionary_LaR:0 "Exiled Revolutionary"
+ r56_trait_opposed_to_communism:0 "공산주의에 반대"
+ r56_trait_opposed_to_fascism:0 "파시즘에 반대"
+ r56_trait_opposed_to_democracy:0 "민주주의에 반대"
+ permanent_revolutionary_LaR:0 "영구 혁명가"
+ triumphant_revolutionary_LaR:0 "승리한 혁명가"
+ exiled_revolutionary_LaR:0 "추방된 혁명가"
 
  wary_of_the_high_command:0 "최고사령부에 대한 경계"
  himmler_terrorizing_monomaniac:0 "공포의 편집광" 
@@ -79,8 +79,8 @@
 #Adviors 
 intervention_advocate:0 "개입 옹호자"
 law_enforcement_militarizer_3:0 "경찰 군대화 전문가\n(천재)"
-reactionary_media_baron:0 "Reactionary Media Baron"
+reactionary_media_baron:0 "반동적인 언론왕"
 
 
 guerilla_expert:0 "게릴라전 전문가"
-submarine_captain:0 "Submarine Captain"
+submarine_captain:0 "잠수함 지휘관"
