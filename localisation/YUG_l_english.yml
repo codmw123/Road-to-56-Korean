@@ -25,34 +25,34 @@
  ina:0 "INA"
 
  YUG_kraljevo_state_airlines_factory:0 "크랄레보 국영 항공기 공장"
- YUG_kraljevo_state_airlines_factory_desc:0 "Originally designed to maintain the planes of the airlines, the factory specialized in production under license due to the foreign origin of the planes it had to build and maintain."
+ YUG_kraljevo_state_airlines_factory_desc:0 "원래 항공사의 항공기를 유지 보수하기 위해 설계된 이 공장은 제작 및 유지 보수해야 했던 항공기가 거의 해외 항공기였기 때문에 면허 생산에 특화되어 있었습니다."
 
- SER_kraljevo_state_airlines_factory:0 "Kraljevo State Airlines Factory"
- SER_kraljevo_state_airlines_factory_desc:0 "Originally designed to maintain the planes of the airlines, the factory specialized in production under license due to the foreign origin of the planes it had to build and maintain."
+ SER_kraljevo_state_airlines_factory:0 "크랄레보 국영 항공기 공장"
+ SER_kraljevo_state_airlines_factory_desc:0 "원래 항공사의 항공기를 유지 보수하기 위해 설계된 이 공장은 제작 및 유지 보수해야 했던 항공기가 거의 해외 항공기였기 때문에 면허 생산에 특화되어 있었습니다."
 
  YUG_stealth_upgrades:0 "은밀성 개선"
  YUG_stealth_upgrades_desc:0 "더 싼 잠수함을 위한 더 나은 스노클"
  
- YUG_skilled_pilots:0 "Skilled Pilots"
- YUG_skilled_pilots_desc:0 "The many islands of the Dalmatian shore made it necessary to coordinate every orders and communicate them clearly in order to avoid accidents and take the best advantage of the terrain." 
+ YUG_skilled_pilots:0 "숙련된 조종사"
+ YUG_skilled_pilots_desc:0 "달마티아 해안의 수많은 섬들 때문에 사고를 피하고 지형을 최대한으로 활용하기 위해 모든 명령을 조정하고 확실하게 전달하는 것이 필요해졌습니다." 
 
- YUG_adriatic_specialization:0 "Adriatic Specialization"
- YUG_adriatic_specialization_desc:0 "The many islands of the Dalmatian shore constitute a very specific feature that could be used to surprise our enemies."  
+ YUG_adriatic_specialization:0 "아드리아해 특화"
+ YUG_adriatic_specialization_desc:0 "달마티아 해안의 수많은 섬들로 인해 만들어진 특징을 활용해 적에게 기습을 가할 수 있습니다."  
  
- SER_adriatic_specialization:0 "Adriatic Specialization"
- SER_adriatic_specialization_desc:0 "The many islands of the Dalmatian shore constitute a very specific feature that could be used to surprise our enemies."  
+ SER_adriatic_specialization:0 "아드리아해 특화"
+ SER_adriatic_specialization_desc:0 "달마티아 해안의 수많은 섬들로 인해 만들어진 특징을 활용해 적에게 기습을 가할 수 있습니다."  
 
- SER_skilled_pilots:0 "Skilled Pilots"
- SER_skilled_pilots_desc:0 "The many islands of the Dalmatian shore made it necessary to coordinate every orders and communicate them clearly in order to avoid accidents and take the best advantage of the terrain." 
+ SER_skilled_pilots:0 "숙련된 조종사"
+ SER_skilled_pilots_desc:0 "달마티아 해안의 수많은 섬들 때문에 사고를 피하고 지형을 최대한으로 활용하기 위해 모든 명령을 조정하고 확실하게 전달하는 것이 필요해졌습니다." 
 
- yugoslav_serb_adriatic_training:0 "Yugoslav Adriatic Specialization"
- yugoslav_croat_adriatic_training:0 "Yugoslav Adriatic Specialization"
- yugoslav_montenegrin_adriatic_training:0 "Yugoslav Adriatic Specialization" 
+ yugoslav_serb_adriatic_training:0 "유고슬라비아 아드리아해 특화"
+ yugoslav_croat_adriatic_training:0 "유고슬라비아 아드리아해 특화"
+ yugoslav_montenegrin_adriatic_training:0 "유고슬라비아 아드리아해 특화"
 
- YUG_form_mechanics:0 "Form Mechanic Crews"
- YUG_form_mechanics_desc:0 "At the end of the day what's the difference between a plane downed by enemy bullets, by a sudden fire of the engine or an aircraft incapable to fly due to mechanical failures if we can't repair them?  In order to reduce the risks of mechanical failures, the only solution is to have dedicated and well trained mechanics who know the interior of those planes more than a surgeon knows anatomy."
- YUG_expanded_repair_facilities:0 "Expanded Repair Facilities"
- YUG_expanded_repair_facilities_desc:0 "To keep our planes in the air, reducing the number of accidents in essential. Hopefully the various foreign blueprints can help to pick the best of the production of multiple countries."
+ YUG_form_mechanics:0 "정비대 창설"
+ YUG_form_mechanics_desc:0 "적에게 격추된 항공기, 급작스러운 엔진 화재로 인해 불능이 된 항공기, 기계 장비 문제로 애초에 출격조차 못한 항공기. 하루가 끝나고 이것들을 고칠 수 없다면 무슨 차이가 있을까요?  기계 문제의 위험을 낮추기 위해서는 항공기 내부를 외과의사가 해부학 아는 것보다 더 잘 아는 숙련된 전문 정비공 인력을 갖추는 방법 밖에 없습니다."
+ YUG_expanded_repair_facilities:0 "수리 시설 확장"
+ YUG_expanded_repair_facilities_desc:0 "항공기를 계속 띄우기 위해서는 사고 빈도를 줄이는 것이 필수적입니다. 다행히도 다양한 해외 설계도를 통해 우리는 여러 국가 가운데서 최선의 방식을 선택할 수 있습니다."
 
- SER_expanded_repair_facilities:0 "Expanded Repair Facilities"
- SER_expanded_repair_facilities_desc:0 "To keep our planes in the air, reducing the number of accidents in essential. Hopefully the various foreign blueprints can help to pick the best of the production of multiple countries." 
+ SER_expanded_repair_facilities:0 "수리 시설 확장"
+ SER_expanded_repair_facilities_desc:0 "항공기를 계속 띄우기 위해서는 사고 빈도를 줄이는 것이 필수적입니다. 다행히도 다양한 해외 설계도를 통해 우리는 여러 국가 가운데서 최선의 방식을 선택할 수 있습니다." 
