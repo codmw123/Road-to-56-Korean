@@ -8,6 +8,8 @@
  FRA_fascism_party2_long:0 "프랑스 인민당"
  FRA_fascism_party3:0 "CSAR"
  FRA_fascism_party3_long:0 "혁명행동비밀위원회"
+ FRA_rnp_long:0 "국가인민연합"
+ FRA_rnp:0 "RNP"
 
  FRA_payment_for_bombers:0 "폭격기 대금"
 
@@ -623,6 +625,8 @@
  FRA_napoleon_iii_legacy_desc:0 "통일 이탈리아는 나폴레옹 3세의 도움 없이는 존재할 수 없었을 것입니다. 우리는 이탈리아에 우호의 손을 내밀고 대의를 위해 그들과 동맹해야 합니다."
  FRA_anti_german_front:0 "반독 전선"
  FRA_anti_german_front_desc:0 "독일은 언제나 프랑스의 숙적이었으며 곧 있으면 그들은 유럽을 또다른 잔혹한 전쟁으로 끌어들일 것입니다. 우리는 우리와 같은 생각을 하는 다른 유럽 국가들과 독일에 맞선 연합 전선을 만들어야 합니다."
+ FRA_chantilly_accord:0 "샹타이 협정"
+
 
  FRA_support_the_legitimatises:0 "정통왕당파 지원"
  FRA_support_the_legitimatises_desc:0 "1830년 7월 혁명 이후 정통왕당파는 계속 부르봉 가문의 샤를 10세의 직계 남성 후계자의 귀환을 모색해왔습니다. 현재 부르봉 가문의 후계자는 전 스페인 국왕 알폰소 13세와 그의 아들 하이메입니다."
