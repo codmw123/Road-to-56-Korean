@@ -13,6 +13,8 @@
  ALB_fascism_DEF:0 "대 알바니아 왕국"
  ALB_neutrality:0 "알바니아 왕국"
  ALB_neutrality_DEF:0 "알바니아 왕국"
+ ALB_communism:0 "알바니아 사회주의 인민공화국"
+ ALB_communism_DEF:0 "알바니아 사회주의 인민공화국"
 
  #AFG
  AFG_fascism:0 "아프간 칸국"
@@ -116,7 +118,7 @@
  ADU_neutrality:0 "알안달루스 이슬람 공화국"
  ADU_neutrality_DEF:0 "알안달루스 이슬람 공화국"
  ADU_communism_DEF:0 "안달루시아 인민공화국"
- 
+ ADU_ADJ:0 "안달루시아"
  #BAY
  BAY_communism:0 "바이에른 평의회 공화국"
  BAY_communism_DEF:0 "바이에른 평의회 공화국"
@@ -330,7 +332,8 @@
  CAR_communism_ADJ:0 "중앙아프리카"
  
  #CAT
- CAT_democratic_DEF:0 "카탈루냐 자유 공화국"
+ CAT_democratic:0 "카탈루냐 공화국"
+ CAT_democratic_DEF:0 "카탈루냐 공화국"
  CAT_neutrality:0 "카탈루냐 공화국"
  CAT_neutrality_DEF:0 "카탈루냐 공화국"
  CAT_communism:0 "카탈루냐 인민공화국"
@@ -341,6 +344,7 @@
  #CAM
  CAM_fascism:0 "크메르 제국"
  CAM_fascism_DEF:0 "크메르 제국"
+ CAM_fascism_ADJ:0 "크메르"
 
  #CAN
  CAN_fascism:0 "통합 캐나다 연방"
@@ -503,8 +507,8 @@
  CZE_communism_DEF:0 "체코슬로바키아 사회주의 공화국"
  CZE_fascism:0 "체코-슬로바키아국"
  CZE_fascism_DEF:0 "체코-슬로바키아국"
- CZE_democratic:0 "체코슬로바키아"
- CZE_democratic_DEF:0 "체코슬로바키아"
+ CZE_democratic:0 "체코슬로바키아 공화국"
+ CZE_democratic_DEF:0 "체코슬로바키아 공화국"
 
  #CYP
  CYP_fascism:1 "키프로스 그리스 왕국"
@@ -720,6 +724,7 @@
  #EST
  EST_fascism:0 "대 에스토니아국"
  EST_fascism_DEF:0 "대 에스토니아국"
+ EST_fascism_ADJ:0 "대 에스토니아"
  EST_neutrality:0 "에스토니아 공화국"
  EST_neutrality_DEF:0 "에스토니아 공화국"
  EST_democratic:0 "에스토니아 공화국"
@@ -891,10 +896,10 @@
  GHA_communism_ADJ:0 "가나"
  
  #GRE
- GRE_fascism:0 "그리스 왕국"
- GRE_fascism_DEF:0 "그리스 왕국"
- GRE_democratic:0 "그리스 왕국"
- GRE_democratic_DEF:0 "그리스 왕국"
+ GRE_fascism:0 "그리스 국민연합"
+ GRE_fascism_DEF:0 "그리스 국민연합"
+ GRE_democratic:0 "그리스 공화국"
+ GRE_democratic_DEF:0 "그리스 공화국"
  GRE_neutrality:0 "그리스 왕국"
  GRE_neutrality_DEF:0 "그리스 왕국"
  GRE_communism:0 "엘라스 사회주의 공화국"
@@ -1614,6 +1619,8 @@
  NIC_fascism_DEF:0 "니카라과 국민연합"
  NIC_communism:0 "니카라과 국제주의 인민공화국"
  NIC_communism_DEF:0 "니카라과 국제주의 인민공화국"
+ NIC_neutrality:0 "니카라과 공화국"
+ NIC_neutrality_DEF:0 "니카라과 공화국"
 
  #NEP
  NEP_fascism:0 "구르카 제국"
@@ -2110,21 +2117,18 @@
  SYR_democratic_DEF:0 "시리아 공화국"
  
  #SZL
- SZK_neutrality:0 "세케일런드"
- SZK_neutrality_DEF:0 "세케일런드"
- SZK_democratic:0 "세케일런드 연방"
- SZK_democratic_DEF:0 "세케일런드 연방"
+ SZK_neutrality:0 "세케이폴드"
+ SZK_neutrality_DEF:0 "세케이폴드"
+ SZK_democratic:0 "세케이폴드 연방"
+ SZK_democratic_DEF:0 "세케이폴드 연방"
  SZK_fascism:0 "세케이국"
  SZK_fascism_DEF:0 "세케이국"
- SZK_communism:0 "세케일런드 사회주의 공화국"
- SZK_communism_DEF:0 "세케일런드 사회주의 공화국"
+ SZK_communism:0 "세케이폴드 사회주의 공화국"
+ SZK_communism_DEF:0 "세케이폴드 사회주의 공화국"
  SZK_communism_ADJ:0 "세케이"
  SZK_fascism_ADJ:0 "세케이"
  SZK_democratic_ADJ:0 "세케이"
  SZK_neutrality_ADJ:0 "세케이"
- SZK_ROM_autonomy_puppet:0 "세케일런드 자치주"
- SZK_HUN_autonomy_puppet:0 "소 헝가리 자치주"
- SZK_SOV_communism_autonomy_puppet:0 "세케일런드 소비에트 사회주의 공화국"
  
  #SZL
  SZL_neutrality:0 "스와질란드 왕국"
@@ -2281,20 +2285,6 @@
  #UAE
  UAE_fascism:1 "아랍에미리트 연방"
  UAE_fascism_DEF:1 "아랍에미리트 연방"
- 
- #UFC
- UFC_communism:0 "바나나 사회주의 공화국"
- UFC_communism_ADJ:0 "바나나"
- UFC_communism_DEF:0 "바나나 사회주의 공화국"
- UFC_democratic:0 "바나나 공화국"
- UFC_democratic_ADJ:0 "바나나"
- UFC_democratic_DEF:0 "바나나 공화국"
- UFC_fascism:0 "바나나 제국"
- UFC_fascism_ADJ:0 "바나나"
- UFC_fascism_DEF:0 "바나나 제국"
- UFC_neutrality:0 "바나나 제국"
- UFC_neutrality_ADJ:0 "바나나"
- UFC_neutrality_DEF:0 "바나나 제국"
 
  #UKR
  UKR_fascism:0 "우크라이나국"
@@ -2542,7 +2532,16 @@
  #NKR
  NKR_communism:0 "조선민주주의인민공화국"
  NKR_communism_DEF:0 "조선민주주의인민공화국"
- NKR_communism_ADJ:0 "북한"
+ NKR_communism_ADJ:0 "북조선"
+ NKR_democratic:0 "북조선 공화국"
+ NKR_democratic_DEF:0 "북조선 공화국"
+ NKR_democratic_ADJ:0 "북조선"
+ NKR_fascism:0 "조선국"
+ NKR_fascism_DEF:0 "조선국"
+ NKR_fascism_ADJ:0 "북조선"
+ NKR_neutrality:0 "북조선 공화국"
+ NKR_neutrality_DEF:0 "북조선 공화국"
+ NKR_neutrality_ADJ:0 "북조선"
  
  #NZL
  NZL_fascism:0 "뉴질랜드 자유국"
