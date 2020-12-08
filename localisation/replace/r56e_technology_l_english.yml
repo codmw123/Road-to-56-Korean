@@ -19,6 +19,8 @@ l_english:
   metallurgy_tech:0 "금속 공학 기술"
   aluminium_tech:0 "알루미늄 생산 기술"
   r56_special_forces_training_tech:0 "특수부대 훈련"
+  cat_scout_plane:0 "정찰기 모델"
+  armor_variant_tech:0 "기갑 파생형"
   
 ### Extra Special Forced Tech Categories
  r56_desert_infantry_tech:0 "사막 보병"
