@@ -9,6 +9,8 @@
 #->Milan Kalabić--> son Nikola Kalabić mountain commander of mihailovic then collaborated with Germans
 #The Pećanac Chetniks, also known as the Black Chetniks, were a collaborationist Chetnik irregular military force which operated in the German-occupied territory of Serbia under the leadership of vojvoda (war lord) Kosta Pećanac
 l_english:
+   SER_local_developers:0 "Local Designers"
+   SER_local_developers:0 "Serbian planes best planes."
    SER_state_guard:0 "세르비아 국가 수비대 창설"
    SER_state_guard_desc:0 "국가의 안전을 확보하기 위해 우리는 우리 영토를 수비하는 군대 '세르비아 국가 수비대'를 창설해야 합니다."
    SER_small_arms:0 "소화기 실용성 개선"
@@ -238,3 +240,5 @@ l_english:
    SER_local_militias_desc:0 "The militants of the peasant's councils must be mobilized and armed in order to form the backbone of an ideologically loyal army."
 
    SER_state_guard_tooltip:0 "3 State Guard Divisions Will be Formed"
+   
+   SER_integrate_montenegro:0 "Integrate Montenegro"
