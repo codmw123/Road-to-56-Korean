@@ -9,6 +9,10 @@ uk_naval_gunnery_desc:0 "적에게 더 큰 피해를 주고 바다를 지배하�
 ENG_tube_alloys:0 "튜브 앨로이스"
 ENG_tube_alloys_desc:0 "물리 방정식은 우라늄의 핵분열이 막대한 양의 에너지를 방출할 수 있음을 보여줍니다. 이는 상상조차 할 수 없을 정도로 강력한 폭탄의 개발로 이어질 수 있습니다."
 ENG_admiralty_naval_staff_desc:0 "해군성 참모본부는 우리 해군의 진정한 중핵이자, 전세계에 걸쳐 우리 함선들의 운용을 조정하고 관리할 수 있는 유기체입니다."
+
+ENG_tank_variant_focus:0 "전차 파생형 개발"
+ENG_tank_variant_focus_desc:0 "전차는 전투보다 더 많은 역할을 수행할 수 있습니다. 전차는 수륙양용으로 만들 수도 있고 적 방어를 박살낼 수 있는 야포 포대가 될 수도 있으며 적 공군의 공격으로부터 인근 병력을 보호할 대공포대가 될 수도 있습니다."
+
 #Custom Tooltips
 
 #Flags
