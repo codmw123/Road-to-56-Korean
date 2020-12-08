@@ -500,6 +500,20 @@
  CRCA_neutrality:0 "중앙아메리카 공화국"
  CRCA_neutrality_ADJ:0 "중앙아메리카"
  CRCA_neutrality_DEF:0 "중앙아메리카 공화국"
+ #United Fruit Company
+ UFC_democratic:0 "바나나 공화국"
+ UFC_democratic_ADJ:0 "바나나"
+ UFC_democratic_DEF:0 "바나나 공화국"
+ UFC_fascism:0 "바나나 제국"
+ UFC_fascism_ADJ:0 "바나나"
+ UFC_fascism_DEF:0 "바나나 제국"
+ UFC_neutrality:0 "바나나 제국"
+ UFC_neutrality_ADJ:0 "바나나"
+ UFC_neutrality_DEF:0 "바나나 제국"
+ #Kingdom
+ HON_kingdon_neutrality:0 "온두라스 왕국"
+ HON_kingdon_neutrality_ADJ:0 "온두라스"
+ HON_kingdon_neutrality_DEF:0 "온두라스 왕국"
  #New Spain
  NEWSPA_communism:0 "북중아메리카 소비에트 사회주의 공화국 연방"
  NEWSPA_communism_ADJ:0 "북중아메리카"
@@ -513,16 +527,14 @@
  NEWSPA_neutrality:0 "누에바에스파냐 부왕령"
  NEWSPA_neutrality_ADJ:0 "누에바에스파냐"
  NEWSPA_neutrality_DEF:0 "누에바에스파냐 부왕령"
- #Kingdom
- HON_kingdon_neutrality:0 "온두라스 왕국"
- HON_kingdon_neutrality_ADJ:0 "온두라스"
- HON_kingdon_neutrality_DEF:0 "온두라스 왕국"
 
  #HUN
  HUN_EMPIRE_neutrality:0 "오스트리아-헝가리 제국"
  HUN_EMPIRE_neutrality_DEF:0 "오스트리아-헝가리 제국"
  HUN_EMPIRE_communism:0 "다뉴브 자치국 연방"
  HUN_EMPIRE_communism_DEF:0 "다뉴브 자치국 연방"
+ HUN_EMPIRE_democratic:0 "다뉴브 연방"
+ HUN_EMPIRE_democratic_DEF:0 "다뉴브 연방"
  HUN_EMPIRE_ADJ:0 "오스트리아-헝가리"
  HUN_EMPIRE_communism_ADJ:0 "다뉴브"
  HUN_EMPIRE_democratic_ADJ:0 "다뉴브"
@@ -540,16 +552,16 @@
  #SCA_UNIFIED
  SCA_UNIFIED_democratic:0 "스칸디나비아 연방"
  SCA_UNIFIED_democratic_DEF:0 "스칸디나비아 연방"
- SCA_UNIFIED_fascism:0 "제2차 칼마르 동맹"
- SCA_UNIFIED_fascism_DEF:0 "제2차 칼마르 동맹"
+ SCA_UNIFIED_fascism:0 "스칸디나비아국"
+ SCA_UNIFIED_fascism_DEF:0 "스칸디나비아국"
  SCA_UNIFIED_communism:0 "스칸디나비아 사회주의 국가 연방"
  SCA_UNIFIED_communism_DEF:0 "스칸디나비아 사회주의 국가 연방"
  SCA_UNIFIED_ADJ:0 "스칸디나비아"
  SCA_UNIFIED_fascism_ADJ:0 "칼마르"
  
  #SCA
- SCA_fascism:0 "제2차 칼마르 동맹"
- SCA_fascism_DEF:0 "제2차 칼마르 동맹"
+ SCA_fascism:0 "스칸디나비아국"
+ SCA_fascism_DEF:0 "스칸디나비아국"
  SCA_democratic:0 "스칸디나비아 연방"
  SCA_democratic_DEF:0 "스칸디나비아 연방"
  SCA_neutrality:0 "스칸디나비아 연방"
@@ -627,6 +639,10 @@
  SPR_R56SPRNAT_fascism:0 "국민파 스페인"
  SPR_R56SPRNAT_fascism_DEF:0 "국민파 스페인"
  SPR_R56SPRNAT_fascism_ADJ:0 "국민파"
+ SPR_Juan_democratic:0 "스페인 왕국"
+ SPR_Juan_democratic_def:0 "스페인 왕국"
+ SPR_Juan_neutrality:0 "스페인 왕국"
+ SPR_Juan_neutrality_def:0 "스페인 왕국"
  
  #SWI
  SWI_old_confederacy_neutrality:0 "스위스 연방"
@@ -676,6 +692,14 @@
  SPQR_UNIFIED_democratic_ADJ:0 "로마"
  SPQR_UNIFIED_fascism_ADJ:0 "로마"
  
+ #SZK
+ SZK_ROM_autonomy_puppet:0 "세쿠이메아 자치주"
+ SZK_ROM_autonomy_puppet_DEF:0 "세쿠이메아 자치주"
+ SZK_HUN_autonomy_puppet:0 "소 헝가리 자치주"
+ SZK_HUN_autonomy_puppet_DEF:0 "소 헝가리 자치주"
+ SZK_SOV_communism:0 "세케이폴드 소비에트 사회주의 공화국"
+ SZK_SOV_communism_DEF:0 "세케이폴드 소비에트 사회주의 공화국"
+ 
  #RAJ
  RAJ_UK_democratic:0 "$OVERLORDADJ$령 인도"
  RAJ_UK_democratic_DEF:0 "$OVERLORDADJ$령 인도"
@@ -702,12 +726,12 @@
  ROYAUSHUN_democratic_DEF:0 "다뉴브 연방"
  
  #RUT
- RUT2_fascism:0 "우크라이나"
- RUT2_fascism_DEF:0 "우크라이나"
+ RUT2_fascism:0 "우크라이나국"
+ RUT2_fascism_DEF:0 "우크라이나국"
  RUT2_democratic:0 "우크라이나 공화국"
  RUT2_democratic_DEF:0 "우크라이나 공화국"
- RUT2_neutrality:0 "우크라이나"
- RUT2_neutrality_DEF:0 "우크라이나"
+ RUT2_neutrality:0 "우크라이나 공화국"
+ RUT2_neutrality_DEF:0 "우크라이나 공화국"
  RUT2_communism:1 "우크라이나 사회주의 공화국"
  RUT2_communism_DEF:1 "우크라이나 사회주의 공화국"
  RUT2_fascism_ADJ:0 "우크라이나"
@@ -946,8 +970,8 @@
  NOR_KINGDOM_communism_DEF:0 "노르웨이 소비에트국"
  
  #NDC
- NDC_UNIFIED_fascism:0 "제2차 칼마르 동맹"
- NDC_UNIFIED_fascism_DEF:0 "제2차 칼마르 동맹"
+ NDC_UNIFIED_fascism:0 "노르드 제국"
+ NDC_UNIFIED_fascism_DEF:0 "노르드 제국"
  NDC_UNIFIED_democratic:1 "노르드 연맹"
  NDC_UNIFIED_democratic_DEF:1 "노르드 연맹"
  NDC_UNIFIED_communism:0 "노르드 사회주의 국가 연방"
