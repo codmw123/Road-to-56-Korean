@@ -56,6 +56,16 @@
  moderatism_desc:1 "§Y온건주의§!는 §Y온건한 위치§!나 행동을 취해 §Y좌파와 우파의 극단성을 회피§!하는 정부 형태입니다."
  centrism:1 "중도주의"
  centrism_desc:1 "§Y중도주의§!는 위험 요인과 능력을 고려하여 §Y대중의 신뢰§!를 얻을 수 있고 §Y공익§!을 증진하는 현재 및 미래의 요구 사항에 대한 §Y상식적인 해결책을 제시§!하고자 하는 정부 형태입니다."
+ 
+ #ADU
+ ADU_neutrality_party:0 "FPP"
+ ADU_neutrality_party_long:0 "Faith and Progress Party"
+ ADU_communism_party:0 "ACP"
+ ADU_communism_party_long:0 "Andalusian Communist Party"
+ ADU_democratic_party:0 "RP"
+ ADU_democratic_party_long:0 "Reformist Party"
+ ADU_fascism_party:0 "MB"
+ ADU_fascism_party_long:0 "Muslim Brotherhood"
 
  #ALB
  ALB_neutrality_party:0 "입헌주의자"
