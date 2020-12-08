@@ -17,6 +17,15 @@
  GetHUNdemandthecoastlinenormal_KEY:0 "해안 지역 요구"
  GetHUNdemandthecoastlineitaly_KEY:0 "해안 지역 협상"
  
+ HUN_integrate_southern_slovakia:0 "남부 슬로바키아 통합"
+ HUN_gyor_program_investment:0 "죄르 계획 투자"
+
+ HUN_gyor_program_decision_category:0 "죄르 계획"
+ HUN_gyor_program_decision_category_desc:0 "죄르 계획은 우리나라의 무기 생산량을 증대시켜 [ROOT.getAdjective]군을 재무장할 수 있게 만드는 계획입니다." 
+ HUN_support_manufacturers_coordination:0 "제조사 간 협력 지원"
+
+ HUN_idea_support_armament_manufacturers:0 "무기 제조사 간 협력"
+ 
  HUN_acquire_skoda_naval_artillery_experience:0 "스코다 함포 기술 습득"
  HUN_acquire_skoda_naval_artillery_experience_desc:0 "스코다는 오스트리아-헝가리 제국 해군의 함포를 설계했으며, 그 경험을 다시 활용할 때가 왔습니다."
  
