@@ -20,11 +20,13 @@
  axis_minors_balance_event_tooltip:0 "국가가 존재하지 않았을 때 정치력이 부여되지 않았던 점을 고려하여, 이 이벤트에서는 이벤트가 발생한 년도를 기준으로 추가 정치력을 제공합니다.\n"
 
  ##Add in focus tree fight between german influenced and more radical Hlinka guard, more and more imitating the SS and the Slovak Popular Party (still fascist)
- aftermath_of_the_munich_agreement:0 "Aftermaths of the Munich Agreement"
+ aftermath_of_the_munich_agreement:0 "Aftermaths of the Dissolution of Czechoslovakia"
  aftermath_of_the_munich_agreement_desc:0 "The disintegration of Czechoslovakia lead to multiple events and political opportunities that were almost unthinkable just a few years before." 
  RUT_puppet_yourself_to_survive:0 "Seek Compromise with Germany"
  SLO_seek_support_from_german_slovaks:0 "Seek the Support of the Slovak Volkdeutschs"
  volkdeutsch_support:0 "Has the §YVolkdeutschs§! Support"
+ RUT_provide_autonomy_to_ruthenia:0 "Provide Autonomy to Carpatho-Ukraine"
+ RUT_award_ruthenia_to_hungary:0 "Award Subcarpathian Rus to [HUN.GetNameDef]"
  
 #Bulgaria 2 and 3 were not working and removed.
 
