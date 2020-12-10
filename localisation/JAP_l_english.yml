@@ -49,24 +49,24 @@
  JAP_proclaim_indonesian_liberation:0 "인도네시아 해방 선포"
  JAP_proclaim_indonesian_liberation_desc:0 "인도네시아인들에게 야만적인 서구 식민 통치의 시대가 끝났으며 아시아가 일본의 자애로운 리더십 밑에 승리할 것을 보여주도록 합시다."
  
- JAP_indian_independence_league:0 "Indian Independence League"
- JAP_indian_liberation_army:0 "Indian Liberation Army"
- JAP_indian_liberation_army_desc:0 "Indian nationalists must be mobilized to ensure that the foreigners are expelled from India."
- JAP_support_burmese_liberation_movement:0 "Support the Burmese Liberation Movement"
- JAP_support_burmese_liberation_movement_desc:0 "The Burmese have their place in East Asia."
+ JAP_indian_independence_league:0 "인도독립연맹"
+ JAP_indian_liberation_army:0 "인도해방군"
+ JAP_indian_liberation_army_desc:0 "외국인들을 인도에서 확실히 쫓아내기 위해 우리는 인도 민족주의자들을 동원해야 합니다."
+ JAP_support_burmese_liberation_movement:0 "버마 해방운동 지원"
+ JAP_support_burmese_liberation_movement_desc:0 "버마인들은 동아시아에서 자리를 가질 자격이 있습니다."
 
- JAP_support_the_indian_independence_league:0 "Support the Indian Independence League"
- JAP_support_the_indian_independence_league_desc:0 "An army must be established to ensure the liberation of India"
+ JAP_support_the_indian_independence_league:0 "인도독립연맹 지원"
+ JAP_support_the_indian_independence_league_desc:0 "인도의 해방을 위한 군대가 창설되어야 합니다."
 
- JAP_support_the_burmese_liberation_movement:0 "Support the Burmese Liberation Movement"
+ JAP_support_the_burmese_liberation_movement:0 "버마 해방운동 지원"
 
- JAP_join_the_anti_bolshevik_pact:0 "Join the Anti Bolshevik Pact"
- JAP_join_the_anti_bolshevik_pact_desc:0 "[TUR.GetNameDefCap] seems determined to fight against the the horrors of Soviet Boshevism. Our alliance will strike them in the East and in the West."
+ JAP_join_the_anti_bolshevik_pact:0 "반볼셰비키 협정 가입"
+ JAP_join_the_anti_bolshevik_pact_desc:0 "[TUR.GetNameDef] 정부는 소련 볼셰비즘의 위협에 맞서 싸울 각오가 되어있는 것 같습니다. 우리 동맹은 소련을 동쪽과 서쪽에서 타격할 것입니다."
 
- JAP_nippon_nordic_friendship_treaty:0 "Nippon-Nordic Friendship Treaty"
+ JAP_nippon_nordic_friendship_treaty:0 "일본-북구 우호 조약"
  
- JAP_nordic_strategy:0 "The Nordic Strategy"
- JAP_nordic_strategy_desc:0 "To complement the Northern Strategy, it's logical to try to find countries in the North sharing our views regarding [SOV.GetnameDef]. Scandinavia and Finland have long been worried about [SOV.getAdjective] activities and diplomatic openings are likely end with the signature of treaty of cooperation. Long live the Nippon-Nordic Friendship Treaty!"
+ JAP_nordic_strategy:0 "북구 전략"
+ JAP_nordic_strategy_desc:0 "북진론을 보완하기 위해 [SOV.GetnameDef]에 관해 우리와 같은 시각을 공유하는 북구의 다른 국가를 찾는 것이 합리적일 것입니다. 스칸디나비아와 핀란드는 [SOV.getAdjective]의 동태에 관해 오랫동안 우려를 가져왔고 따라서 외교적 접근이 협력 협정으로 끝날 가능성이 높습니다. 일본-북구 우호 조약이 영원히 지속되기를!"
  
  
  ##Fixed
