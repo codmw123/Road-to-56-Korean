@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  
 #Country Stuff
 KOR_neutrality_party_independence_long:0 "한국 독립당"
@@ -78,7 +78,7 @@ KOR_seoul_busan_infrastructure_desc:0 "서울과 부산의 인프라 구축은 �
  KOR_naval_air_groups_desc:0 ""
  KOR_lessons_for_the_air_force:0 "공군을 위한 교훈"
  KOR_lessons_for_the_air_force_desc:0 "우리는 과거의 실수로부터 배워야 합니다."
- KOR_cruiser_focus:0 현대 순양함"
+ KOR_cruiser_focus:0 "현대 순양함"
  KOR_destroyer_focus:0 "현대 구축함"
  KOR_increase_naval_production:0 "해군 생산 증가"
  KOR_a_s_warfare:0 "대잠전"
