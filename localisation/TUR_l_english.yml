@@ -547,7 +547,7 @@ TUR_hilmi_uran:0 "힐미 우란" # Minister of Justice & later Minister of Inter
 TUR_fuat_agrali:0 "푸아트 아랄르" # Miniser of Finance
 
  TUR_reaffirm_balkan_hegemony:0 "발칸에 대한 패권 재확인"
- TUR_reaffirm_balkan_hegemony_desc:0 "발칸의 주민들은 한때 우리를 두려워 했습니다. 그들은 다시금 오스만 정부에 고개를 조아릴 것입니다."
+ TUR_reaffirm_balkan_hegemony_desc:0 "발칸의 주민들은 한때 우리를 두려워 했습니다. 그들은 다시금 오스만의 문에 고개를 조아릴 것입니다."
 
 ### TO REMOVE WHEN 1.10.2 is out of beta
  TUR_decision_cost_kurd_rebels: "£command_power  §Y15§!"
