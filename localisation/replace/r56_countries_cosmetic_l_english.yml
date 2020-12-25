@@ -980,10 +980,10 @@
  NDC_UNIFIED_fascism_ADJ:0 "칼마르"
  
  #NWND
- NWND_communism:0 "북서 국민방위정부"
- NWND_communism_DEF:0 "북서 국민방위정부"
- NWND_fascism:0 "북서 국민방위정부"
- NWND_fascism_DEF:0 "북서 국민방위정부"
+ NWND_communism:0 "서북 국민방위정부"
+ NWND_communism_DEF:0 "서북 국민방위정부"
+ NWND_fascism:0 "서북 국민방위정부"
+ NWND_fascism_DEF:0 "서북 국민방위정부"
  
  #OTT/TUR
  OTT_UNIFIED_neutrality:0 "오스만 제국"
