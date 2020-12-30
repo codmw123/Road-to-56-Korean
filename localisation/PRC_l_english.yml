@@ -547,36 +547,36 @@
  
  
  ### flag ###
- prc_nation_founded:0 "We have founded our nation."
- lin_biao:0 "Lin Biao has seized power"
- deng_xiao_ping:0 "Deng Xiaoping has seized power"
- prc_capital_decided:0 "We have decided our capital"
- CR_ended:0 "Cultual Revolution has ended"
- death_of_zel:0 "Zhou Enlai has passed away"
- month_countercurrent:0 "Has been criticized during the Cultural Revolution"
- prc_annex_chi_integration:0 "Integrated Government"
- cultural_revolution:0 "Cultural Revolution Underway"
+ prc_nation_founded:0 "국가를 수립했습니다."
+ lin_biao:0 "린뱌오가 권력을 장악했습니다."
+ deng_xiao_ping:0 "덩샤오핑이 권력을 장악했습니다."
+ prc_capital_decided:0 "수도를 결정했습니다."
+ CR_ended:0 "문화대혁명이 끝났습니다."
+ death_of_zel:0 "저우언라이가 사망했습니다."
+ month_countercurrent:0 "문화대혁명 기간 동안 비판을 받았습니다."
+ prc_annex_chi_integration:0 "정부를 통합했습니다."
+ cultural_revolution:0 "문화대혁명이 진행 중입니다."
  ## 8/2/2017 ##
- PRC_zxl_purge:0 "Executed by Zhang Xueliang"
- PRC_enable_cdx:0 "Chen Duxiu has returned"
+ PRC_zxl_purge:0 "장쉐량에 의해 처형됨"
+ PRC_enable_cdx:0 "천두슈가 귀환했습니다."
  ## 9/2/2017 ##
- PRC_no_wargoal_to_chi_with_gnwu:0 "Abandoned Anti-Chiang Aim"
- PRC_yhc_enable:0 "Incorporated"
+ PRC_no_wargoal_to_chi_with_gnwu:0 "반장 노선을 포기했습니다."
+ PRC_yhc_enable:0 "통합됨"
  ## 13/2/2017 ##
- has_pact_with_jap_tt:0 "Has pact with [JAP.GetName]"
+ has_pact_with_jap_tt:0 "[JAP.GetName] 측과 협약을 맺었습니다."
  ## 16/2/2017 ##
- PRC_zxl_purge:0 "Executed by Zhang Xueliang"
+ PRC_zxl_purge:0 "장쉐량에 의해 처형됨"
  ## 17/2/2017 ##
- chi_accept_prc71_tt:0 "[CHI.GetName] has accepted our proposal"
+ chi_accept_prc71_tt:0 "[CHI.GetName] 측이 우리 제안을 받아들였습니다."
  ## 18/2/2017 ##
- no_rescue_zhang:0 "Do not rescue Zhang Xueliang"
- xian_incident_started:0 "Xi'an Incident has started"
+ no_rescue_zhang:0 "장쉐량을 구출하지 않았습니다."
+ xian_incident_started:0 "시안 사건이 시작되었습니다."
  ## 20/2/2017 ##
- cdx_returned:0 "Chen Duxiu has returned"
+ cdx_returned:0 "천두슈가 귀환했습니다."
  ## 27/2/2017 ##
- PRC_zxl_as_leader:0 "Zhang Xueliang had once ascended to power"
+ PRC_zxl_as_leader:0 "장쉐량이 권력을 장악했습니다."
  ## 24/4/2017 ##
- PRC_yes_truce:0 "Agreed to stop all civil wars."                                  
+ PRC_yes_truce:0 "내전을 중지하기로 동의했습니다."                                  
  
  ### events ###
  prc.1.t:0 "Supply From [SOV.GetName]"
