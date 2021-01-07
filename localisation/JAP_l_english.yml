@@ -15,7 +15,7 @@
  JAP_germano_japanese_technological_exchange:0 "일독 기술교환"
  JAP_army_expansion_idea:0 "육군 확충"
  JAP_kempetai_repression:0 "헌병대의 탄압"
- JAP_kempetai_repression:0 "헌병대는 국내에서는 내무성 휘하에 있지만 해외에서는 군의 휘하에 있습니다. 이들은 제국 영토의 안녕에 필수적입니다."
+ JAP_kempetai_repression_desc:0 "헌병대는 국내에서는 내무성 휘하에 있지만 해외에서는 군의 휘하에 있습니다. 이들은 제국 영토의 안녕에 필수적입니다."
  JAP_guard_the_revolution:0 "혁명 옹위"
  JAP_guard_the_revolution_desc:0 "이념적으로 신뢰할 만한 요원만이 혁명을 옹위할 수 있습니다. 국내외에서 그들은 반동들을 추적하고 아시아 노동자 해방의 선봉이 될 것입니다."
  #Switch nav bombers to maritime patrol, CV nav bombers to nav bombers
