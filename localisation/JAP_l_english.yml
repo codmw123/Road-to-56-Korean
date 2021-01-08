@@ -37,6 +37,8 @@
 
  JAP_kenji_miyamoto:0 "미야모토 겐지"
  JAP_kantaro_suzuki:0 "스즈키 간타로"
+ JAP_ichizo_kobayashi:0 "Ichizō Kobayashi"
+ JAP_koyata_iwasaki:0 "Koyata Iwasaki"
 
  JAP_stimulate_mongol_traditions:0 "몽골 전통 장려"
  JAP_stimulate_mongol_traditions_desc:0 "몽골은 그들의 불교 전통을 공격해온 공산주의 정권에 수십년간 고통받아 왔습니다. 사원을 복구하고 그들을 존중하면 대중적 지지를 얻을 수 있을 것입니다."
@@ -67,6 +69,29 @@
  
  JAP_nordic_strategy:0 "북구 전략"
  JAP_nordic_strategy_desc:0 "북진론을 보완하기 위해 [SOV.GetnameDef]에 관해 우리와 같은 시각을 공유하는 북구의 다른 국가를 찾는 것이 합리적일 것입니다. 스칸디나비아와 핀란드는 [SOV.getAdjective]의 동태에 관해 오랫동안 우려를 가져왔고 따라서 외교적 접근이 협력 협정으로 끝날 가능성이 높습니다. 일본-북구 우호 조약이 영원히 지속되기를!"
+ 
+ JAP_sumitomo_rubber_industries:0 "Sumitomo Rubber Industries"
+ JAP_sumitomo_rubber_industries_desc:0 "At first only a partner of Dunlop Japan, the rubber branch of the Sumitomo zaibatsu could ally with chemical branch of the conglomerate and create its own Japanese made rubber."
+
+ JAP_diversified_tank_roles:0 "Diversified Tank Roles"
+ JAP_diversified_tank_roles_desc:0 "Fitted with different kind of guns and with different traction systems, armored systems can then fulfill more varried missions on the battlefield."
+ JAP_red_pacific_fleet:0 "Red Pacfic Fleet"
+ JAP_red_pacific_fleet_desc:0 "We must rebuild our fleet along ideological criterions"
+ JAP_corporate_developments:0 "Corporate Developments"
+ JAP_corporate_developments_desc:0 "Our collaboration with the Zaibatsus will certainly be fruitful."
+
+ JAP_airframe_supplies_improvements:0 "Airframe Supplies Improvements"
+ JAP_airframe_supplies_improvements_desc:0 "The need for an increase in aircraft production made necessary a reform in the production of various parts of fighter aircrafts." 
+ JAP_reform_airframe_production:0 "Reform Airframe Production"
+ JAP_reform_airframe_production_desc:0 "The need for an increase in aircraft production made necessary a reform in the production of various parts of fighter aircrafts." 
+ JAP_submarine_modernization:0 "Submarine Modernization"
+ JAP_submarine_modernization_desc:0 "While on the side considering the great carrier vs battleship debate, submarine are nevertheless an essential part of the Japanese navy as supply disruption can pontentially paralize any incoming enemy army." 
+ JAP_supply_disruption:0 "Supply Disruption"
+ JAP_supply_disruption_desc:0 "Instead of fighting the enemy head on, we could delay and weaken its projection of force by attacking its naval supply lines."
+ JAP_finance_the_naval_arsenals:0 "Finance the Naval Arsenels"
+ JAP_finance_the_naval_arsenals_desc:0 "In order to guarantee the security of the Pacific ocean, a bigger navy is necessary."
+ JAP_increased_repair_capabilities:0 "Increased Repair Capabilities"
+ JAP_increased_repair_capabilities_desc:0 "Our navy can only be efficient if it's repaired quickly and efficently, returning to combat duty before the enemy damaged ships."
  
  
  ##Fixed
