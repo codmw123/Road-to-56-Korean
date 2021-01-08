@@ -46,6 +46,16 @@
  ARG_BRA_autonomy_satellite_DEF:0 "아르젠치나 임시정부" 
  ARG_BRA_autonomy_supervised_state:0 "아르젠치나 임시정부"
  ARG_BRA_autonomy_supervised_state_DEF:0 "아르젠치나 임시정부"
+ 
+ #ARM
+ ARM_FRA_autonomy_dominion:0 "$OVERLORDADJ$령 아르메니아국"
+ ARM_FRA_autonomy_colony:0 "아르메니아 통치령"
+ ARM_FRA_autonomy_puppet:0 "$OVERLORDADJ$ 위임통치령 아르메니아"
+ ARM_FRA_autonomy_integrated_puppet:0 "$OVERLORDADJ$령 아르메니아"
+ ARM_FRA_autonomy_dominion_DEF:0 "$OVERLORDADJ$령 아르메니아국"
+ ARM_FRA_autonomy_colony_DEF:0 "아르메니아 통치령"
+ ARM_FRA_autonomy_puppet_DEF:0 "$OVERLORDADJ$ 위임통치령 아르메니아"
+ ARM_FRA_autonomy_integrated_puppet_DEF:0 "$OVERLORDADJ$령 아르메니아"
 
  #AST_ALT
  AST_ALT_fascism:0 "자유 오스트레일리아국"
