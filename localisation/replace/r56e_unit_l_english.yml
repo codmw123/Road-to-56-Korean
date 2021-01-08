@@ -1,5 +1,7 @@
 ﻿l_english:
 category_light_armor:0 "경장갑차량 & 파생형"
+category_flying_boat:0 "해상초계기"
+category_medium_maritime:0 "해상 중형폭격기"
 militia:0 "민병대"
 militia_desc:0 "민병대는 전통적인 육군 부대의 요구사항을 충족시키지 않고도 신속하게 배치할 수 있는 비정규 지상 병력입니다. 민병대원은 정규 보병 대대가 요구하는 광범위한 훈련이나 다량의 장비를 필요로 하지 않습니다. 다만 전투력에 관해서는 전통적인 보병을 대체할 수 없겠지만요."
 r56_allow_militia_formation:0 "민병대 조직 승인"
