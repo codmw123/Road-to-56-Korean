@@ -545,6 +545,8 @@ AUS_initiate_the_bohmen_plan:0 "뵈멘 계획 실행"
 AUS_initiate_the_bohmen_plan_desc:0 "체코슬로바키아는 독일의 손아귀에서 거의 벗어났으며, 이제 독일에 맞서 우리 신민들을 다시 편입할 때가 왔습니다. 전쟁은 좋지 않지만, 때로는 필요합니다."
 AUS_initiate_the_bohmen_plan_tt:0 "§Y체코슬로바키아§!가 우리의 괴뢰국이 되지만, 우리는 §R독일§!에 선전포고할 것입니다.\n"
 
+
+AUS_deactivate_YUG_collaboration_tt:0 "§R이 선택지를 선택하면 유고슬라비아 협력 정부를 세울 수 있는 기회가 생기지 않을 것입니다.§!\n"
 AUS_full_czech_citizenship:0 "체코인에게 시민권 부여"
 AUS_full_czech_citizenship_desc:0 "체코슬로바키아는 한때 오스트리아-헝가리 제국의 강역이었으며, 그곳의 주민들도 오스트리아-헝가리 제국의 국민으로 간주되었습니다. 이들에게 시민권을 다시 부여해 이들이 우리 통치 아래 자유롭게 살 수 있도록 하는 것이 옳을 것입니다."
 
@@ -733,6 +735,8 @@ AUS_prepare_czechoslovak_invasion_desc:0 ""
  AUS_soviet_support_desc:0 "소련이 우리 편인 이상, 독일을 상대로도 가능성이 있을지도 모릅니다."
  
  AUS_austrian_neutrality:0 "오스트리아의 중립"
+ 
+ AUS_austrian_german_leadership:0 "독일인의 오스트리아 주도"
  
  #Diplomacy
  alps_defence_member:0 "알프스 방위 조약 가입국"
