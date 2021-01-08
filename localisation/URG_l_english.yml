@@ -1,15 +1,18 @@
 ﻿l_english:
  URG_neutrality_party:0 "콜로라도"
- URG_neutrality_party_long:0 "콜로라도"
+ URG_neutrality_party_long:0 "Partido Colorado"
 
  URG_fascism_party:0 "국민당 (헤라레라)"
- URG_fascism_party:0 "국민당 (헤라레라)"
+ URG_fascism_party_long:0 "국민당 (헤라레라)"
 
  URG_colorado_party_terra_party_long:0 "콜로라도당 (테라)"
+ URG_colorado_party_terra_party:0 "Colorado (Terra)" 
 
  URG_partido_unido_uruguayo_party_long:0 "우루과이 연합"
+ URG_partido_unido_uruguayo_party:0 "PUU" 
 
- URG_movimiento_socialista_party_long:0 "사회당"
+ URG_movimiento_socialista_party_long:0 "Partido Socialista del Uruguay" #The Movimiento Socialista was founded in 1963. Frugoni was the main candidate of the PSU in 1938
+ URG_movimiento_socialista_party:0 "PSU" 
 
  uruguay.1.t:0 "가브리엘 테라의 실종"
  uruguay.1.d:0 "이틀전 가브리엘 테라는 아르헨티나와 새로운 무역 조약에 대해 이야기 하기 위해 그곳을 방문했고, 부통령인 헤레라에 의해 회의는 시작 되었습니다. \n귀국 당일 밤. 새벽 2시에 대통령을 우루과이에 태우고 돌아가던 비행기와의 연락이 끊겼습니다. \n난파된 비행기는 다음날 리오 데그로에서 발견되었으며, 승객은 전원 사망했습니다. \n\n우루과이는 대공황과 정치 위기의 충격에서 겨우 벗어난 후 루이스 알베르토 데헤라는 대통령직 승계를 위한 준비를 하고 있습니다."
@@ -63,6 +66,9 @@
  URG_one_union_for_all_workers_desc:0 "노동자들을 위해서는 정부의 지원을 받는 대규모 노동조합이 우루과이의 노동자들을 하나로 모아야 합니다."
  URG_join_the_comintern:0 "코민테른 가입"
  URG_join_the_comintern_desc:0 "우리가 소련 및 그 동맹국들과 단결함으로써 우리는 자본주의자들을 막을 수 있습니다!"
+ URG_follow_the_tradition:0 "Follow the Tradition"
+ URG_switzerland_of_the_americas:0 "Switzerland of the Americas"
+ urg_switzerland_of_the_americas_idea:0 "Switzerland of the Americas"
 
  URG_GATHERING_STORM_DESC:0 "우루과이에서 가브리엘 테라가 쿠데타를 일으키기 전, 남아메리카에서 가장 안정적인 나라 중 하나였다. 정권에 의한 박해는 많은 정치인과 지식인들을 아르헨티나로 피난을 가게 만들었다. \n\n그러나 어쩌면 1935년 쿠데타 이후, 정권이 확립을 지지기반을 단단히 다지기도 전에 또 다른 혁명이 터질 수 도 있습니다."
 
