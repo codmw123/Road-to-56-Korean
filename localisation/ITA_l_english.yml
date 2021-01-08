@@ -330,7 +330,7 @@
  ITA_fight_the_reich_desc:0 "독일의 야망이 우리의 것과 충돌하며 곧 있으면 우리에게 치명적일 수 있다는 것은 명백합니다. 최선의 선택은 선공으로 위협을 제거하는 것입니다."
  ITA_complete_the_latin_alliance:0 "라틴 동맹 완성"
  ITA_complete_the_latin_alliance_desc:0 "루마니아와 스페인이 우리 동맹에 추가되었으니, 이제 포르투갈을 초대해 대서양과 아프리카를 지배하기 위한 좋은 위치를 선점하고 라틴 국가들의 동맹을 확장해야 합니다."
- ITA_expand_the_oil_fields:0 "루마니아 유전 확장"
+ ITA_expand_the_oil_fields:0 "유전 확장"
  ITA_expand_the_romanian_oil_fields:0 "루마니아 유전 확장"
  ITA_expand_the_romanian_oil_fields_desc:0 "루마니아의 석유로 우리는 군대의 대부분에 충분한 보급을 해줄 수 있게 되었지만, 여전히 연료는 부족합니다. 이 문제를 해결하기 위해 석유 시설 확장 계획이 진행될 것입니다."
  italy_flag_romania_accepted_ultimatum:0 "루마니아가 우리의 최후통첩을 받아들였습니다."
@@ -634,3 +634,11 @@ stresa_front_faction:0 "스트레사 전선"
 #Avanti!
 ABILITY_avanti:0 "아반티!"
 ABILITY_avanti_desc:0 "아반티! 아반티!"
+
+ITA_ethiopian_war:0 "에티오피아 전쟁"
+ITA_ethiopian_war_desc:0 "이탈리아가 최종적으로 제국위를 가지고 싶다면 에티오피아의 정복을 끝마쳐야 합니다."
+r56_ITA_vanquish_ethiopia:0 "에티오피아 정복"
+
+
+SAD_move_capital_to_turin:0 "토리노로 수도 이전"
+ITA_REBORN_move_capital_to_rome:0 "로마로 수도 이전"
