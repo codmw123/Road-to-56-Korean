@@ -92,8 +92,8 @@ KOR_seoul_busan_infrastructure_desc:0 "서울과 부산의 인프라 구축은 �
  KOR_apply_democratic_program_desc:0 "민주주의 프로그램의 적용"
  KOR_defensive_preparation:0 "방어 준비"
  KOR_defensive_preparation_desc:0 "방어 준비"  
- KOR_semi_isolation:0 "반 고립"
- KOR_semi_isolation_desc:0 "반 고립"   
+ KOR_semi_isolation:0 "고립주의"
+ KOR_semi_isolation_desc:0 "고립주의"   
  KOR_search_allies:0 "연합국 가입"
  KOR_search_allies_desc:0 "연합국 가입" 
 
@@ -109,7 +109,7 @@ KOR_seoul_busan_infrastructure_desc:0 "서울과 부산의 인프라 구축은 �
  KOR_leader_technical_university:0 "[KOR.GetLeader] 공과 대학교"
  KOR_sideline_cho_man_sik:0 "정치 정적 열외"
  KOR_supreme_leader:0 "최고 지도자"
- KOR_great_banner_of_songun:0 "송은의 대 반기"
+ KOR_great_banner_of_songun:0 "선군정치"
 
  KOR_take_over_air_bases:0 "공군기지 인계"
  KOR_pyeongtaek_airplane_workshop:0 "평택 항공기 작업장"
