@@ -13,6 +13,8 @@ ENG_admiralty_naval_staff_desc:0 "해군성 참모본부는 우리 해군의 진
 ENG_tank_variant_focus:0 "전차 파생형 개발"
 ENG_tank_variant_focus_desc:0 "전차는 전투보다 더 많은 역할을 수행할 수 있습니다. 전차는 수륙양용으로 만들 수도 있고 적 방어를 박살낼 수 있는 야포 포대가 될 수도 있으며 적 공군의 공격으로부터 인근 병력을 보호할 대공포대가 될 수도 있습니다."
 
+ENG_agents_of_the_revolution:0 "혁명 요원"
+ENG_agents_of_the_revolution_desc:0 "혁명을 수호하기 위해서는 비밀 작전이 필수적입니다."
 #Custom Tooltips
 
 #Flags
