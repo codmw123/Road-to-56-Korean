@@ -8,6 +8,9 @@ DOD_romania.1000.t:0 "새로운 참모진"
 DOD_romania.1000.d:0 "신생 공산 정권은 군대를 재편성하고 우익 장교들을 좌익 장교로 교체하려 합니다. 우리는 유망한 장교들을 몇 명 선정해 그들을 진급시킬 준비를 하고 있습니다."
 DOD_romania.1000.a:0 "그들은 그들의 직무를 다할 거라고 장담하지."
 
+ ROM_invite_ukraine:0 "우크라이나 초대"
+ ROM_invite_ukraine_desc:0 "우크라이나는 [SOV.GetAdjective]의 야망을 막을 수 있는 필수적인 완충 지대입니다."
+
 ROM_oil_refining_infrastructure:0 "정유 기반시설"
 ROM_oil_refining_infrastructure_desc:0 "석유를 더 효율적으로 채굴하기 위해 정유 기반시설이 확장되어야 합니다."
 
