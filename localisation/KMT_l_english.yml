@@ -1,5 +1,11 @@
 ﻿l_english:
  
+ CHI_HK:0 "홍콩 시"
+ CHI_HK_UK:0 "홍콩 시"
+ CHI_MAC:0 "마카오 시"
+ CHI_MAC_POR:0 "마카오 총독부"
+ CHI_become_china:0 "중국으로 변신"
+ 
  warlords:0 "군벌"
  
  # New Stuff #
