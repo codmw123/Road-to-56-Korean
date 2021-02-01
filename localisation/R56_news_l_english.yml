@@ -1,35 +1,35 @@
 ﻿l_english:
  
 #News
-r56.news_event.1.t:0 "Mussolini Removed from Power"
-r56.news_event.1.desc:0 "Following the defeat of Italy in Ethiopia and the recent peace agreement between the Italian and Ethiopian government.  Massive protest have formed in almost every major Italian city demanding the removal of Mussolini as prime minister of Italy, and also calling for elections. With massive social unrest and the possibility of massive riots. Victor Emmanuel III has removed Mussolini as prime minister of Italian, and has placed General Pietro Badoglio as emergency  acting prime minister. A Mob in Rome later stormed the fascist party headquarters there and found Mussolini dead from a self inflicted gunshot wound."
-r56.news_event.1.a:0 "Italian incompetence strikes again..."
+r56.news_event.1.t:0 "무솔리니의 실각"
+r56.news_event.1.desc:0 "이탈리아의 에티오피아 전쟁 패전과 최근 이탈리아와 에티오피아 양국 정부 간에 체결된 평화 협정 후, 이탈리아의 거의 모든 주요 도시에서 무솔리니의 총리직 해임과 선거를 요구하는 대규모 시위가 발생했습니다. 광범위한 사회적 불안과 대규모 폭동의 위협에 직면한 비토리오 에마누엘레 3세는 무솔리니를 총리직에서 해임시키고 피에트로 바돌리오 장군을 긴급 총리 권한대행으로 임명했습니다. 이후 로마의 파시스트당 당사에 난입한 군중은 권총으로 자살한 무솔리니의 시체를 발견했습니다."
+r56.news_event.1.a:0 "이탈리아의 무능함이 또 한 건 했군..."
 
 #1938 world cup
-r56.news_event.2.t:0 "1938 World Cup"
-r56.news_event.2.desc:0 "The World Cup was held recently in France. This was the third edition of the tournament. Fifteen teams participated in a knock style tournament. \n \n[SWI.GetName] upset [GER.GetName] in the first round. Though the [SWI.GetName] were knocked out in the next round by the [HUN.GetName]. The [HUN.GetAdjective] team made it all the way to the finals but were ultimately defeated by [ITA.GetName]. This is [ITA.GetName]'s second time winning the Tournament.\n \n The World Cup was a pleasant distraction for many. Getting minds away from the storm clouds that are forming over the globe."
-r56.news_event.2.a:0 "Let's do it again in four years."
-r56.news_event.2.b:0 "Glory to all [ITA.GetAdjective]s!"
+r56.news_event.2.t:0 "1938년 월드컵"
+r56.news_event.2.desc:0 "최근 프랑스에서 제3회 월드컵이 개최되었습니다. 세계 각국에서 온 15개의 팀이 녹아웃 형식의 토너먼트에서 격돌했습니다. \n \n[SWI.GetName] 대표팀이 첫번째 라운드에서 [GER.GetName] 대표팀을 좌절시켰습니다. 하지만 바로 다음 라운드에서 [SWI.GetName] 대표팀 역시 [HUN.GetName] 대표팀에게 져 탈락했습니다. [HUN.GetAdjective] 대표팀은 결승까지 올라갔지만 결국 [ITA.GetName] 대표팀에게 패배했습니다. 이로써 [ITA.GetName] 대표팀은 통산 두번째 월드컵 우승을 달성하게 되었습니다.\n \n 이번 월드컵은 많은 이들에게 전세계에 드리우고 있는 암운을 잊게 해준 즐거운 오락이었습니다."
+r56.news_event.2.a:0 "4년 후에 다시 만납시다."
+r56.news_event.2.b:0 "모든 [ITA.GetAdjective]인에게 큰 영광이로군!"
  
-r56.news_event.3.t:0 "Albania Joins the Comintern"
-r56.news_event.3.d:0 "The chairman of the Communist Party of Albania, Enver Hoxha, decided to send a request to join the Comintern. The Soviet Union accepted the request for Albania's membership and the former Kingdom of Albania is now a part of the Third Internationale. As both of the countries share the same ideas and ambition, their friendship seems solid and Albania foresee a bright future for their place in Europe." 
-r56.news_event.3.a:0 "Another victory for the proletariat."
+r56.news_event.3.t:0 "알바니아의 코민테른 가입"
+r56.news_event.3.d:0 "알바니아 공산당의 주석인 엔베르 호자가 코민테른에 가입 요청을 보내기로 결정했습니다. 소련은 알바니아의 가입 요청을 받아들였으며 구 알바니아 왕국은 이제 제3인터내셔널의 일원이 되었습니다. 알바니아와 소련 양국이 같은 사상과 야망을 공유하기에, 양국의 우호 관계는 단단해보이며 알바니아는 유럽에서의 자국의 위치에 대한 밝은 미래를 예상하고 있습니다." 
+r56.news_event.3.a:0 "무산계급의 또다른 승리군."
 #was news 336
-r56.news_event.4.t:0 "Albania Joins the Axis"
-r56.news_event.4.d:0 "Germany accepted Albania's request to join the Axis. They now stand together against the communism and democratic nations. King Zog expressed the will to show the entire world the might of his country. The United Kingdom and France expressed concern about the rise of fascism in Europe and they are reminded German officials about the rules of the Treaty of Versailles that Germany must respect. It seems that the democracies of the West doesn't seem to react against Germany and Albania."
-r56.news_event.4.a:0 "Yet another nation bends the knee to Germany."
+r56.news_event.4.t:0 "알바니아의 추축국 가입"
+r56.news_event.4.d:0 "독일이 알바니아의 추축국 가입 요청을 수락했습니다. 양국은 이제 공산주의와 민주주의에 맞서 함께 할 것입니다. 조구 1세 알바니아 국왕은 전세계에 자국의 힘을 보여주겠다는 자신의 의지를 표현했습니다. 영국과 프랑스는 유럽에서의 파시즘의 부상에 대한 우려를 표명하고 독일 정부에 베르사유 조약을 준수할 것을 다시금 상기시켰습니다. 아무래도 서방의 민주 국가들은 독일과 알바니아의 행보에 대한 대응을 하려고 하지는 않는 것 같습니다."
+r56.news_event.4.a:0 "독일에게 무릎꿇은 나라가 하나 더 늘었군."
 
 #1942 world cup #fictional event, probably would had been held in South America due to FIFA internal politics. 
-r56.news_event.6.t:0 "1942 World Cup"
-r56.news_event.6.desc:0 "The World Cup was held recently in [URG.GetNameDef]. This was the Fourth edition of the tournament. Sixteen teams participated in a knock style tournament. \n \nThe returning [ITA.GetAdjective] champions were defeated in the second round by the hosts. Though hosts' run would end in the semi-finals as they were defeated by [GER.GetNameDef]. The [GER.GetAdjective] team would go on the win in the finals by defeating [BRA.GetName] in a tense game. This was the [GER.GetName]'s first time winning the tournament.\n \n The World Cup was a pleasant distraction for many. Getting minds away from the tense political situation developing around the world."
-r56.news_event.6.a:0 "Let's do it again in four years."
-r56.news_event.6.b:0 "Glory to all [GER.GetAdjective]s!"
+r56.news_event.6.t:0 "1942년 월드컵"
+r56.news_event.6.desc:0 "최근 [URG.GetNameDef]에서 제4회 월드컵이 개최되었습니다. 세계 각국에서 온 16개의 팀이 녹아웃 형식의 토너먼트에서 격돌했습니다. \n \n디펜딩 챔피언인 [ITA.GetAdjective] 대표팀은 두번째 라운드에서 개최국 우루과이에게 패배했습니다. 그러나 우루과이의 돌풍은 준결승에서 [GER.GetNameDef] 대표팀에 의해 잠재워졌습니다. [GER.GetAdjective] 대표팀은 기세를 이어나가 결승에서 치열한 접전 끝에 [BRA.GetName] 대표팀에 맞서 승리를 거두고 우승을 쟁취했습니다. 이로써 [GER.GetName] 대표팀은 첫번째 월드컵 우승을 달성하게 되었습니다.\n \n 이번 월드컵은 많은 이들에게 세계 각국의 정치적 긴장 상황을 잊게 해준 즐거운 오락이었습니다."
+r56.news_event.6.a:0 "4년 후에 다시 만납시다."
+r56.news_event.6.b:0 "모든 [GER.GetAdjective]인에게 큰 영광이로군!"
 
 #Brazil took imperialism
-r56.news_event.7.t:0 "[BRA.GetLeader] Takes Power in Brazil"
-r56.news_event.7.d:0 "News this morning that shocked much of Latin-America. As [BRA.GetLeader] took control of the Brazilian government and military. The sudden turn around of government leadership came to a surprise to many international observers and even some Brazilian citizens. Though many inside Brazilian politics have said that such a change was expected given the internal struggles the country has had over the past decade.\n\nNo one knows where this new government will go. Though many suspect that it’ll look for immediate expansion."
-r56.news_event.7.a:0 "Concerning development."
-r56.news_event.7.b:0 "Independência ou Morte!"
+r56.news_event.7.t:0 "[BRA.GetLeader]의 브라질 정권 장악"
+r56.news_event.7.d:0 "오늘 아침 [BRA.GetLeader](이)가 브라질 정부와 군을 장악했다는 소식이 라틴아메리카 전역에 큰 충격을 주었습니다. 이 급작스러운 정권의 변동은 세계 각국의 많은 관찰자와 일부 브라질 시민에게까지도 충격으로 다가왔습니다. 하지만 여러 브라질 정치권 인사들에 따르면 이번 변동은 지난 십년간 브라질이 겪은 내부 갈등을 고려했을 때 충분히 예측 가능한 것이었다고 합니다.\n\n아직 그 누구도 신정권이 어느 방향으로 나아갈지를 예상하지 못하고 있지만, 많은 사람들은 신정권이 즉각적인 확장에 착수할 것이라고 추측하고 있습니다."
+r56.news_event.7.a:0 "우려스러운 전개로군."
+r56.news_event.7.b:0 "독립이 아니면 죽음을!"
 
 #Paraguay coup 
 r56.news_event.8.t:0 "Military Coup in Paraguay"
