@@ -32,21 +32,21 @@ r56.news_event.7.a:0 "우려스러운 전개로군."
 r56.news_event.7.b:0 "독립이 아니면 죽음을!"
 
 #Paraguay coup 
-r56.news_event.8.t:0 "Military Coup in Paraguay"
-r56.news_event.8.d:0 "After the last year's Chaco war which Paraguay managed to win. The Paraguay government still retained the weak leadership of Eusebio Ayala, but [PAR.GetLeader] has orchestrated a coup d'état after spending time in exile. [PAR.GetLeader] has quickly established a much stronger military regime.\n\nThe Paraguay government will most likely now need to reorganize after the ousting of many Ayala loyalists."
-r56.news_event.8.a:0 "Interesting development."
-r56.news_event.8.b:0 "It had to be done."
+r56.news_event.8.t:0 "파라과이에서의 군사 쿠데타"
+r56.news_event.8.d:0 "파라과이는 1년 전 차코 전쟁에서 승리를 거둔 후, 에우세비오 아얄라가 이끄는 불안정한 정부가 계속 유지되었습니다. 하지만 [PAR.GetLeader](이)가 망명에서 돌아온 후 쿠데타를 실행하면서 평화가 깨졌습니다. 쿠데타에 성공한 [PAR.GetLeader](은)는 신속하게 더 강력한 군사 정권을 수립했습니다.\n\n많은 친 아얄라 인사들이 축출된 이상 파라과이 정부는 당분간 재편에 들어갈 것으로 보입니다."
+r56.news_event.8.a:0 "흥미로운 전개로군."
+r56.news_event.8.b:0 "해야 할 일이었을 뿐이다."
 
 #Paraguay civil war
-r56.news_event.9.t:0 "Civil War in Paraguay"
-r56.news_event.9.d:0 "After last year's Chaco war, which Paraguay managed to win, the Paraguay government still retained the weak leadership of Eusebio Ayala, but Colonel Rafael Franco has attempted to orchestrate a coup d'état after spending time in exile outside the country. The coup d'état was a attempt to establish a much stronger military regime. Though the coup d'état didn’t go off as planned as Eusebio Ayala was tipped off about the possible coup attempt and has rallied other political parties to arm to fight off the military. \n\nIt seems this political dispute can only be settled with blood."
-r56.news_event.9.a:0 "Lets hope for a quick end to this."
-r56.news_event.9.b:0 "We will prevail!"
+r56.news_event.9.t:0 "파라과이 내전"
+r56.news_event.9.d:0 "파라과이는 1년 전 차코 전쟁에서 승리를 거둔 후, 에우세비오 아얄라가 이끄는 불안정한 정부가 계속 유지되었습니다. 그러나 라파엘 프랑코 대령은 망명에서 돌아온 후 더 강력한 군사 정권을 수립하기 위해 쿠데타를 기도했습니다. 하지만 에우세비오 아얄라 대통령이 사전에 쿠데타 시도에 대한 정보를 입수하고 군부에 맞서기 위해 다른 정당을 동원하면서 쿠데타 계획은 실패했습니다. \n\n아무래도 이 정치적 분쟁은 유혈사태로만 해결될 수 있을 것처럼 보입니다."
+r56.news_event.9.a:0 "이 전쟁이 빨리 끝났으면 좋겠군."
+r56.news_event.9.b:0 "우리가 승리할 것이다!"
 
 #Generic tree warns neighbour of expansive policy
-r56.news_event.10.t:0 "[From.GetNameDefCap] Proclaims Expansionist Policy"
-r56.news_event.10.d:0 "\nToday in the capital of [FROM.GetNameDef]. [FROM.GetLeader] told the people of his nation that they need to look beyond their borders for glory and happiness. That they need to expand the borders which the country currently inhibits. [FROM.Getleader] also made many mentions of the perceived transgressions that [ROOT.GetName] has made against [FROM.GetName]. Though if this is just tough talk or that such ambitions will materialise into conflict is yet to be seen. Though [FROM.GetName]’s neighbors are worried about possible conflict in the region. Many hope for a diplomatic solution for [FROM.GetName]'s issues with its neighbors."
-r56.news_event.10.a:0 "Worrying to say the least."
+r56.news_event.10.t:0 "[From.GetNameDefCap] 정부가 확장 정책을 천명"
+r56.news_event.10.d:0 "\n오늘 [FROM.GetNameDef]의 수도에서 [FROM.GetLeader](은)는 국민에게 영광과 행복을 위해서는 확장을 제약하는 국경을 넘어 현재 영토를 더 확장할 필요가 있다고 발표했습니다. [FROM.Getleader](은)는 또한 [FROM.GetName] 측이 [ROOT.GetName]에 주는 위협에 대해서도 여러 번 언급했습니다. 이것이 그저 강경한 수사로 끝날지 아니면 그 야망이 분쟁으로 이어질지는 아직 불명확합니다. 허나 [FROM.GetName]의 이웃 국가들은 지역에서 전쟁이 발발할 가능성에 대해 우려를 표하고 있습니다. 많은 이들은 [FROM.GetName] 측과 이웃 국가들 사이의 문제가 외교적으로 해결되기를 바라고 있습니다."
+r56.news_event.10.a:0 "많이 걱정되는군."
 
 #Honduras going fascist 
 r56.news_event.11.t:0 "United Fruit Company Takeover in Honduras"
