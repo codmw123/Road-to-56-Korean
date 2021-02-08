@@ -22,6 +22,9 @@ ENG_agents_of_the_revolution_desc:0 "혁명을 수호하기 위해서는 비밀 
 #Ideas
 ENG_crypto_bomb_idea_lar:0 "암호학 폭탄"
 ENG_admiralty_naval_staff:0 "해군성 참모본부"
+ENG_royal_family_remnants:0 "Royal Family Remnants"
+ENG_royal_family_remnants_desc:0 "While most of the Royal Family was executed by those communist demons, there is always an heir, eager to get rid of this new rump parliament and restore the British throne."
+
 
 #Events
 englandmod.99.t:0 "아치볼드 웨이벌의 인도행"
@@ -36,6 +39,7 @@ ENG_speech_against_war_desc:0 "우리 훌륭한 젊은이들의 피가 외국의
 ENG_john_dill:0 "존 딜"
 ENG_alan_turing:0"앨런 튜링"
 ENG_harold_harmsworth:0 "해럴드 함스워스"
+ENG_willie_gallacher:0 "Willie Gallacher"
 #Companies
 #ENG_industrial_concern:0 "잉글리시 스틸 코퍼레이션" 
 ENG_guest_keen_baldwins:0 "게스트 킨 볼드윈스"
@@ -54,8 +58,8 @@ ENG_ROF_nottingham:0 "ROF 노팅엄"
 #Misc
 british_alternate_focus:0 "대영제국 중점 트리"
 british_alternate_focus_tt:0 "§R이 중점이 완료되면 모든 The Road to 56 파시즘 중점을 포함하는 또다른 중점 트리가 로딩될 것입니다. 이 선택은 되돌릴 수 없습니다! 잘 선택하세요.§!"
-
-
+ENG_anti_communist_commanders_exile_tt:0 "§RAristocratic Commanders will disappear or go in exile.§!"
+revolutionary_scientific_congress_name:0 "Revolutionary Scientific Congress"
 
 
 r56_eng.1.t:0 "파시즘만이 평화를 지킬 수 있다!"
@@ -65,3 +69,63 @@ r56_eng.1.a:0 "우리는 전쟁을 방지할 것이다!"
 r56_eng.2.t:0 "해외 전쟁으로"
 r56_eng.2.desc:0 "영국인은 영국만을 위해서 싸워야 합니다! 영국의 아들들이 해외 분쟁에서 죽기 위해 우리 해안을 떠나는 모습은 역사책에 남아야 합니다. 영국인은 영국과 제국의 방위를 위해서만 싸워야 합니다."
 r56_eng.2.a:0 "우리는 해외에서 죽지 않을 것이다!"
+
+r56_eng.3.t:0 "British Military Exiles Demand Asylum"
+r56_eng.3.desc:0 "Former members of the British military fleeing the communists have arrived and are requesting asylum. Actually they could certainly serve our armed forces instead."
+r56_eng.3.a:0 "We always need experienced personel!"
+
+r56_eng.4:0 "Survivors of the Royal Family are Taking Refuge in our Country"
+r56_eng.4.desc:0 "Escaping from the tragic events which decimated the Royal Family, the survivors have requested to be able to establish themselves in our country, with the hope that they would one day be able to restore the monarchy in Britain."
+r56_eng.4.a:0 "This is not Westminster but we will do our best."
+
+
+
+ENG_opposition_to_the_national_government:0 "Opposition to the National Government"
+ENG_opposition_to_the_national_government_desc:0 "Opposition to the National Government"
+ENG_united_front_strategy:0 "The United Front Strategy"
+ENG_united_front_strategy_desc:0 "The United Front Strategy"
+ENG_expel_the_old_oppressors:0 "Expel the Old Oppressors"
+ENG_expel_the_old_oppressors_desc:0 "Expel the Old Oppressors"
+ENG_redistribution_of_wealth:0 "Redistribution of Wealth"
+ENG_redistribution_of_wealth_desc:0 "Redistribution of Wealth"
+ENG_heavy_industry_investment:0 "Develop the Heavy Industry"
+ENG_heavy_industry_investment_desc:0 "Develop the Heavy Industry"
+ENG_promote_new_officers:0 "Promote New Officers"
+ENG_promote_new_officers_desc:0 "Promote New Officers"
+ENG_the_peoples_duty:0 "The People's Duty"
+ENG_the_peoples_duty_desc:0 "The People's Duty"
+ENG_alliance_with_the_canadian_workers:0 "Alliance with the Canadian Workers"
+ENG_alliance_with_the_canadian_workers_desc:0 "Alliance with the Canadian Workers"
+ENG_spanish_civil_war_involvement:0 "Spanish Civil War Involvement"
+ENG_spanish_civil_war_involvement_desc:0 "Spanish Civil War Involvement"
+ENG_the_necessity_of_ideological_struggle:0 "The Necessity of Ideological Struggle"
+ENG_the_necessity_of_ideological_struggle_desc:0 "The Necessity of Ideological Struggle"
+ENG_awakening_from_pacifism:0 "Awakening from Pacifism"
+ENG_awakening_from_pacifism_desc:0 "Awakening from Pacifism"
+ENG_ally_with_the_spanish_republic:0 "Ally with the Spanish Republic"
+ENG_ally_with_the_spanish_republic_desc:0 "Ally with the Spanish Republic"
+ENG_enforced_economic_reorganization:0 "Economic Reorganization"
+ENG_enforced_economic_reorganization_desc:0 "Economic Reorganization"
+ENG_challenge_stalinism:0 "Challenge Stalinism"
+ENG_challenge_stalinism_desc:0 "Stalin's doctrine is tyrany with a red veil!"
+ENG_dont_challenge_party_line:0 "Don't Challenge the Party Line"
+ENG_dont_challenge_party_line_desc:0 "The party is always right! The Internationale will lead us to the world revolution!"
+ENG_revolutionary_scientific_congress:0 "Revolutionary Scientific Congress"
+ENG_revolutionary_scientific_congress_desc:0 "The revolution offers the unique opportunity to allow the scientific and workers of the world to share their knowledge and eradicate the reactionary science called genetics."
+
+ENG_take_the_reactionaries_out_of_their_nest:0 "Take the Reactionaries ouf of their Nest"
+ENG_take_the_reactionaries_out_of_their_nest_desc:0 "Take the Reactionaries ouf of their Nest"
+ENG_anti_american_rhetoric:0 "Anti American Rhetoric"
+ENG_anti_american_rhetoric_desc:0 "Anti American Rhetoric"
+ENG_liberate_the_american_workers:0 "Liberate the American Workers"
+
+ENG_welcome_british_exiles:0 "Welcome British Exiles"
+ENG_welcome_british_exiles_desc:0 "They are devastated by the events shaking Britain and have often lost everything but they never lost their talent..."
+ENG_recruit_volunteers:0 "Recruit Volunteers"
+ENG_recruit_volunteers_desc:0 "The Influx of British refugees brought a lot of people willing to fight to reconquer the land of their childhood rather than live overseas."
+ENG_british_agents:0 "British Agents"
+ENG_british_agents_desc:0 "Some of those refugees could become competent secret operatives."
+ENG_landing_exercices:0 "Landing Exercices"
+ENG_landing_exercices_desc:0 "Invading through the vastness of the see is not an easy task and we must be sure that we are prepared technologically, logistically and morally for this endeavour."
+ENG_reclaim_the_british_isles_exile:0 "Reclaim the British Isles"
+ENG_reclaim_the_british_isles_exile_desc:0 "Revolutionaries have desecrated the monarchy and the parliament, bringing tyranny and misery onto the British people. It is our duty as member of the Commonwealth to fight for the restoration of Britain. The rumour says that the king himself said that he was eager to "reclaim his birthright"."
