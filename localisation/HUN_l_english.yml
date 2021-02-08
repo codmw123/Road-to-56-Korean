@@ -28,6 +28,9 @@
  
  HUN_acquire_skoda_naval_artillery_experience:0 "스코다 함포 기술 습득"
  HUN_acquire_skoda_naval_artillery_experience_desc:0 "스코다는 오스트리아-헝가리 제국 해군의 함포를 설계했으며, 그 경험을 다시 활용할 때가 왔습니다."
+ HUN_experiment_with_torpedoes:0 "어뢰 실험"
+ HUN_experiment_with_torpedoes_desc:0 "은밀한 공격을 위해 우리는 어뢰 모델에 관해 다른 나라들을 따라잡아야 합니다."
+ 
  
  HUN_henrik_werth:0 "베르트 헨리크"
  HUN_kalman_hardy:0 "허르지 칼만"
