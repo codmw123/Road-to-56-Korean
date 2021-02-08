@@ -867,7 +867,7 @@
  lar_news.7.d:0 "유럽의 국경을 다시 그려야겠군."
  lar_news.7.e:0 "합리적인 국가 간의 합리적인 해결책이군."
  lar_news.8.t:0 "[FRA.GetLeader]의 프랑스 왕위 주장"
- lar_news.8.desc:0 "[This.GetFrenchCoronationCity]에서 거행된 대관식에서, [FRA.GetLeader](은)는 공식적으로 [This.GetFrenchRoyalTitle](으)로 즉위했습니다. 그의 성공은 제3공화국이 정치적 극단주의자들의 충돌이 점차 심화되는 환경 속에서 정치적 안정을 제공하지 못한 것에 대한 직접적인 결과라고 여겨지고 있습니다. 그는 현재 분열된 국가를 재건하고 통합해야 하는 어려운 과제에 직면해 있지만, 많은 논평가들은 "[This.GetFrenchRoyalTitle]"(이)가 사실은 그저 우익 패거리들의 호의 덕분에 등극하게 된 통치자라는 의심과 함께 그의 정권 승계 과정에서 극우 동맹이 한 역할을 지적하고 있습니다."
+ lar_news.8.desc:0 "In a ceremony in Paris, [FRA.GetLeader] has officially been proclaimed King of France. \n\nHis rise is widely considered a direct result of the inability of the Third Republic to provide political stability in an environment that was increasingly defined by violent clashes between those on the extreme ends of the political spectrum. He now faces the difficult task of rebuilding and reuniting a deeply divided country, with many observers pointing to the role the Leagues played in his ascent to power as a sign that [FRA.GetLeader] is, in fact, merely a ruler by the grace of the right-wing mob."
  lar_news.8.a:0 "또 다른 국가가 자연스러운 관례대로 돌아가다."
  lar_news.8.b:0 "그들은 곧 또 다른 혁명을 일으킬 것이다."
  lar_news.8.c:0 "회귀는 이미 오래전부터 생각되었다."
