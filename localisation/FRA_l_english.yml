@@ -130,6 +130,12 @@
  FRA_public_works_idea:0 "공공사업"
  FRA_decentralised_state:0 "분권화된 국가"
  FRA_counter_the_fascist_infulence_idea:0 "파시즘 영향력에 대응"
+ FRA_outdated_airforce:0 "구식 공군 장비"
+ FRA_modernizing_airforce:0 "공군 현대화"
+ FRA_ecole_de_lair_idea:0 "공군사관학교"
+ FRA_potez_630:0 "포테즈 630"
+ FRA_plan_v_idea:0 "V 계획"
+ FRA_castex_strategies_idea:0 "카스텍스의 전략"
 	
  
   	############################
@@ -672,7 +678,6 @@
  FRA_take_back_north_america_desc:0 "아이티, 루이지애나, 아카디아, 퀘벡. 이 모든 영토는 한때 우리 강역이었지만 지금은 잃어버렸습니다. 우리는 이 잘못을 고쳐야 합니다."
  FRA_proclaim_the_dual_monarchy_tt:0 "스페인이 우리의 속국이거나 [SPB.GetName](이)가 존재하고 스페인 내전에서 승리했다면 우리는 스페인을 합병하고 핵심 주를 얻을 것입니다."
 	#### MILITARY FOCUS ####
-	
  FRA_giraud_plan:0 "지로 계획"
  FRA_giraud_plan_desc:0 "이와 같은 시대에는, 우리의 방어를 강화하는 것이 최선입니다. 위협이 있는 경우, 우리 영토 내에서 처리할 수 있도록 적을 끌어들입시다. 우리는 군을 이끌 최적의 후보자를 알고 있으며, 당신의 명령만 있으면 됩니다."
  FRA_fortification_focus:0 "요새화 중점"
@@ -713,14 +718,18 @@
  FRA_blum_viollette_project_desc:0 "블룸-비올레트 제안은 소수 알제리인들에게 프랑스 시민권을 부여하고, 추후에 더 많은 사람들에게 혜택을 확대하는 것을 골자로 합니다. 우리는 이 방식을 통해 식민지에서 모병을 할 수 있지만, 프랑스인 정착자들의 큰 반대에 부딪힐 것입니다."
  FRA_abolish_indigenat_statut:0 "원주민 지위 철폐"
  FRA_abolish_indigenat_statut_desc:0 "프랑스의 모든 사람들은 출신에 관계없이 동등한 권리를 가져야 합니다. 우리는 프랑스인 정착자들과 마찰을 일으키는 한이 있더라도, 모든 알제리인들에게 시민권을 부여해야 합니다."
-	
+ 
+ FRA_the_somua_s35:0 "SOMUA S35"
+ FRA_the_somua_s35_desc:0 "WIP"
+ FRA_the_mas38:0 "MAS-38"
+ FRA_the_mas38_desc:0 "WIP"
 	#### NAVAL SECTION ####
  
- FRA_naval_contruction_program:0 "해군 건조 계획"
- FRA_naval_contruction_program_tt:0 "§Y해군 기지§!의 건설 슬롯이 부족합니다."
- FRA_naval_contruction_program_desc:0 "우리 해군을 확장하고 싶다면 먼저 해야 하는 것은 해군 기지를 개선하고 확장하는 것입니다. 우리의 독특한 함선들은 상시 작전 수행 대기를 유지하기 위해 꾸준한 관리가 필요합니다."
- FRA_altlantic_domination:0 "대서양 지배"
- FRA_altlantic_domination_desc:0 "전함 설계를 개선하는 것은 대서양에서 우리에게 큰 전술적 이점을 제공할 것입니다. 그 어떤 함선보다도 우월한 사정거리와 위력을 가진 함포를, 그 누구도 피할 수 없을 것입니다."
+ FRA_naval_construction_program:0 "해군 건조 계획"
+ FRA_naval_construction_program_tt:0 "§Y해군 기지§!의 건설 슬롯이 부족합니다."
+ FRA_naval_construction_program_desc:0 "우리 해군을 확장하고 싶다면 먼저 해야 하는 것은 해군 기지를 개선하고 확장하는 것입니다. 우리의 독특한 함선들은 상시 작전 수행 대기를 유지하기 위해 꾸준한 관리가 필요합니다."
+ FRA_atlantic_domination:0 "대서양 지배"
+ FRA_atlantic_domination_desc:0 "전함 설계를 개선하는 것은 대서양에서 우리에게 큰 전술적 이점을 제공할 것입니다. 그 어떤 함선보다도 우월한 사정거리와 위력을 가진 함포를, 그 누구도 피할 수 없을 것입니다."
  FRA_pacific_protection:0 "태평양 보호"
  FRA_pacific_protection_desc:0 "해군 이론가들이 구식 항공모함으로 관심을 돌렸습니다. 그들은 올바른 방향으로 발전을 계속한다면 항공모함을 어떻게 활용할 수 있을지에 관한 제안을 가지고 있습니다. 진정한 진전은 우리의 전폭적인 지원이 없다면 어려울 것입니다. 이는 우리가 태평양을 지배하고 일본에 맞서 식민지들을 지키는 데 도움을 줄 것입니다."
  FRA_darlan_doctrine:0 "다를랑의 교리"
@@ -731,6 +740,23 @@
  FRA_mediterranean_special_measures_desc:0 "이탈리아인들은 그들의 해군을 강화하고 지중해에 대한 제해권을 넓히려고 하고 있습니다. 바다에서의 방어선을 잃는다면 우리는 국토에 대한 직접적인 침공의 위협을 마주하게 됩니다. 우리의 함선들에 최신 기술이 적용되도록 해야 합니다."
  FRA_standardisation_engine:0 "엔진 표준화"
  FRA_standardisation_engine_desc:0 "우리의 잠수함과 뇌격기 생산 과정은 노후화되었으며 개선이 필요합니다. 하지만 주요 장비 부품이 다 너무 제각각이어서 조립 라인으로 편성하기가 어렵습니다. 우리는 이를 먼저 표준화해야 합니다."
+ 
+ FRA_CHEDN:0 "국방고등연구대학 설립"
+ FRA_CHEDN_desc:0 "WIP"
+ FRA_experiment_castex_strategies:0 "카스텍스의 전략 실험"
+ FRA_experiment_castex_strategies_desc:0 "WIP"
+ FRA_adapt_young_school_concepts:0 "청년학파 사상 도입"
+ FRA_adapt_young_school_concepts_desc:0 "WIP"
+ FRA_strategic_manoeuvre:0 "전략 군사 훈련"
+ FRA_strategic_manoeuvre_desc:0 "WIP"
+ FRA_the_le_hardi_class_destroyer:0 "아르디급 구축함"
+ FRA_the_le_hardi_class_destroyer_desc:0 "WIP"
+ FRA_lay_down_the_jean_bart:0 "장 바르 진수"
+ FRA_lay_down_the_jean_bart_desc:0 "WIP"
+ FRA_successor_to_the_surcouf:0 "쉬르쿠프의 후계함"
+ FRA_successor_to_the_surcouf_desc:0 "WIP"
+ FRA_increase_repair_capabilities:0 "수리 역량 증대"
+ FRA_increase_repair_capabilities_desc:0 "WIP"
  
 	#### AIR SECTION ####
  
@@ -752,6 +778,32 @@
  FRA_reorganize_air_army_desc:0 "우리는 더 빠른 속도로 항공전에 대한 새로운 이론들을 시험할 수 있을 만큼의 경험을 축적했지만, 현 지휘 구조로는 공군을 관리하기가 어렵습니다."
  FRA_parachute_battalions:0 "G.I.A 601-602"
  FRA_parachute_battalions_desc:0 "소련이 병력과 장비를 투하하기 위한 새로운 공수 부대를 창설했습니다. 우리는 비슷한 부대를 만들어야 합니다."
+ #by Darkneon312
+ FRA_purchase_american_fighters:0 "미국 전투기 구입"
+ FRA_purchase_american_fighters_desc:0 "WIP"
+ FRA_form_the_first_strategic_bombing_unit:0 "최초의 전략폭격대 창설"
+ FRA_form_the_first_strategic_bombing_unit_desc:0 "WIP"
+ FRA_support_the_ecole_de_lair:0 "공군사관학교 지원"
+ FRA_support_the_ecole_de_lair_desc:0 "WIP"
+ FRA_faire_face:0 "정면돌파"
+ FRA_faire_face_desc:0 " "
+ FRA_finalize_the_potez_630:0 "포테즈 630 완성"
+ FRA_finalize_the_potez_630_desc:0 "WIP"
+ FRA_finalize_the_potez_630_tt:0 "§H포테즈 630§!이 연구되지 않았다면 생산이 가능해집니다.\n§H포테즈 630§!은 일반 전투기보다 생산 비용이 §G저렴§!합니다.\n"
+ FRA_develop_the_ms_406:0 "M.S. 406 개발"
+ FRA_develop_the_ms_406_desc:0 "WIP"
+ FRA_enact_plan_v:0 "V 계획 실행"
+ FRA_enact_plan_v_desc:0 "WIP"
+ FRA_develop_bomber_fleet:0 "폭격기전대 확충"
+ FRA_develop_bomber_fleet_desc:0 "WIP"
+ FRA_follow_up_on_the_potez:0 "포테즈의 후속기"
+ FRA_follow_up_on_the_potez_desc:0 "WIP"
+ FRA_provide_aerial_support:0 "공중지원 제공"
+ FRA_provide_aerial_support_desc:0 "WIP"
+ FRA_new_french_fighter:0 "신규 프랑스 전투기"
+ FRA_new_french_fighter_desc:0 "WIP"
+ FRA_supprt_the_aeronavale:0 "해군항공대 지원"
+ FRA_supprt_the_aeronavale_desc:0 "WIP"
  
  ### FREE FRANCE ###
 
@@ -809,6 +861,7 @@
 	#### FLAGS ####
  front_explosed:0 "인민전선이 해체됨"
  matignon_agreements:0 "마티뇽 협정"
+ #free_france_advisor_check:0 "This Officer will not take part in a Collaborationist Regime."
 
 
 	############################
@@ -1055,3 +1108,4 @@
  ############################
  absolute_monarch:0 "절대 군주"
  count_of_paris:0 "파리 백작"
+
