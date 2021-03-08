@@ -1602,8 +1602,10 @@
  NFL_fascism_DEF:0 "뉴펀들랜드국"
  NFL_fascism_ADJ:0 "뉴펀들랜드"
  NFL_UK_subject:0 "뉴펀들랜드 자치령"
+ NFL_UK_subject_def:0 "뉴펀들랜드 자치령"
+ NFL_UK_subject_communism:0 "뉴펀들랜드 코뮌"
+ NFL_UK_subject_communism_def:0 "뉴펀들랜드 코뮌"
  NFL_subject:0 "$OVERLORDADJ$령 뉴펀들랜드"
- 
  
  #NGR
  NGR_fascism:0 "니제르 왕국"
@@ -2011,17 +2013,17 @@
  SIA_communism_DEF:0 "시암 인민공화국"
  
  #SIK
- SIK_fascism:0 "위구르스탄"
- SIK_fascism_DEF:0 "위구르스탄"
- SIK_democratic:0 "동튀르키스탄 공화국"
- SIK_democratic_DEF:0 "동튀르키스탄 공화국"
- SIK_neutrality:0 "동튀르키스탄 공화국"
- SIK_neutrality_DEF:0 "동튀르키스탄 공화국"
+ SIK_fascism:0 "신강국"
+ SIK_fascism_DEF:0 "신강국"
+ SIK_democratic:0 "신강국"
+ SIK_democratic_DEF:0 "신강국"
+ SIK_neutrality:0 "신강군벌"
+ SIK_neutrality_DEF:0 "신강군벌"
  SIK_communism:0 "신강군벌"
  SIK_communism_DEF:0 "신강군벌"
- SIK_fascism_ADJ:0 "위구르스탄"
- SIK_democratic_ADJ:0 "튀르키스탄"
- SIK_neutrality_ADJ:0 "튀르키스탄"
+ SIK_fascism_ADJ:0 "신강"
+ SIK_democratic_ADJ:0 "신강"
+ SIK_neutrality_ADJ:0 "신강"
  SIK_communism_ADJ:0 "신강"
  SIK:0 "신강"
  SIK_DEF:0 "신강"
