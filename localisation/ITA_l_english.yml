@@ -497,6 +497,8 @@
  ITA_further_pilots_training_desc:0 "우리 공군을 현대화하는 데에 있어서 마지막 중점은 조종사 본인의 수준을 올리는 것입니다. 공중전 훈련의 발전으로 우리는 이전 세대보다 더 유능한 새로운 세대의 조종사들을 훈련시킬 수 있게 만들 것입니다."
  ITA_crocco_mission:0 "크로코의 임무"
  ITA_crocco_mission_desc:0 "이탈리아 로켓공학의 선구자이자 이탈리아 로켓 학회의 창립자인 가에타노 크로코는 이탈리아군을 장비시키기 위한 미사일 시스템을 개발하는 중대한 임무를 맡게 되었습니다."
+ ITA_satisfy_the_branches_needs:0 "해공군의 요구 충족"
+ ITA_satisfy_the_branches_needs_desc:0 "해군과 공군 모두 자원에 굶주려 있으며 육군에 주어진 특권을 시기하고 있습니다. 이제 그들을 만족시켜 줄 시간입니다."
  ITA_appoint_messe_2:0 "메세 임명"
  ITA_appoint_messe_2_desc:0 "조반니 메세는 아비시니아 전쟁에서 차량화 사단장으로 복무했으며 보여준 활약으로 소장으로 진급했습니다. 메세는 기병 사단이든 차량화 사단이든 상관없이 신속한 사단 운용에 숙달되었습니다. 메세를 육군참모총장으로 임명하면 그는 육군을 속도에 기반한 교리를 바탕으로 개혁할 수 있을 것입니다."
  ITA_restructure_the_divisions:0 "사단 편제 개편"
@@ -619,6 +621,7 @@ scotti:0 "스코티"
 astaldi:0 "아스탈디"
 pirelli:0 "피렐리"
 ITA_finsider:0 "핀시데르"
+ITA_aeronautica_lombarda:0 "아에로나우티카 롬바르다"
 
 #Traits
 ansaldo_tank_manufacturer:0 "전차 설계사"
